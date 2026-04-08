@@ -33,3 +33,11 @@ __MACOSX/
 # Temporary
 *.tmp
 .trash/
+
+# Source Bible versions (local only, too large for git)
+bibles/KJV/
+bibles/NASB/
+bibles/WEBP/
+bibles/WLCa/
+bibles/TISCH/
+bibles/cross_references.tsv
