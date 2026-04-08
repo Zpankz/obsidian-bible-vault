@@ -1,0 +1,326 @@
+/* ═══════════════════════════════════════════
+   obsidian-bible-interlinear styles
+   ═══════════════════════════════════════════ */
+
+/* ── Container ── */
+
+.bil-container {
+	margin: 1em 0;
+}
+
+.bil-title {
+	margin-bottom: 0.5em;
+	font-size: 1.1em;
+}
+
+.bil-error {
+	color: var(--text-error);
+	font-style: italic;
+	padding: 0.5em;
+}
+
+.bil-error::before {
+	content: "\26A0\FE0F ";
+}
+
+/* ── Verse Text ── */
+
+.bil-verse {
+	margin-bottom: 1em;
+}
+
+.bil-verse-text {
+	line-height: 1.8;
+	margin-bottom: 0.3em;
+}
+
+.bil-verse-num {
+	color: var(--text-muted);
+	font-size: 0.8em;
+	margin-right: 2px;
+}
+
+/* ── Interlinear Words ── */
+
+.bil-interlinear-words {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.8em 1.2em;
+	padding: 0.5em 0;
+	border-left: 3px solid var(--interactive-accent);
+	padding-left: 0.8em;
+	margin: 0.3em 0;
+}
+
+.bil-interlinear-words[dir="rtl"] {
+	flex-direction: row-reverse;
+	border-left: none;
+	border-right: 3px solid var(--interactive-accent);
+	padding-left: 0;
+	padding-right: 0.8em;
+}
+
+.bil-word {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	min-width: 3em;
+}
+
+.bil-word:hover {
+	background: var(--background-modifier-hover);
+	border-radius: var(--radius-s);
+}
+
+/* ── Word Layers ── */
+
+.bil-word-original {
+	font-size: 1.15em;
+	font-family: "SBL Hebrew", "Ezra SIL", "Frank Ruehl CLM", "Noto Serif Hebrew", serif;
+	unicode-bidi: isolate;
+}
+
+/* Greek font */
+.bil-interlinear-words:not([dir="rtl"]) .bil-word-original {
+	font-family: "SBL Greek", "Gentium Plus", "Noto Serif", serif;
+}
+
+.bil-word-strongs {
+	font-size: 0.7em;
+	color: var(--text-muted);
+}
+
+.bil-word-strongs a,
+.bil-word-strongs .internal-link {
+	color: var(--text-accent);
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.bil-word-strongs a:hover {
+	text-decoration: underline;
+}
+
+.bil-strongs-plain {
+	color: var(--text-faint);
+}
+
+.bil-word-translit {
+	font-size: 0.8em;
+	font-style: italic;
+	color: var(--text-muted);
+}
+
+.bil-word-gloss {
+	font-size: 0.85em;
+	color: var(--text-normal);
+}
+
+.bil-function-word {
+	color: var(--text-faint);
+	font-size: 0.9em;
+}
+
+/* ── Mode Toggle ── */
+
+.bil-collapsed .bil-word-strongs,
+.bil-collapsed .bil-word-translit {
+	display: none;
+}
+
+.bil-collapsed .bil-word {
+	min-width: 2em;
+}
+
+.bil-collapsed .bil-interlinear-words {
+	gap: 0.3em 0.6em;
+}
+
+/* ── Cross References ── */
+
+.bil-xrefs {
+	margin: 0.5em 0;
+	padding: 0.3em 0;
+}
+
+.bil-xrefs-summary {
+	cursor: pointer;
+	color: var(--text-muted);
+	font-size: 0.85em;
+	font-style: italic;
+}
+
+.bil-xrefs-summary:hover {
+	color: var(--text-accent);
+}
+
+.bil-xrefs-list {
+	margin: 0.3em 0;
+	padding-left: 1.5em;
+	font-size: 0.9em;
+}
+
+.bil-xref-item {
+	margin: 0.15em 0;
+}
+
+.bil-xref-type {
+	font-size: 0.8em;
+	padding: 0.1em 0.3em;
+	border-radius: var(--radius-s);
+	margin-left: 0.3em;
+}
+
+.bil-xref-fulfills { color: var(--color-green); }
+.bil-xref-quotes { color: var(--color-blue); }
+.bil-xref-alludes_to { color: var(--text-muted); }
+.bil-xref-parallels { color: var(--color-orange); }
+
+.bil-xref-votes {
+	color: var(--text-faint);
+	font-size: 0.8em;
+}
+
+/* ── Detected References ── */
+
+.bil-detected-ref {
+	text-decoration-style: dotted;
+	text-decoration-color: var(--text-accent);
+}
+
+.bil-detected-ref:hover {
+	text-decoration-style: solid;
+	background: var(--background-modifier-hover);
+	border-radius: 2px;
+}
+
+/* ── Pericope ── */
+
+.bil-pericope {
+	margin: 1em 0;
+	padding-bottom: 0.5em;
+	border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.bil-pericope-title {
+	font-size: 1em;
+	color: var(--text-muted);
+	margin-bottom: 0.3em;
+}
+
+/* ── Backward Compatibility (ling-gloss) ── */
+
+.ling-gloss {
+	width: 100%;
+	display: flex;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+}
+
+.ling-gloss-body {
+	flex-grow: 1;
+}
+
+.ling-gloss-elements {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em 1em;
+}
+
+.ling-gloss-element {
+	text-align: center;
+}
+
+.ling-gloss-level-a {
+	font-style: italic;
+}
+
+.ling-gloss-translation {
+	font-style: italic;
+}
+
+.ling-gloss-translation::before {
+	content: "\201C";
+}
+
+.ling-gloss-translation::after {
+	content: "\201D";
+}
+
+.ling-gloss-preamble {
+	font-weight: bold;
+}
+
+.ling-gloss-number {
+	padding-inline-end: 1em;
+}
+
+.ling-gloss-number::before {
+	content: "(";
+}
+
+.ling-gloss-number::after {
+	content: ")";
+}
+
+.ling-gloss-number:empty {
+	visibility: hidden;
+}
+
+.ling-gloss-body > div:not(:last-child) {
+	margin-bottom: 0.5em;
+}
+
+.ling-gloss-level-b {
+	font-size: 0.9em;
+}
+
+.ling-gloss-level-c {
+	font-size: 0.85em;
+	color: var(--text-muted);
+}
+
+.ling-gloss-source {
+	font-size: 0.9em;
+	color: var(--text-muted);
+}
+
+.ling-gloss-source::before {
+	content: "(";
+}
+
+.ling-gloss-source::after {
+	content: ")";
+}
+
+.ling-gloss-postamble {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0 0.5em;
+}
+
+/* ── Suggest Popup ── */
+
+.bil-suggest-hint {
+	font-size: 0.8em;
+	color: var(--text-muted);
+	font-style: italic;
+}
+
+/* ── Print ── */
+
+@media print {
+	.bil-interlinear-words {
+		border-color: #999;
+	}
+
+	.bil-xrefs {
+		border-left-color: #999;
+	}
+
+	.bil-detected-ref {
+		color: inherit;
+		text-decoration: underline dotted #666;
+	}
+}
