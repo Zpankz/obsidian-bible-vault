@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Obsidian internals
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/.mybiblecache/
+.obsidian/plugins/gslogimaker-my-bible/.chapters/
+
+# Third-party plugins (install via BRAT or community plugins)
+.obsidian/plugins/breadcrumbs/
+.obsidian/plugins/datacore/
+.obsidian/plugins/gslogimaker-my-bible/
+.obsidian/plugins/ling-gloss/
+.obsidian/plugins/local-bible-ref/
+.obsidian/plugins/obsidian42-brat/
+.obsidian/plugins/semantic-graph-healer/
+.obsidian/plugins/smart-chat/
+.obsidian/plugins/smart-chatgpt/
+.obsidian/plugins/smart-connect-pro/
+.obsidian/plugins/smart-connections/
+.obsidian/plugins/smart-context/
+.obsidian/plugins/smart-file-nav/
+.obsidian/plugins/smart-lookup/
+.obsidian/plugins/wikilink-types/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Temporary
+*.tmp
+.trash/
