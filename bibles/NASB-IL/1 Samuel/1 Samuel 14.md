@@ -1,0 +1,1215 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+book.name: "1 Samuel"
+book.number: 9
+chapter: 14
+chapter.total: 31
+testament: OT
+section: "Historical"
+genre: "narrative"
+original.language: "Hebrew"
+verses.total: 52
+pericopes.count: 5
+parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 14]]"
+parallel.hebrew: "[[bibles/WLCa/09 שמואל א/שמואל א 14]]"
+key.terms:
+  - "[[concepts/hebrew/H1242 - boqer]]"
+  - "[[concepts/hebrew/H1419 - gadol]]"
+  - "[[concepts/hebrew/H1696 - davar]]"
+  - "[[concepts/hebrew/H1697 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H215 - or]]"
+  - "[[concepts/hebrew/H216 - or]]"
+  - "[[concepts/hebrew/H226 - ot]]"
+  - "[[concepts/hebrew/H2403 - chattath]]"
+  - "[[concepts/hebrew/H2416 - chay]]"
+  - "[[concepts/hebrew/H259 - echad]]"
+  - "[[concepts/hebrew/H2896 - tov]]"
+  - "[[concepts/hebrew/H3045 - yada]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+---
+
+# 1 Samuel 14
+
+[[bibles/NASB-IL/1 Samuel/1 Samuel 13|← 1 Samuel 13]] | [[bibles/NASB-IL/1 Samuel/-- 1 Samuel --|Chapters]] | [[bibles/NASB-IL/1 Samuel/1 Samuel 15|1 Samuel 15 →]]
+
+---
+
+## 1 Samuel 14:1-15
+
+<sup>1</sup> Now the day came that Jonathan, the son of Saul, said to the young man who was carrying his armor, 'Come and let us cross over to the Philistines' garrison that is on the other side.' But he did not tell his father.
+
+<sup>2</sup> Saul was staying in the outskirts of Gibeah under the pomegranate tree which is in Migron. And the people who [were] with him [were] about six hundred men,
+
+<sup>3</sup> and Ahijah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the priest of the LORD at Shiloh, was wearing an ephod. And the people did not know that Jonathan had gone.
+
+<sup>4</sup> Between the passes by which Jonathan sought to cross over to the Philistines' garrison, there was a sharp crag on the one side and a sharp crag on the other side, and the name of the one was Bozez, and the name of the other Seneh.
+
+<sup>5</sup> The one crag rose on the north opposite Michmash, and the other on the south opposite Geba.
+
+<sup>6</sup> Then Jonathan said to the young man who was carrying his armor, 'Come and let us cross over to the garrison of these uncircumcised; perhaps the LORD will work for us, for the LORD is not restrained to save by many or by few.'
+
+<sup>7</sup> His armor bearer said to him, 'Do all that is in your heart; turn yourself, [and] here I am with you according to your desire.'
+
+<sup>8</sup> Then Jonathan said, 'Behold, we will cross over to the men and reveal ourselves to them.
+
+<sup>9</sup> 'If they say to us, 'Wait until we come to you'; then we will stand in our place and not go up to them.
+
+<sup>10</sup> 'But if they say, 'Come up to us,' then we will go up, for the LORD has given them into our hands; and this shall be the sign to us.'
+
+<sup>11</sup> When both of them revealed themselves to the garrison of the Philistines, the Philistines said, 'Behold, Hebrews are coming out of the holes where they have hidden themselves.'
+
+<sup>12</sup> So the men of the garrison hailed Jonathan and his armor bearer and said, 'Come up to us and we will tell you something.' And Jonathan said to his armor bearer, 'Come up after me, for the LORD has given them into the hands of Israel.'
+
+<sup>13</sup> Then Jonathan climbed up on his hands and feet, with his armor bearer behind him; and they fell before Jonathan, and his armor bearer put some to death after him.
+
+<sup>14</sup> That first slaughter which Jonathan and his armor bearer made was about twenty men within about half a furrow in an acre of land.
+
+<sup>15</sup> And there was a trembling in the camp, in the field, and among all the people. Even the garrison and the raiders trembled, and the earth quaked so that it became a great trembling.
+
+> [!hebrew]- Interlinear — 1 Samuel 14:1-15
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיְהִ֣י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הַיּ֗וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יוֹנָתָ֤ן | H3129 | — |
+> | בֶּן | H1121 | — |
+> | שָׁאוּל֙ | H7586 | — |
+> | אֶל | — | *[function word]* |
+> | הַנַּ֙עַר֙ | H5288 | — |
+> | נֹשֵׂ֣א | H5375 | — |
+> | כֵלָ֔יו | H3627 | — |
+> | לְכָ֗ה | H1980 | — |
+> | וְנַעְבְּרָה֙ | H5674 | — |
+> | אֶל | — | *[function word]* |
+> | מַצַּ֣ב | H4673 | — |
+> | פְּלִשְׁתִּ֔ים | H6430 | — |
+> | אֲשֶׁ֖ר | — | *[function word]* |
+> | מֵעֵ֣בֶר | H5676 | — |
+> | הַלָּ֑ז | H1975 | — |
+> | וּלְאָבִ֖יו | H1 | — |
+> | לֹ֥א | H3808 | — |
+> | הִגִּֽיד | H5046 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְשָׁא֗וּל | H7586 | — |
+> | יוֹשֵׁב֙ | H3427 | — |
+> | בִּקְצֵ֣ה | H7097 | — |
+> | הַגִּבְעָ֔ה | H1390 | — |
+> | תַּ֥חַת | H8478 | — |
+> | הָרִמּ֖וֹן | H7416 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | בְּמִגְר֑וֹן | H4051 | — |
+> | וְהָעָם֙ | H5971 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | עִמּ֔וֹ | H5973 | — |
+> | כְּשֵׁ֥שׁ | H8337 | — |
+> | מֵא֖וֹת | H3967 | — |
+> | אִֽישׁ | H376 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַאֲחִיָּ֣ה | H281 | — |
+> | בֶן | H1121 | — |
+> | אֲחִט֡וּב | H285 | — |
+> | אֲחִ֡י | H251 | — |
+> | אִיכָב֣וֹד | H350 | — |
+> | בֶּן | H1121 | — |
+> | פִּינְחָ֨ס | H6372 | — |
+> | בֶּן | H1121 | — |
+> | עֵלִ֜י | H5941 | — |
+> | כֹּהֵ֧ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | יְהוָ֛ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בְּשִׁל֖וֹ | H7887 | — |
+> | נֹשֵׂ֣א | H5375 | — |
+> | אֵפ֑וֹד | H646 | — |
+> | וְהָעָם֙ | H5971 | — |
+> | לֹ֣א | H3808 | — |
+> | יָדַ֔ע | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | כִּ֥י | — | *[function word]* |
+> | הָלַ֖ךְ | H1980 | — |
+> | יוֹנָתָֽן | H3129 | — |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּבֵ֣ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | הַֽמַּעְבְּר֗וֹת | H4569 | — |
+> | אֲשֶׁ֨ר | — | *[function word]* |
+> | בִּקֵּ֤שׁ | H1245 | — |
+> | יֽוֹנָתָן֙ | H3129 | — |
+> | לַֽעֲבֹר֙ | H5674 | — |
+> | עַל | — | *[function word]* |
+> | מַצַּ֣ב | H4673 | — |
+> | פְּלִשְׁתִּ֔ים | H6430 | — |
+> | שֵׁן | H8127 | — |
+> | הַסֶּ֤לַע | H5553 | — |
+> | מֵהָעֵ֙בֶר֙ | H5676 | — |
+> | מִזֶּ֔ה | H2088 | — |
+> | וְשֵׁן | H8127 | — |
+> | הַסֶּ֥לַע | H5553 | — |
+> | מֵהָעֵ֖בֶר | H5676 | — |
+> | מִזֶּ֑ה | H2088 | — |
+> | וְשֵׁ֤ם | H8034 | — |
+> | הָֽאֶחָד֙ | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | בּוֹצֵ֔ץ | H949 | — |
+> | וְשֵׁ֥ם | H8034 | — |
+> | הָאֶחָ֖ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | סֶֽנֶּה | H5573 | — |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַשֵּׁ֧ן | H8127 | — |
+> | הָאֶחָ֛ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | מָצ֥וּק | H4690 | — |
+> | מִצָּפ֖וֹן | H6828 | — |
+> | מ֣וּל | H4136 | — |
+> | מִכְמָ֑שׂ | H4363 | — |
+> | וְהָאֶחָ֥ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | מִנֶּ֖גֶב | H5045 | — |
+> | מ֥וּל | H4136 | — |
+> | גָּֽבַע | H1387 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוֹנָתָ֜ן | H3083 | — |
+> | אֶל | — | *[function word]* |
+> | הַנַּ֣עַר | H5288 | — |
+> | נֹשֵׂ֣א | H5375 | — |
+> | כֵלָ֗יו | H3627 | — |
+> | לְכָה֙ | H1980 | — |
+> | וְנַעְבְּרָ֗ה | H5674 | — |
+> | אֶל | — | *[function word]* |
+> | מַצַּב֙ | H4673 | — |
+> | הָעֲרֵלִ֣ים | H6189 | — |
+> | הָאֵ֔לֶּה | H428 | — |
+> | אוּלַ֛י | H194 | — |
+> | יַעֲשֶׂ֥ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | כִּ֣י | — | *[function word]* |
+> | אֵ֤ין | H369 | — |
+> | לַֽיהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | מַעְצ֔וֹר | H4622 | — |
+> | לְהוֹשִׁ֥יעַ | H3467 | — |
+> | בְּרַ֖ב | H7227 | — |
+> | א֥וֹ | H176 | — |
+> | בִמְעָֽט | H4592 | — |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | נֹשֵׂ֣א | H5375 | — |
+> | כֵלָ֔יו | H3627 | — |
+> | עֲשֵׂ֖ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | כָּל | — | *[function word]* |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | בִּלְבָבֶ֑ךָ | H3824 | — |
+> | נְטֵ֣ה | H5186 | — |
+> | הִנְנִ֥י | H2005 | — |
+> | עִמְּךָ֖ | H5973 | — |
+> | כִּלְבָבֶֽךָ | H3824 | — |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֙אמֶר֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְה֣וֹנָתָ֔ן | H3083 | — |
+> | הִנֵּ֛ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | אֲנַ֥חְנוּ | H587 | — |
+> | עֹבְרִ֖ים | H5674 | — |
+> | אֶל | — | *[function word]* |
+> | הָאֲנָשִׁ֑ים | H582 | — |
+> | וְנִגְלִ֖ינוּ | H1540 | — |
+> | אֲלֵיהֶֽם | — | *[function word]* |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | אִם | H518 | — |
+> | כֹּ֤ה | H3541 | — |
+> | יֹֽאמְרוּ֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלֵ֔ינוּ | — | *[function word]* |
+> | דֹּ֕מּוּ | H1826 | — |
+> | עַד | H5704 | — |
+> | הַגִּיעֵ֖נוּ | H5060 | — |
+> | אֲלֵיכֶ֑ם | — | *[function word]* |
+> | וְעָמַ֣דְנוּ | H5975 | — |
+> | תַחְתֵּ֔ינוּ | H8478 | — |
+> | וְלֹ֥א | H3808 | — |
+> | נַעֲלֶ֖ה | H5927 | — |
+> | אֲלֵיהֶֽם | — | *[function word]* |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאִם | H518 | — |
+> | כֹּ֨ה | H3541 | — |
+> | יֹאמְר֜וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | עֲל֤וּ | H5927 | — |
+> | עָלֵ֙ינוּ֙ | — | *[function word]* |
+> | וְעָלִ֔ינוּ | H5927 | — |
+> | כִּֽי | — | *[function word]* |
+> | נְתָנָ֥ם | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בְּיָדֵ֑נוּ | H3027 | — |
+> | וְזֶה | H2088 | — |
+> | הָאֽוֹת | [[concepts/hebrew/H226 - ot\|H226]] | sign, wonder |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּגָּל֣וּ | H1540 | — |
+> | שְׁנֵיהֶ֔ם | [[concepts/hebrew/H8147 - shenayim\|H8147]] | two |
+> | אֶל | — | *[function word]* |
+> | מַצַּ֖ב | H4673 | — |
+> | פְּלִשְׁתִּ֑ים | H6430 | — |
+> | וַיֹּאמְר֣וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | פְלִשְׁתִּ֔ים | H6430 | — |
+> | הִנֵּ֤ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | עִבְרִים֙ | H5680 | — |
+> | יֹֽצְאִ֔ים | [[concepts/hebrew/H3318 - yatsa\|H3318]] | to go out |
+> | מִן | H4480 | — |
+> | הַחֹרִ֖ים | H2356 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | הִתְחַבְּאוּ | H2244 | — |
+> | שָֽׁם | H8033 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּעֲנוּ֩ | H6030 | — |
+> | אַנְשֵׁ֨י | H376 | — |
+> | הַמַּצָּבָ֜ה | H4675 | — |
+> | אֶת | — | *[function word]* |
+> | יוֹנָתָ֣ן | H3129 | — |
+> | וְאֶת | — | *[function word]* |
+> | נֹשֵׂ֣א | H5375 | — |
+> | כֵלָ֗יו | H3627 | — |
+> | וַיֹּֽאמְרוּ֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | עֲל֣וּ | H5927 | — |
+> | אֵלֵ֔ינוּ | — | *[function word]* |
+> | וְנוֹדִ֥יעָה | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | אֶתְכֶ֖ם | — | *[function word]* |
+> | דָּבָ֑ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יוֹנָתָ֜ן | H3129 | — |
+> | אֶל | — | *[function word]* |
+> | נֹשֵׂ֤א | H5375 | — |
+> | כֵלָיו֙ | H3627 | — |
+> | עֲלֵ֣ה | H5927 | — |
+> | אַחֲרַ֔י | H310 | — |
+> | כִּֽי | — | *[function word]* |
+> | נְתָנָ֥ם | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בְּיַ֥ד | H3027 | — |
+> | יִשְׂרָאֵֽל | H3478 | — |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֣עַל | H5927 | — |
+> | יוֹנָתָ֗ן | H3129 | — |
+> | עַל | — | *[function word]* |
+> | יָדָיו֙ | H3027 | — |
+> | וְעַל | — | *[function word]* |
+> | רַגְלָ֔יו | H7272 | — |
+> | וְנֹשֵׂ֥א | H5375 | — |
+> | כֵלָ֖יו | H3627 | — |
+> | אַחֲרָ֑יו | H310 | — |
+> | וַֽיִּפְּלוּ֙ | H5307 | — |
+> | לִפְנֵ֣י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | יוֹנָתָ֔ן | H3129 | — |
+> | וְנֹשֵׂ֥א | H5375 | — |
+> | כֵלָ֖יו | H3627 | — |
+> | מְמוֹתֵ֥ת | H4191 | — |
+> | אַחֲרָֽיו | H310 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתְּהִ֞י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הַמַּכָּ֣ה | H4347 | — |
+> | הָרִאשֹׁנָ֗ה | H7223 | — |
+> | אֲשֶׁ֨ר | — | *[function word]* |
+> | הִכָּ֧ה | H5221 | — |
+> | יוֹנָתָ֛ן | H3129 | — |
+> | וְנֹשֵׂ֥א | H5375 | — |
+> | כֵלָ֖יו | H3627 | — |
+> | כְּעֶשְׂרִ֣ים | H6242 | — |
+> | אִ֑ישׁ | H376 | — |
+> | כְּבַחֲצִ֥י | H2677 | — |
+> | מַעֲנָ֖ה | H4618 | — |
+> | צֶ֥מֶד | H6776 | — |
+> | שָׂדֶֽה | H7704 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתְּהִי֩ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | חֲרָדָ֨ה | H2731 | — |
+> | בַמַּחֲנֶ֤ה | H4264 | — |
+> | בַשָּׂדֶה֙ | H7704 | — |
+> | וּבְכָל | — | *[function word]* |
+> | הָעָ֔ם | H5971 | — |
+> | הַמַּצָּב֙ | H4673 | — |
+> | וְהַמַּשְׁחִ֔ית | H7843 | — |
+> | חָרְד֖וּ | H2729 | — |
+> | גַּם | H1571 | — |
+> | הֵ֑מָּה | H1992 | — |
+> | וַתִּרְגַּ֣ז | H7264 | — |
+> | הָאָ֔רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וַתְּהִ֖י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לְחֶרְדַּ֥ת | H2731 | — |
+> | אֱלֹהִֽים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+>
+
+## 1 Samuel 14:16-23
+
+<sup>16</sup> Now Saul's watchmen in Gibeah of Benjamin looked, and behold, the multitude melted away; and they went here and [there].
+
+<sup>17</sup> Saul said to the people who [were] with him, 'Number now and see who has gone from us.' And when they had numbered, behold, Jonathan and his armor bearer were not [there].
+
+<sup>18</sup> Then Saul said to Ahijah, 'Bring the ark of God here.' For the ark of God was at that time with the sons of Israel.
+
+<sup>19</sup> While Saul talked to the priest, the commotion in the camp of the Philistines continued and increased; so Saul said to the priest, 'Withdraw your hand.'
+
+<sup>20</sup> Then Saul and all the people who [were] with him rallied and came to the battle; and behold, every man's sword was against his fellow, [and there was] very great confusion.
+
+<sup>21</sup> Now the Hebrews [who] were with the Philistines previously, who went up with them all around in the camp, even they also [turned] to be with the Israelites who [were] with Saul and Jonathan.
+
+<sup>22</sup> When all the men of Israel who had hidden themselves in the hill country of Ephraim heard that the Philistines had fled, even they also pursued them closely in the battle.
+
+<sup>23</sup> So the LORD delivered Israel that day, and the battle spread beyond Beth-aven.
+
+> [!hebrew]- Interlinear — 1 Samuel 14:16-23
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּרְא֤וּ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | הַצֹּפִים֙ | H6822 | — |
+> | לְשָׁא֔וּל | H7586 | — |
+> | בְּגִבְעַ֖ת | H1390 | — |
+> | בִּנְיָמִ֑ן | H1144 | — |
+> | וְהִנֵּ֧ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הֶהָמ֛וֹן | H1995 | — |
+> | נָמ֖וֹג | H4127 | — |
+> | וַיֵּ֥לֶךְ | H1980 | — |
+> | וַהֲלֹֽם | H1986 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֗וּל | H7586 | — |
+> | לָעָם֙ | H5971 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | אִתּ֔וֹ | H854 | — |
+> | פִּקְדוּ | H6485 | — |
+> | נָ֣א | H4994 | — |
+> | וּרְא֔וּ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | מִ֖י | H4310 | — |
+> | הָלַ֣ךְ | H1980 | — |
+> | מֵעִמָּ֑נוּ | H5973 | — |
+> | וַֽיִּפְקְד֔וּ | H6485 | — |
+> | וְהִנֵּ֛ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | אֵ֥ין | H369 | — |
+> | יוֹנָתָ֖ן | H3129 | — |
+> | וְנֹשֵׂ֥א | H5375 | — |
+> | כֵלָֽיו | H3627 | — |
+>
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁאוּל֙ | H7586 | — |
+> | לַֽאֲחִיָּ֔ה | H281 | — |
+> | הַגִּ֖ישָׁה | H5066 | — |
+> | אֲר֣וֹן | H727 | — |
+> | הָאֱלֹהִ֑ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | כִּֽי | — | *[function word]* |
+> | הָיָ֞ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | אֲר֧וֹן | H727 | — |
+> | הָאֱלֹהִ֛ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | בַּיּ֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַה֖וּא | H1931 | — |
+> | וּבְנֵ֥י | H1121 | — |
+> | יִשְׂרָאֵֽל | H3478 | — |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיְהִ֗י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | עַ֣ד | H5704 | — |
+> | דִּבֶּ֤ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | שָׁאוּל֙ | H7586 | — |
+> | אֶל | — | *[function word]* |
+> | הַכֹּהֵ֔ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | וְהֶהָמ֗וֹן | H1995 | — |
+> | אֲשֶׁר֙ | — | *[function word]* |
+> | בְּמַחֲנֵ֣ה | H4264 | — |
+> | פְלִשְׁתִּ֔ים | H6430 | — |
+> | וַיֵּ֥לֶךְ | H1980 | — |
+> | הָל֖וֹךְ | H1980 | — |
+> | וָרָ֑ב | H7227 | — |
+> | וַיֹּ֧אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֛וּל | H7586 | — |
+> | אֶל | — | *[function word]* |
+> | הַכֹּהֵ֖ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | אֱסֹ֥ף | H622 | — |
+> | יָדֶֽךָ | H3027 | — |
+>
+> **20**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּזָּעֵ֣ק | H2199 | — |
+> | שָׁא֗וּל | H7586 | — |
+> | וְכָל | — | *[function word]* |
+> | הָעָם֙ | H5971 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | אִתּ֔וֹ | H854 | — |
+> | וַיָּבֹ֖אוּ | H935 | — |
+> | עַד | H5704 | — |
+> | הַמִּלְחָמָ֑ה | H4421 | — |
+> | וְהִנֵּ֨ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הָיְתָ֜ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | חֶ֤רֶב | H2719 | — |
+> | אִישׁ֙ | H376 | — |
+> | בְּרֵעֵ֔הוּ | H7453 | — |
+> | מְהוּמָ֖ה | H4103 | — |
+> | גְּדוֹלָ֥ה | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | מְאֹֽד | [[concepts/hebrew/H3966 - meod\|H3966]] | very, exceedingly |
+>
+> **21**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָעִבְרִ֗ים | H5680 | — |
+> | הָי֤וּ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לַפְּלִשְׁתִּים֙ | H6430 | — |
+> | כְּאֶתְמ֣וֹל | H865 | — |
+> | שִׁלְשׁ֔וֹם | H8032 | — |
+> | אֲשֶׁ֨ר | — | *[function word]* |
+> | עָל֥וּ | H5927 | — |
+> | עִמָּ֛ם | H5973 | — |
+> | בַּֽמַּחֲנֶ֖ה | H4264 | — |
+> | סָבִ֑יב | H5439 | — |
+> | וְגַם | H1571 | — |
+> | הֵ֗מָּה | H1992 | — |
+> | לִֽהְיוֹת֙ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | עִם | H5973 | — |
+> | יִשְׂרָאֵ֔ל | H3478 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | עִם | H5973 | — |
+> | שָׁא֖וּל | H7586 | — |
+> | וְיוֹנָתָֽן | H3129 | — |
+>
+> **22**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְכֹל֩ | — | *[function word]* |
+> | אִ֨ישׁ | H376 | — |
+> | יִשְׂרָאֵ֜ל | H3478 | — |
+> | הַמִּֽתְחַבְּאִ֤ים | H2244 | — |
+> | בְּהַר | H2022 | — |
+> | אֶפְרַ֙יִם֙ | H669 | — |
+> | שָֽׁמְע֔וּ | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | כִּֽי | — | *[function word]* |
+> | נָ֖סוּ | H5127 | — |
+> | פְּלִשְׁתִּ֑ים | H6430 | — |
+> | וַֽיַּדְבְּק֥וּ | H1692 | — |
+> | גַם | H1571 | — |
+> | הֵ֛מָּה | H1992 | — |
+> | אַחֲרֵיהֶ֖ם | H310 | — |
+> | בַּמִּלְחָמָֽה | H4421 | — |
+>
+> **23**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיּ֧וֹשַׁע | H3467 | — |
+> | יְהוָ֛ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בַּיּ֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַה֖וּא | H1931 | — |
+> | אֶת | — | *[function word]* |
+> | יִשְׂרָאֵ֑ל | H3478 | — |
+> | וְהַ֨מִּלְחָמָ֔ה | H4421 | — |
+> | עָבְרָ֖ה | H5674 | — |
+> | אֶת | — | *[function word]* |
+> | אָֽוֶן | H1007 | — |
+>
+
+## 1 Samuel 14:24-35
+
+<sup>24</sup> Now the men of Israel were hard-pressed on that day, for Saul had put the people under oath, saying, 'Cursed be the man who eats food before evening, and until I have avenged myself on my enemies.' So none of the people tasted food.
+
+<sup>25</sup> All [the people of] the land entered the forest, and there was honey on the ground.
+
+<sup>26</sup> When the people entered the forest, behold, [there was] a flow of honey; but no man put his hand to his mouth, for the people feared the oath.
+
+<sup>27</sup> But Jonathan had not heard when his father put the people under oath; therefore, he put out the end of the staff that [was] in his hand and dipped it in the honeycomb, and put his hand to his mouth, and his eyes brightened.
+
+<sup>28</sup> Then one of the people said, 'Your father strictly put the people under oath, saying, 'Cursed be the man who eats food today.'' And the people were weary.
+
+<sup>29</sup> Then Jonathan said, 'My father has troubled the land. See now, how my eyes have brightened because I tasted a little of this honey.
+
+<sup>30</sup> 'How much more, if only the people had eaten freely today of the spoil of their enemies which they found! For now the slaughter among the Philistines has not been great.'
+
+<sup>31</sup> They struck among the Philistines that day from Michmash to Aijalon. And the people were very weary.
+
+<sup>32</sup> The people rushed greedily upon the spoil, and took sheep and oxen and calves, and slew [them] on the ground; and the people ate [them] with the blood.
+
+<sup>33</sup> Then they told Saul, saying, 'Behold, the people are sinning against the LORD by eating with the blood.' And he said, 'You have acted treacherously; roll a great stone to me today.'
+
+<sup>34</sup> Saul said, 'Disperse yourselves among the people and say to them, 'Each one of you bring me his ox or his sheep, and slaughter [it] here and eat; and do not sin against the LORD by eating with the blood.'' So all the people that night brought each one his ox with him and slaughtered [it] there.
+
+<sup>35</sup> And Saul built an altar to the LORD; it was the first altar that he built to the LORD.
+
+> [!hebrew]- Interlinear — 1 Samuel 14:24-35
+> **24**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאִֽישׁ | H376 | — |
+> | יִשְׂרָאֵ֥ל | H3478 | — |
+> | נִגַּ֖שׂ | H5065 | — |
+> | בַּיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַה֑וּא | H1931 | — |
+> | וַיֹּאֶל֩ | H422 | — |
+> | שָׁא֨וּל | H7586 | — |
+> | אֶת | — | *[function word]* |
+> | הָעָ֜ם | H5971 | — |
+> | לֵאמֹ֗ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אָר֣וּר | H779 | — |
+> | הָ֠אִישׁ | H376 | — |
+> | אֲשֶׁר | — | *[function word]* |
+> | יֹ֨אכַל | H398 | — |
+> | לֶ֜חֶם | H3899 | — |
+> | עַד | H5704 | — |
+> | הָעֶ֗רֶב | [[concepts/hebrew/H6153 - erev\|H6153]] | evening |
+> | וְנִקַּמְתִּי֙ | H5358 | — |
+> | מֵאֹ֣יְבַ֔י | H341 | — |
+> | וְלֹֽא | H3808 | — |
+> | טָעַ֥ם | H2938 | — |
+> | כָּל | — | *[function word]* |
+> | הָעָ֖ם | H5971 | — |
+> | לָֽחֶם | H3899 | — |
+>
+> **25**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְכָל | — | *[function word]* |
+> | הָאָ֖רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | בָּ֣אוּ | H935 | — |
+> | בַיָּ֑עַר | H3293 | — |
+> | וַיְהִ֥י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | דְבַ֖שׁ | H1706 | — |
+> | עַל | — | *[function word]* |
+> | פְּנֵ֥י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | הַשָּׂדֶֽה | H7704 | — |
+>
+> **26**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיָּבֹ֤א | H935 | — |
+> | הָעָם֙ | H5971 | — |
+> | אֶל | — | *[function word]* |
+> | הַיַּ֔עַר | H3293 | — |
+> | וְהִנֵּ֖ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הֵ֣לֶךְ | H1982 | — |
+> | דְּבָ֑שׁ | H1706 | — |
+> | וְאֵין | H369 | — |
+> | מַשִּׂ֤יג | H5381 | — |
+> | יָדוֹ֙ | H3027 | — |
+> | אֶל | — | *[function word]* |
+> | פִּ֔יו | H6310 | — |
+> | כִּֽי | — | *[function word]* |
+> | יָרֵ֥א | [[concepts/hebrew/H3372 - yare\|H3372]] | to fear, revere |
+> | הָעָ֖ם | H5971 | — |
+> | אֶת | — | *[function word]* |
+> | הַשְּׁבֻעָֽה | H7621 | — |
+>
+> **27**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְיוֹנָתָ֣ן | H3129 | — |
+> | לֹֽא | H3808 | — |
+> | שָׁמַ֗ע | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | בְּהַשְׁבִּ֣יעַ | H7650 | — |
+> | אָבִיו֮ | H1 | — |
+> | אֶת | — | *[function word]* |
+> | הָעָם֒ | H5971 | — |
+> | וַיִּשְׁלַ֗ח | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | קְצֵ֤ה | H7097 | — |
+> | הַמַּטֶּה֙ | H4294 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | בְּיָד֔וֹ | H3027 | — |
+> | וַיִּטְבֹּ֥ל | H2881 | — |
+> | אוֹתָ֖הּ | — | *[function word]* |
+> | בְּיַעְרַ֣ת | H3295 | — |
+> | הַדְּבָ֑שׁ | H1706 | — |
+> | וַיָּ֤שֶׁב | H7725 | — |
+> | יָדוֹ֙ | H3027 | — |
+> | אֶל | — | *[function word]* |
+> | פִּ֔יו | H6310 | — |
+> | [k_ותראנה] | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | [q_וַתָּאֹ֖רְנָה] | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | עֵינָֽיו | H5869 | — |
+>
+> **28**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּעַן֩ | H6030 | — |
+> | אִ֨ישׁ | H376 | — |
+> | מֵֽהָעָ֜ם | H5971 | — |
+> | וַיֹּ֗אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הַשְׁבֵּעַ֩ | H7650 | — |
+> | הִשְׁבִּ֨יעַ | H7650 | — |
+> | אָבִ֤יךָ | H1 | — |
+> | אֶת | — | *[function word]* |
+> | הָעָם֙ | H5971 | — |
+> | לֵאמֹ֔ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אָר֥וּר | H779 | — |
+> | הָאִ֛ישׁ | H376 | — |
+> | אֲשֶׁר | — | *[function word]* |
+> | יֹ֥אכַל | H398 | — |
+> | לֶ֖חֶם | H3899 | — |
+> | הַיּ֑וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | וַיָּ֖עַף | [[concepts/hebrew/H5774 - uph\|H5774]] | to fly |
+> | הָעָֽם | H5971 | — |
+>
+> **29**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֙אמֶר֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יֽוֹנָתָ֔ן | H3129 | — |
+> | עָכַ֥ר | H5916 | — |
+> | אָבִ֖י | H1 | — |
+> | אֶת | — | *[function word]* |
+> | הָאָ֑רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | רְאוּ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | נָא֙ | H4994 | — |
+> | כִּֽי | — | *[function word]* |
+> | אֹ֣רוּ | [[concepts/hebrew/H215 - or\|H215]] | light |
+> | עֵינַ֔י | H5869 | — |
+> | כִּ֣י | — | *[function word]* |
+> | טָעַ֔מְתִּי | H2938 | — |
+> | מְעַ֖ט | H4592 | — |
+> | דְּבַ֥שׁ | H1706 | — |
+> | הַזֶּֽה | H2088 | — |
+>
+> **30**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | אַ֗ף | H637 | — |
+> | כִּ֡י | — | *[function word]* |
+> | לוּא֩ | H3863 | — |
+> | אָכֹ֨ל | H398 | — |
+> | אָכַ֤ל | H398 | — |
+> | הַיּוֹם֙ | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הָעָ֔ם | H5971 | — |
+> | מִשְּׁלַ֥ל | H7998 | — |
+> | אֹיְבָ֖יו | H341 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | מָצָ֑א | H4672 | — |
+> | כִּ֥י | — | *[function word]* |
+> | עַתָּ֛ה | H6258 | — |
+> | לֹֽא | H3808 | — |
+> | רָבְתָ֥ה | [[concepts/hebrew/H7235 - ravah\|H7235]] | to multiply |
+> | מַכָּ֖ה | H4347 | — |
+> | בַּפְּלִשְׁתִּֽים | H6430 | — |
+>
+> **31**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּכּ֞וּ | H5221 | — |
+> | בַּיּ֤וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַהוּא֙ | H1931 | — |
+> | בַּפְּלִשְׁתִּ֔ים | H6430 | — |
+> | מִמִּכְמָ֖שׂ | H4363 | — |
+> | אַיָּלֹ֑נָה | H357 | — |
+> | וַיָּ֥עַף | [[concepts/hebrew/H5774 - uph\|H5774]] | to fly |
+> | הָעָ֖ם | H5971 | — |
+> | מְאֹֽד | [[concepts/hebrew/H3966 - meod\|H3966]] | very, exceedingly |
+>
+> **32**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | [k_ויעש] | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | [q_וַיַּ֤עַט] | H5860 | — |
+> | הָעָם֙ | H5971 | — |
+> | אֶל | — | *[function word]* |
+> | [k_שלל] | H7998 | — |
+> | [q_הַשָּׁלָ֔ל] | H7998 | — |
+> | וַיִּקְח֨וּ | H3947 | — |
+> | צֹ֧אן | H6629 | — |
+> | וּבָקָ֛ר | H1241 | — |
+> | וּבְנֵ֥י | H1121 | — |
+> | בָקָ֖ר | H1241 | — |
+> | וַיִּשְׁחֲטוּ | H7819 | — |
+> | אָ֑רְצָה | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וַיֹּ֥אכַל | H398 | — |
+> | הָעָ֖ם | H5971 | — |
+> | עַל | — | *[function word]* |
+> | הַדָּֽם | H1818 | — |
+>
+> **33**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּגִּ֤ידוּ | H5046 | — |
+> | לְשָׁאוּל֙ | H7586 | — |
+> | לֵאמֹ֔ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הִנֵּ֥ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הָעָ֛ם | H5971 | — |
+> | חֹטִ֥אים | H2398 | — |
+> | לַֽיהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | לֶאֱכֹ֣ל | H398 | — |
+> | עַל | — | *[function word]* |
+> | הַדָּ֑ם | H1818 | — |
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | בְּגַדְתֶּ֔ם | H898 | — |
+> | גֹּֽלּוּ | H1556 | — |
+> | אֵלַ֥י | — | *[function word]* |
+> | הַיּ֖וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֶ֥בֶן | H68 | — |
+> | גְּדוֹלָֽה | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+>
+> **34**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֣וּל | H7586 | — |
+> | פֻּ֣צוּ | H6327 | — |
+> | בָעָ֡ם | H5971 | — |
+> | וַאֲמַרְתֶּ֣ם | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הַגִּ֣ישׁוּ | H5066 | — |
+> | אֵלַי֩ | — | *[function word]* |
+> | אִ֨ישׁ | H376 | — |
+> | שׁוֹר֜וֹ | H7794 | — |
+> | וְאִ֣ישׁ | H376 | — |
+> | שְׂיֵ֗הוּ | H7716 | — |
+> | וּשְׁחַטְתֶּ֤ם | H7819 | — |
+> | בָּזֶה֙ | H2088 | — |
+> | וַאֲכַלְתֶּ֔ם | H398 | — |
+> | וְלֹֽא | H3808 | — |
+> | תֶחֶטְא֥וּ | H2398 | — |
+> | לַֽיהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | לֶאֱכֹ֣ל | H398 | — |
+> | אֶל | — | *[function word]* |
+> | הַדָּ֑ם | H1818 | — |
+> | וַיַּגִּ֨שׁוּ | H5066 | — |
+> | כָל | — | *[function word]* |
+> | הָעָ֜ם | H5971 | — |
+> | אִ֣ישׁ | H376 | — |
+> | שׁוֹר֧וֹ | H7794 | — |
+> | בְיָד֛וֹ | H3027 | — |
+> | הַלַּ֖יְלָה | [[concepts/hebrew/H3915 - layil\|H3915]] | night |
+> | וַיִּשְׁחֲטוּ | H7819 | — |
+> | שָֽׁם | H8033 | — |
+>
+> **35**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּ֧בֶן | H1129 | — |
+> | שָׁא֛וּל | H7586 | — |
+> | מִזְבֵּ֖חַ | H4196 | — |
+> | לַֽיהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֹת֣וֹ | — | *[function word]* |
+> | הֵחֵ֔ל | H2490 | — |
+> | לִבְנ֥וֹת | H1129 | — |
+> | מִזְבֵּ֖חַ | H4196 | — |
+> | לַֽיהוָֽה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+>
+
+## 1 Samuel 14:36-46
+
+<sup>36</sup> Then Saul said, 'Let us go down after the Philistines by night and take spoil among them until the morning light, and let us not leave a man of them.' And they said, 'Do whatever seems good to you.' So the priest said, 'Let us draw near to God here.'
+
+<sup>37</sup> Saul inquired of God, 'Shall I go down after the Philistines? Will You give them into the hand of Israel?' But He did not answer him on that day.
+
+<sup>38</sup> Saul said, 'Draw near here, all you chiefs of the people, and investigate and see how this sin has happened today.
+
+<sup>39</sup> 'For as the LORD lives, who delivers Israel, though it is in Jonathan my son, he shall surely die.' But not one of all the people answered him.
+
+<sup>40</sup> Then he said to all Israel, 'You shall be on one side and I and Jonathan my son will be on the other side.' And the people said to Saul, 'Do what seems good to you.'
+
+<sup>41</sup> Therefore, Saul said to the LORD, the God of Israel, 'Give a perfect [lot].' And Jonathan and Saul were taken, but the people escaped.
+
+<sup>42</sup> Saul said, 'Cast [lots] between me and Jonathan my son.' And Jonathan was taken.
+
+<sup>43</sup> Then Saul said to Jonathan, 'Tell me what you have done.' So Jonathan told him and said, 'I indeed tasted a little honey with the end of the staff that was in my hand. Here I am, I must die!'
+
+<sup>44</sup> Saul said, 'May God do this [to me] and more also, for you shall surely die, Jonathan.'
+
+<sup>45</sup> But the people said to Saul, 'Must Jonathan die, who has brought about this great deliverance in Israel? Far from it! As the LORD lives, not one hair of his head shall fall to the ground, for he has worked with God this day.' So the people rescued Jonathan and he did not die.
+
+<sup>46</sup> Then Saul went up from pursuing the Philistines, and the Philistines went to their own place.
+
+> [!hebrew]- Interlinear — 1 Samuel 14:36-46
+> **36**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֡וּל | H7586 | — |
+> | נֵרְדָ֣ה | H3381 | — |
+> | אַחֲרֵי֩ | H310 | — |
+> | פְלִשְׁתִּ֨ים | H6430 | — |
+> | לַ֜יְלָה | [[concepts/hebrew/H3915 - layil\|H3915]] | night |
+> | וְֽנָבֹ֥זָה | H962 | — |
+> | עַד | H5704 | — |
+> | א֣וֹר | [[concepts/hebrew/H216 - or\|H216]] | light |
+> | הַבֹּ֗קֶר | [[concepts/hebrew/H1242 - boqer\|H1242]] | morning |
+> | וְלֹֽא | H3808 | — |
+> | נַשְׁאֵ֤ר | H7604 | — |
+> | אִ֔ישׁ | H376 | — |
+> | וַיֹּ֣אמְר֔וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | כָּל | — | *[function word]* |
+> | הַטּ֥וֹב | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | בְּעֵינֶ֖יךָ | H5869 | — |
+> | עֲשֵׂ֑ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | וַיֹּ֙אמֶר֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הַכֹּהֵ֔ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | נִקְרְבָ֥ה | H7126 | — |
+> | הֲלֹ֖ם | H1988 | — |
+> | אֶל | — | *[function word]* |
+> | הָאֱלֹהִֽים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+>
+> **37**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּשְׁאַ֤ל | H7592 | — |
+> | שָׁאוּל֙ | H7586 | — |
+> | בֵּֽאלֹהִ֔ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | הַֽאֵרֵד֙ | H3381 | — |
+> | אַחֲרֵ֣י | H310 | — |
+> | פְלִשְׁתִּ֔ים | H6430 | — |
+> | הֲתִתְּנֵ֖ם | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | בְּיַ֣ד | H3027 | — |
+> | יִשְׂרָאֵ֑ל | H3478 | — |
+> | וְלֹ֥א | H3808 | — |
+> | עָנָ֖הוּ | H6030 | — |
+> | בַּיּ֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַהֽוּא | H1931 | — |
+>
+> **38**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֔וּל | H7586 | — |
+> | גֹּ֣שֽׁוּ | H5066 | — |
+> | הֲלֹ֔ם | H1988 | — |
+> | כֹּ֖ל | — | *[function word]* |
+> | פִּנּ֣וֹת | H6438 | — |
+> | הָעָ֑ם | H5971 | — |
+> | וּדְע֣וּ | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | וּרְא֔וּ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | בַּמָּ֗ה | H4100 | — |
+> | הָֽיְתָ֛ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הַחַטָּ֥את | [[concepts/hebrew/H2403 - chattath\|H2403]] | sin |
+> | הַזֹּ֖את | H2063 | — |
+> | הַיּֽוֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+>
+> **39**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֣י | — | *[function word]* |
+> | חַי | [[concepts/hebrew/H2416 - chay\|H2416]] | living, life |
+> | יְהוָ֗ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הַמּוֹשִׁ֙יעַ֙ | H3467 | — |
+> | אֶת | — | *[function word]* |
+> | יִשְׂרָאֵ֔ל | H3478 | — |
+> | כִּ֧י | — | *[function word]* |
+> | אִם | H518 | — |
+> | יֶשְׁנ֛וֹ | H3426 | — |
+> | בְּיוֹנָתָ֥ן | H3129 | — |
+> | בְּנִ֖י | H1121 | — |
+> | כִּ֣י | — | *[function word]* |
+> | מ֣וֹת | H4191 | — |
+> | יָמ֑וּת | H4191 | — |
+> | וְאֵ֥ין | H369 | — |
+> | עֹנֵ֖הוּ | H6030 | — |
+> | מִכָּל | — | *[function word]* |
+> | הָעָֽם | H5971 | — |
+>
+> **40**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֶל | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | יִשְׂרָאֵ֗ל | H3478 | — |
+> | אַתֶּם֙ | H859 | — |
+> | תִּֽהְיוּ֙ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לְעֵ֣בֶר | H5676 | — |
+> | אֶחָ֔ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | וַֽאֲנִי֙ | H589 | — |
+> | וְיוֹנָתָ֣ן | H3129 | — |
+> | בְּנִ֔י | H1121 | — |
+> | נִהְיֶ֖ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לְעֵ֣בֶר | H5676 | — |
+> | אֶחָ֑ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | וַיֹּאמְר֤וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הָעָם֙ | H5971 | — |
+> | אֶל | — | *[function word]* |
+> | שָׁא֔וּל | H7586 | — |
+> | הַטּ֥וֹב | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | בְּעֵינֶ֖יךָ | H5869 | — |
+> | עֲשֵֽׂה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+>
+> **41**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֗וּל | H7586 | — |
+> | אֶל | — | *[function word]* |
+> | יְהוָ֛ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהֵ֥י | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | הָ֣בָה | H3051 | — |
+> | תָמִ֑ים | H8549 | — |
+> | וַיִּלָּכֵ֧ד | H3920 | — |
+> | יוֹנָתָ֛ן | H3129 | — |
+> | וְשָׁא֖וּל | H7586 | — |
+> | וְהָעָ֥ם | H5971 | — |
+> | יָצָֽאוּ | [[concepts/hebrew/H3318 - yatsa\|H3318]] | to go out |
+>
+> **42**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֔וּל | H7586 | — |
+> | הַפִּ֕ילוּ | H5307 | — |
+> | בֵּינִ֕י | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | וּבֵ֖ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | יוֹנָתָ֣ן | H3129 | — |
+> | בְּנִ֑י | H1121 | — |
+> | וַיִּלָּכֵ֖ד | H3920 | — |
+> | יוֹנָתָֽן | H3129 | — |
+>
+> **43**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁאוּל֙ | H7586 | — |
+> | אֶל | — | *[function word]* |
+> | י֣וֹנָתָ֔ן | H3129 | — |
+> | הַגִּ֥ידָה | H5046 | — |
+> | מֶ֣ה | H4100 | — |
+> | עָשִׂ֑יתָה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | וַיַּגֶּד | H5046 | — |
+> | יוֹנָתָ֗ן | H3129 | — |
+> | וַיֹּאמֶר֩ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | טָעֹ֨ם | H2938 | — |
+> | טָעַ֜מְתִּי | H2938 | — |
+> | בִּקְצֵ֨ה | H7097 | — |
+> | הַמַּטֶּ֧ה | H4294 | — |
+> | אֲשֶׁר | — | *[function word]* |
+> | בְּיָדִ֛י | H3027 | — |
+> | מְעַ֥ט | H4592 | — |
+> | דְּבַ֖שׁ | H1706 | — |
+> | הִנְנִ֥י | H2005 | — |
+> | אָמֽוּת | H4191 | — |
+>
+> **44**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שָׁא֔וּל | H7586 | — |
+> | כֹּֽה | H3541 | — |
+> | יַעֲשֶׂ֥ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | אֱלֹהִ֖ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וְכֹ֣ה | H3541 | — |
+> | יוֹסִ֑ף | H3254 | — |
+> | כִּֽי | — | *[function word]* |
+> | מ֥וֹת | H4191 | — |
+> | תָּמ֖וּת | H4191 | — |
+> | יוֹנָתָֽן | H3129 | — |
+>
+> **45**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הָעָ֜ם | H5971 | — |
+> | אֶל | — | *[function word]* |
+> | שָׁא֗וּל | H7586 | — |
+> | הֲ‍ֽיוֹנָתָ֤ן | H3129 | — |
+> | יָמוּת֙ | H4191 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | עָ֠שָׂה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | הַיְשׁוּעָ֨ה | [[concepts/hebrew/H3444 - yeshuah\|H3444]] | salvation |
+> | הַגְּדוֹלָ֣ה | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | הַזֹּאת֮ | H2063 | — |
+> | בְּיִשְׂרָאֵל֒ | H3478 | — |
+> | חָלִ֗ילָה | H2486 | — |
+> | חַי | [[concepts/hebrew/H2416 - chay\|H2416]] | living, life |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אִם | H518 | — |
+> | יִפֹּ֞ל | H5307 | — |
+> | מִשַּׂעֲרַ֤ת | H8185 | — |
+> | רֹאשׁוֹ֙ | H7218 | — |
+> | אַ֔רְצָה | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | כִּֽי | — | *[function word]* |
+> | עִם | H5973 | — |
+> | אֱלֹהִ֥ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | עָשָׂ֖ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | הַיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַזֶּ֑ה | H2088 | — |
+> | וַיִּפְדּ֥וּ | H6299 | — |
+> | הָעָ֛ם | H5971 | — |
+> | אֶת | — | *[function word]* |
+> | יוֹנָתָ֖ן | H3129 | — |
+> | וְלֹא | H3808 | — |
+> | מֵֽת | H4191 | — |
+>
+> **46**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֣עַל | H5927 | — |
+> | שָׁא֔וּל | H7586 | — |
+> | מֵאַחֲרֵ֖י | H310 | — |
+> | פְּלִשְׁתִּ֑ים | H6430 | — |
+> | וּפְלִשְׁתִּ֖ים | H6430 | — |
+> | הָלְכ֥וּ | H1980 | — |
+> | לִמְקוֹמָֽם | [[concepts/hebrew/H4725 - maqom\|H4725]] | place |
+>
+
+## 1 Samuel 14:47-52
+
+<sup>47</sup> Now when Saul had taken the kingdom over Israel, he fought against all his enemies on every side, against Moab, the sons of Ammon, Edom, the kings of Zobah, and the Philistines; and wherever he turned, he inflicted punishment.
+
+<sup>48</sup> He acted valiantly and defeated the Amalekites, and delivered Israel from the hands of those who plundered them.
+
+<sup>49</sup> Now the sons of Saul were Jonathan and Ishvi and Malchi-shua; and the names of his two daughters [were these]: the name of the firstborn Merab and the name of the younger Michal.
+
+<sup>50</sup> The name of Saul's wife was Ahinoam the daughter of Ahimaaz. And the name of the captain of his army was Abner the son of Ner, Saul's uncle.
+
+<sup>51</sup> Kish [was] the father of Saul, and Ner the father of Abner [was] the son of Abiel.
+
+<sup>52</sup> Now the war against the Philistines was severe all the days of Saul; and when Saul saw any mighty man or any valiant man, he attached him to his staff.
+
+> [!hebrew]- Interlinear — 1 Samuel 14:47-52
+> **47**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְשָׁא֛וּל | H7586 | — |
+> | לָכַ֥ד | H3920 | — |
+> | הַמְּלוּכָ֖ה | H4410 | — |
+> | עַל | — | *[function word]* |
+> | יִשְׂרָאֵ֑ל | H3478 | — |
+> | וַיִּלָּ֣חֶם | H3898 | — |
+> | סָבִ֣יב | H5439 | — |
+> | בְּֽכָל | — | *[function word]* |
+> | אֹיְבָ֡יו | H341 | — |
+> | בְּמוֹאָ֣ב | H4124 | — |
+> | וּבִבְנֵי | H1121 | — |
+> | עַמּ֨וֹן | H5983 | — |
+> | וּבֶאֱד֜וֹם | H123 | — |
+> | וּבְמַלְכֵ֤י | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+> | צוֹבָה֙ | H6678 | — |
+> | וּבַפְּלִשְׁתִּ֔ים | H6430 | — |
+> | וּבְכֹ֥ל | — | *[function word]* |
+> | אֲשֶׁר | — | *[function word]* |
+> | יִפְנֶ֖ה | H6437 | — |
+> | יַרְשִֽׁיעַ | H7561 | — |
+>
+> **48**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֣עַשׂ | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | חַ֔יִל | H2428 | — |
+> | וַיַּ֖ךְ | H5221 | — |
+> | אֶת | — | *[function word]* |
+> | עֲמָלֵ֑ק | H6002 | — |
+> | וַיַּצֵּ֥ל | H5337 | — |
+> | אֶת | — | *[function word]* |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | מִיַּ֥ד | H3027 | — |
+> | שֹׁסֵֽהוּ | H8154 | — |
+>
+> **49**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּֽהְיוּ֙ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בְּנֵ֣י | H1121 | — |
+> | שָׁא֔וּל | H7586 | — |
+> | יוֹנָתָ֥ן | H3129 | — |
+> | וְיִשְׁוִ֖י | H3440 | — |
+> | שׁ֑וּעַ | H4444 | — |
+> | וְשֵׁם֙ | H8034 | — |
+> | שְׁתֵּ֣י | [[concepts/hebrew/H8147 - shenayim\|H8147]] | two |
+> | בְנֹתָ֔יו | H1323 | — |
+> | שֵׁ֤ם | H8034 | — |
+> | הַבְּכִירָה֙ | H1067 | — |
+> | מֵרַ֔ב | H4764 | — |
+> | וְשֵׁ֥ם | H8034 | — |
+> | הַקְּטַנָּ֖ה | [[concepts/hebrew/H6996 - qatan\|H6996]] | small, little |
+> | מִיכַֽל | H4324 | — |
+>
+> **50**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְשֵׁם֙ | H8034 | — |
+> | אֵ֣שֶׁת | H802 | — |
+> | שָׁא֔וּל | H7586 | — |
+> | אֲחִינֹ֖עַם | H293 | — |
+> | בַּת | H1323 | — |
+> | אֲחִימָ֑עַץ | H290 | — |
+> | וְשֵׁ֤ם | H8034 | — |
+> | שַׂר | H8269 | — |
+> | צְבָאוֹ֙ | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | אֲבִינֵ֔ר | H74 | — |
+> | בֶּן | H1121 | — |
+> | נֵ֖ר | H5369 | — |
+> | דּ֥וֹד | H1730 | — |
+> | שָׁאֽוּל | H7586 | — |
+>
+> **51**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְקִ֧ישׁ | H7027 | — |
+> | אֲבִֽי | H1 | — |
+> | שָׁא֛וּל | H7586 | — |
+> | וְנֵ֥ר | H5369 | — |
+> | אֲבִֽי | H1 | — |
+> | אַבְנֵ֖ר | H74 | — |
+> | בֶּן | H1121 | — |
+> | אֲבִיאֵֽל | H22 | — |
+>
+> **52**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתְּהִ֤י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הַמִּלְחָמָה֙ | H4421 | — |
+> | חֲזָקָ֣ה | H2389 | — |
+> | עַל | — | *[function word]* |
+> | פְּלִשְׁתִּ֔ים | H6430 | — |
+> | כֹּ֖ל | — | *[function word]* |
+> | יְמֵ֣י | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | שָׁא֑וּל | H7586 | — |
+> | וְרָאָ֨ה | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | שָׁא֜וּל | H7586 | — |
+> | כָּל | — | *[function word]* |
+> | אִ֤ישׁ | H376 | — |
+> | גִּבּוֹר֙ | H1368 | — |
+> | וְכָל | — | *[function word]* |
+> | בֶּן | H1121 | — |
+> | חַ֔יִל | H2428 | — |
+> | וַיַּאַסְפֵ֖הוּ | H622 | — |
+> | אֵלָֽיו | — | *[function word]* |
+>
+
+---
+
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 13|← 1 Samuel 13]]
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 15|1 Samuel 15 →]]
+
+**Parallel:** [[bibles/KJV/09: 1 Samuel/1 Samuel ch: 14|KJV]]
+ | [[bibles/WLCa/09 שמואל א/שמואל א 14|Hebrew]]

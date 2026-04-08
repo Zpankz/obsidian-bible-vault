@@ -1,0 +1,415 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
+book.name: "Ezekiel"
+book.number: 26
+chapter: 4
+chapter.total: 48
+testament: OT
+section: "Major Prophets"
+genre: "prophecy"
+original.language: "Hebrew"
+verses.total: 17
+pericopes.count: 2
+parallel.kjv: "[[bibles/KJV/26: Ezekiel/Ezekiel ch: 4]]"
+parallel.hebrew: "[[bibles/WLCa/26 יחזקאל/יחזקאל 4]]"
+key.terms:
+  - "[[concepts/hebrew/H120 - adam]]"
+  - "[[concepts/hebrew/H136 - Adonai]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H226 - ot]]"
+  - "[[concepts/hebrew/H259 - echad]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H4325 - mayim]]"
+  - "[[concepts/hebrew/H5315 - nephesh]]"
+  - "[[concepts/hebrew/H5414 - natan]]"
+  - "[[concepts/hebrew/H559 - amar]]"
+  - "[[concepts/hebrew/H5771 - avon]]"
+  - "[[concepts/hebrew/H6213 - asah]]"
+  - "[[concepts/hebrew/H6440 - panim]]"
+---
+
+# Ezekiel 4
+
+[[bibles/NASB-IL/Ezekiel/Ezekiel 3|← Ezekiel 3]] | [[bibles/NASB-IL/Ezekiel/-- Ezekiel --|Chapters]] | [[bibles/NASB-IL/Ezekiel/Ezekiel 5|Ezekiel 5 →]]
+
+---
+
+## Ezekiel 4:1-8
+
+<sup>1</sup> 'Now you son of man, get yourself a brick, place it before you and inscribe a city on it, Jerusalem.
+
+<sup>2</sup> 'Then lay siege against it, build a siege wall, raise up a ramp, pitch camps and place battering rams against it all around.
+
+<sup>3</sup> 'Then get yourself an iron plate and set it up as an iron wall between you and the city, and set your face toward it so that it is under siege, and besiege it. This is a sign to the house of Israel.
+
+<sup>4</sup> 'As for you, lie down on your left side and lay the iniquity of the house of Israel on it; you shall bear their iniquity for the number of days that you lie on it.
+
+<sup>5</sup> 'For I have assigned you a number of days corresponding to the years of their iniquity, three hundred and ninety days; thus you shall bear the iniquity of the house of Israel.
+
+<sup>6</sup> 'When you have completed these, you shall lie down a second time, [but] on your right side and bear the iniquity of the house of Judah; I have assigned it to you for forty days, a day for each year.
+
+<sup>7</sup> 'Then you shall set your face toward the siege of Jerusalem with your arm bared and prophesy against it.
+
+<sup>8</sup> 'Now behold, I will put ropes on you so that you cannot turn from one side to the other until you have completed the days of your siege.
+
+> [!hebrew]- Interlinear — Ezekiel 4:1-8
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַתָּ֤ה | H859 | — |
+> | בֶן | H1121 | — |
+> | אָדָם֙ | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | קַח | H3947 | — |
+> | לְבֵנָ֔ה | H3843 | — |
+> | וְנָתַתָּ֥ה | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אוֹתָ֖הּ | — | *[function word]* |
+> | לְפָנֶ֑יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | וְחַקּוֹתָ֥ | H2710 | — |
+> | עָלֶ֛יהָ | — | *[function word]* |
+> | עִ֖יר | H5892 | — |
+> | אֶת | — | *[function word]* |
+> | יְרוּשָׁלִָֽם | H3389 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְנָתַתָּ֨ה | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | עָלֶ֜יהָ | — | *[function word]* |
+> | מָצ֗וֹר | H4692 | — |
+> | וּבָנִ֤יתָ | H1129 | — |
+> | עָלֶ֙יהָ֙ | — | *[function word]* |
+> | דָּיֵ֔ק | H1785 | — |
+> | וְשָׁפַכְתָּ֥ | H8210 | — |
+> | עָלֶ֖יהָ | — | *[function word]* |
+> | סֹֽלְלָ֑ה | H5550 | — |
+> | וְנָתַתָּ֨ה | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | עָלֶ֧יהָ | — | *[function word]* |
+> | מַחֲנ֛וֹת | H4264 | — |
+> | וְשִׂים | H7760 | — |
+> | עָלֶ֥יהָ | — | *[function word]* |
+> | כָּרִ֖ים | H3733 | — |
+> | סָבִֽיב | H5439 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַתָּ֤ה | H859 | — |
+> | קַח | H3947 | — |
+> | מַחֲבַ֣ת | H4227 | — |
+> | בַּרְזֶ֔ל | H1270 | — |
+> | וְנָתַתָּ֤ה | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אוֹתָהּ֙ | — | *[function word]* |
+> | קִ֣יר | H7023 | — |
+> | בַּרְזֶ֔ל | H1270 | — |
+> | בֵּינְךָ֖ | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | וּבֵ֣ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | הָעִ֑יר | H5892 | — |
+> | וַהֲכִינֹתָה֩ | H3559 | — |
+> | אֶת | — | *[function word]* |
+> | פָּנֶ֨יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | אֵלֶ֜יהָ | — | *[function word]* |
+> | וְהָיְתָ֤ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בַמָּצוֹר֙ | H4692 | — |
+> | וְצַרְתָּ֣ | H6696 | — |
+> | עָלֶ֔יהָ | — | *[function word]* |
+> | א֥וֹת | [[concepts/hebrew/H226 - ot\|H226]] | sign, wonder |
+> | הִ֖יא | H1931 | — |
+> | לְבֵ֥ית | H1004 | — |
+> | יִשְׂרָאֵֽל | H3478 | — |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַתָּ֤ה | H859 | — |
+> | שְׁכַב֙ | H7901 | — |
+> | עַל | — | *[function word]* |
+> | צִדְּךָ֣ | H6654 | — |
+> | הַשְּׂמָאלִ֔י | H8042 | — |
+> | וְשַׂמְתָּ֛ | H7760 | — |
+> | אֶת | — | *[function word]* |
+> | עֲוֺ֥ן | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | בֵּֽית | H1004 | — |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | עָלָ֑יו | — | *[function word]* |
+> | מִסְפַּ֤ר | H4557 | — |
+> | הַיָּמִים֙ | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | תִּשְׁכַּ֣ב | H7901 | — |
+> | עָלָ֔יו | — | *[function word]* |
+> | תִּשָּׂ֖א | H5375 | — |
+> | אֶת | — | *[function word]* |
+> | עֲוֺנָֽם | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַאֲנִ֗י | H589 | — |
+> | נָתַ֤תִּֽי | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אֶת | — | *[function word]* |
+> | שְׁנֵ֣י | [[concepts/hebrew/H8141 - shanah\|H8141]] | year |
+> | עֲוֺנָ֔ם | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | לְמִסְפַּ֣ר | H4557 | — |
+> | יָמִ֔ים | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | שְׁלֹשׁ | H7969 | — |
+> | מֵא֥וֹת | H3967 | — |
+> | וְתִשְׁעִ֖ים | H8673 | — |
+> | י֑וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | וְנָשָׂ֖אתָ | H5375 | — |
+> | עֲוֺ֥ן | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | בֵּֽית | H1004 | — |
+> | יִשְׂרָאֵֽל | H3478 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְכִלִּיתָ֣ | H3615 | — |
+> | אֶת | — | *[function word]* |
+> | אֵ֗לֶּה | H428 | — |
+> | וְשָׁ֨כַבְתָּ֜ | H7901 | — |
+> | עַל | — | *[function word]* |
+> | צִדְּךָ֤ | H6654 | — |
+> | [k_הימיני] | H3227 | — |
+> | [q_הַיְמָנִי֙] | H3227 | — |
+> | שֵׁנִ֔ית | [[concepts/hebrew/H8145 - sheni\|H8145]] | second |
+> | וְנָשָׂ֖אתָ | H5375 | — |
+> | אֶת | — | *[function word]* |
+> | עֲוֺ֣ן | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | בֵּית | H1004 | — |
+> | יְהוּדָ֑ה | H3063 | — |
+> | אַרְבָּעִ֣ים | H705 | — |
+> | י֔וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | י֧וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | לַשָּׁנָ֛ה | [[concepts/hebrew/H8141 - shanah\|H8141]] | year |
+> | י֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | לַשָּׁנָ֖ה | [[concepts/hebrew/H8141 - shanah\|H8141]] | year |
+> | נְתַתִּ֥יו | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאֶל | — | *[function word]* |
+> | מְצ֤וֹר | H4692 | — |
+> | יְרוּשָׁלִַ֙ם֙ | H3389 | — |
+> | תָּכִ֣ין | H3559 | — |
+> | פָּנֶ֔יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | וּֽזְרֹעֲךָ֖ | H2220 | — |
+> | חֲשׂוּפָ֑ה | H2834 | — |
+> | וְנִבֵּאתָ֖ | H5012 | — |
+> | עָלֶֽיהָ | — | *[function word]* |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהִנֵּ֛ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | נָתַ֥תִּי | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | עָלֶ֖יךָ | — | *[function word]* |
+> | עֲבוֹתִ֑ים | H5688 | — |
+> | וְלֹֽא | H3808 | — |
+> | תֵהָפֵ֤ךְ | H2015 | — |
+> | מִֽצִּדְּךָ֙ | H6654 | — |
+> | אֶל | — | *[function word]* |
+> | צִדֶּ֔ךָ | H6654 | — |
+> | עַד | H5704 | — |
+> | כַּלּוֹתְךָ֖ | H3615 | — |
+> | יְמֵ֥י | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | מְצוּרֶֽךָ | H4692 | — |
+>
+
+## Ezekiel 4:9-17
+
+<sup>9</sup> 'But as for you, take wheat, barley, beans, lentils, millet and spelt, put them in one vessel and make them into bread for yourself; you shall eat it according to the number of the days that you lie on your side, three hundred and ninety days.
+
+<sup>10</sup> 'Your food which you eat [shall be] twenty shekels a day by weight; you shall eat it from time to time.
+
+<sup>11</sup> 'The water you drink shall be the sixth part of a hin by measure; you shall drink it from time to time.
+
+<sup>12</sup> 'You shall eat it as a barley cake, having baked [it] in their sight over human dung.'
+
+<sup>13</sup> Then the LORD said, 'Thus will the sons of Israel eat their bread unclean among the nations where I will banish them.'
+
+<sup>14</sup> But I said, 'Ah, Lord GOD! Behold, I have never been defiled; for from my youth until now I have never eaten what died of itself or was torn by beasts, nor has any unclean meat ever entered my mouth.'
+
+<sup>15</sup> Then He said to me, 'See, I will give you cow's dung in place of human dung over which you will prepare your bread.'
+
+<sup>16</sup> Moreover, He said to me, 'Son of man, behold, I am going to break the staff of bread in Jerusalem, and they will eat bread by weight and with anxiety, and drink water by measure and in horror,
+
+<sup>17</sup> because bread and water will be scarce; and they will be appalled with one another and waste away in their iniquity.
+
+> [!hebrew]- Interlinear — Ezekiel 4:9-17
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַתָּ֣ה | H859 | — |
+> | קַח | H3947 | — |
+> | חִטִּ֡ין | H2406 | — |
+> | וּ֠שְׂעֹרִים | H8184 | — |
+> | וּפ֨וֹל | H6321 | — |
+> | וַעֲדָשִׁ֜ים | H5742 | — |
+> | וְדֹ֣חַן | H1764 | — |
+> | וְכֻסְּמִ֗ים | H3698 | — |
+> | וְנָתַתָּ֤ה | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אוֹתָם֙ | — | *[function word]* |
+> | בִּכְלִ֣י | H3627 | — |
+> | אֶחָ֔ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | וְעָשִׂ֧יתָ | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | אוֹתָ֛ם | — | *[function word]* |
+> | לְלָ֑חֶם | H3899 | — |
+> | מִסְפַּ֨ר | H4557 | — |
+> | הַיָּמִ֜ים | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֲשֶׁר | — | *[function word]* |
+> | אַתָּ֣ה | H859 | — |
+> | שׁוֹכֵ֣ב | H7901 | — |
+> | עַֽל | — | *[function word]* |
+> | צִדְּךָ֗ | H6654 | — |
+> | שְׁלֹשׁ | H7969 | — |
+> | מֵא֧וֹת | H3967 | — |
+> | וְתִשְׁעִ֛ים | H8673 | — |
+> | י֖וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | תֹּאכֲלֶֽנּוּ | H398 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּמַאֲכָֽלְךָ֙ | H3978 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | תֹּאכֲלֶ֔נּוּ | H398 | — |
+> | בְּמִשְׁק֕וֹל | H4946 | — |
+> | עֶשְׂרִ֥ים | H6242 | — |
+> | שֶׁ֖קֶל | H8255 | — |
+> | לַיּ֑וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | מֵעֵ֥ת | H6256 | — |
+> | עַד | H5704 | — |
+> | עֵ֖ת | H6256 | — |
+> | תֹּאכֲלֶֽנּוּ | H398 | — |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּמַ֛יִם | [[concepts/hebrew/H4325 - mayim\|H4325]] | water, waters |
+> | בִּמְשׂוּרָ֥ה | H4884 | — |
+> | תִשְׁתֶּ֖ה | H8354 | — |
+> | שִׁשִּׁ֣ית | H8345 | — |
+> | הַהִ֑ין | H1969 | — |
+> | מֵעֵ֥ת | H6256 | — |
+> | עַד | H5704 | — |
+> | עֵ֖ת | H6256 | — |
+> | תִּשְׁתֶּֽה | H8354 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעֻגַ֥ת | H5692 | — |
+> | שְׂעֹרִ֖ים | H8184 | — |
+> | תֹּֽאכֲלֶ֑נָּה | H398 | — |
+> | וְהִ֗יא | H1931 | — |
+> | בְּגֶֽלְלֵי֙ | H1561 | — |
+> | צֵאַ֣ת | H6627 | — |
+> | הָֽאָדָ֔ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | תְּעֻגֶ֖נָה | H5746 | — |
+> | לְעֵינֵיהֶֽם | H5869 | — |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | כָּ֣כָה | H3602 | — |
+> | יֹאכְל֧וּ | H398 | — |
+> | בְנֵֽי | H1121 | — |
+> | יִשְׂרָאֵ֛ל | H3478 | — |
+> | אֶת | — | *[function word]* |
+> | לַחְמָ֖ם | H3899 | — |
+> | טָמֵ֑א | H2931 | — |
+> | בַּגּוֹיִ֕ם | H1471 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | אַדִּיחֵ֖ם | H5080 | — |
+> | שָֽׁם | H8033 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וָאֹמַ֗ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֲהָהּ֙ | H162 | — |
+> | אֲדֹנָ֣י | [[concepts/hebrew/H136 - Adonai\|H136]] | Lord, master |
+> | יְהוִ֔ה | H3069 | — |
+> | הִנֵּ֥ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | נַפְשִׁ֖י | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | לֹ֣א | H3808 | — |
+> | מְטֻמָּאָ֑ה | H2930 | — |
+> | וּנְבֵלָ֨ה | H5038 | — |
+> | וּטְרֵפָ֤ה | H2966 | — |
+> | לֹֽא | H3808 | — |
+> | אָכַ֙לְתִּי֙ | H398 | — |
+> | מִנְּעוּרַ֣י | H5271 | — |
+> | וְעַד | H5704 | — |
+> | עַ֔תָּה | H6258 | — |
+> | וְלֹא | H3808 | — |
+> | בָ֥א | H935 | — |
+> | בְּפִ֖י | H6310 | — |
+> | בְּשַׂ֥ר | H1320 | — |
+> | פִּגּֽוּל | H6292 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלַ֔י | — | *[function word]* |
+> | רְאֵ֗ה | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | נָתַ֤תִּֽי | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אֶת | — | *[function word]* |
+> | [k_צפועי] | H6832 | — |
+> | [q_צְפִיעֵ֣י] | H6832 | — |
+> | הַבָּקָ֔ר | H1241 | — |
+> | תַּ֖חַת | H8478 | — |
+> | גֶּלְלֵ֣י | H1561 | — |
+> | הָֽאָדָ֑ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | וְעָשִׂ֥יתָ | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | אֶֽת | — | *[function word]* |
+> | לַחְמְךָ֖ | H3899 | — |
+> | עֲלֵיהֶֽם | — | *[function word]* |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלַ֗י | — | *[function word]* |
+> | בֶּן | H1121 | — |
+> | אָדָם֙ | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | הִנְנִ֨י | H2005 | — |
+> | שֹׁבֵ֤ר | H7665 | — |
+> | מַטֵּה | H4294 | — |
+> | לֶ֙חֶם֙ | H3899 | — |
+> | בִּיר֣וּשָׁלִַ֔ם | H3389 | — |
+> | וְאָכְלוּ | H398 | — |
+> | לֶ֥חֶם | H3899 | — |
+> | בְּמִשְׁקָ֖ל | H4948 | — |
+> | וּבִדְאָגָ֑ה | H1674 | — |
+> | וּמַ֕יִם | [[concepts/hebrew/H4325 - mayim\|H4325]] | water, waters |
+> | בִּמְשׂוּרָ֥ה | H4884 | — |
+> | וּבְשִׁמָּמ֖וֹן | H8078 | — |
+> | יִשְׁתּֽוּ | H8354 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לְמַ֥עַן | H4616 | — |
+> | יַחְסְר֖וּ | H2637 | — |
+> | לֶ֣חֶם | H3899 | — |
+> | וָמָ֑יִם | [[concepts/hebrew/H4325 - mayim\|H4325]] | water, waters |
+> | וְנָשַׁ֙מּוּ֙ | H8074 | — |
+> | אִ֣ישׁ | H376 | — |
+> | וְאָחִ֔יו | H251 | — |
+> | וְנָמַ֖קּוּ | H4743 | — |
+> | בַּעֲוֺנָֽם | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+>
+
+---
+
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 3|← Ezekiel 3]]
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 5|Ezekiel 5 →]]
+
+**Parallel:** [[bibles/KJV/26: Ezekiel/Ezekiel ch: 4|KJV]]
+ | [[bibles/WLCa/26 יחזקאל/יחזקאל 4|Hebrew]]

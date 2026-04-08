@@ -1,0 +1,287 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
+book.name: "Zechariah"
+book.number: 38
+chapter: 3
+chapter.total: 14
+testament: OT
+section: "Minor Prophets"
+genre: "prophecy"
+original.language: "Hebrew"
+verses.total: 10
+pericopes.count: 2
+parallel.kjv: "[[bibles/KJV/38: Zechariah/Zechariah ch: 3]]"
+parallel.hebrew: "[[bibles/WLCa/38 זכריה/זכריה 3]]"
+key.terms:
+  - "[[concepts/hebrew/H1419 - gadol]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H259 - echad]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H3548 - kohen]]"
+  - "[[concepts/hebrew/H4397 - malak]]"
+  - "[[concepts/hebrew/H5414 - natan]]"
+  - "[[concepts/hebrew/H559 - amar]]"
+  - "[[concepts/hebrew/H5771 - avon]]"
+  - "[[concepts/hebrew/H6440 - panim]]"
+  - "[[concepts/hebrew/H6635 - tsava]]"
+  - "[[concepts/hebrew/H7121 - qara]]"
+  - "[[concepts/hebrew/H7200 - raah]]"
+---
+
+# Zechariah 3
+
+[[bibles/NASB-IL/Zechariah/Zechariah 2|← Zechariah 2]] | [[bibles/NASB-IL/Zechariah/-- Zechariah --|Chapters]] | [[bibles/NASB-IL/Zechariah/Zechariah 4|Zechariah 4 →]]
+
+---
+
+## Zechariah 3:1-7
+
+<sup>1</sup> Then he showed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to accuse him.[^1][^2]
+
+<sup>2</sup> The LORD said to Satan, 'The LORD rebuke you, Satan! Indeed, the LORD who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?'[^3][^4][^5]
+
+<sup>3</sup> Now Joshua was clothed with filthy garments and standing before the angel.[^6]
+
+<sup>4</sup> He spoke and said to those who were standing before him, saying, 'Remove the filthy garments from him.' Again he said to him, 'See, I have taken your iniquity away from you and will clothe you with festal robes.'[^7][^8]
+
+<sup>5</sup> Then I said, 'Let them put a clean turban on his head.' So they put a clean turban on his head and clothed him with garments, while the angel of the LORD was standing by.
+
+<sup>6</sup> And the angel of the LORD admonished Joshua, saying,
+
+<sup>7</sup> 'Thus says the LORD of hosts, 'If you will walk in My ways and if you will perform My service, then you will also govern My house and also have charge of My courts, and I will grant you free access among these who are standing [here].
+
+> [!hebrew]- Interlinear — Zechariah 3:1-7
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּרְאֵ֗נִי | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | אֶת | — | *[function word]* |
+> | יְהוֹשֻׁ֙עַ֙ | H3091 | — |
+> | הַכֹּהֵ֣ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | הַגָּד֔וֹל | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | עֹמֵ֕ד | H5975 | — |
+> | לִפְנֵ֖י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | מַלְאַ֣ךְ | [[concepts/hebrew/H4397 - malak\|H4397]] | angel, messenger |
+> | יְהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | וְהַשָּׂטָ֛ן | H7854 | — |
+> | עֹמֵ֥ד | H5975 | — |
+> | עַל | — | *[function word]* |
+> | יְמִינ֖וֹ | H3225 | — |
+> | לְשִׂטְנֽוֹ | H7853 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָ֜ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶל | — | *[function word]* |
+> | הַשָּׂטָ֗ן | H7854 | — |
+> | יִגְעַ֨ר | H1605 | — |
+> | יְהוָ֤ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הַשָּׂטָ֔ן | H7854 | — |
+> | וְיִגְעַ֤ר | H1605 | — |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הַבֹּחֵ֖ר | H977 | — |
+> | בִּירֽוּשָׁלִָ֑ם | H3389 | — |
+> | הֲל֧וֹא | H3808 | — |
+> | זֶ֦ה | H2088 | — |
+> | א֖וּד | H181 | — |
+> | מֻצָּ֥ל | H5337 | — |
+> | מֵאֵֽשׁ | H784 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וִיהוֹשֻׁ֕עַ | H3091 | — |
+> | הָיָ֥ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לָבֻ֖שׁ | H3847 | — |
+> | בְּגָדִ֣ים | H899 | — |
+> | צוֹאִ֑ים | H6674 | — |
+> | וְעֹמֵ֖ד | H5975 | — |
+> | לִפְנֵ֥י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | הַמַּלְאָֽךְ | [[concepts/hebrew/H4397 - malak\|H4397]] | angel, messenger |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֣עַן | H6030 | — |
+> | וַיֹּ֗אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֶל | — | *[function word]* |
+> | הָעֹמְדִ֤ים | H5975 | — |
+> | לְפָנָיו֙ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | לֵאמֹ֔ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הָסִ֛ירוּ | H5493 | — |
+> | הַבְּגָדִ֥ים | H899 | — |
+> | הַצֹּאִ֖ים | H6674 | — |
+> | מֵעָלָ֑יו | — | *[function word]* |
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָ֗יו | — | *[function word]* |
+> | רְאֵ֨ה | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | הֶעֱבַ֤רְתִּי | H5674 | — |
+> | מֵעָלֶ֙יךָ֙ | — | *[function word]* |
+> | עֲוֺנֶ֔ךָ | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | וְהַלְבֵּ֥שׁ | H3847 | — |
+> | אֹתְךָ֖ | — | *[function word]* |
+> | מַחֲלָצֽוֹת | H4254 | — |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וָאֹמַ֕ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יָשִׂ֛ימוּ | H7760 | — |
+> | צָנִ֥יף | H6797 | — |
+> | טָה֖וֹר | H2889 | — |
+> | עַל | — | *[function word]* |
+> | רֹאשׁ֑וֹ | H7218 | — |
+> | וַיָּשִׂימוּ֩ | H7760 | — |
+> | הַצָּנִ֨יף | H6797 | — |
+> | הַטָּה֜וֹר | H2889 | — |
+> | עַל | — | *[function word]* |
+> | רֹאשׁ֗וֹ | H7218 | — |
+> | וַיַּלְבִּשֻׁ֙הוּ֙ | H3847 | — |
+> | בְּגָדִ֔ים | H899 | — |
+> | וּמַלְאַ֥ךְ | [[concepts/hebrew/H4397 - malak\|H4397]] | angel, messenger |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | עֹמֵֽד | H5975 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיָּ֙עַד֙ | H5749 | — |
+> | מַלְאַ֣ךְ | [[concepts/hebrew/H4397 - malak\|H4397]] | angel, messenger |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בִּיהוֹשֻׁ֖עַ | H3091 | — |
+> | לֵאמֹֽר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כֹּה | H3541 | — |
+> | אָמַ֞ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָ֣ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | צְבָא֗וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | אִם | H518 | — |
+> | בִּדְרָכַ֤י | H1870 | — |
+> | תֵּלֵךְ֙ | H1980 | — |
+> | וְאִ֣ם | H518 | — |
+> | אֶת | — | *[function word]* |
+> | מִשְׁמַרְתִּ֣י | H4931 | — |
+> | תִשְׁמֹ֔ר | H8104 | — |
+> | וְגַם | H1571 | — |
+> | אַתָּה֙ | H859 | — |
+> | תָּדִ֣ין | H1777 | — |
+> | אֶת | — | *[function word]* |
+> | בֵּיתִ֔י | H1004 | — |
+> | וְגַ֖ם | H1571 | — |
+> | תִּשְׁמֹ֣ר | H8104 | — |
+> | אֶת | — | *[function word]* |
+> | חֲצֵרָ֑י | H2691 | — |
+> | וְנָתַתִּ֤י | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | מַהְלְכִ֔ים | H4108 | — |
+> | בֵּ֥ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | הָעֹמְדִ֖ים | H5975 | — |
+> | הָאֵֽלֶּה | H428 | — |
+>
+
+## Zechariah 3:8-10
+
+<sup>8</sup> 'Now listen, Joshua the high priest, you and your friends who are sitting in front of you-- indeed they are men who are a symbol, for behold, I am going to bring in My servant the Branch.[^9][^10]
+
+<sup>9</sup> 'For behold, the stone that I have set before Joshua; on one stone are seven eyes. Behold, I will engrave an inscription on it,' declares the LORD of hosts, 'and I will remove the iniquity of that land in one day.[^11]
+
+<sup>10</sup> 'In that day,' declares the LORD of hosts, 'every one of you will invite his neighbor to [sit] under [his] vine and under [his] fig tree.''
+
+> [!hebrew]- Interlinear — Zechariah 3:8-10
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | שְֽׁמַֽע | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | נָ֞א | H4994 | — |
+> | יְהוֹשֻׁ֣עַ | H3091 | — |
+> | הַכֹּהֵ֣ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | הַגָּד֗וֹל | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | אַתָּה֙ | H859 | — |
+> | וְרֵעֶ֙יךָ֙ | H7453 | — |
+> | הַיֹּשְׁבִ֣ים | H3427 | — |
+> | לְפָנֶ֔יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | כִּֽי | — | *[function word]* |
+> | אַנְשֵׁ֥י | H376 | — |
+> | מוֹפֵ֖ת | H4159 | — |
+> | הֵ֑מָּה | H1992 | — |
+> | כִּֽי | — | *[function word]* |
+> | הִנְנִ֥י | H2005 | — |
+> | מֵבִ֛יא | H935 | — |
+> | אֶת | — | *[function word]* |
+> | עַבְדִּ֖י | H5650 | — |
+> | צֶֽמַח | H6780 | — |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֣י | — | *[function word]* |
+> | הִנֵּ֣ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הָאֶ֗בֶן | H68 | — |
+> | אֲשֶׁ֤ר | — | *[function word]* |
+> | נָתַ֙תִּי֙ | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | לִפְנֵ֣י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | יְהוֹשֻׁ֔עַ | H3091 | — |
+> | עַל | — | *[function word]* |
+> | אֶ֥בֶן | H68 | — |
+> | אַחַ֖ת | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | שִׁבְעָ֣ה | H7651 | — |
+> | עֵינָ֑יִם | H5869 | — |
+> | הִנְנִ֧י | H2005 | — |
+> | מְפַתֵּ֣חַ | H6605 | — |
+> | פִּתֻּחָ֗הּ | H6603 | — |
+> | נְאֻם֙ | H5002 | — |
+> | יְהוָ֣ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | צְבָא֔וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | וּמַשְׁתִּ֛י | H4185 | — |
+> | אֶת | — | *[function word]* |
+> | עֲוֺ֥ן | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | הָאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | הַהִ֖יא | H1931 | — |
+> | בְּי֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֶחָֽד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | בַּיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַה֗וּא | H1931 | — |
+> | נְאֻם֙ | H5002 | — |
+> | יְהוָ֣ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | צְבָא֔וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | תִּקְרְא֖וּ | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | אִ֣ישׁ | H376 | — |
+> | לְרֵעֵ֑הוּ | H7453 | — |
+> | אֶל | — | *[function word]* |
+> | תַּ֥חַת | H8478 | — |
+> | גֶּ֖פֶן | H1612 | — |
+> | וְאֶל | — | *[function word]* |
+> | תַּ֥חַת | H8478 | — |
+> | תְּאֵנָֽה | H8384 | — |
+>
+
+---
+
+- [[bibles/NASB-IL/Zechariah/Zechariah 2|← Zechariah 2]]
+- [[bibles/NASB-IL/Zechariah/Zechariah 4|Zechariah 4 →]]
+
+**Parallel:** [[bibles/KJV/38: Zechariah/Zechariah ch: 3|KJV]]
+ | [[bibles/WLCa/38 זכריה/זכריה 3|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Luke/Luke 22#v31|Luke 22:31 @fulfills]] (11 votes)
+[^2]: [[bibles/NASB-IL/1 Peter/1 Peter 5#v8|1 Peter 5:8 @fulfills]] (11 votes)
+[^3]: [[bibles/NASB-IL/Amos/Amos 4#v11|Amos 4:11 @alludes_to]] (16 votes)
+[^4]: [[bibles/NASB-IL/Jude/Jude 1#v23|Jude 1:23 @fulfills]] (14 votes)
+[^5]: [[bibles/NASB-IL/Jude/Jude 1#v9|Jude 1:9 @fulfills]] (11 votes)
+[^6]: [[bibles/NASB-IL/Isaiah/Isaiah 64#v6|Isaiah 64:6 @alludes_to]] (13 votes)
+[^7]: [[bibles/NASB-IL/Luke/Luke 15#v22|Luke 15:22 @fulfills]] (17 votes)
+[^8]: [[bibles/NASB-IL/Isaiah/Isaiah 61#v10|Isaiah 61:10 @alludes_to]] (17 votes)
+[^9]: [[bibles/NASB-IL/Isaiah/Isaiah 11#v1|Isaiah 11:1 @alludes_to]] (14 votes)
+[^10]: [[bibles/NASB-IL/Jeremiah/Jeremiah 23#v5|Jeremiah 23:5 @alludes_to]] (14 votes)
+[^11]: [[bibles/NASB-IL/Zechariah/Zechariah 4#v10|Zechariah 4:10 @parallels]] (10 votes)

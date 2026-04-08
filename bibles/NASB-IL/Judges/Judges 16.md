@@ -1,0 +1,785 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Judges/-- Judges --]]"
+book.name: "Judges"
+book.number: 7
+chapter: 16
+chapter.total: 21
+testament: OT
+section: "Historical"
+genre: "narrative"
+original.language: "Hebrew"
+verses.total: 31
+pericopes.count: 4
+parallel.kjv: "[[bibles/KJV/07: Judges/Judges ch: 16]]"
+parallel.hebrew: "[[bibles/WLCa/07 שופטים/שופטים 16]]"
+key.terms:
+  - "[[concepts/hebrew/H120 - adam]]"
+  - "[[concepts/hebrew/H1242 - boqer]]"
+  - "[[concepts/hebrew/H136 - Adonai]]"
+  - "[[concepts/hebrew/H1419 - gadol]]"
+  - "[[concepts/hebrew/H157 - ahav]]"
+  - "[[concepts/hebrew/H1696 - davar]]"
+  - "[[concepts/hebrew/H1697 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H216 - or]]"
+  - "[[concepts/hebrew/H2416 - chay]]"
+  - "[[concepts/hebrew/H259 - echad]]"
+  - "[[concepts/hebrew/H2896 - tov]]"
+  - "[[concepts/hebrew/H3045 - yada]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+---
+
+# Judges 16
+
+[[bibles/NASB-IL/Judges/Judges 15|← Judges 15]] | [[bibles/NASB-IL/Judges/-- Judges --|Chapters]] | [[bibles/NASB-IL/Judges/Judges 17|Judges 17 →]]
+
+---
+
+## Judges 16:1-3
+
+<sup>1</sup> Now Samson went to Gaza and saw a harlot there, and went in to her.
+
+<sup>2</sup> [When it was told] to the Gazites, saying, 'Samson has come here,' they surrounded [the place] and lay in wait for him all night at the gate of the city. And they kept silent all night, saying, '[Let us wait] until the morning light, then we will kill him.'
+
+<sup>3</sup> Now Samson lay until midnight, and at midnight he arose and took hold of the doors of the city gate and the two posts and pulled them up along with the bars; then he put them on his shoulders and carried them up to the top of the mountain which is opposite Hebron.
+
+> [!hebrew]- Interlinear — Judges 16:1-3
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֵּ֥לֶךְ | H1980 | — |
+> | שִׁמְשׁ֖וֹן | H8123 | — |
+> | עַזָּ֑תָה | H5804 | — |
+> | וַיַּרְא | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | שָׁם֙ | H8033 | — |
+> | אִשָּׁ֣ה | H802 | — |
+> | זוֹנָ֔ה | H2181 | — |
+> | וַיָּבֹ֖א | H935 | — |
+> | אֵלֶֽיהָ | — | *[function word]* |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לַֽעַזָּתִ֣ים | H5841 | — |
+> | לֵאמֹ֗ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | בָּ֤א | H935 | — |
+> | שִׁמְשׁוֹן֙ | H8123 | — |
+> | הֵ֔נָּה | H2008 | — |
+> | וַיָּסֹ֛בּוּ | H5437 | — |
+> | וַיֶּאֶרְבוּ | H693 | — |
+> | כָל | — | *[function word]* |
+> | הַלַּ֖יְלָה | [[concepts/hebrew/H3915 - layil\|H3915]] | night |
+> | בְּשַׁ֣עַר | H8179 | — |
+> | הָעִ֑יר | H5892 | — |
+> | וַיִּתְחָרְשׁ֤וּ | H2790 | — |
+> | כָל | — | *[function word]* |
+> | הַלַּ֙יְלָה֙ | [[concepts/hebrew/H3915 - layil\|H3915]] | night |
+> | לֵאמֹ֔ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | עַד | H5704 | — |
+> | א֥וֹר | [[concepts/hebrew/H216 - or\|H216]] | light |
+> | הַבֹּ֖קֶר | [[concepts/hebrew/H1242 - boqer\|H1242]] | morning |
+> | וַהֲרְגְנֻֽהוּ | H2026 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּשְׁכַּ֣ב | H7901 | — |
+> | שִׁמְשׁוֹן֮ | H8123 | — |
+> | עַד | H5704 | — |
+> | חֲצִ֣י | H2677 | — |
+> | הַלַּיְלָה֒ | [[concepts/hebrew/H3915 - layil\|H3915]] | night |
+> | וַיָּ֣קָם | H6965 | — |
+> | בַּחֲצִ֣י | H2677 | — |
+> | הַלַּ֗יְלָה | [[concepts/hebrew/H3915 - layil\|H3915]] | night |
+> | וַיֶּאֱחֹ֞ז | H270 | — |
+> | בְּדַלְת֤וֹת | H1817 | — |
+> | שַֽׁעַר | H8179 | — |
+> | הָעִיר֙ | H5892 | — |
+> | וּבִשְׁתֵּ֣י | [[concepts/hebrew/H8147 - shenayim\|H8147]] | two |
+> | הַמְּזוּז֔וֹת | H4201 | — |
+> | וַיִּסָּעֵם֙ | H5265 | — |
+> | עִֽם | H5973 | — |
+> | הַבְּרִ֔יחַ | H1280 | — |
+> | וַיָּ֖שֶׂם | H7760 | — |
+> | עַל | — | *[function word]* |
+> | כְּתֵפָ֑יו | H3802 | — |
+> | וַֽיַּעֲלֵם֙ | H5927 | — |
+> | אֶל | — | *[function word]* |
+> | רֹ֣אשׁ | H7218 | — |
+> | הָהָ֔ר | H2022 | — |
+> | אֲשֶׁ֖ר | — | *[function word]* |
+> | עַל | — | *[function word]* |
+> | פְּנֵ֥י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | חֶבְרֽוֹן | H2275 | — |
+>
+
+## Judges 16:4-17
+
+<sup>4</sup> After this it came about that he loved a woman in the valley of Sorek, whose name was Delilah.
+
+<sup>5</sup> The lords of the Philistines came up to her and said to her, 'Entice him, and see where his great strength [lies] and how we may overpower him that we may bind him to afflict him. Then we will each give you eleven hundred [pieces] of silver.'
+
+<sup>6</sup> So Delilah said to Samson, 'Please tell me where your great strength is and how you may be bound to afflict you.'
+
+<sup>7</sup> Samson said to her, 'If they bind me with seven fresh cords that have not been dried, then I will become weak and be like any [other] man.'
+
+<sup>8</sup> Then the lords of the Philistines brought up to her seven fresh cords that had not been dried, and she bound him with them.
+
+<sup>9</sup> Now she had [men] lying in wait in an inner room. And she said to him, 'The Philistines are upon you, Samson!' But he snapped the cords as a string of tow snaps when it touches fire. So his strength was not discovered.
+
+<sup>10</sup> Then Delilah said to Samson, 'Behold, you have deceived me and told me lies; now please tell me how you may be bound.'
+
+<sup>11</sup> He said to her, 'If they bind me tightly with new ropes which have not been used, then I will become weak and be like any [other] man.'
+
+<sup>12</sup> So Delilah took new ropes and bound him with them and said to him, 'The Philistines are upon you, Samson!' For the [men] were lying in wait in the inner room. But he snapped the ropes from his arms like a thread.
+
+<sup>13</sup> Then Delilah said to Samson, 'Up to now you have deceived me and told me lies; tell me how you may be bound.' And he said to her, 'If you weave the seven locks of my hair with the web [and fasten it with a pin, then I will become weak and be like any other man.'
+
+<sup>14</sup> So while he slept, Delilah took the seven locks of his hair and wove them into the web]. And she fastened [it] with the pin and said to him, 'The Philistines are upon you, Samson!' But he awoke from his sleep and pulled out the pin of the loom and the web.
+
+<sup>15</sup> Then she said to him, 'How can you say, 'I love you,' when your heart is not with me? You have deceived me these three times and have not told me where your great strength is.'
+
+<sup>16</sup> It came about when she pressed him daily with her words and urged him, that his soul was annoyed to death.
+
+<sup>17</sup> So he told her all [that was] in his heart and said to her, 'A razor has never come on my head, for I have been a Nazirite to God from my mother's womb. If I am shaved, then my strength will leave me and I will become weak and be like any [other] man.'
+
+> [!hebrew]- Interlinear — Judges 16:4-17
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַֽיְהִי֙ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | אַחֲרֵי | H310 | — |
+> | כֵ֔ן | — | *[function word]* |
+> | וַיֶּאֱהַ֥ב | [[concepts/hebrew/H157 - ahav\|H157]] | to love |
+> | אִשָּׁ֖ה | H802 | — |
+> | בְּנַ֣חַל | H5158 | — |
+> | שֹׂרֵ֑ק | H7796 | — |
+> | וּשְׁמָ֖הּ | H8034 | — |
+> | דְּלִילָֽה | H1807 | — |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּעֲל֨וּ | H5927 | — |
+> | אֵלֶ֜יהָ | — | *[function word]* |
+> | סַרְנֵ֣י | H5633 | — |
+> | פְלִשְׁתִּ֗ים | H6430 | — |
+> | וַיֹּ֨אמְרוּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | פַּתִּ֣י | H6601 | — |
+> | אוֹת֗וֹ | — | *[function word]* |
+> | וּרְאִי֙ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | בַּמֶּה֙ | H4100 | — |
+> | כֹּח֣וֹ | H3581 | — |
+> | גָד֔וֹל | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | וּבַמֶּה֙ | H4100 | — |
+> | נ֣וּכַל | H3201 | — |
+> | וַאֲסַרְנֻ֖הוּ | H631 | — |
+> | לְעַנֹּת֑וֹ | H6031 | — |
+> | וַאֲנַ֙חְנוּ֙ | H587 | — |
+> | נִתַּן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אִ֕ישׁ | H376 | — |
+> | אֶ֥לֶף | H505 | — |
+> | וּמֵאָ֖ה | H3967 | — |
+> | כָּֽסֶף | H3701 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | דְּלִילָה֙ | H1807 | — |
+> | אֶל | — | *[function word]* |
+> | שִׁמְשׁ֔וֹן | H8123 | — |
+> | הַגִּֽידָה | H5046 | — |
+> | נָּ֣א | H4994 | — |
+> | בַּמֶּ֖ה | H4100 | — |
+> | כֹּחֲךָ֣ | H3581 | — |
+> | גָד֑וֹל | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | וּבַמֶּ֥ה | H4100 | — |
+> | תֵאָסֵ֖ר | H631 | — |
+> | לְעַנּוֹתֶֽךָ | H6031 | — |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלֶ֙יהָ֙ | — | *[function word]* |
+> | שִׁמְשׁ֔וֹן | H8123 | — |
+> | אִם | H518 | — |
+> | יַאַסְרֻ֗נִי | H631 | — |
+> | בְּשִׁבְעָ֛ה | H7651 | — |
+> | יְתָרִ֥ים | H3499 | — |
+> | לַחִ֖ים | H3892 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | לֹא | H3808 | — |
+> | חֹרָ֑בוּ | H2717 | — |
+> | וְחָלִ֥יתִי | H2470 | — |
+> | וְהָיִ֖יתִי | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כְּאַחַ֥ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | הָאָדָֽם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּעֲלוּ | H5927 | — |
+> | סַרְנֵ֣י | H5633 | — |
+> | פְלִשְׁתִּ֗ים | H6430 | — |
+> | שִׁבְעָ֛ה | H7651 | — |
+> | יְתָרִ֥ים | H3499 | — |
+> | לַחִ֖ים | H3892 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | לֹא | H3808 | — |
+> | חֹרָ֑בוּ | H2717 | — |
+> | וַתַּאַסְרֵ֖הוּ | H631 | — |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָאֹרֵ֗ב | H693 | — |
+> | יֹשֵׁ֥ב | H3427 | — |
+> | בַּחֶ֔דֶר | H2315 | — |
+> | וַתֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָ֔יו | — | *[function word]* |
+> | פְּלִשְׁתִּ֥ים | H6430 | — |
+> | עָלֶ֖יךָ | — | *[function word]* |
+> | שִׁמְשׁ֑וֹן | H8123 | — |
+> | וַיְנַתֵּק֙ | H5423 | — |
+> | אֶת | — | *[function word]* |
+> | הַיְתָרִ֔ים | H3499 | — |
+> | כַּאֲשֶׁ֨ר | — | *[function word]* |
+> | יִנָּתֵ֤ק | H5423 | — |
+> | פְּתִֽיל | H6616 | — |
+> | הַנְּעֹ֙רֶת֙ | H5296 | — |
+> | בַּהֲרִיח֣וֹ | H7306 | — |
+> | אֵ֔שׁ | H784 | — |
+> | וְלֹ֥א | H3808 | — |
+> | נוֹדַ֖ע | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | כֹּחֽוֹ | H3581 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | דְּלִילָה֙ | H1807 | — |
+> | אֶל | — | *[function word]* |
+> | שִׁמְשׁ֔וֹן | H8123 | — |
+> | הִנֵּה֙ | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הֵתַ֣לְתָּ | H2048 | — |
+> | וַתְּדַבֵּ֥ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | אֵלַ֖י | — | *[function word]* |
+> | כְּזָבִ֑ים | H3576 | — |
+> | עַתָּה֙ | H6258 | — |
+> | הַגִּֽידָה | H5046 | — |
+> | נָּ֣א | H4994 | — |
+> | בַּמֶּ֖ה | H4100 | — |
+> | תֵּאָסֵֽר | H631 | — |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלֶ֔יהָ | — | *[function word]* |
+> | אִם | H518 | — |
+> | אָס֤וֹר | H631 | — |
+> | יַאַסְר֙וּנִי֙ | H631 | — |
+> | בַּעֲבֹתִ֣ים | H5688 | — |
+> | חֲדָשִׁ֔ים | H2319 | — |
+> | אֲשֶׁ֛ר | — | *[function word]* |
+> | לֹֽא | H3808 | — |
+> | נַעֲשָׂ֥ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | מְלָאכָ֑ה | H4399 | — |
+> | וְחָלִ֥יתִי | H2470 | — |
+> | וְהָיִ֖יתִי | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כְּאַחַ֥ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | הָאָדָֽם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתִּקַּ֣ח | H3947 | — |
+> | דְּלִילָה֩ | H1807 | — |
+> | עֲבֹתִ֨ים | H5688 | — |
+> | חֲדָשִׁ֜ים | H2319 | — |
+> | וַתַּאַסְרֵ֣הוּ | H631 | — |
+> | וַתֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָיו֙ | — | *[function word]* |
+> | פְּלִשְׁתִּ֤ים | H6430 | — |
+> | עָלֶ֙יךָ֙ | — | *[function word]* |
+> | שִׁמְשׁ֔וֹן | H8123 | — |
+> | וְהָאֹרֵ֖ב | H693 | — |
+> | יֹשֵׁ֣ב | H3427 | — |
+> | בֶּחָ֑דֶר | H2315 | — |
+> | וַֽיְנַתְּקֵ֛ם | H5423 | — |
+> | מֵעַ֥ל | — | *[function word]* |
+> | זְרֹעֹתָ֖יו | H2220 | — |
+> | כַּחֽוּט | H2339 | — |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | דְּלִילָ֜ה | H1807 | — |
+> | אֶל | — | *[function word]* |
+> | שִׁמְשׁ֗וֹן | H8123 | — |
+> | עַד | H5704 | — |
+> | הֵ֜נָּה | H2008 | — |
+> | הֵתַ֤לְתָּ | H2048 | — |
+> | וַתְּדַבֵּ֤ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | אֵלַי֙ | — | *[function word]* |
+> | כְּזָבִ֔ים | H3576 | — |
+> | הַגִּ֣ידָה | H5046 | — |
+> | בַּמֶּ֖ה | H4100 | — |
+> | תֵּאָסֵ֑ר | H631 | — |
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלֶ֔יהָ | — | *[function word]* |
+> | אִם | H518 | — |
+> | תַּאַרְגִ֗י | H707 | — |
+> | אֶת | — | *[function word]* |
+> | שֶׁ֛בַע | H7651 | — |
+> | מַחְלְפ֥וֹת | H4253 | — |
+> | רֹאשִׁ֖י | H7218 | — |
+> | עִם | H5973 | — |
+> | הַמַּסָּֽכֶת | H4545 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתִּתְקַע֙ | H8628 | — |
+> | בַּיָּתֵ֔ד | H3489 | — |
+> | וַתֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָ֔יו | — | *[function word]* |
+> | פְּלִשְׁתִּ֥ים | H6430 | — |
+> | עָלֶ֖יךָ | — | *[function word]* |
+> | שִׁמְשׁ֑וֹן | H8123 | — |
+> | וַיִּיקַץ֙ | H3364 | — |
+> | מִשְּׁנָת֔וֹ | H8142 | — |
+> | וַיִּסַּ֛ע | H5265 | — |
+> | אֶת | H854 | — |
+> | הַיְתַ֥ד | H3489 | — |
+> | הָאֶ֖רֶג | H708 | — |
+> | וְאֶת | H854 | — |
+> | הַמַּסָּֽכֶת | H4545 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָ֗יו | — | *[function word]* |
+> | אֵ֚יךְ | H349 | — |
+> | תֹּאמַ֣ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֲהַבְתִּ֔יךְ | [[concepts/hebrew/H157 - ahav\|H157]] | to love |
+> | וְלִבְּךָ֖ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | אֵ֣ין | H369 | — |
+> | אִתִּ֑י | H854 | — |
+> | זֶ֣ה | H2088 | — |
+> | שָׁלֹ֤שׁ | H7969 | — |
+> | פְּעָמִים֙ | H6471 | — |
+> | הֵתַ֣לְתָּ | H2048 | — |
+> | וְלֹא | H3808 | — |
+> | הִגַּ֣דְתָּ | H5046 | — |
+> | בַּמֶּ֖ה | H4100 | — |
+> | כֹּחֲךָ֥ | H3581 | — |
+> | גָדֽוֹל | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַ֠יְהִי | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כִּֽי | — | *[function word]* |
+> | הֵצִ֨יקָה | H6693 | — |
+> | בִדְבָרֶ֛יהָ | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | כָּל | — | *[function word]* |
+> | הַיָּמִ֖ים | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | וַתְּאַֽלֲצֵ֑הוּ | H509 | — |
+> | וַתִּקְצַ֥ר | H7114 | — |
+> | נַפְשׁ֖וֹ | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | לָמֽוּת | H4191 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּגֶּד | H5046 | — |
+> | אֶת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | לִבּ֗וֹ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | מוֹרָה֙ | H4177 | — |
+> | לֹֽא | H3808 | — |
+> | עָלָ֣ה | H5927 | — |
+> | עַל | — | *[function word]* |
+> | רֹאשִׁ֔י | H7218 | — |
+> | כִּֽי | — | *[function word]* |
+> | נְזִ֧יר | H5139 | — |
+> | אֱלֹהִ֛ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | אֲנִ֖י | H589 | — |
+> | מִבֶּ֣טֶן | H990 | — |
+> | אִמִּ֑י | H517 | — |
+> | אִם | H518 | — |
+> | גֻּלַּ֙חְתִּי֙ | H1548 | — |
+> | וְסָ֣ר | H5493 | — |
+> | מִמֶּ֣נִּי | H4480 | — |
+> | כֹחִ֔י | H3581 | — |
+> | וְחָלִ֥יתִי | H2470 | — |
+> | וְהָיִ֖יתִי | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כְּכָל | — | *[function word]* |
+> | הָאָדָֽם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+>
+
+## Judges 16:18-21
+
+<sup>18</sup> When Delilah saw that he had told her all [that was] in his heart, she sent and called the lords of the Philistines, saying, 'Come up once more, for he has told me all [that is] in his heart.' Then the lords of the Philistines came up to her and brought the money in their hands.
+
+<sup>19</sup> She made him sleep on her knees, and called for a man and had him shave off the seven locks of his hair. Then she began to afflict him, and his strength left him.
+
+<sup>20</sup> She said, 'The Philistines are upon you, Samson!' And he awoke from his sleep and said, 'I will go out as at other times and shake myself free.' But he did not know that the LORD had departed from him.[^1]
+
+<sup>21</sup> Then the Philistines seized him and gouged out his eyes; and they brought him down to Gaza and bound him with bronze chains, and he was a grinder in the prison.
+
+> [!hebrew]- Interlinear — Judges 16:18-21
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתֵּ֣רֶא | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | דְלִילָ֗ה | H1807 | — |
+> | כִּֽי | — | *[function word]* |
+> | הִגִּ֣יד | H5046 | — |
+> | אֶת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | לִבּוֹ֒ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | וַתִּשְׁלַ֡ח | H7971 | — |
+> | וַתִּקְרָא֩ | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | לְסַרְנֵ֨י | H5633 | — |
+> | פְלִשְׁתִּ֤ים | H6430 | — |
+> | לֵאמֹר֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | עֲל֣וּ | H5927 | — |
+> | הַפַּ֔עַם | H6471 | — |
+> | כִּֽי | — | *[function word]* |
+> | הִגִּ֥יד | H5046 | — |
+> | אֶת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | לִבּ֑וֹ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | וְעָל֤וּ | H5927 | — |
+> | אֵלֶ֙יהָ֙ | — | *[function word]* |
+> | סַרְנֵ֣י | H5633 | — |
+> | פְלִשְׁתִּ֔ים | H6430 | — |
+> | וַיַּעֲל֥וּ | H5927 | — |
+> | הַכֶּ֖סֶף | H3701 | — |
+> | בְּיָדָֽם | H3027 | — |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתְּיַשְּׁנֵ֙הוּ֙ | H3462 | — |
+> | עַל | — | *[function word]* |
+> | בִּרְכֶּ֔יהָ | H1290 | — |
+> | וַתִּקְרָ֣א | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | לָאִ֔ישׁ | H376 | — |
+> | וַתְּגַלַּ֕ח | H1548 | — |
+> | אֶת | — | *[function word]* |
+> | שֶׁ֖בַע | H7651 | — |
+> | מַחְלְפ֣וֹת | H4253 | — |
+> | רֹאשׁ֑וֹ | H7218 | — |
+> | וַתָּ֙חֶל֙ | H2490 | — |
+> | לְעַנּוֹת֔וֹ | H6031 | — |
+> | וַיָּ֥סַר | H5493 | — |
+> | כֹּח֖וֹ | H3581 | — |
+> | מֵעָלָֽיו | — | *[function word]* |
+>
+> **20**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתֹּ֕אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | פְּלִשְׁתִּ֥ים | H6430 | — |
+> | עָלֶ֖יךָ | — | *[function word]* |
+> | שִׁמְשׁ֑וֹן | H8123 | — |
+> | וַיִּקַ֣ץ | H3364 | — |
+> | מִשְּׁנָת֗וֹ | H8142 | — |
+> | וַיֹּ֙אמֶר֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵצֵ֞א | [[concepts/hebrew/H3318 - yatsa\|H3318]] | to go out |
+> | כְּפַ֤עַם | H6471 | — |
+> | בְּפַ֙עַם֙ | H6471 | — |
+> | וְאִנָּעֵ֔ר | H5287 | — |
+> | וְהוּא֙ | H1931 | — |
+> | לֹ֣א | H3808 | — |
+> | יָדַ֔ע | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | כִּ֥י | — | *[function word]* |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | סָ֥ר | H5493 | — |
+> | מֵעָלָֽיו | — | *[function word]* |
+>
+> **21**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּאחֲז֣וּהוּ | H270 | — |
+> | פְלִשְׁתִּ֔ים | H6430 | — |
+> | וַֽיְנַקְּר֖וּ | H5365 | — |
+> | אֶת | — | *[function word]* |
+> | עֵינָ֑יו | H5869 | — |
+> | וַיּוֹרִ֨ידוּ | H3381 | — |
+> | אוֹת֜וֹ | — | *[function word]* |
+> | עַזָּ֗תָה | H5804 | — |
+> | וַיַּאַסְר֙וּהוּ֙ | H631 | — |
+> | בַּֽנְחֻשְׁתַּ֔יִם | H5178 | — |
+> | וַיְהִ֥י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | טוֹחֵ֖ן | H2912 | — |
+> | בְּבֵ֥ית | H1004 | — |
+> | [k_האסירים] | H615 | — |
+> | [q_הָאֲסוּרִֽים] | H615 | — |
+>
+
+## Judges 16:22-31
+
+<sup>22</sup> However, the hair of his head began to grow again after it was shaved off.
+
+<sup>23</sup> Now the lords of the Philistines assembled to offer a great sacrifice to Dagon their god, and to rejoice, for they said, 'Our god has given Samson our enemy into our hands.'
+
+<sup>24</sup> When the people saw him, they praised their god, for they said, 'Our god has given our enemy into our hands, Even the destroyer of our country, Who has slain many of us.'
+
+<sup>25</sup> It so happened when they were in high spirits, that they said, 'Call for Samson, that he may amuse us.' So they called for Samson from the prison, and he entertained them. And they made him stand between the pillars.
+
+<sup>26</sup> Then Samson said to the boy who was holding his hand, 'Let me feel the pillars on which the house rests, that I may lean against them.'
+
+<sup>27</sup> Now the house was full of men and women, and all the lords of the Philistines were there. And about 3,000 men and women were on the roof looking on while Samson was amusing [them].
+
+<sup>28</sup> Then Samson called to the LORD and said, 'O Lord GOD, please remember me and please strengthen me just this time, O God, that I may at once be avenged of the Philistines for my two eyes.'
+
+<sup>29</sup> Samson grasped the two middle pillars on which the house rested, and braced himself against them, the one with his right hand and the other with his left.
+
+<sup>30</sup> And Samson said, 'Let me die with the Philistines!' And he bent with all his might so that the house fell on the lords and all the people who were in it. So the dead whom he killed at his death were more than those whom he killed in his life.
+
+<sup>31</sup> Then his brothers and all his father's household came down, took him, brought him up and buried him between Zorah and Eshtaol in the tomb of Manoah his father. Thus he had judged Israel twenty years.
+
+> [!hebrew]- Interlinear — Judges 16:22-31
+> **22**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיָּ֧חֶל | H2490 | — |
+> | שְׂעַר | H8181 | — |
+> | רֹאשׁ֛וֹ | H7218 | — |
+> | לְצַמֵּ֖חַ | H6779 | — |
+> | כַּאֲשֶׁ֥ר | — | *[function word]* |
+> | גֻּלָּֽח | H1548 | — |
+>
+> **23**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְסַרְנֵ֣י | H5633 | — |
+> | פְלִשְׁתִּ֗ים | H6430 | — |
+> | נֶֽאֱסְפוּ֙ | H622 | — |
+> | לִזְבֹּ֧חַ | H2076 | — |
+> | זֶֽבַח | H2077 | — |
+> | גָּד֛וֹל | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | לְדָג֥וֹן | H1712 | — |
+> | אֱלֹהֵיהֶ֖ם | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וּלְשִׂמְחָ֑ה | H8057 | — |
+> | וַיֹּ֣אמְר֔וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | נָתַ֤ן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אֱלֹהֵ֙ינוּ֙ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | בְּיָדֵ֔נוּ | H3027 | — |
+> | אֵ֖ת | — | *[function word]* |
+> | שִׁמְשׁ֥וֹן | H8123 | — |
+> | אוֹיְבֵֽינוּ | H341 | — |
+>
+> **24**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּרְא֤וּ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | אֹתוֹ֙ | — | *[function word]* |
+> | הָעָ֔ם | H5971 | — |
+> | וַֽיְהַלְל֖וּ | H1984 | — |
+> | אֶת | — | *[function word]* |
+> | אֱלֹהֵיהֶ֑ם | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | כִּ֣י | — | *[function word]* |
+> | אָמְר֗וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | נָתַ֨ן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אֱלֹהֵ֤ינוּ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | בְיָדֵ֙נוּ֙ | H3027 | — |
+> | אֶת | — | *[function word]* |
+> | א֣וֹיְבֵ֔נוּ | H341 | — |
+> | וְאֵת֙ | — | *[function word]* |
+> | מַחֲרִ֣יב | H2717 | — |
+> | אַרְצֵ֔נוּ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וַאֲשֶׁ֥ר | — | *[function word]* |
+> | הִרְבָּ֖ה | [[concepts/hebrew/H7235 - ravah\|H7235]] | to multiply |
+> | אֶת | — | *[function word]* |
+> | חֲלָלֵֽינוּ | H2491 | — |
+>
+> **25**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַֽיְהִי֙ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | [k_כי] | — | *[function word]* |
+> | [k_טוב] | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | [q_כְּט֣וֹב] | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | לִבָּ֔ם | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | וַיֹּ֣אמְר֔וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | קִרְא֥וּ | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | לְשִׁמְשׁ֖וֹן | H8123 | — |
+> | וִישַֽׂחֶק | H7832 | — |
+> | וַיִּקְרְא֨וּ | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | לְשִׁמְשׁ֜וֹן | H8123 | — |
+> | מִבֵּ֣ית | H1004 | — |
+> | [k_האסירים] | H615 | — |
+> | [q_הָאֲסוּרִ֗ים] | H615 | — |
+> | וַיְצַחֵק֙ | H6711 | — |
+> | לִפְנֵיהֶ֔ם | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | וַיַּעֲמִ֥ידוּ | H5975 | — |
+> | אוֹת֖וֹ | — | *[function word]* |
+> | בֵּ֥ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | הָעַמּוּדִֽים | H5982 | — |
+>
+> **26**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שִׁמְשׁ֜וֹן | H8123 | — |
+> | אֶל | — | *[function word]* |
+> | הַנַּ֨עַר | H5288 | — |
+> | הַמַּחֲזִ֣יק | H2388 | — |
+> | בְּיָדוֹ֮ | H3027 | — |
+> | הַנִּ֣יחָה | H3240 | — |
+> | אוֹתִי֒ | — | *[function word]* |
+> | [k_והימשני] | H3237 | — |
+> | [q_וַהֲמִשֵׁ֙נִי֙] | H3237 | — |
+> | אֶת | — | *[function word]* |
+> | הָֽעַמֻּדִ֔ים | H5982 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | הַבַּ֖יִת | H1004 | — |
+> | נָכ֣וֹן | H3559 | — |
+> | עֲלֵיהֶ֑ם | — | *[function word]* |
+> | וְאֶשָּׁעֵ֖ן | H8172 | — |
+> | עֲלֵיהֶֽם | — | *[function word]* |
+>
+> **27**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהַבַּ֗יִת | H1004 | — |
+> | מָלֵ֤א | [[concepts/hebrew/H4390 - male\|H4390]] | to fill |
+> | הָֽאֲנָשִׁים֙ | H582 | — |
+> | וְהַנָּשִׁ֔ים | H802 | — |
+> | וְשָׁ֕מָּה | H8033 | — |
+> | כֹּ֖ל | — | *[function word]* |
+> | סַרְנֵ֣י | H5633 | — |
+> | פְלִשְׁתִּ֑ים | H6430 | — |
+> | וְעַל | — | *[function word]* |
+> | הַגָּ֗ג | H1406 | — |
+> | כִּשְׁלֹ֤שֶׁת | H7969 | — |
+> | אֲלָפִים֙ | H505 | — |
+> | אִ֣ישׁ | H376 | — |
+> | וְאִשָּׁ֔ה | H802 | — |
+> | הָרֹאִ֖ים | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | בִּשְׂח֥וֹק | H7832 | — |
+> | שִׁמְשֽׁוֹן | H8123 | — |
+>
+> **28**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּקְרָ֥א | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | שִׁמְשׁ֛וֹן | H8123 | — |
+> | אֶל | — | *[function word]* |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | וַיֹּאמַ֑ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֲדֹנָ֣י | [[concepts/hebrew/H136 - Adonai\|H136]] | Lord, master |
+> | יֱהֹוִ֡ה | H3069 | — |
+> | זָכְרֵ֣נִי | H2142 | — |
+> | נָא֩ | H4994 | — |
+> | וְחַזְּקֵ֨נִי | H2388 | — |
+> | נָ֜א | H4994 | — |
+> | אַ֣ךְ | H389 | — |
+> | הַפַּ֤עַם | H6471 | — |
+> | הַזֶּה֙ | H2088 | — |
+> | הָאֱלֹהִ֔ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וְאִנָּקְמָ֧ה | H5358 | — |
+> | נְקַם | H5359 | — |
+> | אַחַ֛ת | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | מִשְּׁתֵ֥י | [[concepts/hebrew/H8147 - shenayim\|H8147]] | two |
+> | עֵינַ֖י | H5869 | — |
+> | מִפְּלִשְׁתִּֽים | H6430 | — |
+>
+> **29**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּלְפֹּ֨ת | H3943 | — |
+> | שִׁמְשׁ֜וֹן | H8123 | — |
+> | אֶת | — | *[function word]* |
+> | שְׁנֵ֣י | [[concepts/hebrew/H8147 - shenayim\|H8147]] | two |
+> | עַמּוּדֵ֣י | H5982 | — |
+> | הַתָּ֗וֶךְ | [[concepts/hebrew/H8432 - tavek\|H8432]] | midst, middle |
+> | אֲשֶׁ֤ר | — | *[function word]* |
+> | הַבַּ֙יִת֙ | H1004 | — |
+> | נָכ֣וֹן | H3559 | — |
+> | עֲלֵיהֶ֔ם | — | *[function word]* |
+> | וַיִּסָּמֵ֖ךְ | H5564 | — |
+> | עֲלֵיהֶ֑ם | — | *[function word]* |
+> | אֶחָ֥ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | בִּימִינ֖וֹ | H3225 | — |
+> | וְאֶחָ֥ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | בִּשְׂמֹאלֽוֹ | H8040 | — |
+>
+> **30**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | שִׁמְשׁ֗וֹן | H8123 | — |
+> | תָּמ֣וֹת | H4191 | — |
+> | נַפְשִׁי֮ | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | עִם | H5973 | — |
+> | פְּלִשְׁתִּים֒ | H6430 | — |
+> | וַיֵּ֣ט | H5186 | — |
+> | בְּכֹ֔חַ | H3581 | — |
+> | וַיִּפֹּ֤ל | H5307 | — |
+> | הַבַּ֙יִת֙ | H1004 | — |
+> | עַל | — | *[function word]* |
+> | הַסְּרָנִ֔ים | H5633 | — |
+> | וְעַל | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | הָעָ֖ם | H5971 | — |
+> | אֲשֶׁר | — | *[function word]* |
+> | וַיִּהְי֤וּ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הַמֵּתִים֙ | H4191 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | הֵמִ֣ית | H4191 | — |
+> | בְּמוֹת֔וֹ | H4194 | — |
+> | רַבִּ֕ים | H7227 | — |
+> | מֵאֲשֶׁ֥ר | — | *[function word]* |
+> | הֵמִ֖ית | H4191 | — |
+> | בְּחַיָּֽיו | [[concepts/hebrew/H2416 - chay\|H2416]] | living, life |
+>
+> **31**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֵּרְד֨וּ | H3381 | — |
+> | אֶחָ֜יו | H251 | — |
+> | וְכָל | — | *[function word]* |
+> | בֵּ֣ית | H1004 | — |
+> | אָבִיהוּ֮ | H1 | — |
+> | וַיִּשְׂא֣וּ | H5375 | — |
+> | אֹתוֹ֒ | — | *[function word]* |
+> | וַֽיַּעֲל֣וּ | H5927 | — |
+> | וַיִּקְבְּר֣וּ | H6912 | — |
+> | אוֹת֗וֹ | — | *[function word]* |
+> | בֵּ֤ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | צָרְעָה֙ | H6881 | — |
+> | וּבֵ֣ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | אֶשְׁתָּאֹ֔ל | H847 | — |
+> | בְּקֶ֖בֶר | H6913 | — |
+> | מָנ֣וֹחַ | H4495 | — |
+> | אָבִ֑יו | H1 | — |
+> | וְה֛וּא | H1931 | — |
+> | שָׁפַ֥ט | H8199 | — |
+> | אֶת | — | *[function word]* |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | עֶשְׂרִ֥ים | H6242 | — |
+> | שָׁנָֽה | [[concepts/hebrew/H8141 - shanah\|H8141]] | year |
+>
+
+---
+
+- [[bibles/NASB-IL/Judges/Judges 15|← Judges 15]]
+- [[bibles/NASB-IL/Judges/Judges 17|Judges 17 →]]
+
+**Parallel:** [[bibles/KJV/07: Judges/Judges ch: 16|KJV]]
+ | [[bibles/WLCa/07 שופטים/שופטים 16|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Numbers/Numbers 14#v42|Numbers 14:42 @alludes_to]] (11 votes)

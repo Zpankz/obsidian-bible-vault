@@ -1,0 +1,22 @@
+---
+type: book
+book.name: "2 Peter"
+book.number: 61
+testament: NT
+section: "General"
+genre: "epistle"
+chapters.total: 3
+original.name: "ΠΕΤΡΟΥ Β΄"
+---
+
+# 2 Peter
+
+*ΠΕΤΡΟΥ Β΄*
+
+**Section:** General | **Genre:** epistle | **Chapters:** 3
+
+## Chapters
+
+- [[bibles/NASB-IL/2 Peter/2 Peter 1|Chapter 1]]
+- [[bibles/NASB-IL/2 Peter/2 Peter 2|Chapter 2]]
+- [[bibles/NASB-IL/2 Peter/2 Peter 3|Chapter 3]]

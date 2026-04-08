@@ -1,0 +1,683 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+book.name: "Isaiah"
+book.number: 23
+chapter: 10
+chapter.total: 66
+testament: OT
+section: "Major Prophets"
+genre: "prophecy"
+original.language: "Hebrew"
+verses.total: 34
+pericopes.count: 4
+parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 10]]"
+parallel.hebrew: "[[bibles/WLCa/23 ישעיהו/ישעיהו 10]]"
+key.terms:
+  - "[[concepts/hebrew/H136 - Adonai]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H216 - or]]"
+  - "[[concepts/hebrew/H259 - echad]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H3220 - yam]]"
+  - "[[concepts/hebrew/H3372 - yare]]"
+  - "[[concepts/hebrew/H3519 - kavod]]"
+  - "[[concepts/hebrew/H3671 - kanaph]]"
+  - "[[concepts/hebrew/H410 - El]]"
+  - "[[concepts/hebrew/H4428 - melek]]"
+  - "[[concepts/hebrew/H4941 - mishpat]]"
+  - "[[concepts/hebrew/H5315 - nephesh]]"
+---
+
+# Isaiah 10
+
+[[bibles/NASB-IL/Isaiah/Isaiah 9|← Isaiah 9]] | [[bibles/NASB-IL/Isaiah/-- Isaiah --|Chapters]] | [[bibles/NASB-IL/Isaiah/Isaiah 11|Isaiah 11 →]]
+
+---
+
+## Isaiah 10:1-4
+
+<sup>1</sup> Woe to those who enact evil statutes And to those who constantly record unjust decisions,
+
+<sup>2</sup> So as to deprive the needy of justice And rob the poor of My people of [their] rights, So that widows may be their spoil And that they may plunder the orphans.
+
+<sup>3</sup> Now what will you do in the day of punishment, And in the devastation which will come from afar? To whom will you flee for help? And where will you leave your wealth?
+
+<sup>4</sup> Nothing [remains] but to crouch among the captives Or fall among the slain. In [spite of] all this, His anger does not turn away And His hand is still stretched out.
+
+> [!hebrew]- Interlinear — Isaiah 10:1-4
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | ה֥וֹי | H1945 | — |
+> | הַחֹֽקְקִ֖ים | H2710 | — |
+> | חִקְקֵי | H2711 | — |
+> | אָ֑וֶן | H205 | — |
+> | וּֽמְכַתְּבִ֥ים | H3789 | — |
+> | עָמָ֖ל | H5999 | — |
+> | כִּתֵּֽבוּ | H3789 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לְהַטּ֤וֹת | H5186 | — |
+> | מִדִּין֙ | H1779 | — |
+> | דַּלִּ֔ים | H1800 | — |
+> | וְלִגְזֹ֕ל | H1497 | — |
+> | מִשְׁפַּ֖ט | [[concepts/hebrew/H4941 - mishpat\|H4941]] | justice, judgment |
+> | עֲנִיֵּ֣י | H6041 | — |
+> | עַמִּ֑י | H5971 | — |
+> | לִהְי֤וֹת | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | אַלְמָנוֹת֙ | H490 | — |
+> | שְׁלָלָ֔ם | H7998 | — |
+> | וְאֶת | — | *[function word]* |
+> | יְתוֹמִ֖ים | H3490 | — |
+> | יָבֹֽזּוּ | H962 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּמַֽה | H4100 | — |
+> | תַּעֲשׂוּ֙ | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | לְי֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | פְּקֻדָּ֔ה | H6486 | — |
+> | וּלְשׁוֹאָ֖ה | H7722 | — |
+> | מִמֶּרְחָ֣ק | H4801 | — |
+> | תָּב֑וֹא | H935 | — |
+> | עַל | — | *[function word]* |
+> | מִי֙ | H4310 | — |
+> | תָּנ֣וּסוּ | H5127 | — |
+> | לְעֶזְרָ֔ה | H5833 | — |
+> | וְאָ֥נָה | — | *[function word]* |
+> | תַעַזְב֖וּ | H5800 | — |
+> | כְּבוֹדְכֶֽם | [[concepts/hebrew/H3519 - kavod\|H3519]] | glory |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | בִּלְתִּ֤י | H1115 | — |
+> | כָרַע֙ | H3766 | — |
+> | תַּ֣חַת | H8478 | — |
+> | אַסִּ֔יר | H616 | — |
+> | וְתַ֥חַת | H8478 | — |
+> | הֲרוּגִ֖ים | H2026 | — |
+> | יִפֹּ֑לוּ | H5307 | — |
+> | בְּכָל | — | *[function word]* |
+> | זֹאת֙ | H2063 | — |
+> | לֹא | H3808 | — |
+> | שָׁ֣ב | H7725 | — |
+> | אַפּ֔וֹ | H639 | — |
+> | וְע֖וֹד | H5750 | — |
+> | יָד֥וֹ | H3027 | — |
+> | נְטוּיָֽה | H5186 | — |
+>
+
+## Isaiah 10:5-19
+
+<sup>5</sup> Woe to Assyria, the rod of My anger And the staff in whose hands is My indignation,
+
+<sup>6</sup> I send it against a godless nation And commission it against the people of My fury To capture booty and to seize plunder, And to trample them down like mud in the streets.
+
+<sup>7</sup> Yet it does not so intend, Nor does it plan so in its heart, But rather it is its purpose to destroy And to cut off many nations.
+
+<sup>8</sup> For it says, 'Are not my princes all kings?
+
+<sup>9</sup> 'Is not Calno like Carchemish, Or Hamath like Arpad, Or Samaria like Damascus?
+
+<sup>10</sup> 'As my hand has reached to the kingdoms of the idols, Whose graven images [were] greater than those of Jerusalem and Samaria,
+
+<sup>11</sup> Shall I not do to Jerusalem and her images Just as I have done to Samaria and her idols?'
+
+<sup>12</sup> So it will be that when the Lord has completed all His work on Mount Zion and on Jerusalem, [He will say], 'I will punish the fruit of the arrogant heart of the king of Assyria and the pomp of his haughtiness.'
+
+<sup>13</sup> For he has said, 'By the power of my hand and by my wisdom I did [this], For I have understanding; And I removed the boundaries of the peoples And plundered their treasures, And like a mighty man I brought down [their] inhabitants,
+
+<sup>14</sup> And my hand reached to the riches of the peoples like a nest, And as one gathers abandoned eggs, I gathered all the earth; And there was not one that flapped its wing or opened [its] beak or chirped.'
+
+<sup>15</sup> Is the axe to boast itself over the one who chops with it? Is the saw to exalt itself over the one who wields it? [That would be] like a club wielding those who lift it, [Or] like a rod lifting [him who] is not wood.[^1]
+
+<sup>16</sup> Therefore the Lord, the GOD of hosts, will send a wasting disease among his stout warriors; And under his glory a fire will be kindled like a burning flame.
+
+<sup>17</sup> And the light of Israel will become a fire and his Holy One a flame, And it will burn and devour his thorns and his briars in a single day.
+
+<sup>18</sup> And He will destroy the glory of his forest and of his fruitful garden, both soul and body, And it will be as when a sick man wastes away.
+
+<sup>19</sup> And the rest of the trees of his forest will be so small in number That a child could write them down.
+
+> [!hebrew]- Interlinear — Isaiah 10:5-19
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | ה֥וֹי | H1945 | — |
+> | אַשּׁ֖וּר | H804 | — |
+> | שֵׁ֣בֶט | H7626 | — |
+> | אַפִּ֑י | H639 | — |
+> | וּמַטֶּה | H4294 | — |
+> | ה֥וּא | H1931 | — |
+> | בְיָדָ֖ם | H3027 | — |
+> | זַעְמִֽי | H2195 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | בְּג֤וֹי | H1471 | — |
+> | חָנֵף֙ | H2611 | — |
+> | אֲשַׁלְּחֶ֔נּוּ | H7971 | — |
+> | וְעַל | — | *[function word]* |
+> | עַ֥ם | H5971 | — |
+> | עֶבְרָתִ֖י | H5678 | — |
+> | אֲצַוֶּ֑נּוּ | H6680 | — |
+> | לִשְׁלֹ֤ל | H7997 | — |
+> | שָׁלָל֙ | H7998 | — |
+> | וְלָבֹ֣ז | H962 | — |
+> | בַּ֔ז | H957 | — |
+> | [k_ולשימו] | H7760 | — |
+> | [q_וּלְשׂוּמ֥וֹ] | H7760 | — |
+> | מִרְמָ֖ס | H4823 | — |
+> | כְּחֹ֥מֶר | H2563 | — |
+> | חוּצֽוֹת | H2351 | — |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהוּא֙ | H1931 | — |
+> | לֹא | H3808 | — |
+> | כֵ֣ן | — | *[function word]* |
+> | יְדַמֶּ֔ה | H1819 | — |
+> | וּלְבָב֖וֹ | H3824 | — |
+> | לֹא | H3808 | — |
+> | כֵ֣ן | — | *[function word]* |
+> | יַחְשֹׁ֑ב | H2803 | — |
+> | כִּ֚י | — | *[function word]* |
+> | לְהַשְׁמִ֣יד | H8045 | — |
+> | בִּלְבָב֔וֹ | H3824 | — |
+> | וּלְהַכְרִ֥ית | H3772 | — |
+> | גּוֹיִ֖ם | H1471 | — |
+> | לֹ֥א | H3808 | — |
+> | מְעָֽט | H4592 | — |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֖י | — | *[function word]* |
+> | יֹאמַ֑ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הֲלֹ֥א | H3808 | — |
+> | שָׂרַ֛י | H8269 | — |
+> | יַחְדָּ֖ו | H3162 | — |
+> | מְלָכִֽים | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הֲלֹ֥א | H3808 | — |
+> | כְּכַרְכְּמִ֖ישׁ | H3751 | — |
+> | כַּלְנ֑וֹ | H3641 | — |
+> | אִם | H518 | — |
+> | לֹ֤א | H3808 | — |
+> | כְאַרְפַּד֙ | H774 | — |
+> | חֲמָ֔ת | H2574 | — |
+> | אִם | H518 | — |
+> | לֹ֥א | H3808 | — |
+> | כְדַמֶּ֖שֶׂק | H1834 | — |
+> | שֹׁמְרֽוֹן | H8111 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כַּאֲשֶׁר֙ | — | *[function word]* |
+> | מָצְאָ֣ה | H4672 | — |
+> | יָדִ֔י | H3027 | — |
+> | לְמַמְלְכֹ֖ת | H4467 | — |
+> | הָאֱלִ֑יל | H457 | — |
+> | וּפְסִ֣ילֵיהֶ֔ם | H6456 | — |
+> | מִירֽוּשָׁלִַ֖ם | H3389 | — |
+> | וּמִשֹּׁמְרֽוֹן | H8111 | — |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הֲלֹ֗א | H3808 | — |
+> | כַּאֲשֶׁ֥ר | — | *[function word]* |
+> | עָשִׂ֛יתִי | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | לְשֹׁמְר֖וֹן | H8111 | — |
+> | וְלֶאֱלִילֶ֑יהָ | H457 | — |
+> | כֵּ֛ן | — | *[function word]* |
+> | אֶעֱשֶׂ֥ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | לִירוּשָׁלִַ֖ם | H3389 | — |
+> | וְלַעֲצַבֶּֽיהָ | H6091 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָיָ֗ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כִּֽי | — | *[function word]* |
+> | יְבַצַּ֤ע | H1214 | — |
+> | אֲדֹנָי֙ | [[concepts/hebrew/H136 - Adonai\|H136]] | Lord, master |
+> | אֶת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | מַֽעֲשֵׂ֔הוּ | H4639 | — |
+> | בְּהַ֥ר | H2022 | — |
+> | צִיּ֖וֹן | H6726 | — |
+> | וּבִירוּשָׁלִָ֑ם | H3389 | — |
+> | אֶפְקֹ֗ד | H6485 | — |
+> | עַל | — | *[function word]* |
+> | פְּרִי | [[concepts/hebrew/H6529 - peri\|H6529]] | fruit |
+> | גֹ֙דֶל֙ | H1433 | — |
+> | לְבַ֣ב | H3824 | — |
+> | מֶֽלֶךְ | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+> | אַשּׁ֔וּר | H804 | — |
+> | וְעַל | — | *[function word]* |
+> | תִּפְאֶ֖רֶת | H8597 | — |
+> | ר֥וּם | H7312 | — |
+> | עֵינָֽיו | H5869 | — |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֣י | — | *[function word]* |
+> | אָמַ֗ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | בְּכֹ֤חַ | H3581 | — |
+> | יָדִי֙ | H3027 | — |
+> | עָשִׂ֔יתִי | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | וּבְחָכְמָתִ֖י | H2451 | — |
+> | כִּ֣י | — | *[function word]* |
+> | נְבֻנ֑וֹתִי | H995 | — |
+> | וְאָסִ֣יר | H5493 | — |
+> | גְּבוּלֹ֣ת | H1367 | — |
+> | עַמִּ֗ים | H5971 | — |
+> | [k_ועתידתיהם] | H6264 | — |
+> | [q_וַעֲתוּדֽוֹתֵיהֶם֙] | H6264 | — |
+> | שׁוֹשֵׂ֔תִי | H8154 | — |
+> | וְאוֹרִ֥יד | H3381 | — |
+> | כַּאבִּ֖יר | H47 | — |
+> | יוֹשְׁבִֽים | H3427 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַתִּמְצָ֨א | H4672 | — |
+> | כַקֵּ֤ן | H7064 | — |
+> | יָדִי֙ | H3027 | — |
+> | לְחֵ֣יל | H2428 | — |
+> | הָֽעַמִּ֔ים | H5971 | — |
+> | וְכֶאֱסֹף֙ | H622 | — |
+> | בֵּיצִ֣ים | H1000 | — |
+> | עֲזֻב֔וֹת | H5800 | — |
+> | כָּל | — | *[function word]* |
+> | הָאָ֖רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | אֲנִ֣י | H589 | — |
+> | אָסָ֑פְתִּי | H622 | — |
+> | וְלֹ֤א | H3808 | — |
+> | הָיָה֙ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | נֹדֵ֣ד | H5074 | — |
+> | כָּנָ֔ף | [[concepts/hebrew/H3671 - kanaph\|H3671]] | wing |
+> | וּפֹצֶ֥ה | H6475 | — |
+> | פֶ֖ה | H6310 | — |
+> | וּמְצַפְצֵֽף | H6850 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הֲיִתְפָּאֵר֙ | H6286 | — |
+> | הַגַּרְזֶ֔ן | H1631 | — |
+> | עַ֖ל | — | *[function word]* |
+> | הַחֹצֵ֣ב | H2672 | — |
+> | אִם | H518 | — |
+> | יִתְגַּדֵּ֤ל | H1431 | — |
+> | הַמַּשּׂוֹר֙ | H4883 | — |
+> | עַל | — | *[function word]* |
+> | מְנִיפ֔וֹ | H5130 | — |
+> | כְּהָנִ֥יף | H5130 | — |
+> | שֵׁ֙בֶט֙ | H7626 | — |
+> | וְאֶת | — | *[function word]* |
+> | מְרִימָ֔יו | H7311 | — |
+> | כְּהָרִ֥ים | H7311 | — |
+> | מַטֶּ֖ה | H4294 | — |
+> | לֹא | H3808 | — |
+> | עֵֽץ | [[concepts/hebrew/H6086 - ets\|H6086]] | tree, wood |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לָ֠כֵן | — | *[function word]* |
+> | יְשַׁלַּ֨ח | H7971 | — |
+> | הָאָד֜וֹן | H113 | — |
+> | יְהוָ֧ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | צְבָא֛וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | בְּמִשְׁמַנָּ֖יו | H4924 | — |
+> | רָז֑וֹן | H7332 | — |
+> | וְתַ֧חַת | H8478 | — |
+> | כְּבֹד֛וֹ | [[concepts/hebrew/H3519 - kavod\|H3519]] | glory |
+> | יֵקַ֥ד | H3344 | — |
+> | יְקֹ֖ד | H3350 | — |
+> | כִּיק֥וֹד | H3350 | — |
+> | אֵֽשׁ | H784 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָיָ֤ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | אֽוֹר | [[concepts/hebrew/H216 - or\|H216]] | light |
+> | יִשְׂרָאֵל֙ | H3478 | — |
+> | לְאֵ֔שׁ | H784 | — |
+> | וּקְדוֹשׁ֖וֹ | H6918 | — |
+> | לְלֶהָבָ֑ה | H3852 | — |
+> | וּבָעֲרָ֗ה | H1197 | — |
+> | וְאָֽכְלָ֛ה | H398 | — |
+> | שִׁית֥וֹ | H7898 | — |
+> | וּשְׁמִיר֖וֹ | H8068 | — |
+> | בְּי֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֶחָֽד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+>
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּכְב֤וֹד | [[concepts/hebrew/H3519 - kavod\|H3519]] | glory |
+> | יַעְרוֹ֙ | H3293 | — |
+> | וְכַרְמִלּ֔וֹ | H3759 | — |
+> | מִנֶּ֥פֶשׁ | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | וְעַד | H5704 | — |
+> | בָּשָׂ֖ר | H1320 | — |
+> | יְכַלֶּ֑ה | H3615 | — |
+> | וְהָיָ֖ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כִּמְסֹ֥ס | H4549 | — |
+> | נֹסֵֽס | H5263 | — |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּשְׁאָ֥ר | H7605 | — |
+> | עֵ֛ץ | [[concepts/hebrew/H6086 - ets\|H6086]] | tree, wood |
+> | יַעְר֖וֹ | H3293 | — |
+> | מִסְפָּ֣ר | H4557 | — |
+> | יִֽהְי֑וּ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | וְנַ֖עַר | H5288 | — |
+> | יִכְתְּבֵֽם | H3789 | — |
+>
+
+## Isaiah 10:20-23
+
+<sup>20</sup> Now in that day the remnant of Israel, and those of the house of Jacob who have escaped, will never again rely on the one who struck them, but will truly rely on the LORD, the Holy One of Israel.
+
+<sup>21</sup> A remnant will return, the remnant of Jacob, to the mighty God.
+
+<sup>22</sup> For though your people, O Israel, may be like the sand of the sea, [Only] a remnant within them will return; A destruction is determined, overflowing with righteousness.[^2]
+
+<sup>23</sup> For a complete destruction, one that is decreed, the Lord GOD of hosts will execute in the midst of the whole land.
+
+> [!hebrew]- Interlinear — Isaiah 10:20-23
+> **20**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָיָ֣ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בַּיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַה֗וּא | H1931 | — |
+> | לֹֽא | H3808 | — |
+> | יוֹסִ֨יף | H3254 | — |
+> | ע֜וֹד | H5750 | — |
+> | שְׁאָ֤ר | H7605 | — |
+> | יִשְׂרָאֵל֙ | H3478 | — |
+> | וּפְלֵיטַ֣ת | H6413 | — |
+> | בֵּֽית | H1004 | — |
+> | יַעֲקֹ֔ב | H3290 | — |
+> | לְהִשָּׁעֵ֖ן | H8172 | — |
+> | עַל | — | *[function word]* |
+> | מַכֵּ֑הוּ | H5221 | — |
+> | וְנִשְׁעַ֗ן | H8172 | — |
+> | עַל | — | *[function word]* |
+> | יְהוָ֛ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | קְד֥וֹשׁ | H6918 | — |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | בֶּאֱמֶֽת | [[concepts/hebrew/H571 - emeth\|H571]] | truth, faithfulness |
+>
+> **21**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | שְׁאָ֥ר | H7605 | — |
+> | יָשׁ֖וּב | H7725 | — |
+> | שְׁאָ֣ר | H7605 | — |
+> | יַעֲקֹ֑ב | H3290 | — |
+> | אֶל | — | *[function word]* |
+> | אֵ֖ל | [[concepts/hebrew/H410 - El\|H410]] | God, mighty one |
+> | גִּבּֽוֹר | H1368 | — |
+>
+> **22**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֣י | — | *[function word]* |
+> | אִם | H518 | — |
+> | יִהְיֶ֞ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | עַמְּךָ֤ | H5971 | — |
+> | יִשְׂרָאֵל֙ | H3478 | — |
+> | כְּח֣וֹל | H2344 | — |
+> | הַיָּ֔ם | [[concepts/hebrew/H3220 - yam\|H3220]] | sea |
+> | שְׁאָ֖ר | H7605 | — |
+> | יָשׁ֣וּב | H7725 | — |
+> | כִּלָּי֥וֹן | H3631 | — |
+> | חָר֖וּץ | H2782 | — |
+> | שׁוֹטֵ֥ף | H7857 | — |
+> | צְדָקָֽה | H6666 | — |
+>
+> **23**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֥י | — | *[function word]* |
+> | כָלָ֖ה | H3617 | — |
+> | וְנֶחֱרָצָ֑ה | H2782 | — |
+> | אֲדֹנָ֤י | [[concepts/hebrew/H136 - Adonai\|H136]] | Lord, master |
+> | יְהוִה֙ | H3069 | — |
+> | צְבָא֔וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | עֹשֶׂ֖ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | בְּקֶ֥רֶב | H7130 | — |
+> | כָּל | — | *[function word]* |
+> | הָאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+
+## Isaiah 10:24-34
+
+<sup>24</sup> Therefore thus says the Lord GOD of hosts, 'O My people who dwell in Zion, do not fear the Assyrian who strikes you with the rod and lifts up his staff against you, the way Egypt [did].
+
+<sup>25</sup> 'For in a very little while My indignation [against you] will be spent and My anger [will be directed] to their destruction.'
+
+<sup>26</sup> The LORD of hosts will arouse a scourge against him like the slaughter of Midian at the rock of Oreb; and His staff will be over the sea and He will lift it up the way [He did] in Egypt.
+
+<sup>27</sup> So it will be in that day, that his burden will be removed from your shoulders and his yoke from your neck, and the yoke will be broken because of fatness.[^3][^4][^5][^6][^7][^8][^9][^10]
+
+<sup>28</sup> He has come against Aiath, He has passed through Migron; At Michmash he deposited his baggage.
+
+<sup>29</sup> They have gone through the pass, [saying], 'Geba will be our lodging place.' Ramah is terrified, and Gibeah of Saul has fled away.
+
+<sup>30</sup> Cry aloud with your voice, O daughter of Gallim! Pay attention, Laishah [and] wretched Anathoth!
+
+<sup>31</sup> Madmenah has fled. The inhabitants of Gebim have sought refuge.
+
+<sup>32</sup> Yet today he will halt at Nob; He shakes his fist at the mountain of the daughter of Zion, the hill of Jerusalem.
+
+<sup>33</sup> Behold, the Lord, the GOD of hosts, will lop off the boughs with a terrible crash; Those also who are tall in stature will be cut down And those who are lofty will be abased.
+
+<sup>34</sup> He will cut down the thickets of the forest with an iron [axe], And Lebanon will fall by the Mighty One.
+
+> [!hebrew]- Interlinear — Isaiah 10:24-34
+> **24**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לָכֵ֗ן | — | *[function word]* |
+> | כֹּֽה | H3541 | — |
+> | אָמַ֞ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֲדֹנָ֤י | [[concepts/hebrew/H136 - Adonai\|H136]] | Lord, master |
+> | יְהוִה֙ | H3069 | — |
+> | צְבָא֔וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | אַל | H408 | — |
+> | תִּירָ֥א | [[concepts/hebrew/H3372 - yare\|H3372]] | to fear, revere |
+> | עַמִּ֛י | H5971 | — |
+> | יֹשֵׁ֥ב | H3427 | — |
+> | צִיּ֖וֹן | H6726 | — |
+> | מֵֽאַשּׁ֑וּר | H804 | — |
+> | בַּשֵּׁ֣בֶט | H7626 | — |
+> | יַכֶּ֔כָּה | H5221 | — |
+> | וּמַטֵּ֥הוּ | H4294 | — |
+> | יִשָּֽׂא | H5375 | — |
+> | עָלֶ֖יךָ | — | *[function word]* |
+> | בְּדֶ֥רֶךְ | H1870 | — |
+> | מִצְרָֽיִם | H4714 | — |
+>
+> **25**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּי | — | *[function word]* |
+> | ע֖וֹד | H5750 | — |
+> | מְעַ֣ט | H4592 | — |
+> | מִזְעָ֑ר | H4213 | — |
+> | וְכָ֣לָה | H3615 | — |
+> | זַ֔עַם | H2195 | — |
+> | וְאַפִּ֖י | H639 | — |
+> | עַל | — | *[function word]* |
+> | תַּבְלִיתָֽם | H8399 | — |
+>
+> **26**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעוֹרֵ֨ר | H5782 | — |
+> | עָלָ֜יו | — | *[function word]* |
+> | יְהוָ֤ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | צְבָאוֹת֙ | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | שׁ֔וֹט | H7752 | — |
+> | כְּמַכַּ֥ת | H4347 | — |
+> | מִדְיָ֖ן | H4080 | — |
+> | בְּצ֣וּר | H6697 | — |
+> | עוֹרֵ֑ב | H6159 | — |
+> | וּמַטֵּ֙הוּ֙ | H4294 | — |
+> | עַל | — | *[function word]* |
+> | הַיָּ֔ם | [[concepts/hebrew/H3220 - yam\|H3220]] | sea |
+> | וּנְשָׂא֖וֹ | H5375 | — |
+> | בְּדֶ֥רֶךְ | H1870 | — |
+> | מִצְרָֽיִם | H4714 | — |
+>
+> **27**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָיָ֣ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בַּיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַה֗וּא | H1931 | — |
+> | יָס֤וּר | H5493 | — |
+> | סֻבֳּלוֹ֙ | H5448 | — |
+> | מֵעַ֣ל | — | *[function word]* |
+> | שִׁכְמֶ֔ךָ | H7926 | — |
+> | וְעֻלּ֖וֹ | H5923 | — |
+> | מֵעַ֣ל | — | *[function word]* |
+> | צַוָּארֶ֑ךָ | H6677 | — |
+> | וְחֻבַּ֥ל | H2254 | — |
+> | עֹ֖ל | H5923 | — |
+> | מִפְּנֵי | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | שָֽׁמֶן | H8081 | — |
+>
+> **28**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | בָּ֥א | H935 | — |
+> | עַל | — | *[function word]* |
+> | עַיַּ֖ת | H5857 | — |
+> | עָבַ֣ר | H5674 | — |
+> | בְּמִגְר֑וֹן | H4051 | — |
+> | לְמִכְמָ֖שׂ | H4363 | — |
+> | יַפְקִ֥יד | H6485 | — |
+> | כֵּלָֽיו | H3627 | — |
+>
+> **29**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | עָֽבְרוּ֙ | H5674 | — |
+> | מַעְבָּרָ֔ה | H4569 | — |
+> | גֶּ֖בַע | H1387 | — |
+> | מָל֣וֹן | H4411 | — |
+> | חָֽרְדָה֙ | H2729 | — |
+> | הָֽרָמָ֔ה | H7414 | — |
+> | גִּבְעַ֥ת | H1390 | — |
+> | שָׁא֖וּל | H7586 | — |
+> | נָֽסָה | H5127 | — |
+>
+> **30**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | צַהֲלִ֥י | H6670 | — |
+> | קוֹלֵ֖ךְ | H6963 | — |
+> | בַּת | H1323 | — |
+> | גַּלִּ֑ים | H1554 | — |
+> | הַקְשִׁ֥יבִי | H7181 | — |
+> | לַ֖יְשָׁה | H3919 | — |
+> | עֲנִיָּ֥ה | H6041 | — |
+> | עֲנָתֽוֹת | H6068 | — |
+>
+> **31**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | נָדְדָ֖ה | H5074 | — |
+> | מַדְמֵנָ֑ה | H4088 | — |
+> | יֹשְׁבֵ֥י | H3427 | — |
+> | הַגֵּבִ֖ים | H1374 | — |
+> | הֵעִֽיזוּ | H5756 | — |
+>
+> **32**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | ע֥וֹד | H5750 | — |
+> | הַיּ֖וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | בְּנֹ֣ב | H5011 | — |
+> | לַֽעֲמֹ֑ד | H5975 | — |
+> | יְנֹפֵ֤ף | H5130 | — |
+> | יָדוֹ֙ | H3027 | — |
+> | הַ֣ר | H2022 | — |
+> | ] | H1004 | — |
+> | ] | H1004 | — |
+> | צִיּ֔וֹן | H1323 | — |
+> | גִּבְעַ֖ת | H1389 | — |
+> | יְרוּשָׁלִָֽם | H3389 | — |
+>
+> **33**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הִנֵּ֤ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | הָאָדוֹן֙ | H113 | — |
+> | יְהוָ֣ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | צְבָא֔וֹת | [[concepts/hebrew/H6635 - tsava\|H6635]] | host, army |
+> | מְסָעֵ֥ף | H5586 | — |
+> | פֻּארָ֖ה | H6288 | — |
+> | בְּמַעֲרָצָ֑ה | H4637 | — |
+> | וְרָמֵ֤י | H7311 | — |
+> | הַקּוֹמָה֙ | H6967 | — |
+> | גְּדוּעִ֔ים | H1438 | — |
+> | וְהַגְּבֹהִ֖ים | H1364 | — |
+> | יִשְׁפָּֽלוּ | H8213 | — |
+>
+> **34**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְנִקַּ֛ף | H5362 | — |
+> | סִֽבְכֵ֥י | H5442 | — |
+> | הַיַּ֖עַר | H3293 | — |
+> | בַּבַּרְזֶ֑ל | H1270 | — |
+> | וְהַלְּבָנ֖וֹן | H3844 | — |
+> | בְּאַדִּ֥יר | H117 | — |
+> | יִפּֽוֹל | H5307 | — |
+>
+
+---
+
+- [[bibles/NASB-IL/Isaiah/Isaiah 9|← Isaiah 9]]
+- [[bibles/NASB-IL/Isaiah/Isaiah 11|Isaiah 11 →]]
+
+**Parallel:** [[bibles/KJV/23: Isaiah/Isaiah ch: 10|KJV]]
+ | [[bibles/WLCa/23 ישעיהו/ישעיהו 10|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Romans/Romans 9#v20|Romans 9:20 @fulfills]] (10 votes)
+[^2]: [[bibles/NASB-IL/Romans/Romans 9#v27|Romans 9:27 @fulfills]] (11 votes)
+[^3]: [[bibles/NASB-IL/Isaiah/Isaiah 9#v4|Isaiah 9:4 @parallels]] (35 votes)
+[^4]: [[bibles/NASB-IL/Luke/Luke 4#v18|Luke 4:18 @fulfills]] (31 votes)
+[^5]: [[bibles/NASB-IL/Isaiah/Isaiah 14#v25|Isaiah 14:25 @parallels]] (28 votes)
+[^6]: [[bibles/NASB-IL/Psalms/Psalms 105#v15|Psalms 105:15 @alludes_to]] (26 votes)
+[^7]: [[bibles/NASB-IL/1 John/1 John 2#v20|1 John 2:20 @fulfills]] (22 votes)
+[^8]: [[bibles/NASB-IL/Psalms/Psalms 45#v7|Psalms 45:7 @alludes_to]] (20 votes)
+[^9]: [[bibles/NASB-IL/Psalms/Psalms 20#v6|Psalms 20:6 @alludes_to]] (18 votes)
+[^10]: [[bibles/NASB-IL/Nahum/Nahum 1#v9|Nahum 1:9 @alludes_to]] (18 votes)

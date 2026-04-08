@@ -1,0 +1,429 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
+book.name: "Ezra"
+book.number: 15
+chapter: 9
+chapter.total: 10
+testament: OT
+section: "Historical"
+genre: "narrative"
+original.language: "Hebrew"
+verses.total: 15
+pericopes.count: 2
+parallel.kjv: "[[bibles/KJV/15: Ezra/Ezra ch: 9]]"
+parallel.hebrew: "[[bibles/WLCa/15 עזרא/עזרא 9]]"
+key.terms:
+  - "[[concepts/hebrew/H1419 - gadol]]"
+  - "[[concepts/hebrew/H1697 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H215 - or]]"
+  - "[[concepts/hebrew/H2233 - zera]]"
+  - "[[concepts/hebrew/H2617 - chesed]]"
+  - "[[concepts/hebrew/H2896 - tov]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H3548 - kohen]]"
+  - "[[concepts/hebrew/H430 - Elohim]]"
+  - "[[concepts/hebrew/H4390 - male]]"
+  - "[[concepts/hebrew/H4428 - melek]]"
+  - "[[concepts/hebrew/H4725 - maqom]]"
+  - "[[concepts/hebrew/H5030 - navi]]"
+---
+
+# Ezra 9
+
+[[bibles/NASB-IL/Ezra/Ezra 8|← Ezra 8]] | [[bibles/NASB-IL/Ezra/-- Ezra --|Chapters]] | [[bibles/NASB-IL/Ezra/Ezra 10|Ezra 10 →]]
+
+---
+
+## Ezra 9:1-4
+
+<sup>1</sup> Now when these things had been completed, the princes approached me, saying, 'The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands, according to their abominations, [those] of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians and the Amorites.
+
+<sup>2</sup> 'For they have taken some of their daughters [as wives] for themselves and for their sons, so that the holy race has intermingled with the peoples of the lands; indeed, the hands of the princes and the rulers have been foremost in this unfaithfulness.'
+
+<sup>3</sup> When I heard about this matter, I tore my garment and my robe, and pulled some of the hair from my head and my beard, and sat down appalled.
+
+<sup>4</sup> Then everyone who trembled at the words of the God of Israel on account of the unfaithfulness of the exiles gathered to me, and I sat appalled until the evening offering.
+
+> [!hebrew]- Interlinear — Ezra 9:1-4
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּכְכַלּ֣וֹת | H3615 | — |
+> | אֵ֗לֶּה | H428 | — |
+> | נִגְּשׁ֨וּ | H5066 | — |
+> | אֵלַ֤י | — | *[function word]* |
+> | הַשָּׂרִים֙ | H8269 | — |
+> | לֵאמֹ֔ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | לֹֽא | H3808 | — |
+> | נִבְדְּל֞וּ | [[concepts/hebrew/H914 - badal\|H914]] | to separate |
+> | הָעָ֤ם | H5971 | — |
+> | יִשְׂרָאֵל֙ | H3478 | — |
+> | וְהַכֹּהֲנִ֣ים | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | וְהַלְוִיִּ֔ם | H3881 | — |
+> | מֵעַמֵּ֖י | H5971 | — |
+> | הָאֲרָצ֑וֹת | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | כְּ֠תוֹעֲבֹֽתֵיהֶם | H8441 | — |
+> | לַכְּנַעֲנִ֨י | H3669 | — |
+> | הַחִתִּ֜י | H2850 | — |
+> | הַפְּרִזִּ֣י | H6522 | — |
+> | הַיְבוּסִ֗י | H2983 | — |
+> | הָֽעַמֹּנִי֙ | H5984 | — |
+> | הַמֹּ֣אָבִ֔י | H4125 | — |
+> | הַמִּצְרִ֖י | H4713 | — |
+> | וְהָאֱמֹרִֽי | H567 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּֽי | — | *[function word]* |
+> | נָשְׂא֣וּ | H5375 | — |
+> | מִבְּנֹֽתֵיהֶ֗ם | H1323 | — |
+> | לָהֶם֙ | H1992 | — |
+> | וְלִבְנֵיהֶ֔ם | H1121 | — |
+> | וְהִתְעָֽרְבוּ֙ | H6148 | — |
+> | זֶ֣רַע | [[concepts/hebrew/H2233 - zera\|H2233]] | seed, offspring |
+> | הַקֹּ֔דֶשׁ | [[concepts/hebrew/H6944 - qodesh\|H6944]] | holiness |
+> | בְּעַמֵּ֖י | H5971 | — |
+> | הָאֲרָצ֑וֹת | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וְיַ֧ד | H3027 | — |
+> | הַשָּׂרִ֣ים | H8269 | — |
+> | וְהַסְּגָנִ֗ים | H5461 | — |
+> | הָֽיְתָ֛ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בַּמַּ֥עַל | H4604 | — |
+> | הַזֶּ֖ה | H2088 | — |
+> | רִאשׁוֹנָֽה | H7223 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּכְשָׁמְעִי֙ | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | אֶת | — | *[function word]* |
+> | הַדָּבָ֣ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | הַזֶּ֔ה | H2088 | — |
+> | קָרַ֥עְתִּי | H7167 | — |
+> | אֶת | — | *[function word]* |
+> | בִּגְדִ֖י | H899 | — |
+> | וּמְעִילִ֑י | H4598 | — |
+> | וָאֶמְרְטָ֞ה | H4803 | — |
+> | מִשְּׂעַ֤ר | H8181 | — |
+> | רֹאשִׁי֙ | H7218 | — |
+> | וּזְקָנִ֔י | H2206 | — |
+> | וָאֵשְׁבָ֖ה | H3427 | — |
+> | מְשׁוֹמֵֽם | H8074 | — |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאֵלַ֣י | — | *[function word]* |
+> | יֵאָסְפ֗וּ | H622 | — |
+> | כֹּ֤ל | — | *[function word]* |
+> | חָרֵד֙ | H2730 | — |
+> | בְּדִבְרֵ֣י | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | אֱלֹהֵֽי | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | יִשְׂרָאֵ֔ל | H3478 | — |
+> | עַ֖ל | — | *[function word]* |
+> | מַ֣עַל | H4604 | — |
+> | הַגּוֹלָ֑ה | H1473 | — |
+> | וַאֲנִי֙ | H589 | — |
+> | יֹשֵׁ֣ב | H3427 | — |
+> | מְשׁוֹמֵ֔ם | H8074 | — |
+> | עַ֖ד | H5704 | — |
+> | לְמִנְחַ֥ת | H4503 | — |
+> | הָעָֽרֶב | [[concepts/hebrew/H6153 - erev\|H6153]] | evening |
+>
+
+## Ezra 9:5-15
+
+<sup>5</sup> But at the evening offering I arose from my humiliation, even with my garment and my robe torn, and I fell on my knees and stretched out my hands to the LORD my God;
+
+<sup>6</sup> and I said, 'O my God, I am ashamed and embarrassed to lift up my face to You, my God, for our iniquities have risen above our heads and our guilt has grown even to the heavens.
+
+<sup>7</sup> 'Since the days of our fathers to this day we [have been] in great guilt, and on account of our iniquities we, our kings [and] our priests have been given into the hand of the kings of the lands, to the sword, to captivity and to plunder and to open shame, as [it is] this day.
+
+<sup>8</sup> 'But now for a brief moment grace has been [shown] from the LORD our God, to leave us an escaped remnant and to give us a peg in His holy place, that our God may enlighten our eyes and grant us a little reviving in our bondage.[^1]
+
+<sup>9</sup> 'For we are slaves; yet in our bondage our God has not forsaken us, but has extended lovingkindness to us in the sight of the kings of Persia, to give us reviving to raise up the house of our God, to restore its ruins and to give us a wall in Judah and Jerusalem.
+
+<sup>10</sup> 'Now, our God, what shall we say after this? For we have forsaken Your commandments,
+
+<sup>11</sup> which You have commanded by Your servants the prophets, saying, 'The land which you are entering to possess is an unclean land with the uncleanness of the peoples of the lands, with their abominations which have filled it from end to end [and] with their impurity.
+
+<sup>12</sup> 'So now do not give your daughters to their sons nor take their daughters to your sons, and never seek their peace or their prosperity, that you may be strong and eat the good [things] of the land and leave [it] as an inheritance to your sons forever.'[^2][^3]
+
+<sup>13</sup> 'After all that has come upon us for our evil deeds and our great guilt, since You our God have requited [us] less than our iniquities [deserve], and have given us an escaped remnant as this,[^4]
+
+<sup>14</sup> shall we again break Your commandments and intermarry with the peoples who commit these abominations? Would You not be angry with us to the point of destruction, until there is no remnant nor any who escape?
+
+<sup>15</sup> 'O LORD God of Israel, You are righteous, for we have been left an escaped remnant, as [it is] this day; behold, we are before You in our guilt, for no one can stand before You because of this.'
+
+> [!hebrew]- Interlinear — Ezra 9:5-15
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וּבְמִנְחַ֣ת | H4503 | — |
+> | הָעֶ֗רֶב | [[concepts/hebrew/H6153 - erev\|H6153]] | evening |
+> | קַ֚מְתִּי | H6965 | — |
+> | מִתַּֽעֲנִיתִ֔י | H8589 | — |
+> | וּבְקָרְעִ֥י | H7167 | — |
+> | בִגְדִ֖י | H899 | — |
+> | וּמְעִילִ֑י | H4598 | — |
+> | וָֽאֶכְרְעָה֙ | H3766 | — |
+> | עַל | — | *[function word]* |
+> | בִּרְכַּ֔י | H1290 | — |
+> | וָאֶפְרְשָׂ֥ה | H6566 | — |
+> | כַפַּ֖י | H3709 | — |
+> | אֶל | — | *[function word]* |
+> | יְהוָ֥ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהָֽי | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וָאֹמְרָ֗ה | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֱלֹהַי֙ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | בֹּ֣שְׁתִּי | H954 | — |
+> | וְנִכְלַ֔מְתִּי | H3637 | — |
+> | לְהָרִ֧ים | H7311 | — |
+> | אֱלֹהַ֛י | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | פָּנַ֖י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | אֵלֶ֑יךָ | — | *[function word]* |
+> | כִּ֣י | — | *[function word]* |
+> | עֲוֺנֹתֵ֤ינוּ | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | רָבוּ֙ | [[concepts/hebrew/H7235 - ravah\|H7235]] | to multiply |
+> | לְמַ֣עְלָה | H4605 | — |
+> | רֹּ֔אשׁ | H7218 | — |
+> | וְאַשְׁמָתֵ֥נוּ | H819 | — |
+> | גָדְלָ֖ה | H1431 | — |
+> | עַ֥ד | H5704 | — |
+> | לַשָּׁמָֽיִם | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מִימֵ֣י | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֲבֹתֵ֗ינוּ | H1 | — |
+> | אֲנַ֙חְנוּ֙ | H587 | — |
+> | בְּאַשְׁמָ֣ה | H819 | — |
+> | גְדֹלָ֔ה | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | עַ֖ד | H5704 | — |
+> | הַיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַזֶּ֑ה | H2088 | — |
+> | וּבַעֲוֺנֹתֵ֡ינוּ | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | נִתַּ֡נּוּ | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אֲנַחְנוּ֩ | H587 | — |
+> | מְלָכֵ֨ינוּ | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+> | כֹהֲנֵ֜ינוּ | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | בְּיַ֣ד | H3027 | — |
+> | מַלְכֵ֣י | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+> | הָאֲרָצ֗וֹת | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | בַּחֶ֜רֶב | H2719 | — |
+> | בַּשְּׁבִ֧י | H7628 | — |
+> | וּבַבִּזָּ֛ה | H961 | — |
+> | וּבְבֹ֥שֶׁת | H1322 | — |
+> | פָּנִ֖ים | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | כְּהַיּ֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַזֶּֽה | H2088 | — |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעַתָּ֡ה | H6258 | — |
+> | כִּמְעַט | H4592 | — |
+> | רֶגַע֩ | H7281 | — |
+> | הָיְתָ֨ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | תְחִנָּ֜ה | H8467 | — |
+> | מֵאֵ֣ת | — | *[function word]* |
+> | יְהוָ֣ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהֵ֗ינוּ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | לְהַשְׁאִ֥יר | H7604 | — |
+> | פְּלֵיטָ֔ה | H6413 | — |
+> | וְלָתֶת | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | יָתֵ֖ד | H3489 | — |
+> | בִּמְק֣וֹם | [[concepts/hebrew/H4725 - maqom\|H4725]] | place |
+> | קָדְשׁ֑וֹ | [[concepts/hebrew/H6944 - qodesh\|H6944]] | holiness |
+> | לְהָאִ֤יר | [[concepts/hebrew/H215 - or\|H215]] | light |
+> | עֵינֵ֙ינוּ֙ | H5869 | — |
+> | אֱלֹהֵ֔ינוּ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וּלְתִתֵּ֛נוּ | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | מִֽחְיָ֥ה | H4241 | — |
+> | מְעַ֖ט | H4592 | — |
+> | בְּעַבְדֻתֵֽנוּ | H5659 | — |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּֽי | — | *[function word]* |
+> | עֲבָדִ֣ים | H5650 | — |
+> | אֲנַ֔חְנוּ | H587 | — |
+> | וּבְעַבְדֻ֔תֵנוּ | H5659 | — |
+> | לֹ֥א | H3808 | — |
+> | עֲזָבָ֖נוּ | H5800 | — |
+> | אֱלֹהֵ֑ינוּ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וַֽיַּט | H5186 | — |
+> | עָלֵ֣ינוּ | — | *[function word]* |
+> | חֶ֡סֶד | [[concepts/hebrew/H2617 - chesed\|H2617]] | lovingkindness |
+> | לִפְנֵי֩ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | מַלְכֵ֨י | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+> | פָרַ֜ס | H6539 | — |
+> | לָֽתֶת | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | מִֽחְיָ֗ה | H4241 | — |
+> | לְרוֹמֵ֞ם | H7311 | — |
+> | אֶת | — | *[function word]* |
+> | בֵּ֤ית | H1004 | — |
+> | אֱלֹהֵ֙ינוּ֙ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וּלְהַעֲמִ֣יד | H5975 | — |
+> | אֶת | — | *[function word]* |
+> | חָרְבֹתָ֔יו | H2723 | — |
+> | וְלָֽתֶת | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | גָדֵ֔ר | H1447 | — |
+> | בִּֽיהוּדָ֖ה | H3063 | — |
+> | וּבִירוּשָׁלִָֽם | H3389 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעַתָּ֛ה | H6258 | — |
+> | מַה | H4100 | — |
+> | נֹּאמַ֥ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֱלֹהֵ֖ינוּ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | אַֽחֲרֵי | H310 | — |
+> | זֹ֑את | H2063 | — |
+> | כִּ֥י | — | *[function word]* |
+> | עָזַ֖בְנוּ | H5800 | — |
+> | מִצְוֺתֶֽיךָ | H4687 | — |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | צִוִּ֗יתָ | H6680 | — |
+> | בְּיַ֨ד | H3027 | — |
+> | עֲבָדֶ֣יךָ | H5650 | — |
+> | הַנְּבִיאִים֮ | [[concepts/hebrew/H5030 - navi\|H5030]] | prophet |
+> | לֵאמֹר֒ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | הָאָ֗רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | אֲשֶׁ֨ר | — | *[function word]* |
+> | אַתֶּ֤ם | H859 | — |
+> | בָּאִים֙ | H935 | — |
+> | לְרִשְׁתָּ֔הּ | H3423 | — |
+> | אֶ֤רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | נִדָּה֙ | H5079 | — |
+> | הִ֔יא | H1931 | — |
+> | בְּנִדַּ֖ת | H5079 | — |
+> | עַמֵּ֣י | H5971 | — |
+> | הָאֲרָצ֑וֹת | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | בְּתוֹעֲבֹֽתֵיהֶ֗ם | H8441 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | מִלְא֛וּהָ | [[concepts/hebrew/H4390 - male\|H4390]] | to fill |
+> | מִפֶּ֥ה | H6310 | — |
+> | אֶל | — | *[function word]* |
+> | פֶּ֖ה | H6310 | — |
+> | בְּטֻמְאָתָֽם | H2932 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְ֠עַתָּה | H6258 | — |
+> | בְּֽנוֹתֵיכֶ֞ם | H1323 | — |
+> | אַל | H408 | — |
+> | תִּתְּנ֣וּ | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | לִבְנֵיהֶ֗ם | H1121 | — |
+> | וּבְנֹֽתֵיהֶם֙ | H1323 | — |
+> | אַל | H408 | — |
+> | תִּשְׂא֣וּ | H5375 | — |
+> | לִבְנֵיכֶ֔ם | H1121 | — |
+> | וְלֹֽא | H3808 | — |
+> | תִדְרְשׁ֧וּ | H1875 | — |
+> | שְׁלֹמָ֛ם | [[concepts/hebrew/H7965 - shalom\|H7965]] | peace |
+> | וְטוֹבָתָ֖ם | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | עַד | H5704 | — |
+> | עוֹלָ֑ם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+> | לְמַ֣עַן | H4616 | — |
+> | תֶּחֶזְק֗וּ | H2388 | — |
+> | וַאֲכַלְתֶּם֙ | H398 | — |
+> | אֶת | — | *[function word]* |
+> | ט֣וּב | H2898 | — |
+> | הָאָ֔רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וְהוֹרַשְׁתֶּ֥ם | H3423 | — |
+> | לִבְנֵיכֶ֖ם | H1121 | — |
+> | עַד | H5704 | — |
+> | עוֹלָֽם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַֽחֲרֵי֙ | H310 | — |
+> | כָּל | — | *[function word]* |
+> | הַבָּ֣א | H935 | — |
+> | עָלֵ֔ינוּ | — | *[function word]* |
+> | בְּמַעֲשֵׂ֙ינוּ֙ | H4639 | — |
+> | הָרָעִ֔ים | H7451 | — |
+> | וּבְאַשְׁמָתֵ֖נוּ | H819 | — |
+> | הַגְּדֹלָ֑ה | [[concepts/hebrew/H1419 - gadol\|H1419]] | great |
+> | כִּ֣י | — | *[function word]* |
+> | אַתָּ֣ה | H859 | — |
+> | אֱלֹהֵ֗ינוּ | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | חָשַׂ֤כְתָּֽ | H2820 | — |
+> | לְמַ֙טָּה֙ | H4295 | — |
+> | מֵֽעֲוֺנֵ֔נוּ | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | וְנָתַ֥תָּה | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | פְּלֵיטָ֖ה | H6413 | — |
+> | כָּזֹֽאת | H2063 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הֲנָשׁוּב֙ | H7725 | — |
+> | לְהָפֵ֣ר | H6565 | — |
+> | מִצְוֺתֶ֔יךָ | H4687 | — |
+> | וּ֨לְהִתְחַתֵּ֔ן | H2859 | — |
+> | בְּעַמֵּ֥י | H5971 | — |
+> | הַתֹּעֵב֖וֹת | H8441 | — |
+> | הָאֵ֑לֶּה | H428 | — |
+> | הֲל֤וֹא | H3808 | — |
+> | תֶֽאֱנַף | H599 | — |
+> | עַד | H5704 | — |
+> | כַּלֵּ֔ה | H3615 | — |
+> | לְאֵ֥ין | H369 | — |
+> | שְׁאֵרִ֖ית | H7611 | — |
+> | וּפְלֵיטָֽה | H6413 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יְהוָ֞ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהֵ֤י | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | יִשְׂרָאֵל֙ | H3478 | — |
+> | צַדִּ֣יק | H6662 | — |
+> | אַ֔תָּה | H859 | — |
+> | כִּֽי | — | *[function word]* |
+> | נִשְׁאַ֥רְנוּ | H7604 | — |
+> | פְלֵיטָ֖ה | H6413 | — |
+> | כְּהַיּ֣וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הַזֶּ֑ה | H2088 | — |
+> | הִנְנ֤וּ | H2005 | — |
+> | לְפָנֶ֙יךָ֙ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | בְּאַשְׁמָתֵ֔ינוּ | H819 | — |
+> | כִּ֣י | — | *[function word]* |
+> | אֵ֥ין | H369 | — |
+> | לַעֲמ֛וֹד | H5975 | — |
+> | לְפָנֶ֖יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | עַל | — | *[function word]* |
+> | זֹֽאת | H2063 | — |
+>
+
+---
+
+- [[bibles/NASB-IL/Ezra/Ezra 8|← Ezra 8]]
+- [[bibles/NASB-IL/Ezra/Ezra 10|Ezra 10 →]]
+
+**Parallel:** [[bibles/KJV/15: Ezra/Ezra ch: 9|KJV]]
+ | [[bibles/WLCa/15 עזרא/עזרא 9|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Psalms/Psalms 13#v3|Psalms 13:3 @alludes_to]] (10 votes)
+[^2]: [[bibles/NASB-IL/Deuteronomy/Deuteronomy 7#v3|Deuteronomy 7:3 @alludes_to]] (15 votes)
+[^3]: [[bibles/NASB-IL/Deuteronomy/Deuteronomy 23#v6|Deuteronomy 23:6 @alludes_to]] (11 votes)
+[^4]: [[bibles/NASB-IL/Psalms/Psalms 103#v10|Psalms 103:10 @alludes_to]] (11 votes)

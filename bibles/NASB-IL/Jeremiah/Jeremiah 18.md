@@ -1,0 +1,527 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+book.name: "Jeremiah"
+book.number: 24
+chapter: 18
+chapter.total: 52
+testament: OT
+section: "Major Prophets"
+genre: "prophecy"
+original.language: "Hebrew"
+verses.total: 23
+pericopes.count: 3
+parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 18]]"
+parallel.hebrew: "[[bibles/WLCa/24 ירמיהו/ירמיהו 18]]"
+key.terms:
+  - "[[concepts/hebrew/H1696 - davar]]"
+  - "[[concepts/hebrew/H1697 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H2403 - chattath]]"
+  - "[[concepts/hebrew/H2896 - tov]]"
+  - "[[concepts/hebrew/H3045 - yada]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H3548 - kohen]]"
+  - "[[concepts/hebrew/H3722 - kaphar]]"
+  - "[[concepts/hebrew/H3820 - lev]]"
+  - "[[concepts/hebrew/H3966 - meod]]"
+  - "[[concepts/hebrew/H4325 - mayim]]"
+  - "[[concepts/hebrew/H5030 - navi]]"
+---
+
+# Jeremiah 18
+
+[[bibles/NASB-IL/Jeremiah/Jeremiah 17|← Jeremiah 17]] | [[bibles/NASB-IL/Jeremiah/-- Jeremiah --|Chapters]] | [[bibles/NASB-IL/Jeremiah/Jeremiah 19|Jeremiah 19 →]]
+
+---
+
+## Jeremiah 18:1-10
+
+<sup>1</sup> The word which came to Jeremiah from the LORD saying,
+
+<sup>2</sup> 'Arise and go down to the potter's house, and there I will announce My words to you.'
+
+<sup>3</sup> Then I went down to the potter's house, and there he was, making something on the wheel.
+
+<sup>4</sup> But the vessel that he was making of clay was spoiled in the hand of the potter; so he remade it into another vessel, as it pleased the potter to make.[^1][^2][^3]
+
+<sup>5</sup> Then the word of the LORD came to me saying,
+
+<sup>6</sup> 'Can I not, O house of Israel, deal with you as this potter [does]?' declares the LORD. 'Behold, like the clay in the potter's hand, so are you in My hand, O house of Israel.[^4][^5][^6][^7][^8][^9]
+
+<sup>7</sup> 'At one moment I might speak concerning a nation or concerning a kingdom to uproot, to pull down, or to destroy [it];
+
+<sup>8</sup> if that nation against which I have spoken turns from its evil, I will relent concerning the calamity I planned to bring on it.[^10]
+
+<sup>9</sup> 'Or at another moment I might speak concerning a nation or concerning a kingdom to build up or to plant [it];
+
+<sup>10</sup> if it does evil in My sight by not obeying My voice, then I will think better of the good with which I had promised to bless it.
+
+> [!hebrew]- Interlinear — Jeremiah 18:1-10
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַדָּבָר֙ | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | הָיָ֣ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | אֶֽל | — | *[function word]* |
+> | יִרְמְיָ֔הוּ | H3414 | — |
+> | מֵאֵ֥ת | — | *[function word]* |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | לֵאמֹֽר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | ק֥וּם | H6965 | — |
+> | וְיָרַדְתָּ֖ | H3381 | — |
+> | בֵּ֣ית | H1004 | — |
+> | הַיּוֹצֵ֑ר | H3335 | — |
+> | וְשָׁ֖מָּה | H8033 | — |
+> | אַשְׁמִֽיעֲךָ֥ | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | אֶת | — | *[function word]* |
+> | דְּבָרָֽי | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וָאֵרֵ֖ד | H3381 | — |
+> | בֵּ֣ית | H1004 | — |
+> | הַיּוֹצֵ֑ר | H3335 | — |
+> | ] | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | [q_ה֛וּא] | H1931 | — |
+> | עֹשֶׂ֥ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | מְלָאכָ֖ה | H4399 | — |
+> | עַל | — | *[function word]* |
+> | הָאָבְנָֽיִם | H70 | — |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְנִשְׁחַ֣ת | H7843 | — |
+> | הַכְּלִ֗י | H3627 | — |
+> | אֲשֶׁ֨ר | — | *[function word]* |
+> | ה֥וּא | H1931 | — |
+> | עֹשֶׂ֛ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | בַּחֹ֖מֶר | H2563 | — |
+> | בְּיַ֣ד | H3027 | — |
+> | הַיּוֹצֵ֑ר | H3335 | — |
+> | וְשָׁ֗ב | H7725 | — |
+> | וַֽיַּעֲשֵׂ֙הוּ֙ | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | כְּלִ֣י | H3627 | — |
+> | אַחֵ֔ר | H312 | — |
+> | כַּאֲשֶׁ֥ר | — | *[function word]* |
+> | יָשַׁ֛ר | H3474 | — |
+> | בְּעֵינֵ֥י | H5869 | — |
+> | הַיּוֹצֵ֖ר | H3335 | — |
+> | לַעֲשֽׂוֹת | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיְהִ֥י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | דְבַר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֵלַ֥י | — | *[function word]* |
+> | לֵאמֽוֹר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הֲכַיּוֹצֵ֨ר | H3335 | — |
+> | הַזֶּ֜ה | H2088 | — |
+> | לֹא | H3808 | — |
+> | אוּכַ֨ל | H3201 | — |
+> | לַעֲשׂ֥וֹת | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | בֵּ֥ית | H1004 | — |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | נְאֻם | H5002 | — |
+> | יְהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הִנֵּ֤ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | כַחֹ֙מֶר֙ | H2563 | — |
+> | בְּיַ֣ד | H3027 | — |
+> | הַיּוֹצֵ֔ר | H3335 | — |
+> | כֵּן | — | *[function word]* |
+> | אַתֶּ֥ם | H859 | — |
+> | בְּיָדִ֖י | H3027 | — |
+> | בֵּ֥ית | H1004 | — |
+> | יִשְׂרָאֵֽל | H3478 | — |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | רֶ֣גַע | H7281 | — |
+> | אֲדַבֵּ֔ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | עַל | — | *[function word]* |
+> | גּ֖וֹי | H1471 | — |
+> | וְעַל | — | *[function word]* |
+> | מַמְלָכָ֑ה | H4467 | — |
+> | לִנְת֥וֹשׁ | H5428 | — |
+> | וְלִנְת֖וֹץ | H5422 | — |
+> | וּֽלְהַאֲבִֽיד | H6 | — |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְשָׁב֙ | H7725 | — |
+> | הַגּ֣וֹי | H1471 | — |
+> | הַה֔וּא | H1931 | — |
+> | מֵרָ֣עָת֔וֹ | H7451 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | דִּבַּ֖רְתִּי | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | עָלָ֑יו | — | *[function word]* |
+> | וְנִֽחַמְתִּי֙ | H5162 | — |
+> | עַל | — | *[function word]* |
+> | הָ֣רָעָ֔ה | H7451 | — |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | חָשַׁ֖בְתִּי | H2803 | — |
+> | לַעֲשׂ֥וֹת | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְרֶ֣גַע | H7281 | — |
+> | אֲדַבֵּ֔ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | עַל | — | *[function word]* |
+> | גּ֖וֹי | H1471 | — |
+> | וְעַל | — | *[function word]* |
+> | מַמְלָכָ֑ה | H4467 | — |
+> | לִבְנֹ֖ת | H1129 | — |
+> | וְלִנְטֹֽעַ | H5193 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעָשָׂ֤ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | [k_הרעה] | H7451 | — |
+> | [q_הָרַע֙] | H7451 | — |
+> | בְּעֵינַ֔י | H5869 | — |
+> | לְבִלְתִּ֖י | H1115 | — |
+> | שְׁמֹ֣עַ | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | בְּקוֹלִ֑י | H6963 | — |
+> | וְנִֽחַמְתִּי֙ | H5162 | — |
+> | עַל | — | *[function word]* |
+> | הַטּוֹבָ֔ה | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | אָמַ֖רְתִּי | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | לְהֵיטִ֥יב | H3190 | — |
+> | אוֹתֽוֹ | — | *[function word]* |
+>
+
+## Jeremiah 18:11-17
+
+<sup>11</sup> 'So now then, speak to the men of Judah and against the inhabitants of Jerusalem saying, 'Thus says the LORD, 'Behold, I am fashioning calamity against you and devising a plan against you. Oh turn back, each of you from his evil way, and reform your ways and your deeds.''[^11]
+
+<sup>12</sup> 'But they will say, 'It's hopeless! For we are going to follow our own plans, and each of us will act according to the stubbornness of his evil heart.'
+
+<sup>13</sup> 'Therefore thus says the LORD, 'Ask now among the nations, Who ever heard the like of this? The virgin of Israel Has done a most appalling thing.
+
+<sup>14</sup> 'Does the snow of Lebanon forsake the rock of the open country? Or is the cold flowing water [from] a foreign [land] ever snatched away?
+
+<sup>15</sup> 'For My people have forgotten Me, They burn incense to worthless gods And they have stumbled from their ways, From the ancient paths, To walk in bypaths, Not on a highway,
+
+<sup>16</sup> To make their land a desolation, [An object of] perpetual hissing; Everyone who passes by it will be astonished And shake his head.
+
+<sup>17</sup> 'Like an east wind I will scatter them Before the enemy; I will show them My back and not [My] face In the day of their calamity.''
+
+> [!hebrew]- Interlinear — Jeremiah 18:11-17
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעַתָּ֡ה | H6258 | — |
+> | אֱמָר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | נָ֣א | H4994 | — |
+> | אֶל | — | *[function word]* |
+> | אִישׁ | H376 | — |
+> | יְהוּדָה֩ | H3063 | — |
+> | וְעַל | — | *[function word]* |
+> | יוֹשְׁבֵ֨י | H3427 | — |
+> | יְרוּשָׁלִַ֜ם | H3389 | — |
+> | לֵאמֹ֗ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | כֹּ֚ה | H3541 | — |
+> | אָמַ֣ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הִנֵּ֨ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | אָנֹכִ֜י | H595 | — |
+> | יוֹצֵ֤ר | H3335 | — |
+> | עֲלֵיכֶם֙ | — | *[function word]* |
+> | רָעָ֔ה | H7451 | — |
+> | וְחֹשֵׁ֥ב | H2803 | — |
+> | עֲלֵיכֶ֖ם | — | *[function word]* |
+> | מַֽחֲשָׁבָ֑ה | H4284 | — |
+> | שׁ֣וּבוּ | H7725 | — |
+> | נָ֗א | H4994 | — |
+> | אִ֚ישׁ | H376 | — |
+> | מִדַּרְכּ֣וֹ | H1870 | — |
+> | הָֽרָעָ֔ה | H7451 | — |
+> | וְהֵיטִ֥יבוּ | H3190 | — |
+> | דַרְכֵיכֶ֖ם | H1870 | — |
+> | וּמַעַלְלֵיכֶֽם | H4611 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאָמְר֖וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | נוֹאָ֑שׁ | H2976 | — |
+> | כִּֽי | — | *[function word]* |
+> | אַחֲרֵ֤י | H310 | — |
+> | מַחְשְׁבוֹתֵ֙ינוּ֙ | H4284 | — |
+> | נֵלֵ֔ךְ | H1980 | — |
+> | וְאִ֛ישׁ | H376 | — |
+> | שְׁרִר֥וּת | H8307 | — |
+> | לִבּֽוֹ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | הָרָ֖ע | H7451 | — |
+> | נַעֲשֶֽׂה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לָכֵ֗ן | — | *[function word]* |
+> | כֹּ֚ה | H3541 | — |
+> | אָמַ֣ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | שַֽׁאֲלוּ | H7592 | — |
+> | נָא֙ | H4994 | — |
+> | בַּגּוֹיִ֔ם | H1471 | — |
+> | מִ֥י | H4310 | — |
+> | שָׁמַ֖ע | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | כָּאֵ֑לֶּה | H428 | — |
+> | שַֽׁעֲרֻרִת֙ | H8186 | — |
+> | עָשְׂתָ֣ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | מְאֹ֔ד | [[concepts/hebrew/H3966 - meod\|H3966]] | very, exceedingly |
+> | בְּתוּלַ֖ת | H1330 | — |
+> | יִשְׂרָאֵֽל | H3478 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הֲיַעֲזֹ֥ב | H5800 | — |
+> | מִצּ֛וּר | H6697 | — |
+> | שָׂדַ֖י | H7704 | — |
+> | שֶׁ֣לֶג | H7950 | — |
+> | לְבָנ֑וֹן | H3844 | — |
+> | אִם | H518 | — |
+> | יִנָּתְשׁ֗וּ | H5428 | — |
+> | מַ֛יִם | [[concepts/hebrew/H4325 - mayim\|H4325]] | water, waters |
+> | זָרִ֥ים | H2114 | — |
+> | קָרִ֖ים | H7119 | — |
+> | נוֹזְלִֽים | H5140 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּֽי | — | *[function word]* |
+> | שְׁכֵחֻ֥נִי | H7911 | — |
+> | עַמִּ֖י | H5971 | — |
+> | לַשָּׁ֣וְא | H7723 | — |
+> | יְקַטֵּ֑רוּ | H6999 | — |
+> | וַיַּכְשִׁל֤וּם | H3782 | — |
+> | בְּדַרְכֵיהֶם֙ | H1870 | — |
+> | שְׁבִילֵ֣י | H7635 | — |
+> | עוֹלָ֔ם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+> | לָלֶ֣כֶת | H1980 | — |
+> | נְתִיב֔וֹת | H5410 | — |
+> | דֶּ֖רֶךְ | H1870 | — |
+> | לֹ֥א | H3808 | — |
+> | סְלוּלָֽה | H5549 | — |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לָשׂ֥וּם | H7760 | — |
+> | אַרְצָ֛ם | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | לְשַׁמָּ֖ה | H8047 | — |
+> | [k_שרוקת] | H8292 | — |
+> | [q_שְׁרִיק֣וֹת] | H8292 | — |
+> | עוֹלָ֑ם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+> | כֹּ֚ל | — | *[function word]* |
+> | עוֹבֵ֣ר | H5674 | — |
+> | עָלֶ֔יהָ | — | *[function word]* |
+> | יִשֹּׁ֖ם | H8074 | — |
+> | וְיָנִ֥יד | H5110 | — |
+> | בְּרֹאשֽׁוֹ | H7218 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כְּרֽוּחַ | [[concepts/hebrew/H7307 - ruach\|H7307]] | spirit, wind, breath |
+> | קָדִ֥ים | H6921 | — |
+> | אֲפִיצֵ֖ם | H6327 | — |
+> | לִפְנֵ֣י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | אוֹיֵ֑ב | H341 | — |
+> | עֹ֧רֶף | H6203 | — |
+> | וְלֹֽא | H3808 | — |
+> | פָנִ֛ים | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | אֶרְאֵ֖ם | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | בְּי֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | אֵידָֽם | H343 | — |
+>
+
+## Jeremiah 18:18-23
+
+<sup>18</sup> Then they said, 'Come and let us devise plans against Jeremiah. Surely the law is not going to be lost to the priest, nor counsel to the sage, nor the [divine] word to the prophet! Come on and let us strike at him with [our] tongue, and let us give no heed to any of his words.'
+
+<sup>19</sup> Do give heed to me, O LORD, And listen to what my opponents are saying!
+
+<sup>20</sup> Should good be repaid with evil? For they have dug a pit for me. Remember how I stood before You To speak good on their behalf, So as to turn away Your wrath from them.
+
+<sup>21</sup> Therefore, give their children over to famine And deliver them up to the power of the sword; And let their wives become childless and widowed. Let their men also be smitten to death, Their young men struck down by the sword in battle.
+
+<sup>22</sup> May an outcry be heard from their houses, When You suddenly bring raiders upon them; For they have dug a pit to capture me And hidden snares for my feet.
+
+<sup>23</sup> Yet You, O LORD, know All their deadly designs against me; Do not forgive their iniquity Or blot out their sin from Your sight. But may they be overthrown before You; Deal with them in the time of Your anger!
+
+> [!hebrew]- Interlinear — Jeremiah 18:18-23
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּאמְר֗וּ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | לְכ֨וּ | H1980 | — |
+> | וְנַחְשְׁבָ֣ה | H2803 | — |
+> | עַֽל | — | *[function word]* |
+> | יִרְמְיָהוּ֮ | H3414 | — |
+> | מַחֲשָׁבוֹת֒ | H4284 | — |
+> | כִּי֩ | — | *[function word]* |
+> | לֹא | H3808 | — |
+> | תֹאבַ֨ד | H6 | — |
+> | תּוֹרָ֜ה | [[concepts/hebrew/H8451 - torah\|H8451]] | law, instruction |
+> | מִכֹּהֵ֗ן | [[concepts/hebrew/H3548 - kohen\|H3548]] | priest |
+> | וְעֵצָה֙ | H6098 | — |
+> | מֵֽחָכָ֔ם | H2450 | — |
+> | וְדָבָ֖ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | מִנָּבִ֑יא | [[concepts/hebrew/H5030 - navi\|H5030]] | prophet |
+> | לְכוּ֙ | H1980 | — |
+> | וְנַכֵּ֣הוּ | H5221 | — |
+> | בַלָּשׁ֔וֹן | — | *[function word]* |
+> | וְאַל | H408 | — |
+> | נַקְשִׁ֖יבָה | H7181 | — |
+> | אֶל | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | דְּבָרָֽיו | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַקְשִׁ֥יבָה | H7181 | — |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֵלָ֑י | — | *[function word]* |
+> | וּשְׁמַ֖ע | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | לְק֥וֹל | H6963 | — |
+> | יְרִיבָֽי | H3401 | — |
+>
+> **20**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַיְשֻׁלַּ֤ם | H7999 | — |
+> | תַּֽחַת | H8478 | — |
+> | טוֹבָה֙ | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | רָעָ֔ה | H7451 | — |
+> | כִּֽי | — | *[function word]* |
+> | כָר֥וּ | H3738 | — |
+> | שׁוּחָ֖ה | H7745 | — |
+> | לְנַפְשִׁ֑י | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | זְכֹ֣ר | H2142 | — |
+> | עָמְדִ֣י | H5975 | — |
+> | לְפָנֶ֗יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | לְדַבֵּ֤ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | עֲלֵיהֶם֙ | — | *[function word]* |
+> | טוֹבָ֔ה | [[concepts/hebrew/H2896 - tov\|H2896]] | good |
+> | לְהָשִׁ֥יב | H7725 | — |
+> | אֶת | — | *[function word]* |
+> | חֲמָתְךָ֖ | H2534 | — |
+> | מֵהֶֽם | H1992 | — |
+>
+> **21**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לָכֵן֩ | — | *[function word]* |
+> | תֵּ֨ן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | אֶת | — | *[function word]* |
+> | בְּנֵיהֶ֜ם | H1121 | — |
+> | לָרָעָ֗ב | H7458 | — |
+> | וְהַגִּרֵם֮ | H5064 | — |
+> | עַל | — | *[function word]* |
+> | יְדֵי | H3027 | — |
+> | חֶרֶב֒ | H2719 | — |
+> | וְתִֽהְיֶ֨נָה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | נְשֵׁיהֶ֤ם | H802 | — |
+> | שַׁכֻּלוֹת֙ | H7909 | — |
+> | וְאַלְמָנ֔וֹת | H490 | — |
+> | וְאַ֨נְשֵׁיהֶ֔ם | H376 | — |
+> | יִֽהְי֖וּ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הֲרֻ֣גֵי | H2026 | — |
+> | מָ֑וֶת | H4194 | — |
+> | בַּח֣וּרֵיהֶ֔ם | H970 | — |
+> | מֻכֵּי | H5221 | — |
+> | חֶ֖רֶב | H2719 | — |
+> | בַּמִּלְחָמָֽה | H4421 | — |
+>
+> **22**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | תִּשָּׁמַ֤ע | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | זְעָקָה֙ | H2201 | — |
+> | מִבָּ֣תֵּיהֶ֔ם | H1004 | — |
+> | כִּֽי | — | *[function word]* |
+> | תָבִ֧יא | H935 | — |
+> | עֲלֵיהֶ֛ם | — | *[function word]* |
+> | גְּד֖וּד | H1416 | — |
+> | פִּתְאֹ֑ם | H6597 | — |
+> | כִּֽי | — | *[function word]* |
+> | כָר֤וּ | H3738 | — |
+> | [k_שיחה] | H7882 | — |
+> | [q_שׁוּחָה֙] | H7882 | — |
+> | לְלָכְדֵ֔נִי | H3920 | — |
+> | וּפַחִ֖ים | H6341 | — |
+> | טָמְנ֥וּ | H2934 | — |
+> | לְרַגְלָֽי | H7272 | — |
+>
+> **23**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַתָּ֣ה | H859 | — |
+> | יְ֠הוָה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | יָדַ֜עְתָּ | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | אֶֽת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | עֲצָתָ֤ם | H6098 | — |
+> | עָלַי֙ | — | *[function word]* |
+> | לַמָּ֔וֶת | H4194 | — |
+> | אַל | H408 | — |
+> | תְּכַפֵּר֙ | [[concepts/hebrew/H3722 - kaphar\|H3722]] | to atone |
+> | עַל | — | *[function word]* |
+> | עֲוֺנָ֔ם | [[concepts/hebrew/H5771 - avon\|H5771]] | iniquity |
+> | וְחַטָּאתָ֖ם | [[concepts/hebrew/H2403 - chattath\|H2403]] | sin |
+> | מִלְּפָנֶ֣יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | אַל | H408 | — |
+> | תֶּ֑מְחִי | H4229 | — |
+> | [k_והיו] | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | [q_וְיִהְי֤וּ] | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | מֻכְשָׁלִים֙ | H3782 | — |
+> | לְפָנֶ֔יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | בְּעֵ֥ת | H6256 | — |
+> | אַפְּךָ֖ | H639 | — |
+> | עֲשֵׂ֥ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+>
+
+---
+
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 17|← Jeremiah 17]]
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 19|Jeremiah 19 →]]
+
+**Parallel:** [[bibles/KJV/24: Jeremiah/Jeremiah ch: 18|KJV]]
+ | [[bibles/WLCa/24 ירמיהו/ירמיהו 18|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Romans/Romans 9#v20|Romans 9:20 @fulfills]] (34 votes)
+[^2]: [[bibles/NASB-IL/Jeremiah/Jeremiah 18#v6|Jeremiah 18:6 @parallels]] (26 votes)
+[^3]: [[bibles/NASB-IL/Isaiah/Isaiah 45#v9|Isaiah 45:9 @parallels]] (23 votes)
+[^4]: [[bibles/NASB-IL/Isaiah/Isaiah 64#v8|Isaiah 64:8 @parallels]] (53 votes)
+[^5]: [[bibles/NASB-IL/Romans/Romans 9#v20|Romans 9:20 @fulfills]] (30 votes)
+[^6]: [[bibles/NASB-IL/Isaiah/Isaiah 45#v9|Isaiah 45:9 @parallels]] (22 votes)
+[^7]: [[bibles/NASB-IL/Jeremiah/Jeremiah 18#v4|Jeremiah 18:4 @parallels]] (22 votes)
+[^8]: [[bibles/NASB-IL/Matthew/Matthew 20#v15|Matthew 20:15 @fulfills]] (19 votes)
+[^9]: [[bibles/NASB-IL/Daniel/Daniel 4#v23|Daniel 4:23 @alludes_to]] (15 votes)
+[^10]: [[bibles/NASB-IL/Ezekiel/Ezekiel 18#v21|Ezekiel 18:21 @parallels]] (14 votes)
+[^11]: [[bibles/NASB-IL/2 Kings/2 Kings 17#v13|2 Kings 17:13 @alludes_to]] (11 votes)

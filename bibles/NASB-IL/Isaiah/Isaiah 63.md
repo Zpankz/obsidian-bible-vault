@@ -1,0 +1,422 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+book.name: "Isaiah"
+book.number: 23
+chapter: 63
+chapter.total: 66
+testament: OT
+section: "Major Prophets"
+genre: "prophecy"
+original.language: "Hebrew"
+verses.total: 19
+pericopes.count: 3
+parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 63]]"
+parallel.hebrew: "[[bibles/WLCa/23 ישעיהו/ישעיהו 63]]"
+key.terms:
+  - "[[concepts/hebrew/H1350 - gaal]]"
+  - "[[concepts/hebrew/H1696 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2617 - chesed]]"
+  - "[[concepts/hebrew/H3045 - yada]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H3220 - yam]]"
+  - "[[concepts/hebrew/H3820 - lev]]"
+  - "[[concepts/hebrew/H4325 - mayim]]"
+  - "[[concepts/hebrew/H4397 - malak]]"
+  - "[[concepts/hebrew/H4910 - mashal]]"
+  - "[[concepts/hebrew/H559 - amar]]"
+  - "[[concepts/hebrew/H5769 - olam]]"
+  - "[[concepts/hebrew/H6213 - asah]]"
+---
+
+# Isaiah 63
+
+[[bibles/NASB-IL/Isaiah/Isaiah 62|← Isaiah 62]] | [[bibles/NASB-IL/Isaiah/-- Isaiah --|Chapters]] | [[bibles/NASB-IL/Isaiah/Isaiah 64|Isaiah 64 →]]
+
+---
+
+## Isaiah 63:1-6
+
+<sup>1</sup> Who is this who comes from Edom, With garments of glowing colors from Bozrah, This One who is majestic in His apparel, Marching in the greatness of His strength? 'It is I who speak in righteousness, mighty to save.'[^1][^2]
+
+<sup>2</sup> Why is Your apparel red, And Your garments like the one who treads in the wine press?[^3]
+
+<sup>3</sup> 'I have trodden the wine trough alone, And from the peoples there was no man with Me. I also trod them in My anger And trampled them in My wrath; And their lifeblood is sprinkled on My garments, And I stained all My raiment.[^4]
+
+<sup>4</sup> 'For the day of vengeance was in My heart, And My year of redemption has come.
+
+<sup>5</sup> 'I looked, and there was no one to help, And I was astonished and there was no one to uphold; So My own arm brought salvation to Me, And My wrath upheld Me.
+
+<sup>6</sup> 'I trod down the peoples in My anger And made them drunk in My wrath, And I poured out their lifeblood on the earth.'
+
+> [!hebrew]- Interlinear — Isaiah 63:1-6
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מִי | H4310 | — |
+> | זֶ֣ה | H2088 | — |
+> | בָּ֣א | H935 | — |
+> | מֵאֱד֗וֹם | H123 | — |
+> | חֲמ֤וּץ | H2556 | — |
+> | בְּגָדִים֙ | H899 | — |
+> | מִבָּצְרָ֔ה | H1224 | — |
+> | זֶ֚ה | H2088 | — |
+> | הָד֣וּר | H1921 | — |
+> | בִּלְבוּשׁ֔וֹ | H3830 | — |
+> | צֹעֶ֖ה | H6808 | — |
+> | בְּרֹ֣ב | H7230 | — |
+> | כֹּח֑וֹ | H3581 | — |
+> | אֲנִ֛י | H589 | — |
+> | מְדַבֵּ֥ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | בִּצְדָקָ֖ה | H6666 | — |
+> | רַ֥ב | H7227 | — |
+> | לְהוֹשִֽׁיעַ | H3467 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מַדּ֥וּעַ | H4069 | — |
+> | אָדֹ֖ם | H122 | — |
+> | לִלְבוּשֶׁ֑ךָ | H3830 | — |
+> | וּבְגָדֶ֖יךָ | H899 | — |
+> | כְּדֹרֵ֥ךְ | H1869 | — |
+> | בְּגַֽת | H1660 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | פּוּרָ֣ה | H6333 | — |
+> | דָּרַ֣כְתִּי | H1869 | — |
+> | לְבַדִּ֗י | H905 | — |
+> | וּמֵֽעַמִּים֙ | H5971 | — |
+> | אֵֽין | H369 | — |
+> | אִ֣ישׁ | H376 | — |
+> | אִתִּ֔י | H854 | — |
+> | וְאֶדְרְכֵ֣ם | H1869 | — |
+> | בְּאַפִּ֔י | H639 | — |
+> | וְאֶרְמְסֵ֖ם | H7429 | — |
+> | בַּחֲמָתִ֑י | H2534 | — |
+> | וְיֵ֤ז | H5137 | — |
+> | נִצְחָם֙ | H5332 | — |
+> | עַל | — | *[function word]* |
+> | בְּגָדַ֔י | H899 | — |
+> | וְכָל | — | *[function word]* |
+> | מַלְבּוּשַׁ֖י | H4403 | — |
+> | אֶגְאָֽלְתִּי | H1351 | — |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֛י | — | *[function word]* |
+> | י֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | נָקָ֖ם | H5359 | — |
+> | בְּלִבִּ֑י | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | וּשְׁנַ֥ת | [[concepts/hebrew/H8141 - shanah\|H8141]] | year |
+> | גְּאוּלַ֖י | [[concepts/hebrew/H1350 - gaal\|H1350]] | to redeem |
+> | בָּֽאָה | H935 | — |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַבִּיט֙ | H5027 | — |
+> | וְאֵ֣ין | H369 | — |
+> | עֹזֵ֔ר | H5826 | — |
+> | וְאֶשְׁתּוֹמֵ֖ם | H8074 | — |
+> | וְאֵ֣ין | H369 | — |
+> | סוֹמֵ֑ךְ | H5564 | — |
+> | וַתּ֤וֹשַֽׁע | H3467 | — |
+> | זְרֹעִ֔י | H2220 | — |
+> | וַחֲמָתִ֖י | H2534 | — |
+> | הִ֥יא | H1931 | — |
+> | סְמָכָֽתְנִי | H5564 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאָב֤וּס | H947 | — |
+> | עַמִּים֙ | H5971 | — |
+> | בְּאַפִּ֔י | H639 | — |
+> | וַאֲשַׁכְּרֵ֖ם | H7937 | — |
+> | בַּחֲמָתִ֑י | H2534 | — |
+> | וְאוֹרִ֥יד | H3381 | — |
+> | לָאָ֖רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | נִצְחָֽם | H5332 | — |
+>
+
+## Isaiah 63:7-14
+
+<sup>7</sup> I shall make mention of the lovingkindnesses of the LORD, the praises of the LORD, According to all that the LORD has granted us, And the great goodness toward the house of Israel, Which He has granted them according to His compassion And according to the abundance of His lovingkindnesses.
+
+<sup>8</sup> For He said, 'Surely, they are My people, Sons who will not deal falsely.' So He became their Savior.
+
+<sup>9</sup> In all their affliction He was afflicted, And the angel of His presence saved them; In His love and in His mercy He redeemed them, And He lifted them and carried them all the days of old.[^5][^6][^7][^8][^9][^10][^11][^12]
+
+<sup>10</sup> But they rebelled And grieved His Holy Spirit; Therefore He turned Himself to become their enemy, He fought against them.[^13][^14][^15][^16]
+
+<sup>11</sup> Then His people remembered the days of old, of Moses. Where is He who brought them up out of the sea with the shepherds of His flock? Where is He who put His Holy Spirit in the midst of them,
+
+<sup>12</sup> Who caused His glorious arm to go at the right hand of Moses, Who divided the waters before them to make for Himself an everlasting name,
+
+<sup>13</sup> Who led them through the depths? Like the horse in the wilderness, they did not stumble;
+
+<sup>14</sup> As the cattle which go down into the valley, The Spirit of the LORD gave them rest. So You led Your people, To make for Yourself a glorious name.
+
+> [!hebrew]- Interlinear — Isaiah 63:7-14
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | חַֽסְדֵ֨י | [[concepts/hebrew/H2617 - chesed\|H2617]] | lovingkindness |
+> | יְהוָ֤ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אַזְכִּיר֙ | H2142 | — |
+> | תְּהִלֹּ֣ת | H8416 | — |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | כְּעַ֕ל | — | *[function word]* |
+> | כֹּ֥ל | — | *[function word]* |
+> | אֲשֶׁר | — | *[function word]* |
+> | גְּמָלָ֖נוּ | H1580 | — |
+> | יְהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | וְרַב | H7227 | — |
+> | טוּב֙ | H2898 | — |
+> | לְבֵ֣ית | H1004 | — |
+> | יִשְׂרָאֵ֔ל | H3478 | — |
+> | אֲשֶׁר | — | *[function word]* |
+> | גְּמָלָ֥ם | H1580 | — |
+> | כְּֽרַחֲמָ֖יו | H7356 | — |
+> | וּכְרֹ֥ב | H7230 | — |
+> | חֲסָדָֽיו | [[concepts/hebrew/H2617 - chesed\|H2617]] | lovingkindness |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֙אמֶר֙ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אַךְ | H389 | — |
+> | עַמִּ֣י | H5971 | — |
+> | הֵ֔מָּה | H1992 | — |
+> | בָּנִ֖ים | H1121 | — |
+> | לֹ֣א | H3808 | — |
+> | יְשַׁקֵּ֑רוּ | H8266 | — |
+> | וַיְהִ֥י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לָהֶ֖ם | H1992 | — |
+> | לְמוֹשִֽׁיעַ | H3467 | — |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | בְּֽכָל | — | *[function word]* |
+> | צָרָתָ֣ם | H6869 | — |
+> | [k_לא] | H3808 | — |
+> | [q_ל֣וֹ] | H3808 | — |
+> | צָ֗ר | H6862 | — |
+> | וּמַלְאַ֤ךְ | [[concepts/hebrew/H4397 - malak\|H4397]] | angel, messenger |
+> | פָּנָיו֙ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | הֽוֹשִׁיעָ֔ם | H3467 | — |
+> | בְּאַהֲבָת֥וֹ | H160 | — |
+> | וּבְחֶמְלָת֖וֹ | H2551 | — |
+> | ה֣וּא | H1931 | — |
+> | גְאָלָ֑ם | [[concepts/hebrew/H1350 - gaal\|H1350]] | to redeem |
+> | וַֽיְנַטְּלֵ֥ם | H5190 | — |
+> | וַֽיְנַשְּׂאֵ֖ם | H5375 | — |
+> | כָּל | — | *[function word]* |
+> | יְמֵ֥י | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | עוֹלָֽם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהֵ֛מָּה | H1992 | — |
+> | מָר֥וּ | H4784 | — |
+> | וְעִצְּב֖וּ | H6087 | — |
+> | אֶת | — | *[function word]* |
+> | ר֣וּחַ | [[concepts/hebrew/H7307 - ruach\|H7307]] | spirit, wind, breath |
+> | קָדְשׁ֑וֹ | [[concepts/hebrew/H6944 - qodesh\|H6944]] | holiness |
+> | וַיֵּהָפֵ֥ךְ | H2015 | — |
+> | לְאוֹיֵ֖ב | H341 | — |
+> | ה֥וּא | H1931 | — |
+> | נִלְחַם | H3898 | — |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּזְכֹּ֥ר | H2142 | — |
+> | יְמֵֽי | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | עוֹלָ֖ם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+> | מֹשֶׁ֣ה | H4872 | — |
+> | עַמּ֑וֹ | H5971 | — |
+> | אַיֵּ֣ה | H346 | — |
+> | הַֽמַּעֲלֵ֣ם | H5927 | — |
+> | מִיָּ֗ם | [[concepts/hebrew/H3220 - yam\|H3220]] | sea |
+> | אֵ֚ת | H854 | — |
+> | רֹעֵ֣י | H7462 | — |
+> | צֹאנ֔וֹ | H6629 | — |
+> | אַיֵּ֛ה | H346 | — |
+> | הַשָּׂ֥ם | H7760 | — |
+> | בְּקִרְבּ֖וֹ | H7130 | — |
+> | אֶת | — | *[function word]* |
+> | ר֥וּחַ | [[concepts/hebrew/H7307 - ruach\|H7307]] | spirit, wind, breath |
+> | קָדְשֽׁוֹ | [[concepts/hebrew/H6944 - qodesh\|H6944]] | holiness |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מוֹלִיךְ֙ | H1980 | — |
+> | לִימִ֣ין | H3225 | — |
+> | מֹשֶׁ֔ה | H4872 | — |
+> | זְר֖וֹעַ | H2220 | — |
+> | תִּפְאַרְתּ֑וֹ | H8597 | — |
+> | בּ֤וֹקֵֽעַ | H1234 | — |
+> | מַ֙יִם֙ | [[concepts/hebrew/H4325 - mayim\|H4325]] | water, waters |
+> | מִפְּנֵיהֶ֔ם | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | לַעֲשׂ֥וֹת | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | שֵׁ֥ם | H8034 | — |
+> | עוֹלָֽם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מוֹלִיכָ֖ם | H1980 | — |
+> | בַּתְּהֹמ֑וֹת | [[concepts/hebrew/H8415 - tehom\|H8415]] | the deep, abyss |
+> | כַּסּ֥וּס | H5483 | — |
+> | בַּמִּדְבָּ֖ר | H4057 | — |
+> | לֹ֥א | H3808 | — |
+> | יִכָּשֵֽׁלוּ | H3782 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כַּבְּהֵמָה֙ | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+> | בַּבִּקְעָ֣ה | H1237 | — |
+> | תֵרֵ֔ד | H3381 | — |
+> | ר֥וּחַ | [[concepts/hebrew/H7307 - ruach\|H7307]] | spirit, wind, breath |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | תְּנִיחֶ֑נּוּ | H5117 | — |
+> | כֵּ֚ן | — | *[function word]* |
+> | נִהַ֣גְתָּ | H5090 | — |
+> | עַמְּךָ֔ | H5971 | — |
+> | לַעֲשׂ֥וֹת | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | שֵׁ֥ם | H8034 | — |
+> | תִּפְאָֽרֶת | H8597 | — |
+>
+
+## Isaiah 63:15-19
+
+<sup>15</sup> Look down from heaven and see from Your holy and glorious habitation; Where are Your zeal and Your mighty deeds? The stirrings of Your heart and Your compassion are restrained toward me.
+
+<sup>16</sup> For You are our Father, though Abraham does not know us And Israel does not recognize us. You, O LORD, are our Father, Our Redeemer from of old is Your name.
+
+<sup>17</sup> Why, O LORD, do You cause us to stray from Your ways And harden our heart from fearing You? Return for the sake of Your servants, the tribes of Your heritage.
+
+<sup>18</sup> Your holy people possessed Your sanctuary for a little while, Our adversaries have trodden [it] down.
+
+<sup>19</sup> We have become [like] those over whom You have never ruled, [Like] those who were not called by Your name.
+
+> [!hebrew]- Interlinear — Isaiah 63:15-19
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַבֵּ֤ט | H5027 | — |
+> | מִשָּׁמַ֙יִם֙ | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+> | וּרְאֵ֔ה | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | מִזְּבֻ֥ל | H2073 | — |
+> | קָדְשְׁךָ֖ | [[concepts/hebrew/H6944 - qodesh\|H6944]] | holiness |
+> | וְתִפְאַרְתֶּ֑ךָ | H8597 | — |
+> | אַיֵּ֤ה | H346 | — |
+> | קִנְאָֽתְךָ֙ | H7068 | — |
+> | וּגְב֣וּרֹתֶ֔ךָ | H1369 | — |
+> | הֲמ֥וֹן | H1995 | — |
+> | מֵעֶ֛יךָ | H4578 | — |
+> | וְֽרַחֲמֶ֖יךָ | H7356 | — |
+> | אֵלַ֥י | — | *[function word]* |
+> | הִתְאַפָּֽקוּ | H662 | — |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּֽי | — | *[function word]* |
+> | אַתָּ֣ה | H859 | — |
+> | אָבִ֔ינוּ | H1 | — |
+> | כִּ֤י | — | *[function word]* |
+> | אַבְרָהָם֙ | H85 | — |
+> | לֹ֣א | H3808 | — |
+> | יְדָעָ֔נוּ | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | וְיִשְׂרָאֵ֖ל | H3478 | — |
+> | לֹ֣א | H3808 | — |
+> | יַכִּירָ֑נוּ | H5234 | — |
+> | אַתָּ֤ה | H859 | — |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אָבִ֔ינוּ | H1 | — |
+> | גֹּאֲלֵ֥נוּ | [[concepts/hebrew/H1350 - gaal\|H1350]] | to redeem |
+> | מֵֽעוֹלָ֖ם | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+> | שְׁמֶֽךָ | H8034 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לָ֣מָּה | H4100 | — |
+> | תַתְעֵ֤נוּ | H8582 | — |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | מִדְּרָכֶ֔יךָ | H1870 | — |
+> | תַּקְשִׁ֥יחַ | H7188 | — |
+> | לִבֵּ֖נוּ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | מִיִּרְאָתֶ֑ךָ | H3374 | — |
+> | שׁ֚וּב | H7725 | — |
+> | לְמַ֣עַן | H4616 | — |
+> | עֲבָדֶ֔יךָ | H5650 | — |
+> | שִׁבְטֵ֖י | H7626 | — |
+> | נַחֲלָתֶֽךָ | H5159 | — |
+>
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לַמִּצְעָ֕ר | H4705 | — |
+> | יָרְשׁ֖וּ | H3423 | — |
+> | עַם | H5971 | — |
+> | קָדְשֶׁ֑ךָ | [[concepts/hebrew/H6944 - qodesh\|H6944]] | holiness |
+> | צָרֵ֕ינוּ | H6862 | — |
+> | בּוֹסְס֖וּ | H947 | — |
+> | מִקְדָּשֶֽׁךָ | H4720 | — |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הָיִ֗ינוּ | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | מֵֽעוֹלָם֙ | [[concepts/hebrew/H5769 - olam\|H5769]] | eternity, forever |
+> | לֹֽא | H3808 | — |
+> | מָשַׁ֣לְתָּ | [[concepts/hebrew/H4910 - mashal\|H4910]] | to rule |
+> | לֹֽא | H3808 | — |
+> | נִקְרָ֥א | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | שִׁמְךָ֖ | H8034 | — |
+> | עֲלֵיהֶ֑ם | — | *[function word]* |
+> | קָרַ֤עְתָּ | H7167 | — |
+> | שָׁמַ֙יִם֙ | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+> | יָרַ֔דְתָּ | H3381 | — |
+> | מִפָּנֶ֖יךָ | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | הָרִ֥ים | H2022 | — |
+> | נָזֹֽלּוּ | H2151 | — |
+>
+
+---
+
+- [[bibles/NASB-IL/Isaiah/Isaiah 62|← Isaiah 62]]
+- [[bibles/NASB-IL/Isaiah/Isaiah 64|Isaiah 64 →]]
+
+**Parallel:** [[bibles/KJV/23: Isaiah/Isaiah ch: 63|KJV]]
+ | [[bibles/WLCa/23 ישעיהו/ישעיהו 63|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Revelation/Revelation 19#v13|Revelation 19:13 @fulfills]] (15 votes)
+[^2]: [[bibles/NASB-IL/Isaiah/Isaiah 34#v5|Isaiah 34:5 @parallels]] (10 votes)
+[^3]: [[bibles/NASB-IL/Revelation/Revelation 19#v13|Revelation 19:13 @fulfills]] (20 votes)
+[^4]: [[bibles/NASB-IL/Revelation/Revelation 19#v13|Revelation 19:13 @fulfills]] (25 votes)
+[^5]: [[bibles/NASB-IL/Exodus/Exodus 33#v14|Exodus 33:14 @alludes_to]] (22 votes)
+[^6]: [[bibles/NASB-IL/Exodus/Exodus 23#v20|Exodus 23:20 @alludes_to]] (15 votes)
+[^7]: [[bibles/NASB-IL/Malachi/Malachi 3#v1|Malachi 3:1 @alludes_to]] (14 votes)
+[^8]: [[bibles/NASB-IL/Acts/Acts 12#v11|Acts 12:11 @fulfills]] (13 votes)
+[^9]: [[bibles/NASB-IL/Acts/Acts 7#v34|Acts 7:34 @fulfills]] (13 votes)
+[^10]: [[bibles/NASB-IL/Exodus/Exodus 14#v19|Exodus 14:19 @alludes_to]] (12 votes)
+[^11]: [[bibles/NASB-IL/Deuteronomy/Deuteronomy 1#v31|Deuteronomy 1:31 @alludes_to]] (12 votes)
+[^12]: [[bibles/NASB-IL/Deuteronomy/Deuteronomy 7#v7|Deuteronomy 7:7 @alludes_to]] (12 votes)
+[^13]: [[bibles/NASB-IL/Acts/Acts 7#v51|Acts 7:51 @fulfills]] (17 votes)
+[^14]: [[bibles/NASB-IL/Ephesians/Ephesians 4#v30|Ephesians 4:30 @fulfills]] (14 votes)
+[^15]: [[bibles/NASB-IL/Psalms/Psalms 78#v56|Psalms 78:56 @alludes_to]] (12 votes)
+[^16]: [[bibles/NASB-IL/Psalms/Psalms 78#v40|Psalms 78:40 @alludes_to]] (11 votes)

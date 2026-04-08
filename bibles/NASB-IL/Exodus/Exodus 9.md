@@ -1,0 +1,793 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+book.name: "Exodus"
+book.number: 2
+chapter: 9
+chapter.total: 40
+testament: OT
+section: "Torah"
+genre: "narrative"
+original.language: "Hebrew"
+verses.total: 35
+pericopes.count: 4
+parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 9]]"
+parallel.hebrew: "[[bibles/WLCa/02 שמות/שמות 9]]"
+key.terms:
+  - "[[concepts/hebrew/H120 - adam]]"
+  - "[[concepts/hebrew/H1242 - boqer]]"
+  - "[[concepts/hebrew/H1696 - davar]]"
+  - "[[concepts/hebrew/H1697 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H2009 - hinneh]]"
+  - "[[concepts/hebrew/H259 - echad]]"
+  - "[[concepts/hebrew/H3045 - yada]]"
+  - "[[concepts/hebrew/H3068 - YHWH]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H3318 - yatsa]]"
+  - "[[concepts/hebrew/H3372 - yare]]"
+  - "[[concepts/hebrew/H3820 - lev]]"
+  - "[[concepts/hebrew/H3966 - meod]]"
+  - "[[concepts/hebrew/H4150 - moed]]"
+---
+
+# Exodus 9
+
+[[bibles/NASB-IL/Exodus/Exodus 8|← Exodus 8]] | [[bibles/NASB-IL/Exodus/-- Exodus --|Chapters]] | [[bibles/NASB-IL/Exodus/Exodus 10|Exodus 10 →]]
+
+---
+
+## Exodus 9:1-7
+
+<sup>1</sup> Then the LORD said to Moses, 'Go to Pharaoh and speak to him, 'Thus says the LORD, the God of the Hebrews, 'Let My people go, that they may serve Me.
+
+<sup>2</sup> 'For if you refuse to let [them] go and continue to hold them,
+
+<sup>3</sup> behold, the hand of the LORD will come [with] a very severe pestilence on your livestock which are in the field, on the horses, on the donkeys, on the camels, on the herds, and on the flocks.
+
+<sup>4</sup> 'But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.'''
+
+<sup>5</sup> The LORD set a definite time, saying, 'Tomorrow the LORD will do this thing in the land.'
+
+<sup>6</sup> So the LORD did this thing on the next day, and all the livestock of Egypt died; but of the livestock of the sons of Israel, not one died.
+
+<sup>7</sup> Pharaoh sent, and behold, there was not even one of the livestock of Israel dead. But the heart of Pharaoh was hardened, and he did not let the people go.
+
+> [!hebrew]- Interlinear — Exodus 9:1-7
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶל | — | *[function word]* |
+> | מֹשֶׁ֔ה | H4872 | — |
+> | בֹּ֖א | H935 | — |
+> | אֶל | — | *[function word]* |
+> | פַּרְעֹ֑ה | H6547 | — |
+> | וְדִבַּרְתָּ֣ | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | אֵלָ֗יו | — | *[function word]* |
+> | כֹּֽה | H3541 | — |
+> | אָמַ֤ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהֵ֣י | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | הָֽעִבְרִ֔ים | H5680 | — |
+> | שַׁלַּ֥ח | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | עַמִּ֖י | H5971 | — |
+> | וְיַֽעַבְדֻֽנִי | H5647 | — |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֛י | — | *[function word]* |
+> | אִם | H518 | — |
+> | מָאֵ֥ן | H3986 | — |
+> | אַתָּ֖ה | H859 | — |
+> | לְשַׁלֵּ֑חַ | H7971 | — |
+> | וְעוֹדְךָ֖ | H5750 | — |
+> | מַחֲזִ֥יק | H2388 | — |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הִנֵּ֨ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | יַד | H3027 | — |
+> | יְהוָ֜ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הוֹיָ֗ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בְּמִקְנְךָ֙ | H4735 | — |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | בַּשָּׂדֶ֔ה | H7704 | — |
+> | בַּסּוּסִ֤ים | H5483 | — |
+> | בַּֽחֲמֹרִים֙ | H2543 | — |
+> | בַּגְּמַלִּ֔ים | H1581 | — |
+> | בַּבָּקָ֖ר | H1241 | — |
+> | וּבַצֹּ֑אן | H6629 | — |
+> | דֶּ֖בֶר | H1698 | — |
+> | כָּבֵ֥ד | H3515 | — |
+> | מְאֹֽד | [[concepts/hebrew/H3966 - meod\|H3966]] | very, exceedingly |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהִפְלָ֣ה | H6395 | — |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בֵּ֚ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | מִקְנֵ֣ה | H4735 | — |
+> | יִשְׂרָאֵ֔ל | H3478 | — |
+> | וּבֵ֖ין | [[concepts/hebrew/H996 - beyn\|H996]] | between |
+> | מִקְנֵ֣ה | H4735 | — |
+> | מִצְרָ֑יִם | H4714 | — |
+> | וְלֹ֥א | H3808 | — |
+> | יָמ֛וּת | H4191 | — |
+> | מִכָּל | — | *[function word]* |
+> | לִבְנֵ֥י | H1121 | — |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | דָּבָֽר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+>
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיָּ֥שֶׂם | H7760 | — |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | מוֹעֵ֣ד | [[concepts/hebrew/H4150 - moed\|H4150]] | appointed time |
+> | לֵאמֹ֑ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | מָחָ֗ר | H4279 | — |
+> | יַעֲשֶׂ֧ה | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | יְהוָ֛ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הַדָּבָ֥ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | הַזֶּ֖ה | H2088 | — |
+> | בָּאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֨עַשׂ | [[concepts/hebrew/H6213 - asah\|H6213]] | to do, make |
+> | יְהוָ֜ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶת | — | *[function word]* |
+> | הַדָּבָ֤ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | הַזֶּה֙ | H2088 | — |
+> | מִֽמָּחֳרָ֔ת | H4283 | — |
+> | וַיָּ֕מָת | H4191 | — |
+> | כֹּ֖ל | — | *[function word]* |
+> | מִקְנֵ֣ה | H4735 | — |
+> | מִצְרָ֑יִם | H4713 | — |
+> | וּמִמִּקְנֵ֥ה | H4735 | — |
+> | בְנֵֽי | H1121 | — |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | לֹא | H3808 | — |
+> | מֵ֥ת | H4191 | — |
+> | אֶחָֽד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּשְׁלַ֣ח | H7971 | — |
+> | פַּרְעֹ֔ה | H6547 | — |
+> | וְהִנֵּ֗ה | [[concepts/hebrew/H2009 - hinneh\|H2009]] | behold |
+> | לֹא | H3808 | — |
+> | מֵ֛ת | H4191 | — |
+> | מִמִּקְנֵ֥ה | H4735 | — |
+> | יִשְׂרָאֵ֖ל | H3478 | — |
+> | עַד | H5704 | — |
+> | אֶחָ֑ד | [[concepts/hebrew/H259 - echad\|H259]] | one, united |
+> | וַיִּכְבַּד֙ | H3513 | — |
+> | לֵ֣ב | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | פַּרְעֹ֔ה | H6547 | — |
+> | וְלֹ֥א | H3808 | — |
+> | שִׁלַּ֖ח | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | הָעָֽם | H5971 | — |
+>
+
+## Exodus 9:8-12
+
+<sup>8</sup> Then the LORD said to Moses and Aaron, 'Take for yourselves handfuls of soot from a kiln, and let Moses throw it toward the sky in the sight of Pharaoh.
+
+<sup>9</sup> 'It will become fine dust over all the land of Egypt, and will become boils breaking out with sores on man and beast through all the land of Egypt.'
+
+<sup>10</sup> So they took soot from a kiln, and stood before Pharaoh; and Moses threw it toward the sky, and it became boils breaking out with sores on man and beast.
+
+<sup>11</sup> The magicians could not stand before Moses because of the boils, for the boils were on the magicians as well as on all the Egyptians.
+
+<sup>12</sup> And the LORD hardened Pharaoh's heart, and he did not listen to them, just as the LORD had spoken to Moses.
+
+> [!hebrew]- Interlinear — Exodus 9:8-12
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֣אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָה֮ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶל | — | *[function word]* |
+> | מֹשֶׁ֣ה | H4872 | — |
+> | וְאֶֽל | — | *[function word]* |
+> | אַהֲרֹן֒ | H175 | — |
+> | קְח֤וּ | H3947 | — |
+> | מְלֹ֣א | H4393 | — |
+> | חָפְנֵיכֶ֔ם | H2651 | — |
+> | פִּ֖יחַ | H6368 | — |
+> | כִּבְשָׁ֑ן | H3536 | — |
+> | וּזְרָק֥וֹ | H2236 | — |
+> | מֹשֶׁ֛ה | H4872 | — |
+> | הַשָּׁמַ֖יְמָה | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+> | לְעֵינֵ֥י | H5869 | — |
+> | פַרְעֹֽה | H6547 | — |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהָיָ֣ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לְאָבָ֔ק | H80 | — |
+> | עַ֖ל | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | אֶ֣רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרָ֑יִם | H4714 | — |
+> | וְהָיָ֨ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | עַל | — | *[function word]* |
+> | הָאָדָ֜ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | וְעַל | — | *[function word]* |
+> | הַבְּהֵמָ֗ה | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+> | לִשְׁחִ֥ין | H7822 | — |
+> | פֹּרֵ֛חַ | H6524 | — |
+> | אֲבַעְבֻּעֹ֖ת | H76 | — |
+> | בְּכָל | — | *[function word]* |
+> | אֶ֥רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרָֽיִם | H4714 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּקְח֞וּ | H3947 | — |
+> | אֶת | — | *[function word]* |
+> | פִּ֣יחַ | H6368 | — |
+> | הַכִּבְשָׁ֗ן | H3536 | — |
+> | וַיַּֽעַמְדוּ֙ | H5975 | — |
+> | לִפְנֵ֣י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | פַרְעֹ֔ה | H6547 | — |
+> | וַיִּזְרֹ֥ק | H2236 | — |
+> | אֹת֛וֹ | — | *[function word]* |
+> | מֹשֶׁ֖ה | H4872 | — |
+> | הַשָּׁמָ֑יְמָה | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+> | וַיְהִ֗י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | שְׁחִין֙ | H7822 | — |
+> | אֲבַעְבֻּעֹ֔ת | H76 | — |
+> | פֹּרֵ֕חַ | H6524 | — |
+> | בָּאָדָ֖ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | וּבַבְּהֵמָֽה | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+>
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְלֹֽא | H3808 | — |
+> | יָכְל֣וּ | H3201 | — |
+> | הַֽחַרְטֻמִּ֗ים | H2748 | — |
+> | לַעֲמֹ֛ד | H5975 | — |
+> | לִפְנֵ֥י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | מֹשֶׁ֖ה | H4872 | — |
+> | מִפְּנֵ֣י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | הַשְּׁחִ֑ין | H7822 | — |
+> | כִּֽי | — | *[function word]* |
+> | הָיָ֣ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | הַשְּׁחִ֔ין | H7822 | — |
+> | בַּֽחֲרְטֻמִּ֖ם | H2748 | — |
+> | וּבְכָל | — | *[function word]* |
+> | מִצְרָֽיִם | H4713 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיְחַזֵּ֤ק | H2388 | — |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶת | — | *[function word]* |
+> | לֵ֣ב | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | פַּרְעֹ֔ה | H6547 | — |
+> | וְלֹ֥א | H3808 | — |
+> | שָׁמַ֖ע | [[concepts/hebrew/H8085 - shama\|H8085]] | to hear, obey |
+> | אֲלֵהֶ֑ם | — | *[function word]* |
+> | כַּאֲשֶׁ֛ר | — | *[function word]* |
+> | דִּבֶּ֥ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶל | — | *[function word]* |
+> | מֹשֶֽׁה | H4872 | — |
+>
+
+## Exodus 9:13-21
+
+<sup>13</sup> Then the LORD said to Moses, 'Rise up early in the morning and stand before Pharaoh and say to him, 'Thus says the LORD, the God of the Hebrews, 'Let My people go, that they may serve Me.
+
+<sup>14</sup> 'For this time I will send all My plagues on you and your servants and your people, so that you may know that there is no one like Me in all the earth.
+
+<sup>15</sup> 'For [if by] now I had put forth My hand and struck you and your people with pestilence, you would then have been cut off from the earth.
+
+<sup>16</sup> 'But, indeed, for this reason I have allowed you to remain, in order to show you My power and in order to proclaim My name through all the earth.[^1][^2]
+
+<sup>17</sup> 'Still you exalt yourself against My people by not letting them go.
+
+<sup>18</sup> 'Behold, about this time tomorrow, I will send a very heavy hail, such as has not been [seen] in Egypt from the day it was founded until now.
+
+<sup>19</sup> 'Now therefore send, bring your livestock and whatever you have in the field to safety. Every man and beast that is found in the field and is not brought home, when the hail comes down on them, will die.'''
+
+<sup>20</sup> The one among the servants of Pharaoh who feared the word of the LORD made his servants and his livestock flee into the houses;
+
+<sup>21</sup> but he who paid no regard to the word of the LORD left his servants and his livestock in the field.
+
+> [!hebrew]- Interlinear — Exodus 9:13-21
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶל | — | *[function word]* |
+> | מֹשֶׁ֔ה | H4872 | — |
+> | הַשְׁכֵּ֣ם | H7925 | — |
+> | בַּבֹּ֔קֶר | [[concepts/hebrew/H1242 - boqer\|H1242]] | morning |
+> | וְהִתְיַצֵּ֖ב | H3320 | — |
+> | לִפְנֵ֣י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | פַרְעֹ֑ה | H6547 | — |
+> | וְאָמַרְתָּ֣ | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָ֗יו | — | *[function word]* |
+> | כֹּֽה | H3541 | — |
+> | אָמַ֤ר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהֵ֣י | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | הָֽעִבְרִ֔ים | H5680 | — |
+> | שַׁלַּ֥ח | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | עַמִּ֖י | H5971 | — |
+> | וְיַֽעַבְדֻֽנִי | H5647 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֣י | — | *[function word]* |
+> | בַּפַּ֣עַם | H6471 | — |
+> | הַזֹּ֗את | H2063 | — |
+> | אֲנִ֨י | H589 | — |
+> | שֹׁלֵ֜חַ | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | מַגֵּפֹתַי֙ | H4046 | — |
+> | אֶֽל | — | *[function word]* |
+> | לִבְּךָ֔ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | וּבַעֲבָדֶ֖יךָ | H5650 | — |
+> | וּבְעַמֶּ֑ךָ | H5971 | — |
+> | בַּעֲב֣וּר | H5668 | — |
+> | תֵּדַ֔ע | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | כִּ֛י | — | *[function word]* |
+> | אֵ֥ין | H369 | — |
+> | כָּמֹ֖נִי | H3644 | — |
+> | בְּכָל | — | *[function word]* |
+> | הָאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּ֤י | — | *[function word]* |
+> | עַתָּה֙ | H6258 | — |
+> | שָׁלַ֣חְתִּי | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | יָדִ֔י | H3027 | — |
+> | וָאַ֥ךְ | H5221 | — |
+> | אוֹתְךָ֛ | — | *[function word]* |
+> | וְאֶֽת | — | *[function word]* |
+> | עַמְּךָ֖ | H5971 | — |
+> | בַּדָּ֑בֶר | H1698 | — |
+> | וַתִּכָּחֵ֖ד | H3582 | — |
+> | מִן | H4480 | — |
+> | הָאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאוּלָ֗ם | H199 | — |
+> | בַּעֲב֥וּר | H5668 | — |
+> | זֹאת֙ | H2063 | — |
+> | הֶעֱמַדְתִּ֔יךָ | H5975 | — |
+> | בַּעֲב֖וּר | H5668 | — |
+> | הַרְאֹתְךָ֣ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | אֶת | — | *[function word]* |
+> | כֹּחִ֑י | H3581 | — |
+> | וּלְמַ֛עַן | H4616 | — |
+> | סַפֵּ֥ר | H5608 | — |
+> | שְׁמִ֖י | H8034 | — |
+> | בְּכָל | — | *[function word]* |
+> | הָאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | עוֹדְךָ֖ | H5750 | — |
+> | מִסְתּוֹלֵ֣ל | H5549 | — |
+> | בְּעַמִּ֑י | H5971 | — |
+> | לְבִלְתִּ֖י | H1115 | — |
+> | שַׁלְּחָֽם | H7971 | — |
+>
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הִנְנִ֤י | H2005 | — |
+> | מַמְטִיר֙ | H4305 | — |
+> | כָּעֵ֣ת | H6256 | — |
+> | מָחָ֔ר | H4279 | — |
+> | בָּרָ֖ד | H1259 | — |
+> | כָּבֵ֣ד | H3515 | — |
+> | מְאֹ֑ד | [[concepts/hebrew/H3966 - meod\|H3966]] | very, exceedingly |
+> | אֲשֶׁ֨ר | — | *[function word]* |
+> | לֹא | H3808 | — |
+> | הָיָ֤ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כָמֹ֙הוּ֙ | H3644 | — |
+> | בְּמִצְרַ֔יִם | H4714 | — |
+> | לְמִן | H4480 | — |
+> | הַיּ֥וֹם | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | הִוָּסְדָ֖ה | H3245 | — |
+> | וְעַד | H5704 | — |
+> | עָֽתָּה | H6258 | — |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְעַתָּ֗ה | H6258 | — |
+> | שְׁלַ֤ח | H7971 | — |
+> | הָעֵז֙ | H5756 | — |
+> | אֶֽת | — | *[function word]* |
+> | מִקְנְךָ֔ | H4735 | — |
+> | וְאֵ֛ת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | אֲשֶׁ֥ר | — | *[function word]* |
+> | בַּשָּׂדֶ֑ה | H7704 | — |
+> | כָּל | — | *[function word]* |
+> | הָאָדָ֨ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | וְהַבְּהֵמָ֜ה | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+> | אֲשֶֽׁר | — | *[function word]* |
+> | יִמָּצֵ֣א | H4672 | — |
+> | בַשָּׂדֶ֗ה | H7704 | — |
+> | וְלֹ֤א | H3808 | — |
+> | יֵֽאָסֵף֙ | H622 | — |
+> | הַבַּ֔יְתָה | H1004 | — |
+> | וְיָרַ֧ד | H3381 | — |
+> | עֲלֵהֶ֛ם | — | *[function word]* |
+> | הַבָּרָ֖ד | H1259 | — |
+> | וָמֵֽתוּ | H4191 | — |
+>
+> **20**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַיָּרֵא֙ | [[concepts/hebrew/H3372 - yare\|H3372]] | to fear, revere |
+> | אֶת | — | *[function word]* |
+> | דְּבַ֣ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | מֵֽעַבְדֵ֖י | H5650 | — |
+> | פַּרְעֹ֑ה | H6547 | — |
+> | הֵנִ֛יס | H5127 | — |
+> | אֶת | — | *[function word]* |
+> | עֲבָדָ֥יו | H5650 | — |
+> | וְאֶת | — | *[function word]* |
+> | מִקְנֵ֖הוּ | H4735 | — |
+> | אֶל | — | *[function word]* |
+> | הַבָּתִּֽים | H1004 | — |
+>
+> **21**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַאֲשֶׁ֥ר | — | *[function word]* |
+> | לֹא | H3808 | — |
+> | שָׂ֛ם | H7760 | — |
+> | לִבּ֖וֹ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | אֶל | — | *[function word]* |
+> | דְּבַ֣ר | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
+> | יְהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | וַֽיַּעֲזֹ֛ב | H5800 | — |
+> | אֶת | — | *[function word]* |
+> | עֲבָדָ֥יו | H5650 | — |
+> | וְאֶת | — | *[function word]* |
+> | מִקְנֵ֖הוּ | H4735 | — |
+> | בַּשָּׂדֶֽה | H7704 | — |
+>
+
+## Exodus 9:22-35
+
+<sup>22</sup> Now the LORD said to Moses, 'Stretch out your hand toward the sky, that hail may fall on all the land of Egypt, on man and on beast and on every plant of the field, throughout the land of Egypt.'
+
+<sup>23</sup> Moses stretched out his staff toward the sky, and the LORD sent thunder and hail, and fire ran down to the earth. And the LORD rained hail on the land of Egypt.
+
+<sup>24</sup> So there was hail, and fire flashing continually in the midst of the hail, very severe, such as had not been in all the land of Egypt since it became a nation.
+
+<sup>25</sup> The hail struck all that was in the field through all the land of Egypt, both man and beast; the hail also struck every plant of the field and shattered every tree of the field.
+
+<sup>26</sup> Only in the land of Goshen, where the sons of Israel [were], there was no hail.
+
+<sup>27</sup> Then Pharaoh sent for Moses and Aaron, and said to them, 'I have sinned this time; the LORD is the righteous one, and I and my people are the wicked ones.
+
+<sup>28</sup> 'Make supplication to the LORD, for there has been enough of God's thunder and hail; and I will let you go, and you shall stay no longer.'
+
+<sup>29</sup> Moses said to him, 'As soon as I go out of the city, I will spread out my hands to the LORD; the thunder will cease and there will be hail no longer, that you may know that the earth is the LORD'S.
+
+<sup>30</sup> 'But as for you and your servants, I know that you do not yet fear the LORD God.'
+
+<sup>31</sup> (Now the flax and the barley were ruined, for the barley was in the ear and the flax was in bud.
+
+<sup>32</sup> But the wheat and the spelt were not ruined, for they [ripen] late.)
+
+<sup>33</sup> So Moses went out of the city from Pharaoh, and spread out his hands to the LORD; and the thunder and the hail ceased, and rain no longer poured on the earth.
+
+<sup>34</sup> But when Pharaoh saw that the rain and the hail and the thunder had ceased, he sinned again and hardened his heart, he and his servants.
+
+<sup>35</sup> Pharaoh's heart was hardened, and he did not let the sons of Israel go, just as the LORD had spoken through Moses.
+
+> [!hebrew]- Interlinear — Exodus 9:22-35
+> **22**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֨אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | יְהוָ֜ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֶל | — | *[function word]* |
+> | מֹשֶׁה | H4872 | — |
+> | נְטֵ֤ה | H5186 | — |
+> | אֶת | — | *[function word]* |
+> | יָֽדְךָ֙ | H3027 | — |
+> | עַל | — | *[function word]* |
+> | הַשָּׁמַ֔יִם | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+> | וִיהִ֥י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בָרָ֖ד | H1259 | — |
+> | בְּכָל | — | *[function word]* |
+> | אֶ֣רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרָ֑יִם | H4714 | — |
+> | עַל | — | *[function word]* |
+> | הָאָדָ֣ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | וְעַל | — | *[function word]* |
+> | הַבְּהֵמָ֗ה | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+> | וְעַ֛ל | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | עֵ֥שֶׂב | [[concepts/hebrew/H6212 - esev\|H6212]] | herb, plant |
+> | הַשָּׂדֶ֖ה | H7704 | — |
+> | בְּאֶ֥רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרָֽיִם | H4714 | — |
+>
+> **23**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֵּ֨ט | H5186 | — |
+> | מֹשֶׁ֣ה | H4872 | — |
+> | אֶת | — | *[function word]* |
+> | מַטֵּהוּ֮ | H4294 | — |
+> | עַל | — | *[function word]* |
+> | הַשָּׁמַיִם֒ | [[concepts/hebrew/H8064 - shamayim\|H8064]] | heavens, sky |
+> | וַֽיהוָ֗ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | נָתַ֤ן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
+> | קֹלֹת֙ | H6963 | — |
+> | וּבָרָ֔ד | H1259 | — |
+> | וַתִּ֥הֲלַךְ | H1980 | — |
+> | אֵ֖שׁ | H784 | — |
+> | אָ֑רְצָה | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וַיַּמְטֵ֧ר | H4305 | — |
+> | יְהוָ֛ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בָּרָ֖ד | H1259 | — |
+> | עַל | — | *[function word]* |
+> | אֶ֥רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרָֽיִם | H4714 | — |
+>
+> **24**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיְהִ֣י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בָרָ֔ד | H1259 | — |
+> | וְאֵ֕שׁ | H784 | — |
+> | מִתְלַקַּ֖חַת | H3947 | — |
+> | בְּת֣וֹךְ | [[concepts/hebrew/H8432 - tavek\|H8432]] | midst, middle |
+> | הַבָּרָ֑ד | H1259 | — |
+> | כָּבֵ֣ד | H3515 | — |
+> | מְאֹ֔ד | [[concepts/hebrew/H3966 - meod\|H3966]] | very, exceedingly |
+> | אֲ֠שֶׁר | — | *[function word]* |
+> | לֹֽא | H3808 | — |
+> | הָיָ֤ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | כָמֹ֙הוּ֙ | H3644 | — |
+> | בְּכָל | — | *[function word]* |
+> | אֶ֣רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרַ֔יִם | H4714 | — |
+> | מֵאָ֖ז | H227 | — |
+> | הָיְתָ֥ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | לְגֽוֹי | H1471 | — |
+>
+> **25**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֨ךְ | H5221 | — |
+> | הַבָּרָ֜ד | H1259 | — |
+> | בְּכָל | — | *[function word]* |
+> | אֶ֣רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | מִצְרַ֗יִם | H4714 | — |
+> | אֵ֚ת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | אֲשֶׁ֣ר | — | *[function word]* |
+> | בַּשָּׂדֶ֔ה | H7704 | — |
+> | מֵאָדָ֖ם | [[concepts/hebrew/H120 - adam\|H120]] | man, mankind |
+> | וְעַד | H5704 | — |
+> | בְּהֵמָ֑ה | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+> | וְאֵ֨ת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | עֵ֤שֶׂב | [[concepts/hebrew/H6212 - esev\|H6212]] | herb, plant |
+> | הַשָּׂדֶה֙ | H7704 | — |
+> | הִכָּ֣ה | H5221 | — |
+> | הַבָּרָ֔ד | H1259 | — |
+> | וְאֶת | — | *[function word]* |
+> | כָּל | — | *[function word]* |
+> | עֵ֥ץ | [[concepts/hebrew/H6086 - ets\|H6086]] | tree, wood |
+> | הַשָּׂדֶ֖ה | H7704 | — |
+> | שִׁבֵּֽר | H7665 | — |
+>
+> **26**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | רַ֚ק | H7535 | — |
+> | בְּאֶ֣רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | גֹּ֔שֶׁן | H1657 | — |
+> | אֲשֶׁר | — | *[function word]* |
+> | שָׁ֖ם | H8033 | — |
+> | בְּנֵ֣י | H1121 | — |
+> | יִשְׂרָאֵ֑ל | H3478 | — |
+> | לֹ֥א | H3808 | — |
+> | הָיָ֖ה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | בָּרָֽד | H1259 | — |
+>
+> **27**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיִּשְׁלַ֣ח | H7971 | — |
+> | פַּרְעֹ֗ה | H6547 | — |
+> | וַיִּקְרָא֙ | [[concepts/hebrew/H7121 - qara\|H7121]] | to call |
+> | לְמֹשֶׁ֣ה | H4872 | — |
+> | וּֽלְאַהֲרֹ֔ן | H175 | — |
+> | וַיֹּ֥אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֲלֵהֶ֖ם | — | *[function word]* |
+> | חָטָ֣אתִי | H2398 | — |
+> | הַפָּ֑עַם | H6471 | — |
+> | יְהוָה֙ | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הַצַּדִּ֔יק | H6662 | — |
+> | וַאֲנִ֥י | H589 | — |
+> | וְעַמִּ֖י | H5971 | — |
+> | הָרְשָׁעִֽים | H7563 | — |
+>
+> **28**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | הַעְתִּ֙ירוּ֙ | H6279 | — |
+> | אֶל | — | *[function word]* |
+> | יְהוָ֔ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | וְרַ֕ב | H7227 | — |
+> | מִֽהְיֹ֛ת | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | קֹלֹ֥ת | H6963 | — |
+> | אֱלֹהִ֖ים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+> | וּבָרָ֑ד | H1259 | — |
+> | וַאֲשַׁלְּחָ֣ה | H7971 | — |
+> | אֶתְכֶ֔ם | — | *[function word]* |
+> | וְלֹ֥א | H3808 | — |
+> | תֹסִפ֖וּן | H3254 | — |
+> | לַעֲמֹֽד | H5975 | — |
+>
+> **29**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֹּ֤אמֶר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | אֵלָיו֙ | — | *[function word]* |
+> | מֹשֶׁ֔ה | H4872 | — |
+> | כְּצֵאתִי֙ | [[concepts/hebrew/H3318 - yatsa\|H3318]] | to go out |
+> | אֶת | — | *[function word]* |
+> | הָעִ֔יר | H5892 | — |
+> | אֶפְרֹ֥שׂ | H6566 | — |
+> | אֶת | — | *[function word]* |
+> | כַּפַּ֖י | H3709 | — |
+> | אֶל | — | *[function word]* |
+> | יְהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הַקֹּל֣וֹת | H6963 | — |
+> | יֶחְדָּל֗וּן | H2308 | — |
+> | וְהַבָּרָד֙ | H1259 | — |
+> | לֹ֣א | H3808 | — |
+> | יִֽהְיֶה | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | ע֔וֹד | H5750 | — |
+> | לְמַ֣עַן | H4616 | — |
+> | תֵּדַ֔ע | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | כִּ֥י | — | *[function word]* |
+> | לַיהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | הָאָֽרֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+> **30**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְאַתָּ֖ה | H859 | — |
+> | וַעֲבָדֶ֑יךָ | H5650 | — |
+> | יָדַ֕עְתִּי | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | כִּ֚י | — | *[function word]* |
+> | טֶ֣רֶם | H2962 | — |
+> | תִּֽירְא֔וּן | [[concepts/hebrew/H3372 - yare\|H3372]] | to fear, revere |
+> | מִפְּנֵ֖י | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | יְהוָ֥ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | אֱלֹהִֽים | [[concepts/hebrew/H430 - Elohim\|H430]] | God |
+>
+> **31**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהַפִּשְׁתָּ֥ה | H6594 | — |
+> | וְהַשְּׂעֹרָ֖ה | H8184 | — |
+> | נֻכָּ֑תָה | H5221 | — |
+> | כִּ֤י | — | *[function word]* |
+> | הַשְּׂעֹרָה֙ | H8184 | — |
+> | אָבִ֔יב | H24 | — |
+> | וְהַפִּשְׁתָּ֖ה | H6594 | — |
+> | גִּבְעֹֽל | H1392 | — |
+>
+> **32**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וְהַחִטָּ֥ה | H2406 | — |
+> | וְהַכֻּסֶּ֖מֶת | H3698 | — |
+> | לֹ֣א | H3808 | — |
+> | נֻכּ֑וּ | H5221 | — |
+> | כִּ֥י | — | *[function word]* |
+> | אֲפִילֹ֖ת | H648 | — |
+> | הֵֽנָּה | H2007 | — |
+>
+> **33**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיֵּצֵ֨א | [[concepts/hebrew/H3318 - yatsa\|H3318]] | to go out |
+> | מֹשֶׁ֜ה | H4872 | — |
+> | מֵעִ֤ם | H5973 | — |
+> | פַּרְעֹה֙ | H6547 | — |
+> | אֶת | — | *[function word]* |
+> | הָעִ֔יר | H5892 | — |
+> | וַיִּפְרֹ֥שׂ | H6566 | — |
+> | כַּפָּ֖יו | H3709 | — |
+> | אֶל | — | *[function word]* |
+> | יְהוָ֑ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | וַֽיַּחְדְּל֤וּ | H2308 | — |
+> | הַקֹּלוֹת֙ | H6963 | — |
+> | וְהַבָּרָ֔ד | H1259 | — |
+> | וּמָטָ֖ר | H4306 | — |
+> | לֹא | H3808 | — |
+> | נִתַּ֥ךְ | H5413 | — |
+> | אָֽרְצָה | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+>
+> **34**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַיַּ֣רְא | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
+> | פַּרְעֹ֗ה | H6547 | — |
+> | כִּֽי | — | *[function word]* |
+> | חָדַ֨ל | H2308 | — |
+> | הַמָּטָ֧ר | H4306 | — |
+> | וְהַבָּרָ֛ד | H1259 | — |
+> | וְהַקֹּלֹ֖ת | H6963 | — |
+> | וַיֹּ֣סֶף | H3254 | — |
+> | לַחֲטֹ֑א | H2398 | — |
+> | וַיַּכְבֵּ֥ד | H3513 | — |
+> | לִבּ֖וֹ | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | ה֥וּא | H1931 | — |
+> | וַעֲבָדָֽיו | H5650 | — |
+>
+> **35**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַֽיֶּחֱזַק֙ | H2388 | — |
+> | לֵ֣ב | [[concepts/hebrew/H3820 - lev\|H3820]] | heart |
+> | פַּרְעֹ֔ה | H6547 | — |
+> | וְלֹ֥א | H3808 | — |
+> | שִׁלַּ֖ח | H7971 | — |
+> | אֶת | — | *[function word]* |
+> | בְּנֵ֣י | H1121 | — |
+> | יִשְׂרָאֵ֑ל | H3478 | — |
+> | כַּאֲשֶׁ֛ר | — | *[function word]* |
+> | דִּבֶּ֥ר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+> | יְהוָ֖ה | [[concepts/hebrew/H3068 - YHWH\|H3068]] | the LORD |
+> | בְּיַד | H3027 | — |
+> | מֹשֶֽׁה | H4872 | — |
+>
+
+---
+
+- [[bibles/NASB-IL/Exodus/Exodus 8|← Exodus 8]]
+- [[bibles/NASB-IL/Exodus/Exodus 10|Exodus 10 →]]
+
+**Parallel:** [[bibles/KJV/02: Exodus/Exodus ch: 9|KJV]]
+ | [[bibles/WLCa/02 שמות/שמות 9|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Romans/Romans 9#v17|Romans 9:17 @fulfills]] (18 votes)
+[^2]: [[bibles/NASB-IL/Proverbs/Proverbs 16#v4|Proverbs 16:4 @alludes_to]] (15 votes)

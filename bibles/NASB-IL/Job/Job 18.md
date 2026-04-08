@@ -1,0 +1,325 @@
+---
+type: chapter
+book: "[[bibles/NASB-IL/Job/-- Job --]]"
+book.name: "Job"
+book.number: 18
+chapter: 18
+chapter.total: 42
+testament: OT
+section: "Wisdom"
+genre: "wisdom"
+original.language: "Hebrew"
+verses.total: 21
+pericopes.count: 3
+parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 18]]"
+parallel.hebrew: "[[bibles/WLCa/18 איוב/איוב 18]]"
+key.terms:
+  - "[[concepts/hebrew/H1696 - davar]]"
+  - "[[concepts/hebrew/H1961 - hayah]]"
+  - "[[concepts/hebrew/H216 - or]]"
+  - "[[concepts/hebrew/H2822 - choshek]]"
+  - "[[concepts/hebrew/H3045 - yada]]"
+  - "[[concepts/hebrew/H3117 - yom]]"
+  - "[[concepts/hebrew/H410 - El]]"
+  - "[[concepts/hebrew/H4428 - melek]]"
+  - "[[concepts/hebrew/H4725 - maqom]]"
+  - "[[concepts/hebrew/H5315 - nephesh]]"
+  - "[[concepts/hebrew/H559 - amar]]"
+  - "[[concepts/hebrew/H6440 - panim]]"
+  - "[[concepts/hebrew/H776 - erets]]"
+  - "[[concepts/hebrew/H929 - behemah]]"
+---
+
+# Job 18
+
+[[bibles/NASB-IL/Job/Job 17|← Job 17]] | [[bibles/NASB-IL/Job/-- Job --|Chapters]] | [[bibles/NASB-IL/Job/Job 19|Job 19 →]]
+
+---
+
+## Job 18:1-4
+
+<sup>1</sup> Then Bildad the Shuhite responded,
+
+<sup>2</sup> 'How long will you hunt for words? Show understanding and then we can talk.
+
+<sup>3</sup> 'Why are we regarded as beasts, As stupid in your eyes?
+
+<sup>4</sup> 'O you who tear yourself in your anger-- For your sake is the earth to be abandoned, Or the rock to be moved from its place?
+
+> [!hebrew]- Interlinear — Job 18:1-4
+> **1**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | וַ֭יַּעַן | H6030 | — |
+> | בִּלְדַּ֥ד | H1085 | — |
+> | הַשֻּׁחִ֗י | H7747 | — |
+> | וַיֹּאמַֽר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+>
+> **2**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | עַד | H5704 | — |
+> | אָ֤נָה | — | *[function word]* |
+> | תְּשִׂימ֣וּן | H7760 | — |
+> | קִנְצֵ֣י | H7078 | — |
+> | לְמִלִּ֑ין | H4405 | — |
+> | תָּ֝בִ֗ינוּ | H995 | — |
+> | וְאַחַ֥ר | H310 | — |
+> | נְדַבֵּֽר | [[concepts/hebrew/H1696 - davar\|H1696]] | to speak; word |
+>
+> **3**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מַ֭דּוּעַ | H4069 | — |
+> | נֶחְשַׁ֣בְנוּ | H2803 | — |
+> | כַבְּהֵמָ֑ה | [[concepts/hebrew/H929 - behemah\|H929]] | beast, cattle |
+> | נִ֝טְמִ֗ינוּ | H2933 | — |
+> | בְּעֵינֵיכֶֽם | H5869 | — |
+>
+> **4**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | טֹֽרֵ֥ף | H2963 | — |
+> | נַפְשׁ֗וֹ | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | בְּאַ֫פּ֥וֹ | H639 | — |
+> | הַ֭לְמַעַנְךָ | H4616 | — |
+> | תֵּעָ֣זַב | H5800 | — |
+> | אָ֑רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וְיֶעְתַּק | H6275 | — |
+> | צ֝֗וּר | H6697 | — |
+> | מִמְּקֹמֽוֹ | [[concepts/hebrew/H4725 - maqom\|H4725]] | place |
+>
+
+## Job 18:5-10
+
+<sup>5</sup> 'Indeed, the light of the wicked goes out, And the flame of his fire gives no light.[^1]
+
+<sup>6</sup> 'The light in his tent is darkened, And his lamp goes out above him.
+
+<sup>7</sup> 'His vigorous stride is shortened, And his own scheme brings him down.
+
+<sup>8</sup> 'For he is thrown into the net by his own feet, And he steps on the webbing.
+
+<sup>9</sup> 'A snare seizes [him] by the heel, [And] a trap snaps shut on him.
+
+<sup>10</sup> 'A noose for him is hidden in the ground, And a trap for him on the path.
+
+> [!hebrew]- Interlinear — Job 18:5-10
+> **5**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | גַּ֤ם | H1571 | — |
+> | א֣וֹר | [[concepts/hebrew/H216 - or\|H216]] | light |
+> | רְשָׁעִ֣ים | H7563 | — |
+> | יִדְעָ֑ךְ | H1846 | — |
+> | וְלֹֽא | H3808 | — |
+> | יִ֝גַּ֗הּ | H5050 | — |
+> | שְׁבִ֣יב | H7632 | — |
+> | אִשּֽׁוֹ | H784 | — |
+>
+> **6**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | א֭וֹר | [[concepts/hebrew/H216 - or\|H216]] | light |
+> | חָשַׁ֣ךְ | H2821 | — |
+> | בְּאָהֳל֑וֹ | H168 | — |
+> | וְ֝נֵר֗וֹ | H5216 | — |
+> | עָלָ֥יו | — | *[function word]* |
+> | יִדְעָֽךְ | H1846 | — |
+>
+> **7**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יֵֽ֭צְרוּ | H3334 | — |
+> | צַעֲדֵ֣י | H6806 | — |
+> | אוֹנ֑וֹ | H202 | — |
+> | וְֽתַשְׁלִיכֵ֥הוּ | H7993 | — |
+> | עֲצָתֽוֹ | H6098 | — |
+>
+> **8**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | כִּֽי | — | *[function word]* |
+> | שֻׁלַּ֣ח | H7971 | — |
+> | בְּרֶ֣שֶׁת | H7568 | — |
+> | בְּרַגְלָ֑יו | H7272 | — |
+> | וְעַל | — | *[function word]* |
+> | שְׂ֝בָכָ֗ה | H7639 | — |
+> | יִתְהַלָּֽךְ | H1980 | — |
+>
+> **9**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יֹאחֵ֣ז | H270 | — |
+> | בְּעָקֵ֣ב | H6119 | — |
+> | פָּ֑ח | H6341 | — |
+> | יַחֲזֵ֖ק | H2388 | — |
+> | עָלָ֣יו | — | *[function word]* |
+> | צַמִּֽים | H6782 | — |
+>
+> **10**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | טָמ֣וּן | H2934 | — |
+> | בָּאָ֣רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | חַבְל֑וֹ | H2256 | — |
+> | וּ֝מַלְכֻּדְתּ֗וֹ | H4434 | — |
+> | עֲלֵ֣י | — | *[function word]* |
+> | נָתִֽיב | H5410 | — |
+>
+
+## Job 18:11-21
+
+<sup>11</sup> 'All around terrors frighten him, And harry him at every step.
+
+<sup>12</sup> 'His strength is famished, And calamity is ready at his side.
+
+<sup>13</sup> 'His skin is devoured by disease, The firstborn of death devours his limbs.
+
+<sup>14</sup> 'He is torn from the security of his tent, And they march him before the king of terrors.
+
+<sup>15</sup> 'There dwells in his tent nothing of his; Brimstone is scattered on his habitation.
+
+<sup>16</sup> 'His roots are dried below, And his branch is cut off above.
+
+<sup>17</sup> 'Memory of him perishes from the earth, And he has no name abroad.
+
+<sup>18</sup> 'He is driven from light into darkness, And chased from the inhabited world.
+
+<sup>19</sup> 'He has no offspring or posterity among his people, Nor any survivor where he sojourned.
+
+<sup>20</sup> 'Those in the west are appalled at his fate, And those in the east are seized with horror.
+
+<sup>21</sup> 'Surely such are the dwellings of the wicked, And this is the place of him who does not know God.'
+
+> [!hebrew]- Interlinear — Job 18:11-21
+> **11**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | סָ֭בִיב | H5439 | — |
+> | בִּֽעֲתֻ֣הוּ | H1204 | — |
+> | בַלָּה֑וֹת | H1091 | — |
+> | וֶהֱפִיצֻ֥הוּ | H6327 | — |
+> | לְרַגְלָֽיו | H7272 | — |
+>
+> **12**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יְהִי | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
+> | רָעֵ֥ב | H7457 | — |
+> | אֹנ֑וֹ | H202 | — |
+> | וְ֝אֵ֗יד | H343 | — |
+> | נָכ֥וֹן | H3559 | — |
+> | לְצַלְעֽוֹ | H6763 | — |
+>
+> **13**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יֹ֭אכַל | H398 | — |
+> | בַּדֵּ֣י | H905 | — |
+> | עוֹר֑וֹ | H5785 | — |
+> | יֹאכַ֥ל | H398 | — |
+> | בַּ֝דָּ֗יו | H905 | — |
+> | בְּכ֣וֹר | H1060 | — |
+> | מָֽוֶת | H4194 | — |
+>
+> **14**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יִנָּתֵ֣ק | H5423 | — |
+> | מֵ֭אָהֳלוֹ | H168 | — |
+> | מִבְטַח֑וֹ | H4009 | — |
+> | וְ֝תַצְעִדֵ֗הוּ | H6805 | — |
+> | לְמֶ֣לֶךְ | [[concepts/hebrew/H4428 - melek\|H4428]] | king |
+> | בַּלָּהֽוֹת | H1091 | — |
+>
+> **15**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | תִּשְׁכּ֣וֹן | H7931 | — |
+> | בְּ֭אָהֳלוֹ | H168 | — |
+> | מִבְּלִי | H1097 | — |
+> | יְזֹרֶ֖ה | H2219 | — |
+> | עַל | — | *[function word]* |
+> | נָוֵ֣הוּ | H5116 | — |
+> | גָפְרִֽית | H1614 | — |
+>
+> **16**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | מִ֭תַּחַת | H8478 | — |
+> | שָֽׁרָשָׁ֣יו | H8328 | — |
+> | יִבָ֑שׁוּ | H3001 | — |
+> | וּ֝מִמַּ֗עַל | H4605 | — |
+> | יִמַּ֥ל | H5243 | — |
+> | קְצִירֽוֹ | H7105 | — |
+>
+> **17**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | זִֽכְרוֹ | H2143 | — |
+> | אָ֭בַד | H6 | — |
+> | מִנִּי | H4480 | — |
+> | אָ֑רֶץ | [[concepts/hebrew/H776 - erets\|H776]] | earth, land |
+> | וְלֹא | H3808 | — |
+> | שֵׁ֥ם | H8034 | — |
+> | עַל | — | *[function word]* |
+> | פְּנֵי | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
+> | חֽוּץ | H2351 | — |
+>
+> **18**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | יֶ֭הְדְּפֻהוּ | H1920 | — |
+> | מֵא֣וֹר | [[concepts/hebrew/H216 - or\|H216]] | light |
+> | אֶל | — | *[function word]* |
+> | חֹ֑שֶׁךְ | [[concepts/hebrew/H2822 - choshek\|H2822]] | darkness |
+> | וּֽמִתֵּבֵ֥ל | H8398 | — |
+> | יְנִדֻּֽהוּ | H5074 | — |
+>
+> **19**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | לֹ֘א | H3808 | — |
+> | נִ֤ין | H5209 | — |
+> | וְלֹא | H3808 | — |
+> | נֶ֣כֶד | H5220 | — |
+> | בְּעַמּ֑וֹ | H5971 | — |
+> | וְאֵ֥ין | H369 | — |
+> | שָׂ֝רִ֗יד | H8300 | — |
+> | בִּמְגוּרָֽיו | H4033 | — |
+>
+> **20**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | עַל | — | *[function word]* |
+> | י֭וֹמוֹ | [[concepts/hebrew/H3117 - yom\|H3117]] | day |
+> | נָשַׁ֣מּוּ | H8074 | — |
+> | אַחֲרֹנִ֑ים | H314 | — |
+> | וְ֝קַדְמֹנִ֗ים | H6931 | — |
+> | אָ֣חֲזוּ | H270 | — |
+> | שָֽׂעַר | H8178 | — |
+>
+> **21**
+> | Original | Strong's | Gloss |
+> |---:|:---:|:---|
+> | אַךְ | H389 | — |
+> | אֵ֭לֶּה | H428 | — |
+> | מִשְׁכְּנ֣וֹת | H4908 | — |
+> | עַוָּ֑ל | H5767 | — |
+> | וְ֝זֶ֗ה | H2088 | — |
+> | מְק֣וֹם | [[concepts/hebrew/H4725 - maqom\|H4725]] | place |
+> | לֹא | H3808 | — |
+> | יָדַֽע | [[concepts/hebrew/H3045 - yada\|H3045]] | to know |
+> | אֵֽל | [[concepts/hebrew/H410 - El\|H410]] | God, mighty one |
+>
+
+---
+
+- [[bibles/NASB-IL/Job/Job 17|← Job 17]]
+- [[bibles/NASB-IL/Job/Job 19|Job 19 →]]
+
+**Parallel:** [[bibles/KJV/18: Job/Job ch: 18|KJV]]
+ | [[bibles/WLCa/18 איוב/איוב 18|Hebrew]]
+
+[^1]: [[bibles/NASB-IL/Proverbs/Proverbs 13#v9|Proverbs 13:9 @parallels]] (10 votes)
