@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Luke/-- Luke --]]"
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 chapter: 14
 chapter.total: 24
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 35
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/42: Luke/Luke ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3384 - meter]]"
+up: "[[bibles/NASB-IL/Luke/-- Luke --]]"
+prev: "[[bibles/NASB-IL/Luke/Luke 13]]"
+next: "[[bibles/NASB-IL/Luke/Luke 15]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Luke 14

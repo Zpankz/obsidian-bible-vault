@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 89
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 52
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 89]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3220 - yam]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 88]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 90]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 89

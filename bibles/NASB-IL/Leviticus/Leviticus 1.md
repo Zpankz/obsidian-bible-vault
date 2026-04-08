@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 1
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5775 - oph]]"
   - "[[concepts/hebrew/H5930 - olah]]"
   - "[[concepts/hebrew/H6086 - ets]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 40]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 2]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 1

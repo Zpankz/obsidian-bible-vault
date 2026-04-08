@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἀλήθεια — Aletheia

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 2
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6635 - tsava]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8451 - torah]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 1]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 3]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 2

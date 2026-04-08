@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 13
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 18
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4102 - pistis]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 12]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 14]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 13

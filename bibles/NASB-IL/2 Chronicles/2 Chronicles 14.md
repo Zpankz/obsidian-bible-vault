@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Chronicles/-- 2 Chronicles --]]"
-book.name: "2 Chronicles"
+book.name: 2 Chronicles
 book.number: 14
 chapter: 14
 chapter.total: 36
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/14: 2 Chronicles/2 Chronicles ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8451 - torah]]"
   - "[[concepts/hebrew/H996 - beyn]]"
+up: "[[bibles/NASB-IL/2 Chronicles/-- 2 Chronicles --]]"
+prev: "[[bibles/NASB-IL/2 Chronicles/2 Chronicles 13]]"
+next: "[[bibles/NASB-IL/2 Chronicles/2 Chronicles 15]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Chronicles 14

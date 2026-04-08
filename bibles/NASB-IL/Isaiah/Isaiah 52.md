@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 52
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 52]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4910 - mashal]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 51]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 53]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 52

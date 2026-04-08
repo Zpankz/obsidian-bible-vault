@@ -19,6 +19,9 @@ related.themes:
   - "[[concepts/themes/Theology Proper]]"
   - "[[concepts/themes/Eschatology]]"
   - "[[concepts/themes/Light and Darkness]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Cosmology

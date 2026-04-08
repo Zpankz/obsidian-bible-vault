@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 7
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 25
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H4723 - miqveh]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 6]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 8]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 7

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 13
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H5030 - navi]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 12]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 14]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 13

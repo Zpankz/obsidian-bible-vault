@@ -16,6 +16,9 @@ related.themes:
   - "[[concepts/themes/Ecclesiology]]"
   - "[[concepts/themes/Creation]]"
   - "[[concepts/themes/New Creation]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Pneumatology

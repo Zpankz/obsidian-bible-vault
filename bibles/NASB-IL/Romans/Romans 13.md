@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Romans/-- Romans --]]"
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 chapter: 13
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 14
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/45: Romans/Romans ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4137 - pleroo]]"
   - "[[concepts/greek/G4160 - poieo]]"
+up: "[[bibles/NASB-IL/Romans/-- Romans --]]"
+prev: "[[bibles/NASB-IL/Romans/Romans 12]]"
+next: "[[bibles/NASB-IL/Romans/Romans 14]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Romans 13

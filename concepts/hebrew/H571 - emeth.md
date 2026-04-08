@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H539 - aman]]"
   - "[[concepts/hebrew/H2617 - chesed]]"
   - "[[concepts/hebrew/H6664 - tsedeq]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # אֱמֶת — Emeth

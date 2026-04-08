@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
-book.name: "Zechariah"
+book.name: Zechariah
 book.number: 38
 chapter: 14
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/38: Zechariah/Zechariah ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
+prev: "[[bibles/NASB-IL/Zechariah/Zechariah 13]]"
+next: "[[bibles/NASB-IL/Malachi/Malachi 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zechariah 14

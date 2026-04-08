@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 33
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 26
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 33]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3220 - yam]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 32]]"
+next: "[[bibles/NASB-IL/Jeremiah/Jeremiah 34]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 33

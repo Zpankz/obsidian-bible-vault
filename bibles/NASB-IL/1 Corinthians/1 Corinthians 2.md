@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 2
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G5547 - Christos]]"
   - "[[concepts/greek/G80 - adelphos]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 1]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 2

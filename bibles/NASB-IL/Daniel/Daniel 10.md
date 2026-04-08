@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 10
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 10]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4390 - male]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 9]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 11]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 10

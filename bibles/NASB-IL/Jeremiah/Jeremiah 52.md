@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 52
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 34
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 52]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3548 - kohen]]"
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 51]]"
+next: "[[bibles/NASB-IL/Lamentations/Lamentations 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 52

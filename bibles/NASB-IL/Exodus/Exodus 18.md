@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 18
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 18]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 17]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 19]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 18

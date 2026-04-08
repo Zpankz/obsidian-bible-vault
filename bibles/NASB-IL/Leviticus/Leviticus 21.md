@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 21
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 24
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 21]]"
@@ -26,6 +26,13 @@ key.terms:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Leviticus/Leviticus 20]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 22]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 21

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
-book.name: "2 Samuel"
+book.name: 2 Samuel
 book.number: 10
 chapter: 22
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 51
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/10: 2 Samuel/2 Samuel ch: 22]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3444 - yeshuah]]"
   - "[[concepts/hebrew/H3671 - kanaph]]"
+up: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
+prev: "[[bibles/NASB-IL/2 Samuel/2 Samuel 21]]"
+next: "[[bibles/NASB-IL/2 Samuel/2 Samuel 23]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Samuel 22

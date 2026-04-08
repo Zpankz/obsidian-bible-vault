@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 145
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 145]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3519 - kavod]]"
   - "[[concepts/hebrew/H3966 - meod]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 144]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 146]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 145

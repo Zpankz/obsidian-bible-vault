@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 31
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 24
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 31]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 30]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 32]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 31

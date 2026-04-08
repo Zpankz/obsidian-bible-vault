@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 testament: NT
-section: "General"
-genre: "epistle"
+section: General
+genre: epistle
 chapters.total: 13
-original.name: "ΠΡΟΣ ΕΒΡΑΙΟΥΣ"
+original.name: ΠΡΟΣ ΕΒΡΑΙΟΥΣ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Hebrews/Hebrews 1]]"
 ---
 
 # Hebrews

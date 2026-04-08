@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
-book.name: "Ezekiel"
+book.name: Ezekiel
 book.number: 26
 chapter: 32
 chapter.total: 48
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 32
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/26: Ezekiel/Ezekiel ch: 32]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3220 - yam]]"
   - "[[concepts/hebrew/H3556 - kokav]]"
+up: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
+prev: "[[bibles/NASB-IL/Ezekiel/Ezekiel 31]]"
+next: "[[bibles/NASB-IL/Ezekiel/Ezekiel 33]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Ezekiel 32

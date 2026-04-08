@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Romans/-- Romans --]]"
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 chapter: 3
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 31
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/45: Romans/Romans ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
+up: "[[bibles/NASB-IL/Romans/-- Romans --]]"
+prev: "[[bibles/NASB-IL/Romans/Romans 2]]"
+next: "[[bibles/NASB-IL/Romans/Romans 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Romans 3

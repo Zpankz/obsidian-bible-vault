@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
-book.name: "1 Kings"
+book.name: 1 Kings
 book.number: 11
 chapter: 8
 chapter.total: 22
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 66
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/11: 1 Kings/1 Kings ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H2617 - chesed]]"
   - "[[concepts/hebrew/H2896 - tov]]"
   - "[[concepts/hebrew/H3045 - yada]]"
+up: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
+prev: "[[bibles/NASB-IL/1 Kings/1 Kings 7]]"
+next: "[[bibles/NASB-IL/1 Kings/1 Kings 9]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Kings 8

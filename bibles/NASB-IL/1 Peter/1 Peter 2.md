@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
-book.name: "1 Peter"
+book.name: 1 Peter
 book.number: 60
 chapter: 2
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 25
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/60: 1 Peter/1 Peter ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3624 - stauros]]"
   - "[[concepts/greek/G40 - hagios]]"
+up: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
+prev: "[[bibles/NASB-IL/1 Peter/1 Peter 1]]"
+next: "[[bibles/NASB-IL/1 Peter/1 Peter 3]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 Peter 2

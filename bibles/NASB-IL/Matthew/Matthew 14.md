@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 14
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 36
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 13]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 15]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 14

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Micah/-- Micah --]]"
-book.name: "Micah"
+book.name: Micah
 book.number: 33
 chapter: 5
 chapter.total: 7
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/33: Micah/Micah ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H7965 - shalom]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+up: "[[bibles/NASB-IL/Micah/-- Micah --]]"
+prev: "[[bibles/NASB-IL/Micah/Micah 4]]"
+next: "[[bibles/NASB-IL/Micah/Micah 6]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Micah 5

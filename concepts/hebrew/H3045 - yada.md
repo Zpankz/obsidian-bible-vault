@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H8085 - shama]]"
   - "[[concepts/hebrew/H2451 - chokmah]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # יָדַע — Yada

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 5
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 14
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G5456 - phone]]"
   - "[[concepts/greek/G932 - basileia]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 4]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 6]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 5

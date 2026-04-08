@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ephesians/-- Ephesians --]]"
-book.name: "Ephesians"
+book.name: Ephesians
 book.number: 49
 chapter: 2
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 22
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/49: Ephesians/Ephesians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/Ephesians/-- Ephesians --]]"
+prev: "[[bibles/NASB-IL/Ephesians/Ephesians 1]]"
+next: "[[bibles/NASB-IL/Ephesians/Ephesians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Ephesians 2

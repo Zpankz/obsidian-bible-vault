@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 chapter: 21
 chapter.total: 31
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 29
 parallel.kjv: "[[bibles/KJV/20: Proverbs/Proverbs ch: 21]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
+up: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 20]]"
+next: "[[bibles/NASB-IL/Proverbs/Proverbs 22]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Proverbs 21

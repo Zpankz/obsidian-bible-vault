@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G5547 - Christos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # θεός — Theos

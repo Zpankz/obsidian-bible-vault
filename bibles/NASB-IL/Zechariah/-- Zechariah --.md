@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Zechariah"
+book.name: Zechariah
 book.number: 38
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 14
-original.name: "זכריה"
+original.name: זכריה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Zechariah/Zechariah 1]]"
 ---
 
 # Zechariah

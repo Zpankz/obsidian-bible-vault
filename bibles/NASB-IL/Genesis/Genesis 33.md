@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 33
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 33]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+prev: "[[bibles/NASB-IL/Genesis/Genesis 32]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 34]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 33

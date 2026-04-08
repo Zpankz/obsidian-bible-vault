@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
-book.name: "Hosea"
+book.name: Hosea
 book.number: 28
 chapter: 12
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/28: Hosea/Hosea ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5030 - navi]]"
   - "[[concepts/hebrew/H539 - aman]]"
+up: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
+prev: "[[bibles/NASB-IL/Hosea/Hosea 11]]"
+next: "[[bibles/NASB-IL/Hosea/Hosea 13]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Hosea 12

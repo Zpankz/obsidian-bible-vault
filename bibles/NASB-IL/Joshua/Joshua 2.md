@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 chapter: 2
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 24
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/06: Joshua/Joshua ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
+prev: "[[bibles/NASB-IL/Joshua/Joshua 1]]"
+next: "[[bibles/NASB-IL/Joshua/Joshua 3]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Joshua 2

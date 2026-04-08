@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H2416 - chay]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # רוּחַ — Ruach

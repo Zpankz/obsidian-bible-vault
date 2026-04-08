@@ -17,6 +17,9 @@ related.themes:
   - "[[concepts/themes/Creation]]"
   - "[[concepts/themes/Eschatology]]"
   - "[[concepts/themes/Christology]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Dominion

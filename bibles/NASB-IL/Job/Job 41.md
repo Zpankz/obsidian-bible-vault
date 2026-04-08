@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 41
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 34
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 41]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 40]]"
+next: "[[bibles/NASB-IL/Job/Job 42]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 41

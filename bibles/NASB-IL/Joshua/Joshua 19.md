@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 chapter: 19
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 51
 pericopes.count: 7
 parallel.kjv: "[[bibles/KJV/06: Joshua/Joshua ch: 19]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H8145 - sheni]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
+prev: "[[bibles/NASB-IL/Joshua/Joshua 18]]"
+next: "[[bibles/NASB-IL/Joshua/Joshua 20]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Joshua 19

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 chapter: 10
 chapter.total: 13
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 39
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/58: Hebrews/Hebrews ch: 10]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G266 - hamartia]]"
+up: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
+prev: "[[bibles/NASB-IL/Hebrews/Hebrews 9]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 11]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Hebrews 10

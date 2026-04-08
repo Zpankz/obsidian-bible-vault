@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 11
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 10]]"
+next: "[[bibles/NASB-IL/Jeremiah/Jeremiah 12]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 11

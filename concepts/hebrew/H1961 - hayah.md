@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H1254 - bara]]"
   - "[[concepts/hebrew/H2416 - chay]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # הָיָה — Hayah

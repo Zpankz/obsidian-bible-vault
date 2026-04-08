@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 11
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 30
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 10]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 12]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 11

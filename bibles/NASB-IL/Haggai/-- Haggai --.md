@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Haggai"
+book.name: Haggai
 book.number: 37
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 2
-original.name: "חגי"
+original.name: חגי
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Haggai/Haggai 1]]"
 ---
 
 # Haggai

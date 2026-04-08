@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Luke/-- Luke --]]"
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 chapter: 22
 chapter.total: 24
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 71
 pericopes.count: 7
 parallel.kjv: "[[bibles/KJV/42: Luke/Luke ch: 22]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G225 - aletheia]]"
   - "[[concepts/greek/G2288 - thanatos]]"
   - "[[concepts/greek/G2309 - thelo]]"
+up: "[[bibles/NASB-IL/Luke/-- Luke --]]"
+prev: "[[bibles/NASB-IL/Luke/Luke 21]]"
+next: "[[bibles/NASB-IL/Luke/Luke 23]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Luke 22

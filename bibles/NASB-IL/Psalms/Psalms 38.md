@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 38
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 38]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 37]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 39]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 38

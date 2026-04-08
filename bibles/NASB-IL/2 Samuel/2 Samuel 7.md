@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
-book.name: "2 Samuel"
+book.name: 2 Samuel
 book.number: 10
 chapter: 7
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/10: 2 Samuel/2 Samuel ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3318 - yatsa]]"
+up: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
+prev: "[[bibles/NASB-IL/2 Samuel/2 Samuel 6]]"
+next: "[[bibles/NASB-IL/2 Samuel/2 Samuel 8]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Samuel 7

@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Jonah"
+book.name: Jonah
 book.number: 32
 testament: OT
-section: "Minor Prophets"
-genre: "narrative"
+section: Minor Prophets
+genre: narrative
 chapters.total: 4
-original.name: "יונה"
+original.name: יונה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Jonah/Jonah 1]]"
 ---
 
 # Jonah

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 9
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 35
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 8]]"
+next: "[[bibles/NASB-IL/Job/Job 10]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 9

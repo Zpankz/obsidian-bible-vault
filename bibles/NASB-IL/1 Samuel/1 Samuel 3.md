@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 3
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5030 - navi]]"
   - "[[concepts/hebrew/H539 - aman]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 2]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 4]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 3

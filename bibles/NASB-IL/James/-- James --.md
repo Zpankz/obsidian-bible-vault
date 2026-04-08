@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "James"
+book.name: James
 book.number: 59
 testament: NT
-section: "General"
-genre: "epistle"
+section: General
+genre: epistle
 chapters.total: 5
-original.name: "ΙΑΚΩΒΟΥ"
+original.name: ΙΑΚΩΒΟΥ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/James/James 1]]"
 ---
 
 # James

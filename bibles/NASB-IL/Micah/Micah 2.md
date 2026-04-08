@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Micah/-- Micah --]]"
-book.name: "Micah"
+book.name: Micah
 book.number: 33
 chapter: 2
 chapter.total: 7
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/33: Micah/Micah ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
+up: "[[bibles/NASB-IL/Micah/-- Micah --]]"
+prev: "[[bibles/NASB-IL/Micah/Micah 1]]"
+next: "[[bibles/NASB-IL/Micah/Micah 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Micah 2

@@ -16,6 +16,9 @@ related.themes:
   - "[[concepts/themes/Eschatology]]"
   - "[[concepts/themes/Providence]]"
   - "[[concepts/themes/Covenant]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Time and Seasons

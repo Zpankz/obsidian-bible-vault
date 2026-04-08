@@ -1,18 +1,25 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
-book.name: "Ezra"
+book.name: Ezra
 book.number: 15
 chapter: 5
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/15: Ezra/Ezra ch: 5]]"
 parallel.hebrew: "[[bibles/WLCa/15 עזרא/עזרא 5]]"
+up: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
+prev: "[[bibles/NASB-IL/Ezra/Ezra 4]]"
+next: "[[bibles/NASB-IL/Ezra/Ezra 6]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ezra 5

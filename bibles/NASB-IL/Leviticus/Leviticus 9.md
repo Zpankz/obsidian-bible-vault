@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 9
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 24
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Leviticus/Leviticus 8]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 10]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 9

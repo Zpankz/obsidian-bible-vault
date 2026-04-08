@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 8
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 7]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 9]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 8

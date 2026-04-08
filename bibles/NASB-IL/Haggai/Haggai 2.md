@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Haggai/-- Haggai --]]"
-book.name: "Haggai"
+book.name: Haggai
 book.number: 37
 chapter: 2
 chapter.total: 2
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/37: Haggai/Haggai ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3548 - kohen]]"
   - "[[concepts/hebrew/H3671 - kanaph]]"
   - "[[concepts/hebrew/H4390 - male]]"
+up: "[[bibles/NASB-IL/Haggai/-- Haggai --]]"
+prev: "[[bibles/NASB-IL/Haggai/Haggai 1]]"
+next: "[[bibles/NASB-IL/Zechariah/Zechariah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Haggai 2

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 18
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 30
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 18]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 17]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 19]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 18

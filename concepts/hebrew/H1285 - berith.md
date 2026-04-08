@@ -18,6 +18,9 @@ related:
   - "[[concepts/hebrew/H226 - ot]]"
   - "[[concepts/hebrew/H8451 - torah]]"
   - "[[concepts/hebrew/H1288 - barak]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # בְּרִית — Berith

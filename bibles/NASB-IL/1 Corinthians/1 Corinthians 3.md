@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 3
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 23
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G4982 - sozo]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 2]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 3

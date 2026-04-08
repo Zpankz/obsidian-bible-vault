@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 6
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 25
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H410 - El]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 5]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 7]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 6

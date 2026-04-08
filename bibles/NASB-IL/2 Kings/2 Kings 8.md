@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
-book.name: "2 Kings"
+book.name: 2 Kings
 book.number: 12
 chapter: 8
 chapter.total: 25
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/12: 2 Kings/2 Kings ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
+prev: "[[bibles/NASB-IL/2 Kings/2 Kings 7]]"
+next: "[[bibles/NASB-IL/2 Kings/2 Kings 9]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Kings 8

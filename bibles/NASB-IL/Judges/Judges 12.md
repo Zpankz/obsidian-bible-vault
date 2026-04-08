@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Judges/-- Judges --]]"
-book.name: "Judges"
+book.name: Judges
 book.number: 7
 chapter: 12
 chapter.total: 21
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/07: Judges/Judges ch: 12]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Judges/-- Judges --]]"
+prev: "[[bibles/NASB-IL/Judges/Judges 11]]"
+next: "[[bibles/NASB-IL/Judges/Judges 13]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Judges 12

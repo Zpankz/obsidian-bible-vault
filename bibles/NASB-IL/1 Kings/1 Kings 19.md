@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
-book.name: "1 Kings"
+book.name: 1 Kings
 book.number: 11
 chapter: 19
 chapter.total: 22
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/11: 1 Kings/1 Kings ch: 19]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4397 - malak]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
+prev: "[[bibles/NASB-IL/1 Kings/1 Kings 18]]"
+next: "[[bibles/NASB-IL/1 Kings/1 Kings 20]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Kings 19

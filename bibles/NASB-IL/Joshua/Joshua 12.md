@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 chapter: 12
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 24
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/06: Joshua/Joshua ch: 12]]"
@@ -22,6 +22,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
+prev: "[[bibles/NASB-IL/Joshua/Joshua 11]]"
+next: "[[bibles/NASB-IL/Joshua/Joshua 13]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Joshua 12

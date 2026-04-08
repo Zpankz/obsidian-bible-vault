@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 13
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 37
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2288 - thanatos]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 12]]"
+next: "[[bibles/NASB-IL/Mark/Mark 14]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 13

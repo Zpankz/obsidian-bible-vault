@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H7549 - raqia]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # שָׁמַיִם — Shamayim

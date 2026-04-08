@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H1697 - davar]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H4899 - mashiach]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # נָבִיא — Navi

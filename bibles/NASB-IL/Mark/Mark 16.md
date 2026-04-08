@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 16
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 20
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 16]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G3137 - Maria]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 15]]"
+next: "[[bibles/NASB-IL/Luke/Luke 1]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 16

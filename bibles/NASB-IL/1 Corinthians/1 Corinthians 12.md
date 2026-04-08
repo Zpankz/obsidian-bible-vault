@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 12
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 31
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 11]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 13]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 12

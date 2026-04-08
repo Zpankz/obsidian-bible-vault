@@ -22,6 +22,9 @@ related.themes:
   - "[[concepts/themes/Christology]]"
   - "[[concepts/themes/Pneumatology]]"
   - "[[concepts/themes/Creation]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Theology Proper

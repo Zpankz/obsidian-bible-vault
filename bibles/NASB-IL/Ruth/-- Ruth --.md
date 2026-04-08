@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Ruth"
+book.name: Ruth
 book.number: 8
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 4
-original.name: "רות"
+original.name: רות
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Ruth/Ruth 1]]"
 ---
 
 # Ruth

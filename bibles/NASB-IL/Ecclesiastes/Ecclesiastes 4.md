@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
-book.name: "Ecclesiastes"
+book.name: Ecclesiastes
 book.number: 21
 chapter: 4
 chapter.total: 12
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/21: Ecclesiastes/Ecclesiastes ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
+up: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
+prev: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 3]]"
+next: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 5]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Ecclesiastes 4

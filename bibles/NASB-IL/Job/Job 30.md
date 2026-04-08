@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 30
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 30]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H7307 - ruach]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8577 - tannin]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 29]]"
+next: "[[bibles/NASB-IL/Job/Job 31]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 30

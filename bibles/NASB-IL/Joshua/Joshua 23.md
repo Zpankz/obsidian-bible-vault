@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 chapter: 23
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/06: Joshua/Joshua ch: 23]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3220 - yam]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
+prev: "[[bibles/NASB-IL/Joshua/Joshua 22]]"
+next: "[[bibles/NASB-IL/Joshua/Joshua 24]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Joshua 23

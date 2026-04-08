@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 testament: OT
-section: "Torah"
-genre: "narrative"
+section: Torah
+genre: narrative
 chapters.total: 50
-original.name: "בראשית"
+original.name: בראשית
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Genesis/Genesis 1]]"
 ---
 
 # Genesis

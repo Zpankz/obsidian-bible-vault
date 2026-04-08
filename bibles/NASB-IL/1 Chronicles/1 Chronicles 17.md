@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
-book.name: "1 Chronicles"
+book.name: 1 Chronicles
 book.number: 13
 chapter: 17
 chapter.total: 29
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/13: 1 Chronicles/1 Chronicles ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3045 - yada]]"
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H3117 - yom]]"
+up: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
+prev: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 16]]"
+next: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 18]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Chronicles 17

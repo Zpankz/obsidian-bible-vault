@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 64
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 10
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 64]]"
@@ -25,6 +25,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 63]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 65]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 64

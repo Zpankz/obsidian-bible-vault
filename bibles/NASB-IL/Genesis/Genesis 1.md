@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 1
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 10
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 1]]"
@@ -29,6 +29,12 @@ key.terms:
   - "[[concepts/hebrew/H216 - or]]"
   - "[[concepts/hebrew/H2232 - zara]]"
   - "[[concepts/hebrew/H2233 - zera]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 2]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 1

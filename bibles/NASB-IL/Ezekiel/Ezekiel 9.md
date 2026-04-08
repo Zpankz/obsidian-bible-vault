@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
-book.name: "Ezekiel"
+book.name: Ezekiel
 book.number: 26
 chapter: 9
 chapter.total: 48
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 11
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/26: Ezekiel/Ezekiel ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5771 - avon]]"
+up: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
+prev: "[[bibles/NASB-IL/Ezekiel/Ezekiel 8]]"
+next: "[[bibles/NASB-IL/Ezekiel/Ezekiel 10]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Ezekiel 9

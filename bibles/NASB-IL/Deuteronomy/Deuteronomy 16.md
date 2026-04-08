@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 16
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 16]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 15]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 17]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 16

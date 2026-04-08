@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 34
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 34]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H7121 - qara]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
   - "[[concepts/hebrew/H776 - erets]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 33]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 35]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 34

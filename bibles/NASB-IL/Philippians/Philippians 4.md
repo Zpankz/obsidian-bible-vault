@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Philippians/-- Philippians --]]"
-book.name: "Philippians"
+book.name: Philippians
 book.number: 50
 chapter: 4
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 23
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/50: Philippians/Philippians ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3441 - monos]]"
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G3880 - paralambano]]"
+up: "[[bibles/NASB-IL/Philippians/-- Philippians --]]"
+prev: "[[bibles/NASB-IL/Philippians/Philippians 3]]"
+next: "[[bibles/NASB-IL/Colossians/Colossians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Philippians 4

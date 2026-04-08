@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 chapter: 22
 chapter.total: 31
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 22
 parallel.kjv: "[[bibles/KJV/20: Proverbs/Proverbs ch: 22]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4910 - mashal]]"
+up: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 21]]"
+next: "[[bibles/NASB-IL/Proverbs/Proverbs 23]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Proverbs 22

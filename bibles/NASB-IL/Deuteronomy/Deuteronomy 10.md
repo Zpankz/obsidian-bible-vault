@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 10
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 10]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3556 - kokav]]"
   - "[[concepts/hebrew/H3915 - layil]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 9]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 11]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 10

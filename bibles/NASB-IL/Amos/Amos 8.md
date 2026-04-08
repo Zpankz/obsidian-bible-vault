@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Amos/-- Amos --]]"
-book.name: "Amos"
+book.name: Amos
 book.number: 30
 chapter: 8
 chapter.total: 9
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/30: Amos/Amos ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H776 - erets]]"
+up: "[[bibles/NASB-IL/Amos/-- Amos --]]"
+prev: "[[bibles/NASB-IL/Amos/Amos 7]]"
+next: "[[bibles/NASB-IL/Amos/Amos 9]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Amos 8

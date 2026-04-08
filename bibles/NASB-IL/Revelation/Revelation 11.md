@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 11
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 19
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G2992 - laos]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 10]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 12]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 11

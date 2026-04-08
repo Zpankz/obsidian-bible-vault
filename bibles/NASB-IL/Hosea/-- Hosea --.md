@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Hosea"
+book.name: Hosea
 book.number: 28
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 14
-original.name: "הושע"
+original.name: הושע
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Hosea/Hosea 1]]"
 ---
 
 # Hosea

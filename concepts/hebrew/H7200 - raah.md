@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H3045 - yada]]"
   - "[[concepts/hebrew/H2009 - hinneh]]"
   - "[[concepts/hebrew/H7121 - qara]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # רָאָה — Raah

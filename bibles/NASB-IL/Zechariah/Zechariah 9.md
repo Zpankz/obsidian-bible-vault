@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
-book.name: "Zechariah"
+book.name: Zechariah
 book.number: 38
 chapter: 9
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/38: Zechariah/Zechariah ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3533 - kavash]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
+prev: "[[bibles/NASB-IL/Zechariah/Zechariah 8]]"
+next: "[[bibles/NASB-IL/Zechariah/Zechariah 10]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zechariah 9

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 35
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 35
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 35]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5930 - olah]]"
   - "[[concepts/hebrew/H6086 - ets]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 34]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 36]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 35

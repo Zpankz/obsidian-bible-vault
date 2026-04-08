@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G1849 - exousia]]"
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G2098 - euangelion]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # δύναμις — Dynamis

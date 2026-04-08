@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G386 - anastasis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἐλπίς — Elpis

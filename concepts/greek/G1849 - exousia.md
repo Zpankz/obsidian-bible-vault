@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G1411 - dynamis]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G932 - basileia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἐξουσία — Exousia

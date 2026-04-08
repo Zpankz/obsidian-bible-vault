@@ -16,6 +16,9 @@ related.themes:
   - "[[concepts/themes/Eschatology]]"
   - "[[concepts/themes/Redemption]]"
   - "[[concepts/themes/Christology]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # New Creation

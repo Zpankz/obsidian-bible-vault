@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Galatians/-- Galatians --]]"
-book.name: "Galatians"
+book.name: Galatians
 book.number: 48
 chapter: 4
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 31
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/48: Galatians/Galatians ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/Galatians/-- Galatians --]]"
+prev: "[[bibles/NASB-IL/Galatians/Galatians 3]]"
+next: "[[bibles/NASB-IL/Galatians/Galatians 5]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Galatians 4

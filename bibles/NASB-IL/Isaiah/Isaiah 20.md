@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 20
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 6
 pericopes.count: 1
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 20]]"
@@ -24,6 +24,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 19]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 21]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 20

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
-book.name: "2 Kings"
+book.name: 2 Kings
 book.number: 12
 chapter: 10
 chapter.total: 25
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 36
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/12: 2 Kings/2 Kings ch: 10]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3372 - yare]]"
+up: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
+prev: "[[bibles/NASB-IL/2 Kings/2 Kings 9]]"
+next: "[[bibles/NASB-IL/2 Kings/2 Kings 11]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Kings 10

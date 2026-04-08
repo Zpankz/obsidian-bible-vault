@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 38
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 38]]"
@@ -25,6 +25,13 @@ key.terms:
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8145 - sheni]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 37]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 39]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 38

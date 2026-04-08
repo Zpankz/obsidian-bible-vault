@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 John/-- 1 John --]]"
-book.name: "1 John"
+book.name: 1 John
 book.number: 62
 chapter: 5
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/62: 1 John/1 John ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/1 John/-- 1 John --]]"
+prev: "[[bibles/NASB-IL/1 John/1 John 4]]"
+next: "[[bibles/NASB-IL/2 John/2 John 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 John 5

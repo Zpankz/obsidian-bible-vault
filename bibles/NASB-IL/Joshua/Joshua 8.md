@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 chapter: 8
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 35
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/06: Joshua/Joshua ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
+up: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
+prev: "[[bibles/NASB-IL/Joshua/Joshua 7]]"
+next: "[[bibles/NASB-IL/Joshua/Joshua 9]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Joshua 8

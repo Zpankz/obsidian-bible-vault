@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Obadiah"
+book.name: Obadiah
 book.number: 31
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 1
-original.name: "עבדיה"
+original.name: עבדיה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Obadiah/Obadiah 1]]"
 ---
 
 # Obadiah

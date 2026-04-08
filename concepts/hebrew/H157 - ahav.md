@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H2617 - chesed]]"
   - "[[concepts/hebrew/H1285 - berith]]"
   - "[[concepts/hebrew/H7356 - racham]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # אָהַב — Ahav

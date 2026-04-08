@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 5
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 48
 pericopes.count: 9
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 4]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 6]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 5

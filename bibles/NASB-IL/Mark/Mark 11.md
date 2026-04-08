@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 11
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 33
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3101 - mathetes]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 10]]"
+next: "[[bibles/NASB-IL/Mark/Mark 12]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 11

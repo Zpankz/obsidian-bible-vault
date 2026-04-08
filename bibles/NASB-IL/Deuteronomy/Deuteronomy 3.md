@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 3
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 2]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 4]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 3

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 22
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 46
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 22]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 21]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 23]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 22

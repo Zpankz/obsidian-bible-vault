@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 11
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 10
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7235 - ravah]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 10]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 12]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 11

@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 testament: OT
-section: "Torah"
-genre: "law"
+section: Torah
+genre: law
 chapters.total: 34
-original.name: "דברים"
+original.name: דברים
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 1]]"
 ---
 
 # Deuteronomy

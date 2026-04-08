@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 chapter: 13
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 33
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/06: Joshua/Joshua ch: 13]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H7235 - ravah]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Joshua/-- Joshua --]]"
+prev: "[[bibles/NASB-IL/Joshua/Joshua 12]]"
+next: "[[bibles/NASB-IL/Joshua/Joshua 14]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Joshua 13

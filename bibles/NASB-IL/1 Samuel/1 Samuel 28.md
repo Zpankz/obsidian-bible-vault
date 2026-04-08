@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 28
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 25
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 28]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 27]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 29]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 28

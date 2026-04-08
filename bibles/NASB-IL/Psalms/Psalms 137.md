@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 137
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 9
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 137]]"
@@ -19,6 +19,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 136]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 138]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 137

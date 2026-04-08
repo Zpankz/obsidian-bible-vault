@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Judges/-- Judges --]]"
-book.name: "Judges"
+book.name: Judges
 book.number: 7
 chapter: 17
 chapter.total: 21
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/07: Judges/Judges ch: 17]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Judges/-- Judges --]]"
+prev: "[[bibles/NASB-IL/Judges/Judges 16]]"
+next: "[[bibles/NASB-IL/Judges/Judges 18]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Judges 17

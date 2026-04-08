@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 8
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 13
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G5547 - Christos]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 7]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 9]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 8

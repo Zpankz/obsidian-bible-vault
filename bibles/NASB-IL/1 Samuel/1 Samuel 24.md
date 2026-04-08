@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 24
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 24]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3671 - kanaph]]"
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 23]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 25]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 24

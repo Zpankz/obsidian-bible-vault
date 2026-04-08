@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
-book.name: "1 Kings"
+book.name: 1 Kings
 book.number: 11
 chapter: 6
 chapter.total: 22
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 38
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/11: 1 Kings/1 Kings ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6086 - ets]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
+prev: "[[bibles/NASB-IL/1 Kings/1 Kings 5]]"
+next: "[[bibles/NASB-IL/1 Kings/1 Kings 7]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Kings 6

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
-book.name: "Ezekiel"
+book.name: Ezekiel
 book.number: 26
 chapter: 18
 chapter.total: 48
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 32
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/26: Ezekiel/Ezekiel ch: 18]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H571 - emeth]]"
+up: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
+prev: "[[bibles/NASB-IL/Ezekiel/Ezekiel 17]]"
+next: "[[bibles/NASB-IL/Ezekiel/Ezekiel 19]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Ezekiel 18

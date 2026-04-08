@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Timothy/-- 2 Timothy --]]"
-book.name: "2 Timothy"
+book.name: 2 Timothy
 book.number: 55
 chapter: 3
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 17
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/55: 2 Timothy/2 Timothy ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G4102 - pistis]]"
+up: "[[bibles/NASB-IL/2 Timothy/-- 2 Timothy --]]"
+prev: "[[bibles/NASB-IL/2 Timothy/2 Timothy 2]]"
+next: "[[bibles/NASB-IL/2 Timothy/2 Timothy 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Timothy 3

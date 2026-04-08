@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 68
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 35
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 68]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 67]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 69]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 68

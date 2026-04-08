@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 chapter: 7
 chapter.total: 31
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/20: Proverbs/Proverbs ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H8085 - shama]]"
   - "[[concepts/hebrew/H8451 - torah]]"
+up: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 6]]"
+next: "[[bibles/NASB-IL/Proverbs/Proverbs 8]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Proverbs 7

@@ -20,6 +20,9 @@ related.themes:
   - "[[concepts/themes/Christology]]"
   - "[[concepts/themes/Hamartiology]]"
   - "[[concepts/themes/Redemption]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Soteriology

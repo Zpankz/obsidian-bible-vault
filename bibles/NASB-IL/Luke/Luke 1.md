@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Luke/-- Luke --]]"
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 chapter: 1
 chapter.total: 24
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 80
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/42: Luke/Luke ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G1453 - egeiro]]"
   - "[[concepts/greek/G1510 - eimi]]"
   - "[[concepts/greek/G1515 - eirene]]"
+up: "[[bibles/NASB-IL/Luke/-- Luke --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 16]]"
+next: "[[bibles/NASB-IL/Luke/Luke 2]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Luke 1

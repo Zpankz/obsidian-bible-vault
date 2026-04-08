@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
-book.name: "Ecclesiastes"
+book.name: Ecclesiastes
 book.number: 21
 chapter: 12
 chapter.total: 12
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/21: Ecclesiastes/Ecclesiastes ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H571 - emeth]]"
+up: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
+prev: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 11]]"
+next: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 1]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Ecclesiastes 12

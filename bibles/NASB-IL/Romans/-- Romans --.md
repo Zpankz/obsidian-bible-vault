@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 16
-original.name: "ΠΡΟΣ ΡΩΜΑΙΟΥΣ"
+original.name: ΠΡΟΣ ΡΩΜΑΙΟΥΣ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Romans/Romans 1]]"
 ---
 
 # Romans

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Chronicles/-- 2 Chronicles --]]"
-book.name: "2 Chronicles"
+book.name: 2 Chronicles
 book.number: 14
 chapter: 30
 chapter.total: 36
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/14: 2 Chronicles/2 Chronicles ch: 30]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H4150 - moed]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/2 Chronicles/-- 2 Chronicles --]]"
+prev: "[[bibles/NASB-IL/2 Chronicles/2 Chronicles 29]]"
+next: "[[bibles/NASB-IL/2 Chronicles/2 Chronicles 31]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Chronicles 30

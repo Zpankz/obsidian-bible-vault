@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Thessalonians/-- 2 Thessalonians --]]"
-book.name: "2 Thessalonians"
+book.name: 2 Thessalonians
 book.number: 53
 chapter: 2
 chapter.total: 3
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 17
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/53: 2 Thessalonians/2 Thessalonians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
+up: "[[bibles/NASB-IL/2 Thessalonians/-- 2 Thessalonians --]]"
+prev: "[[bibles/NASB-IL/2 Thessalonians/2 Thessalonians 1]]"
+next: "[[bibles/NASB-IL/2 Thessalonians/2 Thessalonians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Thessalonians 2

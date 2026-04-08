@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/James/-- James --]]"
-book.name: "James"
+book.name: James
 book.number: 59
 chapter: 5
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 20
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/59: James/James ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G4396 - prophetes]]"
   - "[[concepts/greek/G4982 - sozo]]"
+up: "[[bibles/NASB-IL/James/-- James --]]"
+prev: "[[bibles/NASB-IL/James/James 4]]"
+next: "[[bibles/NASB-IL/1 Peter/1 Peter 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # James 5

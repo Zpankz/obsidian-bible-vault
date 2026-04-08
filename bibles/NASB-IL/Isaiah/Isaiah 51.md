@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 51
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 51]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3220 - yam]]"
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3372 - yare]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 50]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 52]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 51

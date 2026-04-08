@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 9
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 43
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2564 - kaleo]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 8]]"
+next: "[[bibles/NASB-IL/Acts/Acts 10]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 9

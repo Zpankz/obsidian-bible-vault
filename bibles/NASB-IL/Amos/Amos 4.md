@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Amos/-- Amos --]]"
-book.name: "Amos"
+book.name: Amos
 book.number: 30
 chapter: 4
 chapter.total: 9
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/30: Amos/Amos ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
+up: "[[bibles/NASB-IL/Amos/-- Amos --]]"
+prev: "[[bibles/NASB-IL/Amos/Amos 3]]"
+next: "[[bibles/NASB-IL/Amos/Amos 5]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Amos 4

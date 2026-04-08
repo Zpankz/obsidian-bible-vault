@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 42
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 38
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 42]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H539 - aman]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+prev: "[[bibles/NASB-IL/Genesis/Genesis 41]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 43]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 42

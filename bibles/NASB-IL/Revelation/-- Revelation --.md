@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
+section: Apocalyptic
+genre: apocalyptic
 chapters.total: 22
-original.name: "ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ"
+original.name: ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Revelation/Revelation 1]]"
 ---
 
 # Revelation

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
-book.name: "Song of Solomon"
+book.name: Song of Solomon
 book.number: 22
 chapter: 8
 chapter.total: 8
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/22: Song of Solomon/Song of Solomon ch: 8]]"
@@ -26,6 +26,13 @@ key.terms:
   - "[[concepts/hebrew/H6996 - qatan]]"
   - "[[concepts/hebrew/H7965 - shalom]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+up: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
+prev: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 7]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 1]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Song of Solomon 8

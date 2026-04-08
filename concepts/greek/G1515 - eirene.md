@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
   - "[[concepts/greek/G26 - agape]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # εἰρήνη — Eirene

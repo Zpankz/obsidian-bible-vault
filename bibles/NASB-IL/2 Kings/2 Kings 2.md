@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
-book.name: "2 Kings"
+book.name: 2 Kings
 book.number: 12
 chapter: 2
 chapter.total: 25
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 25
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/12: 2 Kings/2 Kings ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H5030 - navi]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
+up: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
+prev: "[[bibles/NASB-IL/2 Kings/2 Kings 1]]"
+next: "[[bibles/NASB-IL/2 Kings/2 Kings 3]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Kings 2

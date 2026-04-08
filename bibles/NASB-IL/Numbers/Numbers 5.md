@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 5
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5347 - neqevah]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 4]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 6]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 5

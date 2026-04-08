@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 chapter: 6
 chapter.total: 13
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 20
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/58: Hebrews/Hebrews ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G386 - anastasis]]"
   - "[[concepts/greek/G40 - hagios]]"
+up: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
+prev: "[[bibles/NASB-IL/Hebrews/Hebrews 5]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 7]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Hebrews 6

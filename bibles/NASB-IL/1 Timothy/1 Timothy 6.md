@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
-book.name: "1 Timothy"
+book.name: 1 Timothy
 book.number: 54
 chapter: 6
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/54: 1 Timothy/1 Timothy ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
+prev: "[[bibles/NASB-IL/1 Timothy/1 Timothy 5]]"
+next: "[[bibles/NASB-IL/2 Timothy/2 Timothy 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Timothy 6

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 17
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G32 - angelos]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 16]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 18]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 17

@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H120 - adam]]"
   - "[[concepts/hebrew/H2416 - chay]]"
   - "[[concepts/hebrew/H7287 - radah]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # בְּהֵמָה — Behemah

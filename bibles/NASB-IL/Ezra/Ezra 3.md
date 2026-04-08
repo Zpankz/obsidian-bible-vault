@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
-book.name: "Ezra"
+book.name: Ezra
 book.number: 15
 chapter: 3
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/15: Ezra/Ezra ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
+prev: "[[bibles/NASB-IL/Ezra/Ezra 2]]"
+next: "[[bibles/NASB-IL/Ezra/Ezra 4]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ezra 3

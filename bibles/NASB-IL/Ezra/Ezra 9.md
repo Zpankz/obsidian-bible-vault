@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
-book.name: "Ezra"
+book.name: Ezra
 book.number: 15
 chapter: 9
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/15: Ezra/Ezra ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5030 - navi]]"
+up: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
+prev: "[[bibles/NASB-IL/Ezra/Ezra 8]]"
+next: "[[bibles/NASB-IL/Ezra/Ezra 10]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ezra 9

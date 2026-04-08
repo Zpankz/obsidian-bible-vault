@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jonah/-- Jonah --]]"
-book.name: "Jonah"
+book.name: Jonah
 book.number: 32
 chapter: 1
 chapter.total: 4
 testament: OT
-section: "Minor Prophets"
-genre: "narrative"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: narrative
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/32: Jonah/Jonah ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7121 - qara]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
+up: "[[bibles/NASB-IL/Jonah/-- Jonah --]]"
+prev: "[[bibles/NASB-IL/Obadiah/Obadiah 1]]"
+next: "[[bibles/NASB-IL/Jonah/Jonah 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/narrative
 ---
 
 # Jonah 1

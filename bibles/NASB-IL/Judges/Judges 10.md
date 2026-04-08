@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Judges/-- Judges --]]"
-book.name: "Judges"
+book.name: Judges
 book.number: 7
 chapter: 10
 chapter.total: 21
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/07: Judges/Judges ch: 10]]"
@@ -27,6 +27,13 @@ key.terms:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/Judges/-- Judges --]]"
+prev: "[[bibles/NASB-IL/Judges/Judges 9]]"
+next: "[[bibles/NASB-IL/Judges/Judges 11]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Judges 10

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 chapter: 31
 chapter.total: 31
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/20: Proverbs/Proverbs ch: 31]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 30]]"
+next: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 1]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Proverbs 31

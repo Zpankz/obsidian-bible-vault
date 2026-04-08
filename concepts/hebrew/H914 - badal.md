@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H215 - or]]"
   - "[[concepts/hebrew/H2822 - choshek]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # בָּדַל — Badal

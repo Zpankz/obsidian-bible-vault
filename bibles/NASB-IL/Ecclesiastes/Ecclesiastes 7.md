@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
-book.name: "Ecclesiastes"
+book.name: Ecclesiastes
 book.number: 21
 chapter: 7
 chapter.total: 12
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/21: Ecclesiastes/Ecclesiastes ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
+prev: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 6]]"
+next: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 8]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Ecclesiastes 7

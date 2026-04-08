@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 23
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 30
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 23]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5930 - olah]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 22]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 24]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 23

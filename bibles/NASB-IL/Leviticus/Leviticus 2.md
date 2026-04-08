@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 2
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 2]]"
@@ -24,6 +24,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H7225 - reshith]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Leviticus/Leviticus 1]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 3]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 2

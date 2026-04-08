@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
-book.name: "Hosea"
+book.name: Hosea
 book.number: 28
 chapter: 14
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 9
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/28: Hosea/Hosea ch: 14]]"
@@ -24,6 +24,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5771 - avon]]"
   - "[[concepts/hebrew/H6529 - peri]]"
+up: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
+prev: "[[bibles/NASB-IL/Hosea/Hosea 13]]"
+next: "[[bibles/NASB-IL/Joel/Joel 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Hosea 14

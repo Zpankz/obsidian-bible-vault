@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 20
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 34
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 20]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3083 - lutron]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3384 - meter]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 19]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 21]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 20

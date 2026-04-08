@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Peter/-- 2 Peter --]]"
-book.name: "2 Peter"
+book.name: 2 Peter
 book.number: 61
 chapter: 1
 chapter.total: 3
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/61: 2 Peter/2 Peter ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G26 - agape]]"
+up: "[[bibles/NASB-IL/2 Peter/-- 2 Peter --]]"
+prev: "[[bibles/NASB-IL/1 Peter/1 Peter 5]]"
+next: "[[bibles/NASB-IL/2 Peter/2 Peter 2]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 2 Peter 1

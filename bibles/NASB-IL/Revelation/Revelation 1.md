@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 1
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Jude/Jude 1]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 2]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 1

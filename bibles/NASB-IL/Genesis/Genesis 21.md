@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 21
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 34
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 21]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H410 - El]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+prev: "[[bibles/NASB-IL/Genesis/Genesis 20]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 22]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 21

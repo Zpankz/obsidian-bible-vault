@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
-book.name: "2 Kings"
+book.name: 2 Kings
 book.number: 12
 chapter: 13
 chapter.total: 25
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 25
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/12: 2 Kings/2 Kings ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+up: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
+prev: "[[bibles/NASB-IL/2 Kings/2 Kings 12]]"
+next: "[[bibles/NASB-IL/2 Kings/2 Kings 14]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Kings 13

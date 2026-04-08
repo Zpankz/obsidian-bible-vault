@@ -17,6 +17,9 @@ related.themes:
   - "[[concepts/themes/Theology Proper]]"
   - "[[concepts/themes/Blessing]]"
   - "[[concepts/themes/Redemption]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Covenant

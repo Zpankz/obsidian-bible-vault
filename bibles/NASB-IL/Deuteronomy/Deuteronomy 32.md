@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 32
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 52
 pericopes.count: 7
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 32]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3722 - kaphar]]"
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 31]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 33]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 32

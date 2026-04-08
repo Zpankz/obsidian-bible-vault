@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
-book.name: "1 Kings"
+book.name: 1 Kings
 book.number: 11
 chapter: 22
 chapter.total: 22
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 53
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/11: 1 Kings/1 Kings ch: 22]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
+up: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
+prev: "[[bibles/NASB-IL/1 Kings/1 Kings 21]]"
+next: "[[bibles/NASB-IL/2 Kings/2 Kings 1]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Kings 22

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 chapter: 14
 chapter.total: 31
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 35
 pericopes.count: 34
 parallel.kjv: "[[bibles/KJV/20: Proverbs/Proverbs ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H539 - aman]]"
   - "[[concepts/hebrew/H571 - emeth]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 13]]"
+next: "[[bibles/NASB-IL/Proverbs/Proverbs 15]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Proverbs 14

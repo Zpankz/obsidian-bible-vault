@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Judges/-- Judges --]]"
-book.name: "Judges"
+book.name: Judges
 book.number: 7
 chapter: 3
 chapter.total: 21
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/07: Judges/Judges ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5774 - uph]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/Judges/-- Judges --]]"
+prev: "[[bibles/NASB-IL/Judges/Judges 2]]"
+next: "[[bibles/NASB-IL/Judges/Judges 4]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Judges 3

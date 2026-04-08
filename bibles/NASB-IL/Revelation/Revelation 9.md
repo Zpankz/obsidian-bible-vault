@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 9
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 21
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 9]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G5456 - phone]]"
   - "[[concepts/greek/G935 - basileus]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 8]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 10]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 9

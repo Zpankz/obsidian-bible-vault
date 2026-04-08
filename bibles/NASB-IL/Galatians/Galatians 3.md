@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Galatians/-- Galatians --]]"
-book.name: "Galatians"
+book.name: Galatians
 book.number: 48
 chapter: 3
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 29
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/48: Galatians/Galatians ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Galatians/-- Galatians --]]"
+prev: "[[bibles/NASB-IL/Galatians/Galatians 2]]"
+next: "[[bibles/NASB-IL/Galatians/Galatians 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Galatians 3

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 25
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 46
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 25]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3933 - parthenos]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 24]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 26]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 25

@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H6754 - tselem]]"
   - "[[concepts/hebrew/H120 - adam]]"
   - "[[concepts/hebrew/H776 - erets]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # רָדָה — Radah

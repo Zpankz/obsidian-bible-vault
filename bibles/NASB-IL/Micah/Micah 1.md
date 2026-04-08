@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Micah/-- Micah --]]"
-book.name: "Micah"
+book.name: Micah
 book.number: 33
 chapter: 1
 chapter.total: 7
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/33: Micah/Micah ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Micah/-- Micah --]]"
+prev: "[[bibles/NASB-IL/Jonah/Jonah 4]]"
+next: "[[bibles/NASB-IL/Micah/Micah 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Micah 1

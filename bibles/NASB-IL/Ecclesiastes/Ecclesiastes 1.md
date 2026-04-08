@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
-book.name: "Ecclesiastes"
+book.name: Ecclesiastes
 book.number: 21
 chapter: 1
 chapter.total: 12
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/21: Ecclesiastes/Ecclesiastes ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5769 - olam]]"
+up: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 31]]"
+next: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 2]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Ecclesiastes 1

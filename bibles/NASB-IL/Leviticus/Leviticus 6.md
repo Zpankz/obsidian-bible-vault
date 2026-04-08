@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 6
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 30
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H4899 - mashiach]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Leviticus/Leviticus 5]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 7]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 6

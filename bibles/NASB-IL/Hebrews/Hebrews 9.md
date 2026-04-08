@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 chapter: 9
 chapter.total: 13
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 28
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/58: Hebrews/Hebrews ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2992 - laos]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
+prev: "[[bibles/NASB-IL/Hebrews/Hebrews 8]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 10]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Hebrews 9

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 25
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 44
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 25]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3045 - yada]]"
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H3117 - yom]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 24]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 26]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 25

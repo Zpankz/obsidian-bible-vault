@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 23
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 35
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 23]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2992 - laos]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G32 - angelos]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 22]]"
+next: "[[bibles/NASB-IL/Acts/Acts 24]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 23

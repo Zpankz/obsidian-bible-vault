@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
-book.name: "Ezekiel"
+book.name: Ezekiel
 book.number: 26
 chapter: 30
 chapter.total: 48
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 26
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/26: Ezekiel/Ezekiel ch: 30]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H4397 - malak]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Ezekiel/-- Ezekiel --]]"
+prev: "[[bibles/NASB-IL/Ezekiel/Ezekiel 29]]"
+next: "[[bibles/NASB-IL/Ezekiel/Ezekiel 31]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Ezekiel 30

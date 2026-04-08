@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 20
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 20]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H5030 - navi]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 19]]"
+next: "[[bibles/NASB-IL/Jeremiah/Jeremiah 21]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 20

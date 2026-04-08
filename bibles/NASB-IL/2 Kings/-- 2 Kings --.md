@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Kings"
+book.name: 2 Kings
 book.number: 12
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 25
-original.name: "מלכים ב"
+original.name: מלכים ב
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Kings/2 Kings 1]]"
 ---
 
 # 2 Kings

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
-book.name: "Ezra"
+book.name: Ezra
 book.number: 15
 chapter: 2
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 70
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/15: Ezra/Ezra ch: 2]]"
@@ -25,6 +25,13 @@ key.terms:
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H7121 - qara]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
+prev: "[[bibles/NASB-IL/Ezra/Ezra 1]]"
+next: "[[bibles/NASB-IL/Ezra/Ezra 3]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ezra 2

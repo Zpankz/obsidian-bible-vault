@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Micah/-- Micah --]]"
-book.name: "Micah"
+book.name: Micah
 book.number: 33
 chapter: 6
 chapter.total: 7
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/33: Micah/Micah ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Micah/-- Micah --]]"
+prev: "[[bibles/NASB-IL/Micah/Micah 5]]"
+next: "[[bibles/NASB-IL/Micah/Micah 7]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Micah 6

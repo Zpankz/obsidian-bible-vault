@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 1
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 25
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G1510 - eimi]]"
   - "[[concepts/greek/G2147 - heurisko]]"
   - "[[concepts/greek/G2192 - echo]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Malachi/Malachi 4]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 2]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 1

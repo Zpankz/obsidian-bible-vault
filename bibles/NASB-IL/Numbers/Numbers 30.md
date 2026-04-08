@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 30
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 30]]"
@@ -27,6 +27,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H8085 - shama]]"
   - "[[concepts/hebrew/H996 - beyn]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 29]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 31]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 30

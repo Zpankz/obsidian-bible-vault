@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 33
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 33]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4397 - malak]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 32]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 34]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 33

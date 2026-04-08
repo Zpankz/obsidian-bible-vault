@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
-book.name: "Ecclesiastes"
+book.name: Ecclesiastes
 book.number: 21
 chapter: 9
 chapter.total: 12
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/21: Ecclesiastes/Ecclesiastes ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Ecclesiastes/-- Ecclesiastes --]]"
+prev: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 8]]"
+next: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 10]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Ecclesiastes 9

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 chapter: 17
 chapter.total: 31
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 58
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/09: 1 Samuel/1 Samuel ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3820 - lev]]"
+up: "[[bibles/NASB-IL/1 Samuel/-- 1 Samuel --]]"
+prev: "[[bibles/NASB-IL/1 Samuel/1 Samuel 16]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 18]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Samuel 17

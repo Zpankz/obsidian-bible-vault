@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Esther/-- Esther --]]"
-book.name: "Esther"
+book.name: Esther
 book.number: 17
 chapter: 10
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 3
 pericopes.count: 1
 parallel.kjv: "[[bibles/KJV/17: Esther/Esther ch: 10]]"
@@ -24,6 +24,13 @@ key.terms:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H7965 - shalom]]"
+up: "[[bibles/NASB-IL/Esther/-- Esther --]]"
+prev: "[[bibles/NASB-IL/Esther/Esther 9]]"
+next: "[[bibles/NASB-IL/Job/Job 1]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Esther 10

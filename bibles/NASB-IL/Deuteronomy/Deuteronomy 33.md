@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
-book.name: "Deuteronomy"
+book.name: Deuteronomy
 book.number: 5
 chapter: 33
 chapter.total: 34
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 7
 parallel.kjv: "[[bibles/KJV/05: Deuteronomy/Deuteronomy ch: 33]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5769 - olam]]"
+up: "[[bibles/NASB-IL/Deuteronomy/-- Deuteronomy --]]"
+prev: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 32]]"
+next: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 34]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Deuteronomy 33

@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H1254 - bara]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H6754 - tselem]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # עָשָׂה — Asah

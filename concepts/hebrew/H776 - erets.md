@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H8064 - shamayim]]"
   - "[[concepts/hebrew/H127 - adamah]]"
   - "[[concepts/hebrew/H120 - adam]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # אֶרֶץ — Erets

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Galatians/-- Galatians --]]"
-book.name: "Galatians"
+book.name: Galatians
 book.number: 48
 chapter: 6
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/48: Galatians/Galatians ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3441 - monos]]"
   - "[[concepts/greek/G3551 - nomos]]"
+up: "[[bibles/NASB-IL/Galatians/-- Galatians --]]"
+prev: "[[bibles/NASB-IL/Galatians/Galatians 5]]"
+next: "[[bibles/NASB-IL/Ephesians/Ephesians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Galatians 6

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 21
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 21]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 20]]"
+next: "[[bibles/NASB-IL/Jeremiah/Jeremiah 22]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 21

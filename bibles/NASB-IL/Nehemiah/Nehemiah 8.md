@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
-book.name: "Nehemiah"
+book.name: Nehemiah
 book.number: 16
 chapter: 8
 chapter.total: 13
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/16: Nehemiah/Nehemiah ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
+up: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
+prev: "[[bibles/NASB-IL/Nehemiah/Nehemiah 7]]"
+next: "[[bibles/NASB-IL/Nehemiah/Nehemiah 9]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Nehemiah 8

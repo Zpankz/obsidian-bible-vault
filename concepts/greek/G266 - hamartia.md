@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4991 - soteria]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
   - "[[concepts/greek/G5485 - charis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἁμαρτία — Hamartia

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Amos/-- Amos --]]"
-book.name: "Amos"
+book.name: Amos
 book.number: 30
 chapter: 2
 chapter.total: 9
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/30: Amos/Amos ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8451 - torah]]"
+up: "[[bibles/NASB-IL/Amos/-- Amos --]]"
+prev: "[[bibles/NASB-IL/Amos/Amos 1]]"
+next: "[[bibles/NASB-IL/Amos/Amos 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Amos 2

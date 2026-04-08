@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 2
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 23
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3137 - Maria]]"
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 1]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 3]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 2

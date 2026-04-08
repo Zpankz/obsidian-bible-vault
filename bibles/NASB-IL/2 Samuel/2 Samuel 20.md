@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
-book.name: "2 Samuel"
+book.name: 2 Samuel
 book.number: 10
 chapter: 20
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 26
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/10: 2 Samuel/2 Samuel ch: 20]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
+prev: "[[bibles/NASB-IL/2 Samuel/2 Samuel 19]]"
+next: "[[bibles/NASB-IL/2 Samuel/2 Samuel 21]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Samuel 20

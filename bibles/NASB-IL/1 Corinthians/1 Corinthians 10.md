@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 10
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 33
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 10]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G4982 - sozo]]"
   - "[[concepts/greek/G5485 - charis]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 9]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 11]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 10

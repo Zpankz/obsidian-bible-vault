@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
-book.name: "1 Kings"
+book.name: 1 Kings
 book.number: 11
 chapter: 15
 chapter.total: 22
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 34
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/11: 1 Kings/1 Kings ch: 15]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/1 Kings/-- 1 Kings --]]"
+prev: "[[bibles/NASB-IL/1 Kings/1 Kings 14]]"
+next: "[[bibles/NASB-IL/1 Kings/1 Kings 16]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Kings 15

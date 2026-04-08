@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Zephaniah"
+book.name: Zephaniah
 book.number: 36
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 3
-original.name: "צפניה"
+original.name: צפניה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Zephaniah/Zephaniah 1]]"
 ---
 
 # Zephaniah

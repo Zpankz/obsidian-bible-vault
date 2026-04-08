@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/James/-- James --]]"
-book.name: "James"
+book.name: James
 book.number: 59
 chapter: 4
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 17
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/59: James/James ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G4982 - sozo]]"
+up: "[[bibles/NASB-IL/James/-- James --]]"
+prev: "[[bibles/NASB-IL/James/James 3]]"
+next: "[[bibles/NASB-IL/James/James 5]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # James 4

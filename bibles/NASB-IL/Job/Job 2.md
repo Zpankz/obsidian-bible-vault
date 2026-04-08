@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 2
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 1]]"
+next: "[[bibles/NASB-IL/Job/Job 3]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 2

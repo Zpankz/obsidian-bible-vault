@@ -18,6 +18,9 @@ related.themes:
   - "[[concepts/themes/Christology]]"
   - "[[concepts/themes/Soteriology]]"
   - "[[concepts/themes/Dominion]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Eschatology

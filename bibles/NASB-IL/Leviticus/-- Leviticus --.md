@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 testament: OT
-section: "Torah"
-genre: "law"
+section: Torah
+genre: law
 chapters.total: 27
-original.name: "ויקרא"
+original.name: ויקרא
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Leviticus/Leviticus 1]]"
 ---
 
 # Leviticus

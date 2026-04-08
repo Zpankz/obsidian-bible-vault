@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 20
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 20]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+prev: "[[bibles/NASB-IL/Genesis/Genesis 19]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 21]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 20

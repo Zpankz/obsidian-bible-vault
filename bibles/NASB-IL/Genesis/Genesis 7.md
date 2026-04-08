@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 7
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 24
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4327 - min]]"
   - "[[concepts/hebrew/H5347 - neqevah]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+prev: "[[bibles/NASB-IL/Genesis/Genesis 6]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 8]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 7

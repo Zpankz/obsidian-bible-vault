@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 12
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 51
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H3966 - meod]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 11]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 13]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 12

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 39
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 30
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 39]]"
@@ -27,6 +27,13 @@ key.terms:
   - "[[concepts/hebrew/H7235 - ravah]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 38]]"
+next: "[[bibles/NASB-IL/Job/Job 40]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 39

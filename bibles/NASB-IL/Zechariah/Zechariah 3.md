@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
-book.name: "Zechariah"
+book.name: Zechariah
 book.number: 38
 chapter: 3
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 10
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/38: Zechariah/Zechariah ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6635 - tsava]]"
   - "[[concepts/hebrew/H7121 - qara]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+up: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
+prev: "[[bibles/NASB-IL/Zechariah/Zechariah 2]]"
+next: "[[bibles/NASB-IL/Zechariah/Zechariah 4]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zechariah 3

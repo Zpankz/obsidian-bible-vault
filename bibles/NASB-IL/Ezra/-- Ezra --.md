@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Ezra"
+book.name: Ezra
 book.number: 15
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 10
-original.name: "עזרא"
+original.name: עזרא
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Ezra/Ezra 1]]"
 ---
 
 # Ezra

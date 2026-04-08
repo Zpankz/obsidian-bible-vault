@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H3444 - yeshuah]]"
   - "[[concepts/hebrew/H3722 - kaphar]]"
   - "[[concepts/hebrew/H2617 - chesed]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # גָּאַל — Gaal

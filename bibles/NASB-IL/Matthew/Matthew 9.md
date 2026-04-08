@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 9
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 38
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 8]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 10]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 9

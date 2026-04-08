@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Galatians"
+book.name: Galatians
 book.number: 48
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 6
-original.name: "ΠΡΟΣ ΓΑΛΑΤΑΣ"
+original.name: ΠΡΟΣ ΓΑΛΑΤΑΣ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Galatians/Galatians 1]]"
 ---
 
 # Galatians

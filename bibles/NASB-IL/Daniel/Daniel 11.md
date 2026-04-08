@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 11
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 45
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H4150 - moed]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 10]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 12]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 11

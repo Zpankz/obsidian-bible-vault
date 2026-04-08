@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G4396 - prophetes]]"
   - "[[concepts/greek/G1577 - ekklesia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἀπόστολος — Apostolos

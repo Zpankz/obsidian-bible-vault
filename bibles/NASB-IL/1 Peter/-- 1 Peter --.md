@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "1 Peter"
+book.name: 1 Peter
 book.number: 60
 testament: NT
-section: "General"
-genre: "epistle"
+section: General
+genre: epistle
 chapters.total: 5
-original.name: "ΠΕΤΡΟΥ Α΄"
+original.name: ΠΕΤΡΟΥ Α΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/1 Peter/1 Peter 1]]"
 ---
 
 # 1 Peter

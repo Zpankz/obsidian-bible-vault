@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Amos/-- Amos --]]"
-book.name: "Amos"
+book.name: Amos
 book.number: 30
 chapter: 3
 chapter.total: 9
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/30: Amos/Amos ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5771 - avon]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6635 - tsava]]"
+up: "[[bibles/NASB-IL/Amos/-- Amos --]]"
+prev: "[[bibles/NASB-IL/Amos/Amos 2]]"
+next: "[[bibles/NASB-IL/Amos/Amos 4]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Amos 3

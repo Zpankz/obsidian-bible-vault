@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 15
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 33
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 15]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4150 - moed]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H5347 - neqevah]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Leviticus/Leviticus 14]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 16]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 15

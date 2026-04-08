@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 27
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 44
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 27]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4160 - poieo]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 26]]"
+next: "[[bibles/NASB-IL/Acts/Acts 28]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 27

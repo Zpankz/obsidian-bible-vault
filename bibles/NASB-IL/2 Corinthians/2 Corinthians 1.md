@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 1
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 24
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2309 - thelo]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 16]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 2]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 1

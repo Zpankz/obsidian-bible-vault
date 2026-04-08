@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Joshua"
+book.name: Joshua
 book.number: 6
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 24
-original.name: "יהושע"
+original.name: יהושע
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Joshua/Joshua 1]]"
 ---
 
 # Joshua

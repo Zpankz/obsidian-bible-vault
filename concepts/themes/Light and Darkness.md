@@ -15,6 +15,9 @@ related.themes:
   - "[[concepts/themes/Theology Proper]]"
   - "[[concepts/themes/Hamartiology]]"
   - "[[concepts/themes/Christology]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Light and Darkness

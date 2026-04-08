@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Malachi"
+book.name: Malachi
 book.number: 39
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 4
-original.name: "מלאכי"
+original.name: מלאכי
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Malachi/Malachi 1]]"
 ---
 
 # Malachi

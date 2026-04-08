@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/John/-- John --]]"
-book.name: "John"
+book.name: John
 book.number: 43
 chapter: 6
 chapter.total: 21
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 71
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/43: John/John ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
+up: "[[bibles/NASB-IL/John/-- John --]]"
+prev: "[[bibles/NASB-IL/John/John 5]]"
+next: "[[bibles/NASB-IL/John/John 7]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # John 6

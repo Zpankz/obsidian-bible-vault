@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Timothy"
+book.name: 2 Timothy
 book.number: 55
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 4
-original.name: "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄"
+original.name: ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Timothy/2 Timothy 1]]"
 ---
 
 # 2 Timothy

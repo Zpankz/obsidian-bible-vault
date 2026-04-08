@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Titus/-- Titus --]]"
-book.name: "Titus"
+book.name: Titus
 book.number: 56
 chapter: 2
 chapter.total: 3
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 15
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/56: Titus/Titus ch: 2]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/greek/G435 - aner]]"
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G5547 - Christos]]"
+up: "[[bibles/NASB-IL/Titus/-- Titus --]]"
+prev: "[[bibles/NASB-IL/Titus/Titus 1]]"
+next: "[[bibles/NASB-IL/Titus/Titus 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Titus 2

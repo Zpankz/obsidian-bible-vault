@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 chapter: 61
 chapter.total: 150
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 8
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/19: Psalms/Psalms ch: 61]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8085 - shama]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
+up: "[[bibles/NASB-IL/Psalms/-- Psalms --]]"
+prev: "[[bibles/NASB-IL/Psalms/Psalms 60]]"
+next: "[[bibles/NASB-IL/Psalms/Psalms 62]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Psalms 61

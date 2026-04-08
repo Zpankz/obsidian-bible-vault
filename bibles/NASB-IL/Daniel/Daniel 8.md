@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 8
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3556 - kokav]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H4150 - moed]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 7]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 9]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 8

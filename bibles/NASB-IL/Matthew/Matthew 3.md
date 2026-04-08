@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 3
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 17
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4137 - pleroo]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 2]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 4]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 3

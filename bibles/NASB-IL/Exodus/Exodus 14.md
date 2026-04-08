@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 chapter: 14
 chapter.total: 40
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/02: Exodus/Exodus ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3220 - yam]]"
   - "[[concepts/hebrew/H3318 - yatsa]]"
+up: "[[bibles/NASB-IL/Exodus/-- Exodus --]]"
+prev: "[[bibles/NASB-IL/Exodus/Exodus 13]]"
+next: "[[bibles/NASB-IL/Exodus/Exodus 15]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Exodus 14

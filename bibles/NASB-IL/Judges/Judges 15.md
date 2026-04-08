@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Judges/-- Judges --]]"
-book.name: "Judges"
+book.name: Judges
 book.number: 7
 chapter: 15
 chapter.total: 21
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/07: Judges/Judges ch: 15]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H4910 - mashal]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/Judges/-- Judges --]]"
+prev: "[[bibles/NASB-IL/Judges/Judges 14]]"
+next: "[[bibles/NASB-IL/Judges/Judges 16]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Judges 15

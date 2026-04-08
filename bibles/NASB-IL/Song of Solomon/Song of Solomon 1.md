@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
-book.name: "Song of Solomon"
+book.name: Song of Solomon
 book.number: 22
 chapter: 1
 chapter.total: 8
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/22: Song of Solomon/Song of Solomon ch: 1]]"
@@ -25,6 +25,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H996 - beyn]]"
+up: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
+prev: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 12]]"
+next: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 2]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Song of Solomon 1

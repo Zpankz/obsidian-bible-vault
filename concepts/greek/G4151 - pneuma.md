@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G3875 - parakletos]]"
   - "[[concepts/greek/G2316 - theos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # πνεῦμα — Pneuma

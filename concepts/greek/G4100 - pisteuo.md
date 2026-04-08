@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
   - "[[concepts/greek/G5485 - charis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # πιστεύω — Pisteuo

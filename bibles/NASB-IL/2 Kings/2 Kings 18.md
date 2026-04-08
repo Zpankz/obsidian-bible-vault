@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
-book.name: "2 Kings"
+book.name: 2 Kings
 book.number: 12
 chapter: 18
 chapter.total: 25
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 37
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/12: 2 Kings/2 Kings ch: 18]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+up: "[[bibles/NASB-IL/2 Kings/-- 2 Kings --]]"
+prev: "[[bibles/NASB-IL/2 Kings/2 Kings 17]]"
+next: "[[bibles/NASB-IL/2 Kings/2 Kings 19]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Kings 18

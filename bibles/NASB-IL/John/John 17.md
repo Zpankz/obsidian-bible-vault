@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/John/-- John --]]"
-book.name: "John"
+book.name: John
 book.number: 43
 chapter: 17
 chapter.total: 21
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 26
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/43: John/John ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/John/-- John --]]"
+prev: "[[bibles/NASB-IL/John/John 16]]"
+next: "[[bibles/NASB-IL/John/John 18]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # John 17

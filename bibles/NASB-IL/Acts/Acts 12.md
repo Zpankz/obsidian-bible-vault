@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 12
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 25
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3137 - Maria]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 11]]"
+next: "[[bibles/NASB-IL/Acts/Acts 13]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 12

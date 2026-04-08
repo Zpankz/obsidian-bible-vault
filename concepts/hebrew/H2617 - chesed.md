@@ -18,6 +18,9 @@ related:
   - "[[concepts/hebrew/H1285 - berith]]"
   - "[[concepts/hebrew/H157 - ahav]]"
   - "[[concepts/hebrew/H5545 - salach]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # חֶסֶד — Chesed

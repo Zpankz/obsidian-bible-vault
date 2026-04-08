@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 4
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 11
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 4]]"
@@ -26,6 +26,13 @@ key.terms:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G5456 - phone]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 3]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 5]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 4

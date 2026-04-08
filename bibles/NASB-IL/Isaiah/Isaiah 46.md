@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 46
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 46]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H7121 - qara]]"
   - "[[concepts/hebrew/H7225 - reshith]]"
   - "[[concepts/hebrew/H776 - erets]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 45]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 47]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 46

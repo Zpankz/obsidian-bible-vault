@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Ecclesiastes"
+book.name: Ecclesiastes
 book.number: 21
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
+section: Wisdom
+genre: wisdom
 chapters.total: 12
-original.name: "קהלת"
+original.name: קהלת
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 1]]"
 ---
 
 # Ecclesiastes

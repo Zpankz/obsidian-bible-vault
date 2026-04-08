@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
   - "[[concepts/greek/G266 - hamartia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # νόμος — Nomos

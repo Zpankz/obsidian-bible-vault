@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 22
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 41
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 22]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4397 - malak]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 21]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 23]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 22

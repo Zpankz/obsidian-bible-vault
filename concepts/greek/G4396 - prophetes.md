@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G652 - apostolos]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # προφήτης — Prophetes

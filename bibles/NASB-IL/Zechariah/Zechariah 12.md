@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
-book.name: "Zechariah"
+book.name: Zechariah
 book.number: 38
 chapter: 12
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/38: Zechariah/Zechariah ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6635 - tsava]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
   - "[[concepts/hebrew/H776 - erets]]"
+up: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
+prev: "[[bibles/NASB-IL/Zechariah/Zechariah 11]]"
+next: "[[bibles/NASB-IL/Zechariah/Zechariah 13]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zechariah 12

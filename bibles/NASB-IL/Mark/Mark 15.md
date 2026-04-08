@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 15
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 47
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 15]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3384 - meter]]"
   - "[[concepts/greek/G3962 - pater]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 14]]"
+next: "[[bibles/NASB-IL/Mark/Mark 16]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 15

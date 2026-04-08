@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 10
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 10]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5771 - avon]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6635 - tsava]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 9]]"
+next: "[[bibles/NASB-IL/Job/Job 11]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 10

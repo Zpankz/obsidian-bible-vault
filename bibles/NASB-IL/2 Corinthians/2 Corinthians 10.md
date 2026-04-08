@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 10
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 10]]"
@@ -26,6 +26,13 @@ key.terms:
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G4137 - pleroo]]"
   - "[[concepts/greek/G5547 - Christos]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 9]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 11]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 10

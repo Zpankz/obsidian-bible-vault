@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
-book.name: "Leviticus"
+book.name: Leviticus
 book.number: 3
 chapter: 17
 chapter.total: 27
 testament: OT
-section: "Torah"
-genre: "law"
-original.language: "Hebrew"
+section: Torah
+genre: law
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/03: Leviticus/Leviticus ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5769 - olam]]"
   - "[[concepts/hebrew/H5771 - avon]]"
   - "[[concepts/hebrew/H5775 - oph]]"
+up: "[[bibles/NASB-IL/Leviticus/-- Leviticus --]]"
+prev: "[[bibles/NASB-IL/Leviticus/Leviticus 16]]"
+next: "[[bibles/NASB-IL/Leviticus/Leviticus 18]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/law
 ---
 
 # Leviticus 17

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 53
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 12
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 53]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H776 - erets]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 52]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 54]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 53

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 17
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 34
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 16]]"
+next: "[[bibles/NASB-IL/Acts/Acts 18]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 17

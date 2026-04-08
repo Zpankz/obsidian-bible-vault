@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 2
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 17
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G4982 - sozo]]"
   - "[[concepts/greek/G5485 - charis]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 1]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 2

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 12
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H4150 - moed]]"
   - "[[concepts/hebrew/H5030 - navi]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 11]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 13]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 12

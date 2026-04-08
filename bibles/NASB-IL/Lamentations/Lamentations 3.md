@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Lamentations/-- Lamentations --]]"
-book.name: "Lamentations"
+book.name: Lamentations
 book.number: 25
 chapter: 3
 chapter.total: 5
 testament: OT
-section: "Major Prophets"
-genre: "poetry"
-original.language: "Hebrew"
+section: Major Prophets
+genre: poetry
+original.language: Hebrew
 verses.total: 66
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/25: Lamentations/Lamentations ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3820 - lev]]"
+up: "[[bibles/NASB-IL/Lamentations/-- Lamentations --]]"
+prev: "[[bibles/NASB-IL/Lamentations/Lamentations 2]]"
+next: "[[bibles/NASB-IL/Lamentations/Lamentations 4]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/poetry
 ---
 
 # Lamentations 3

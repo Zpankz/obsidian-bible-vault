@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
-book.name: "Nehemiah"
+book.name: Nehemiah
 book.number: 16
 chapter: 11
 chapter.total: 13
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 36
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/16: Nehemiah/Nehemiah ch: 11]]"
@@ -25,6 +25,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
+prev: "[[bibles/NASB-IL/Nehemiah/Nehemiah 10]]"
+next: "[[bibles/NASB-IL/Nehemiah/Nehemiah 12]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Nehemiah 11

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
-book.name: "Colossians"
+book.name: Colossians
 book.number: 51
 chapter: 1
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 29
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/51: Colossians/Colossians ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G225 - aletheia]]"
   - "[[concepts/greek/G2288 - thanatos]]"
   - "[[concepts/greek/G2309 - thelo]]"
+up: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
+prev: "[[bibles/NASB-IL/Philippians/Philippians 4]]"
+next: "[[bibles/NASB-IL/Colossians/Colossians 2]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Colossians 1

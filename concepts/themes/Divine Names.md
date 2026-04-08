@@ -17,6 +17,9 @@ greek.terms:
 related.themes:
   - "[[concepts/themes/Theology Proper]]"
   - "[[concepts/themes/Christology]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Divine Names

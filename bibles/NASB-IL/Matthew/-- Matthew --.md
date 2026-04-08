@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 testament: NT
-section: "Gospels"
-genre: "gospel"
+section: Gospels
+genre: gospel
 chapters.total: 28
-original.name: "ΚΑΤΑ ΜΑΤΘΑΙΟΝ"
+original.name: ΚΑΤΑ ΜΑΤΘΑΙΟΝ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Matthew/Matthew 1]]"
 ---
 
 # Matthew

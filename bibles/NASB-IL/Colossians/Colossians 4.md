@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
-book.name: "Colossians"
+book.name: Colossians
 book.number: 51
 chapter: 4
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/51: Colossians/Colossians ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3441 - monos]]"
   - "[[concepts/greek/G3624 - stauros]]"
   - "[[concepts/greek/G3880 - paralambano]]"
+up: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
+prev: "[[bibles/NASB-IL/Colossians/Colossians 3]]"
+next: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Colossians 4

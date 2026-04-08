@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G5547 - Christos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # κύριος — Kyrios

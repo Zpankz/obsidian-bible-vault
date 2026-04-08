@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
-book.name: "2 Samuel"
+book.name: 2 Samuel
 book.number: 10
 chapter: 5
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 25
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/10: 2 Samuel/2 Samuel ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
+prev: "[[bibles/NASB-IL/2 Samuel/2 Samuel 4]]"
+next: "[[bibles/NASB-IL/2 Samuel/2 Samuel 6]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Samuel 5

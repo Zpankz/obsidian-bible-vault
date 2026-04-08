@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nahum/-- Nahum --]]"
-book.name: "Nahum"
+book.name: Nahum
 book.number: 34
 chapter: 3
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 19
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/34: Nahum/Nahum ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5774 - uph]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/Nahum/-- Nahum --]]"
+prev: "[[bibles/NASB-IL/Nahum/Nahum 2]]"
+next: "[[bibles/NASB-IL/Habakkuk/Habakkuk 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Nahum 3

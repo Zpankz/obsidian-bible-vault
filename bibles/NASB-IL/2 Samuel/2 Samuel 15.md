@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
-book.name: "2 Samuel"
+book.name: 2 Samuel
 book.number: 10
 chapter: 15
 chapter.total: 24
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 37
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/10: 2 Samuel/2 Samuel ch: 15]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
   - "[[concepts/hebrew/H3820 - lev]]"
+up: "[[bibles/NASB-IL/2 Samuel/-- 2 Samuel --]]"
+prev: "[[bibles/NASB-IL/2 Samuel/2 Samuel 14]]"
+next: "[[bibles/NASB-IL/2 Samuel/2 Samuel 16]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 2 Samuel 15

@@ -17,6 +17,9 @@ related.themes:
   - "[[concepts/themes/Anthropology]]"
   - "[[concepts/themes/Redemption]]"
   - "[[concepts/themes/Light and Darkness]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Hamartiology

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Luke/-- Luke --]]"
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 chapter: 21
 chapter.total: 24
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 38
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/42: Luke/Luke ch: 21]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Luke/-- Luke --]]"
+prev: "[[bibles/NASB-IL/Luke/Luke 20]]"
+next: "[[bibles/NASB-IL/Luke/Luke 22]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Luke 21

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
-book.name: "Hosea"
+book.name: Hosea
 book.number: 28
 chapter: 8
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 14
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/28: Hosea/Hosea ch: 8]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H7235 - ravah]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
   - "[[concepts/hebrew/H8451 - torah]]"
+up: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
+prev: "[[bibles/NASB-IL/Hosea/Hosea 7]]"
+next: "[[bibles/NASB-IL/Hosea/Hosea 9]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Hosea 8

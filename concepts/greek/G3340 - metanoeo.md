@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G907 - baptizo]]"
   - "[[concepts/greek/G266 - hamartia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # μετανοέω — Metanoeo

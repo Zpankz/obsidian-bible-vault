@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
-book.name: "1 Timothy"
+book.name: 1 Timothy
 book.number: 54
 chapter: 1
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 20
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/54: 1 Timothy/1 Timothy ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
+up: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
+prev: "[[bibles/NASB-IL/2 Thessalonians/2 Thessalonians 3]]"
+next: "[[bibles/NASB-IL/1 Timothy/1 Timothy 2]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Timothy 1

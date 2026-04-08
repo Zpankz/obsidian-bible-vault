@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/James/-- James --]]"
-book.name: "James"
+book.name: James
 book.number: 59
 chapter: 2
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 26
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/59: James/James ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/James/-- James --]]"
+prev: "[[bibles/NASB-IL/James/James 1]]"
+next: "[[bibles/NASB-IL/James/James 3]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # James 2

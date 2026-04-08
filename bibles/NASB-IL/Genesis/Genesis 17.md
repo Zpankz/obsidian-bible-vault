@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
-book.name: "Genesis"
+book.name: Genesis
 book.number: 1
 chapter: 17
 chapter.total: 50
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/01: Genesis/Genesis ch: 17]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H410 - El]]"
+up: "[[bibles/NASB-IL/Genesis/-- Genesis --]]"
+prev: "[[bibles/NASB-IL/Genesis/Genesis 16]]"
+next: "[[bibles/NASB-IL/Genesis/Genesis 18]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Genesis 17

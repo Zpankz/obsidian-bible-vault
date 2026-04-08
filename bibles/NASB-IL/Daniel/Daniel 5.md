@@ -1,18 +1,25 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 5
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 5]]"
 parallel.hebrew: "[[bibles/WLCa/27 דניאל/דניאל 5]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 4]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 6]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 5

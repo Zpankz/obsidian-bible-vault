@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Obadiah/-- Obadiah --]]"
-book.name: "Obadiah"
+book.name: Obadiah
 book.number: 31
 chapter: 1
 chapter.total: 1
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/31: Obadiah/Obadiah ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H5769 - olam]]"
+up: "[[bibles/NASB-IL/Obadiah/-- Obadiah --]]"
+prev: "[[bibles/NASB-IL/Amos/Amos 9]]"
+next: "[[bibles/NASB-IL/Jonah/Jonah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Obadiah 1

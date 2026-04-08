@@ -18,6 +18,9 @@ related:
   - "[[concepts/hebrew/H136 - Adonai]]"
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H1961 - hayah]]"
+tags:
+  - "concept/hebrew"
+  - "strongs"
 ---
 
 # יהוה — YHWH

@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G1849 - exousia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # βασιλεία — Basileia

@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # πίστις — Pistis

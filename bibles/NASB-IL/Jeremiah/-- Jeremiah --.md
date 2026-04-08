@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
+section: Major Prophets
+genre: prophecy
 chapters.total: 52
-original.name: "ירמיהו"
+original.name: ירמיהו
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Jeremiah/Jeremiah 1]]"
 ---
 
 # Jeremiah

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 16
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 50
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 16]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3519 - kavod]]"
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H3966 - meod]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 15]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 17]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 16

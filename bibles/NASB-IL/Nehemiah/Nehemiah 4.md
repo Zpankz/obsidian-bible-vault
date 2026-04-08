@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
-book.name: "Nehemiah"
+book.name: Nehemiah
 book.number: 16
 chapter: 4
 chapter.total: 13
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/16: Nehemiah/Nehemiah ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H559 - amar]]"
+up: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
+prev: "[[bibles/NASB-IL/Nehemiah/Nehemiah 3]]"
+next: "[[bibles/NASB-IL/Nehemiah/Nehemiah 5]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Nehemiah 4

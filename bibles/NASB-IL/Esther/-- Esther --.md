@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Esther"
+book.name: Esther
 book.number: 17
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 10
-original.name: "אסתר"
+original.name: אסתר
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Esther/Esther 1]]"
 ---
 
 # Esther

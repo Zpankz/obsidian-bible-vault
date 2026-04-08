@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ephesians/-- Ephesians --]]"
-book.name: "Ephesians"
+book.name: Ephesians
 book.number: 49
 chapter: 3
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/49: Ephesians/Ephesians ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3962 - pater]]"
+up: "[[bibles/NASB-IL/Ephesians/-- Ephesians --]]"
+prev: "[[bibles/NASB-IL/Ephesians/Ephesians 2]]"
+next: "[[bibles/NASB-IL/Ephesians/Ephesians 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Ephesians 3

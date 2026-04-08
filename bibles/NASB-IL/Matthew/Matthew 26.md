@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 26
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 75
 pericopes.count: 10
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 26]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2192 - echo]]"
   - "[[concepts/greek/G2193 - heos]]"
   - "[[concepts/greek/G2288 - thanatos]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 25]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 27]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 26

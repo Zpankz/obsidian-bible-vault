@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 49
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 39
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 49]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H3966 - meod]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 48]]"
+next: "[[bibles/NASB-IL/Jeremiah/Jeremiah 50]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 49

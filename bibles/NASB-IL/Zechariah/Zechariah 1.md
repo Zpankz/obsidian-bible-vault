@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
-book.name: "Zechariah"
+book.name: Zechariah
 book.number: 38
 chapter: 1
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/38: Zechariah/Zechariah ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5769 - olam]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6635 - tsava]]"
+up: "[[bibles/NASB-IL/Zechariah/-- Zechariah --]]"
+prev: "[[bibles/NASB-IL/Haggai/Haggai 2]]"
+next: "[[bibles/NASB-IL/Zechariah/Zechariah 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zechariah 1

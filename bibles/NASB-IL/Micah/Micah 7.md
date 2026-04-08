@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Micah/-- Micah --]]"
-book.name: "Micah"
+book.name: Micah
 book.number: 33
 chapter: 7
 chapter.total: 7
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/33: Micah/Micah ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3533 - kavash]]"
+up: "[[bibles/NASB-IL/Micah/-- Micah --]]"
+prev: "[[bibles/NASB-IL/Micah/Micah 6]]"
+next: "[[bibles/NASB-IL/Nahum/Nahum 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Micah 7

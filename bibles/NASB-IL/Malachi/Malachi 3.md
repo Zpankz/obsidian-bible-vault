@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Malachi/-- Malachi --]]"
-book.name: "Malachi"
+book.name: Malachi
 book.number: 39
 chapter: 3
 chapter.total: 4
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/39: Malachi/Malachi ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4397 - malak]]"
+up: "[[bibles/NASB-IL/Malachi/-- Malachi --]]"
+prev: "[[bibles/NASB-IL/Malachi/Malachi 2]]"
+next: "[[bibles/NASB-IL/Malachi/Malachi 4]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Malachi 3

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Romans/-- Romans --]]"
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 chapter: 5
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/45: Romans/Romans ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/Romans/-- Romans --]]"
+prev: "[[bibles/NASB-IL/Romans/Romans 4]]"
+next: "[[bibles/NASB-IL/Romans/Romans 6]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Romans 5

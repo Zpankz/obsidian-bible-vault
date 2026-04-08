@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 chapter: 5
 chapter.total: 31
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/20: Proverbs/Proverbs ch: 5]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H8085 - shama]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Proverbs/-- Proverbs --]]"
+prev: "[[bibles/NASB-IL/Proverbs/Proverbs 4]]"
+next: "[[bibles/NASB-IL/Proverbs/Proverbs 6]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Proverbs 5

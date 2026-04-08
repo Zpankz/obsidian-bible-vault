@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 John/-- 1 John --]]"
-book.name: "1 John"
+book.name: 1 John
 book.number: 62
 chapter: 3
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 24
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/62: 1 John/1 John ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G266 - hamartia]]"
+up: "[[bibles/NASB-IL/1 John/-- 1 John --]]"
+prev: "[[bibles/NASB-IL/1 John/1 John 2]]"
+next: "[[bibles/NASB-IL/1 John/1 John 4]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 John 3

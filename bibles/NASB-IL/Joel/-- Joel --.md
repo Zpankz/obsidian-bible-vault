@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Joel"
+book.name: Joel
 book.number: 29
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 3
-original.name: "יואל"
+original.name: יואל
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Joel/Joel 1]]"
 ---
 
 # Joel

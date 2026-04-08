@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 chapter: 2
 chapter.total: 13
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/58: Hebrews/Hebrews ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G2992 - laos]]"
+up: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
+prev: "[[bibles/NASB-IL/Hebrews/Hebrews 1]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 3]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Hebrews 2

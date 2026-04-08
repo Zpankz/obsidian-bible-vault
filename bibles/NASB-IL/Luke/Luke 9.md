@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Luke/-- Luke --]]"
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 chapter: 9
 chapter.total: 24
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 62
 pericopes.count: 8
 parallel.kjv: "[[bibles/KJV/42: Luke/Luke ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2309 - thelo]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
+up: "[[bibles/NASB-IL/Luke/-- Luke --]]"
+prev: "[[bibles/NASB-IL/Luke/Luke 8]]"
+next: "[[bibles/NASB-IL/Luke/Luke 10]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Luke 9

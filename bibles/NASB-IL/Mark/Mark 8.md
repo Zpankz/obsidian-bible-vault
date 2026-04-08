@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 8
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 38
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 8]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3624 - stauros]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 7]]"
+next: "[[bibles/NASB-IL/Mark/Mark 9]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 8

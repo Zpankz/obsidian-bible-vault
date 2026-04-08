@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 13
-original.name: "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄"
+original.name: ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 1]]"
 ---
 
 # 2 Corinthians

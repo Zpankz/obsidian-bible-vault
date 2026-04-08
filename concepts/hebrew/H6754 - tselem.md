@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H120 - adam]]"
   - "[[concepts/hebrew/H7287 - radah]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # צֶלֶם — Tselem

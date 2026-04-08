@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H226 - ot]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # מוֹעֵד — Moed

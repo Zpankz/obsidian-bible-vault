@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
-book.name: "1 Chronicles"
+book.name: 1 Chronicles
 book.number: 13
 chapter: 12
 chapter.total: 29
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 40
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/13: 1 Chronicles/1 Chronicles ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
+prev: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 11]]"
+next: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 13]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Chronicles 12

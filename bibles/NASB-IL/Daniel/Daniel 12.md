@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 12
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5769 - olam]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 11]]"
+next: "[[bibles/NASB-IL/Hosea/Hosea 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 12

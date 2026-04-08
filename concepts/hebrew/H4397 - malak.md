@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H5030 - navi]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # מַלְאָךְ — Malak

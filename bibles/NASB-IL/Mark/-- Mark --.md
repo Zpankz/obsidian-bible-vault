@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 testament: NT
-section: "Gospels"
-genre: "gospel"
+section: Gospels
+genre: gospel
 chapters.total: 16
-original.name: "ΚΑΤΑ ΜΑΡΚΟΝ"
+original.name: ΚΑΤΑ ΜΑΡΚΟΝ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Mark/Mark 1]]"
 ---
 
 # Mark

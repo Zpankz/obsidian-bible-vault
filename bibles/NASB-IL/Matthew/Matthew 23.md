@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 23
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 39
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 23]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G3551 - nomos]]"
   - "[[concepts/greek/G3624 - stauros]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 22]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 24]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 23

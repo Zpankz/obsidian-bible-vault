@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
-book.name: "Nehemiah"
+book.name: Nehemiah
 book.number: 16
 chapter: 13
 chapter.total: 13
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 31
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/16: Nehemiah/Nehemiah ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4325 - mayim]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Nehemiah/-- Nehemiah --]]"
+prev: "[[bibles/NASB-IL/Nehemiah/Nehemiah 12]]"
+next: "[[bibles/NASB-IL/Esther/Esther 1]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Nehemiah 13

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
-book.name: "1 Chronicles"
+book.name: 1 Chronicles
 book.number: 13
 chapter: 4
 chapter.total: 29
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 43
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/13: 1 Chronicles/1 Chronicles ch: 4]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H7235 - ravah]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
+prev: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 3]]"
+next: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 5]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Chronicles 4

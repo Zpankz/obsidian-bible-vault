@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
-book.name: "Jeremiah"
+book.name: Jeremiah
 book.number: 24
 chapter: 31
 chapter.total: 52
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 40
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/24: Jeremiah/Jeremiah ch: 31]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H2232 - zara]]"
   - "[[concepts/hebrew/H2233 - zera]]"
   - "[[concepts/hebrew/H2403 - chattath]]"
+up: "[[bibles/NASB-IL/Jeremiah/-- Jeremiah --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 30]]"
+next: "[[bibles/NASB-IL/Jeremiah/Jeremiah 32]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Jeremiah 31

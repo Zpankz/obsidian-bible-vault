@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G225 - aletheia]]"
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G2222 - zoe]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # γινώσκω — Ginosko

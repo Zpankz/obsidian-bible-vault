@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Chronicles"
+book.name: 2 Chronicles
 book.number: 14
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 36
-original.name: "דברי הימים ב"
+original.name: דברי הימים ב
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Chronicles/2 Chronicles 1]]"
 ---
 
 # 2 Chronicles

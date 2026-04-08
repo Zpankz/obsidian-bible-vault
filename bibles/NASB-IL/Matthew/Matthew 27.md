@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 27
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 66
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 27]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G2992 - laos]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 26]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 28]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 27

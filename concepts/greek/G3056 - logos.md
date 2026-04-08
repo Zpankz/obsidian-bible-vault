@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G4487 - rhema]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G5547 - Christos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # λόγος — Logos

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/John/-- John --]]"
-book.name: "John"
+book.name: John
 book.number: 43
 chapter: 5
 chapter.total: 21
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 47
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/43: John/John ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2309 - thelo]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
+up: "[[bibles/NASB-IL/John/-- John --]]"
+prev: "[[bibles/NASB-IL/John/John 4]]"
+next: "[[bibles/NASB-IL/John/John 6]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # John 5

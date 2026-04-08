@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Romans/-- Romans --]]"
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 chapter: 16
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 27
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/45: Romans/Romans ch: 16]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3384 - meter]]"
   - "[[concepts/greek/G3441 - monos]]"
   - "[[concepts/greek/G3624 - stauros]]"
+up: "[[bibles/NASB-IL/Romans/-- Romans --]]"
+prev: "[[bibles/NASB-IL/Romans/Romans 15]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Romans 16

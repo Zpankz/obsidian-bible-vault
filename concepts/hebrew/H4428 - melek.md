@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H4899 - mashiach]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H7287 - radah]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # מֶלֶךְ — Melek

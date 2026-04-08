@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Peter"
+book.name: 2 Peter
 book.number: 61
 testament: NT
-section: "General"
-genre: "epistle"
+section: General
+genre: epistle
 chapters.total: 3
-original.name: "ΠΕΤΡΟΥ Β΄"
+original.name: ΠΕΤΡΟΥ Β΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Peter/2 Peter 1]]"
 ---
 
 # 2 Peter

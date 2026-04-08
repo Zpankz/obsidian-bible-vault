@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G1242 - diatheke]]"
   - "[[concepts/greek/G4991 - soteria]]"
   - "[[concepts/greek/G3056 - logos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # αἷμα — Haima

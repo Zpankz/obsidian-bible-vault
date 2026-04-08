@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Amos/-- Amos --]]"
-book.name: "Amos"
+book.name: Amos
 book.number: 30
 chapter: 5
 chapter.total: 9
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 27
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/30: Amos/Amos ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3220 - yam]]"
   - "[[concepts/hebrew/H3318 - yatsa]]"
+up: "[[bibles/NASB-IL/Amos/-- Amos --]]"
+prev: "[[bibles/NASB-IL/Amos/Amos 4]]"
+next: "[[bibles/NASB-IL/Amos/Amos 6]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Amos 5

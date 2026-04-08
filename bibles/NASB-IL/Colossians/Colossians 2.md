@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
-book.name: "Colossians"
+book.name: Colossians
 book.number: 51
 chapter: 2
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 23
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/51: Colossians/Colossians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G32 - angelos]]"
+up: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
+prev: "[[bibles/NASB-IL/Colossians/Colossians 1]]"
+next: "[[bibles/NASB-IL/Colossians/Colossians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Colossians 2

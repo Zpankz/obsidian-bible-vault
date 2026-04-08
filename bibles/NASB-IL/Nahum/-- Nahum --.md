@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Nahum"
+book.name: Nahum
 book.number: 34
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 3
-original.name: "נחום"
+original.name: נחום
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Nahum/Nahum 1]]"
 ---
 
 # Nahum

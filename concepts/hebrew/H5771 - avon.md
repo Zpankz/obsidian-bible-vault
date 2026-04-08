@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H2403 - chattath]]"
   - "[[concepts/hebrew/H5545 - salach]]"
   - "[[concepts/hebrew/H3722 - kaphar]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # עָוֹן — Avon

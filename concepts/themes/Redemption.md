@@ -18,6 +18,9 @@ related.themes:
   - "[[concepts/themes/Covenant]]"
   - "[[concepts/themes/Hamartiology]]"
   - "[[concepts/themes/New Creation]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Redemption

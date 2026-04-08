@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Esther/-- Esther --]]"
-book.name: "Esther"
+book.name: Esther
 book.number: 17
 chapter: 3
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/17: Esther/Esther ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H7121 - qara]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+up: "[[bibles/NASB-IL/Esther/-- Esther --]]"
+prev: "[[bibles/NASB-IL/Esther/Esther 2]]"
+next: "[[bibles/NASB-IL/Esther/Esther 4]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Esther 3

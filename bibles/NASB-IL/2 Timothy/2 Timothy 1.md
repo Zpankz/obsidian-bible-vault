@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Timothy/-- 2 Timothy --]]"
-book.name: "2 Timothy"
+book.name: 2 Timothy
 book.number: 55
 chapter: 1
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/55: 2 Timothy/2 Timothy ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G26 - agape]]"
+up: "[[bibles/NASB-IL/2 Timothy/-- 2 Timothy --]]"
+prev: "[[bibles/NASB-IL/1 Timothy/1 Timothy 6]]"
+next: "[[bibles/NASB-IL/2 Timothy/2 Timothy 2]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Timothy 1

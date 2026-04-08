@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
-book.name: "Ezra"
+book.name: Ezra
 book.number: 15
 chapter: 7
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 28
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/15: Ezra/Ezra ch: 7]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/Ezra/-- Ezra --]]"
+prev: "[[bibles/NASB-IL/Ezra/Ezra 6]]"
+next: "[[bibles/NASB-IL/Ezra/Ezra 8]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ezra 7

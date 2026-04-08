@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 19
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 30
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 19]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3101 - mathetes]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3384 - meter]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 18]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 20]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 19

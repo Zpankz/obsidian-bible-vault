@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Habakkuk/-- Habakkuk --]]"
-book.name: "Habakkuk"
+book.name: Habakkuk
 book.number: 35
 chapter: 1
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/35: Habakkuk/Habakkuk ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H539 - aman]]"
   - "[[concepts/hebrew/H5774 - uph]]"
   - "[[concepts/hebrew/H6153 - erev]]"
+up: "[[bibles/NASB-IL/Habakkuk/-- Habakkuk --]]"
+prev: "[[bibles/NASB-IL/Nahum/Nahum 3]]"
+next: "[[bibles/NASB-IL/Habakkuk/Habakkuk 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Habakkuk 1

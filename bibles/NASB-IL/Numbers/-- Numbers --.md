@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 testament: OT
-section: "Torah"
-genre: "narrative"
+section: Torah
+genre: narrative
 chapters.total: 36
-original.name: "במדבר"
+original.name: במדבר
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Numbers/Numbers 1]]"
 ---
 
 # Numbers

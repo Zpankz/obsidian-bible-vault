@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
-book.name: "1 Peter"
+book.name: 1 Peter
 book.number: 60
 chapter: 3
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 22
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/60: 1 Peter/1 Peter ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2309 - thelo]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G2424 - Iesous]]"
+up: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
+prev: "[[bibles/NASB-IL/1 Peter/1 Peter 2]]"
+next: "[[bibles/NASB-IL/1 Peter/1 Peter 4]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 Peter 3

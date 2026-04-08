@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 24
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 27
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 24]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 23]]"
+next: "[[bibles/NASB-IL/Acts/Acts 25]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 24

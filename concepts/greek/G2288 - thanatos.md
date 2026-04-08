@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G2222 - zoe]]"
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G386 - anastasis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # θάνατος — Thanatos

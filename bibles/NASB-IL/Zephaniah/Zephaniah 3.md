@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zephaniah/-- Zephaniah --]]"
-book.name: "Zephaniah"
+book.name: Zephaniah
 book.number: 36
 chapter: 3
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/36: Zephaniah/Zephaniah ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
+up: "[[bibles/NASB-IL/Zephaniah/-- Zephaniah --]]"
+prev: "[[bibles/NASB-IL/Zephaniah/Zephaniah 2]]"
+next: "[[bibles/NASB-IL/Haggai/Haggai 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zephaniah 3

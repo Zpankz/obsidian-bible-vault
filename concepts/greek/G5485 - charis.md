@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # χάρις — Charis

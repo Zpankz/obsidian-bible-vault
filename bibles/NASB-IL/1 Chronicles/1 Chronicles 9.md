@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
-book.name: "1 Chronicles"
+book.name: 1 Chronicles
 book.number: 13
 chapter: 9
 chapter.total: 29
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 44
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/13: 1 Chronicles/1 Chronicles ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+up: "[[bibles/NASB-IL/1 Chronicles/-- 1 Chronicles --]]"
+prev: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 8]]"
+next: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 10]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # 1 Chronicles 9

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
-book.name: "Numbers"
+book.name: Numbers
 book.number: 4
 chapter: 2
 chapter.total: 36
 testament: OT
-section: "Torah"
-genre: "narrative"
-original.language: "Hebrew"
+section: Torah
+genre: narrative
+original.language: Hebrew
 verses.total: 34
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/04: Numbers/Numbers ch: 2]]"
@@ -27,6 +27,13 @@ key.terms:
   - "[[concepts/hebrew/H8145 - sheni]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
   - "[[concepts/hebrew/H8432 - tavek]]"
+up: "[[bibles/NASB-IL/Numbers/-- Numbers --]]"
+prev: "[[bibles/NASB-IL/Numbers/Numbers 1]]"
+next: "[[bibles/NASB-IL/Numbers/Numbers 3]]"
+tags:
+  - bible/ot
+  - bible/torah
+  - genre/narrative
 ---
 
 # Numbers 2

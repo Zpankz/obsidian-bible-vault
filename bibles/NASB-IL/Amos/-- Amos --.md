@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Amos"
+book.name: Amos
 book.number: 30
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 9
-original.name: "עמוס"
+original.name: עמוס
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Amos/Amos 1]]"
 ---
 
 # Amos

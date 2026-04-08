@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Titus/-- Titus --]]"
-book.name: "Titus"
+book.name: Titus
 book.number: 56
 chapter: 3
 chapter.total: 3
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/56: Titus/Titus ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4102 - pistis]]"
+up: "[[bibles/NASB-IL/Titus/-- Titus --]]"
+prev: "[[bibles/NASB-IL/Titus/Titus 2]]"
+next: "[[bibles/NASB-IL/Philemon/Philemon 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Titus 3

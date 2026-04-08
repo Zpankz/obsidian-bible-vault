@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "1 Samuel"
+book.name: 1 Samuel
 book.number: 9
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 31
-original.name: "שמואל א"
+original.name: שמואל א
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/1 Samuel/1 Samuel 1]]"
 ---
 
 # 1 Samuel

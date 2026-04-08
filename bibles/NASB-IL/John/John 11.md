@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/John/-- John --]]"
-book.name: "John"
+book.name: John
 book.number: 43
 chapter: 11
 chapter.total: 21
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 57
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/43: John/John ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2992 - laos]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3101 - mathetes]]"
+up: "[[bibles/NASB-IL/John/-- John --]]"
+prev: "[[bibles/NASB-IL/John/John 10]]"
+next: "[[bibles/NASB-IL/John/John 12]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # John 11

@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G1411 - dynamis]]"
   - "[[concepts/greek/G4991 - soteria]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # εὐαγγέλιον — Euangelion

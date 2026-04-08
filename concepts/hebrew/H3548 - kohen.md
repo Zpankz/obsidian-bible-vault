@@ -18,6 +18,9 @@ related:
   - "[[concepts/hebrew/H3722 - kaphar]]"
   - "[[concepts/hebrew/H5930 - olah]]"
   - "[[concepts/hebrew/H4899 - mashiach]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # כֹּהֵן — Kohen

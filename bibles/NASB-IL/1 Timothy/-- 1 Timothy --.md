@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "1 Timothy"
+book.name: 1 Timothy
 book.number: 54
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 6
-original.name: "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄"
+original.name: ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/1 Timothy/1 Timothy 1]]"
 ---
 
 # 1 Timothy

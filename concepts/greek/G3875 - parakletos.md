@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G225 - aletheia]]"
   - "[[concepts/greek/G2424 - Iesous]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # παράκλητος — Parakletos

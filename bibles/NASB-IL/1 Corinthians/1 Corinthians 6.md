@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 6
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G3686 - onoma]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 5]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 7]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 6

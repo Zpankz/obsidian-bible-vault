@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Habakkuk"
+book.name: Habakkuk
 book.number: 35
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 3
-original.name: "חבקוק"
+original.name: חבקוק
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Habakkuk/Habakkuk 1]]"
 ---
 
 # Habakkuk

@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # φωνή — Phone

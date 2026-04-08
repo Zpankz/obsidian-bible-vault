@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
-book.name: "Hosea"
+book.name: Hosea
 book.number: 28
 chapter: 6
 chapter.total: 14
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 11
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/28: Hosea/Hosea ch: 6]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5930 - olah]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/Hosea/-- Hosea --]]"
+prev: "[[bibles/NASB-IL/Hosea/Hosea 5]]"
+next: "[[bibles/NASB-IL/Hosea/Hosea 7]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Hosea 6

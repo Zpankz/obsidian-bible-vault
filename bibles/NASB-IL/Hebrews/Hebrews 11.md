@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 chapter: 11
 chapter.total: 13
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 40
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/58: Hebrews/Hebrews ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2147 - heurisko]]"
   - "[[concepts/greek/G2192 - echo]]"
   - "[[concepts/greek/G2288 - thanatos]]"
+up: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
+prev: "[[bibles/NASB-IL/Hebrews/Hebrews 10]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 12]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Hebrews 11

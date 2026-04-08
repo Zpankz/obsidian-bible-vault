@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 11
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 33
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 11]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 10]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 12]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 11

@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G4991 - soteria]]"
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G5485 - charis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # σῴζω — Sozo

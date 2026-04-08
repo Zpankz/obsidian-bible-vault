@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 16
-original.name: "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄"
+original.name: ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 1]]"
 ---
 
 # 1 Corinthians

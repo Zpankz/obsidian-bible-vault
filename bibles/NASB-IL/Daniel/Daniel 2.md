@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 2
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 49
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 2]]"
@@ -24,6 +24,13 @@ key.terms:
   - "[[concepts/hebrew/H7307 - ruach]]"
   - "[[concepts/hebrew/H8141 - shanah]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 1]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 3]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 2

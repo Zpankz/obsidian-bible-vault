@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G129 - haima]]"
   - "[[concepts/greek/G2098 - euangelion]]"
   - "[[concepts/greek/G1343 - dikaiosyne]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # διαθήκη — Diatheke

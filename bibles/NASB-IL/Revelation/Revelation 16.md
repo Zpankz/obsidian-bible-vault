@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
-book.name: "Revelation"
+book.name: Revelation
 book.number: 66
 chapter: 16
 chapter.total: 22
 testament: NT
-section: "Apocalyptic"
-genre: "apocalyptic"
-original.language: "Greek"
+section: Apocalyptic
+genre: apocalyptic
+original.language: Greek
 verses.total: 21
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/66: Revelation/Revelation ch: 16]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3340 - metanoeo]]"
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G40 - hagios]]"
+up: "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+prev: "[[bibles/NASB-IL/Revelation/Revelation 15]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 17]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
+  - genre/apocalyptic
 ---
 
 # Revelation 16

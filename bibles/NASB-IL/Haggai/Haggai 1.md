@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Haggai/-- Haggai --]]"
-book.name: "Haggai"
+book.name: Haggai
 book.number: 37
 chapter: 1
 chapter.total: 2
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/37: Haggai/Haggai ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H4397 - malak]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+up: "[[bibles/NASB-IL/Haggai/-- Haggai --]]"
+prev: "[[bibles/NASB-IL/Zephaniah/Zephaniah 3]]"
+next: "[[bibles/NASB-IL/Haggai/Haggai 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Haggai 1

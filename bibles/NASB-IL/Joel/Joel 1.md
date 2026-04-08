@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joel/-- Joel --]]"
-book.name: "Joel"
+book.name: Joel
 book.number: 29
 chapter: 1
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/29: Joel/Joel ch: 1]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H8085 - shama]]"
   - "[[concepts/hebrew/H929 - behemah]]"
+up: "[[bibles/NASB-IL/Joel/-- Joel --]]"
+prev: "[[bibles/NASB-IL/Hosea/Hosea 14]]"
+next: "[[bibles/NASB-IL/Joel/Joel 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Joel 1

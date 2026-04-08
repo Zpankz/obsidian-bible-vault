@@ -17,6 +17,9 @@ related.themes:
   - "[[concepts/themes/Hamartiology]]"
   - "[[concepts/themes/Creation]]"
   - "[[concepts/themes/Dominion]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Anthropology

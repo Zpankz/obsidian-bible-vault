@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H1350 - gaal]]"
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H2617 - chesed]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # יְשׁוּעָה — Yeshuah

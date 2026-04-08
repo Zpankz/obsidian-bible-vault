@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Peter/-- 2 Peter --]]"
-book.name: "2 Peter"
+book.name: 2 Peter
 book.number: 61
 chapter: 3
 chapter.total: 3
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/61: 2 Peter/2 Peter ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3962 - pater]]"
+up: "[[bibles/NASB-IL/2 Peter/-- 2 Peter --]]"
+prev: "[[bibles/NASB-IL/2 Peter/2 Peter 2]]"
+next: "[[bibles/NASB-IL/1 John/1 John 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 2 Peter 3

@@ -15,6 +15,9 @@ lxx-equivalent: "[[concepts/greek/G2400 - idou]]"
 related:
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # הִנֵּה — Hinneh

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jude/-- Jude --]]"
-book.name: "Jude"
+book.name: Jude
 book.number: 65
 chapter: 1
 chapter.total: 1
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 25
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/65: Jude/Jude ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G32 - angelos]]"
+up: "[[bibles/NASB-IL/Jude/-- Jude --]]"
+prev: "[[bibles/NASB-IL/3 John/3 John 1]]"
+next: "[[bibles/NASB-IL/Revelation/Revelation 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Jude 1

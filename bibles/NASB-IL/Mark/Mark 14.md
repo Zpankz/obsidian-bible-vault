@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 14
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 72
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2193 - heos]]"
   - "[[concepts/greek/G2288 - thanatos]]"
   - "[[concepts/greek/G2309 - thelo]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 13]]"
+next: "[[bibles/NASB-IL/Mark/Mark 15]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 14

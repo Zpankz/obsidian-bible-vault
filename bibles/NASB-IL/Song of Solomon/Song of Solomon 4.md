@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
-book.name: "Song of Solomon"
+book.name: Song of Solomon
 book.number: 22
 chapter: 4
 chapter.total: 8
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 16
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/22: Song of Solomon/Song of Solomon ch: 4]]"
@@ -21,6 +21,13 @@ key.terms:
   - "[[concepts/hebrew/H6086 - ets]]"
   - "[[concepts/hebrew/H6529 - peri]]"
   - "[[concepts/hebrew/H8147 - shenayim]]"
+up: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
+prev: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 3]]"
+next: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 5]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Song of Solomon 4

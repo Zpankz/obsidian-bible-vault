@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 testament: NT
-section: "Acts"
-genre: "narrative"
+section: Acts
+genre: narrative
 chapters.total: 28
-original.name: "ΠΡΑΞΕΙΣ"
+original.name: ΠΡΑΞΕΙΣ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Acts/Acts 1]]"
 ---
 
 # Acts

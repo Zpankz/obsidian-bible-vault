@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Philemon/-- Philemon --]]"
-book.name: "Philemon"
+book.name: Philemon
 book.number: 57
 chapter: 1
 chapter.total: 1
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 25
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/57: Philemon/Philemon ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/Philemon/-- Philemon --]]"
+prev: "[[bibles/NASB-IL/Titus/Titus 3]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Philemon 1

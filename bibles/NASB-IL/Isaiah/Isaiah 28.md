@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 chapter: 28
 chapter.total: 66
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Major Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 29
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/23: Isaiah/Isaiah ch: 28]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3722 - kaphar]]"
   - "[[concepts/hebrew/H3915 - layil]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+up: "[[bibles/NASB-IL/Isaiah/-- Isaiah --]]"
+prev: "[[bibles/NASB-IL/Isaiah/Isaiah 27]]"
+next: "[[bibles/NASB-IL/Isaiah/Isaiah 29]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/prophecy
 ---
 
 # Isaiah 28

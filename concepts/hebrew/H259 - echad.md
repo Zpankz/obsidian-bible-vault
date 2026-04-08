@@ -15,6 +15,9 @@ lxx-equivalent: "[[concepts/greek/G1520 - heis]]"
 related:
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H3068 - YHWH]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # אֶחָד — Echad

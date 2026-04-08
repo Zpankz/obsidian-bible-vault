@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H3722 - kaphar]]"
   - "[[concepts/hebrew/H2403 - chattath]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # עֹלָה — Olah

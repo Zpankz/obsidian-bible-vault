@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Nehemiah"
+book.name: Nehemiah
 book.number: 16
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 13
-original.name: "נחמיה"
+original.name: נחמיה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Nehemiah/Nehemiah 1]]"
 ---
 
 # Nehemiah

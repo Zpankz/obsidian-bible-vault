@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
-book.name: "Ruth"
+book.name: Ruth
 book.number: 8
 chapter: 4
 chapter.total: 4
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/08: Ruth/Ruth ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H539 - aman]]"
+up: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
+prev: "[[bibles/NASB-IL/Ruth/Ruth 3]]"
+next: "[[bibles/NASB-IL/1 Samuel/1 Samuel 1]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ruth 4

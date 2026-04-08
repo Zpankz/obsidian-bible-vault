@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "1 Chronicles"
+book.name: 1 Chronicles
 book.number: 13
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 29
-original.name: "דברי הימים א"
+original.name: דברי הימים א
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 1]]"
 ---
 
 # 1 Chronicles

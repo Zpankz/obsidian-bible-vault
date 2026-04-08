@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Habakkuk/-- Habakkuk --]]"
-book.name: "Habakkuk"
+book.name: Habakkuk
 book.number: 35
 chapter: 2
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 20
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/35: Habakkuk/Habakkuk ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6086 - ets]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Habakkuk/-- Habakkuk --]]"
+prev: "[[bibles/NASB-IL/Habakkuk/Habakkuk 1]]"
+next: "[[bibles/NASB-IL/Habakkuk/Habakkuk 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Habakkuk 2

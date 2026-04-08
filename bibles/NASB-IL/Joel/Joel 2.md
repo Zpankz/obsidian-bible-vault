@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Joel/-- Joel --]]"
-book.name: "Joel"
+book.name: Joel
 book.number: 29
 chapter: 2
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 32
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/29: Joel/Joel ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3548 - kohen]]"
   - "[[concepts/hebrew/H3556 - kokav]]"
   - "[[concepts/hebrew/H3966 - meod]]"
+up: "[[bibles/NASB-IL/Joel/-- Joel --]]"
+prev: "[[bibles/NASB-IL/Joel/Joel 1]]"
+next: "[[bibles/NASB-IL/Joel/Joel 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Joel 2

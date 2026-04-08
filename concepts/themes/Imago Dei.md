@@ -15,6 +15,9 @@ related.themes:
   - "[[concepts/themes/Creation]]"
   - "[[concepts/themes/Christology]]"
   - "[[concepts/themes/Dominion]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Imago Dei

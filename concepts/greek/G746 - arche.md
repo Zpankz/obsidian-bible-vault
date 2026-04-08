@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G1849 - exousia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἀρχή — Arche

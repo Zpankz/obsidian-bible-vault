@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G165 - aion]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G266 - hamartia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # κόσμος — Kosmos

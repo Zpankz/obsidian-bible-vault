@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G5207 - huios]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # πατήρ — Pater

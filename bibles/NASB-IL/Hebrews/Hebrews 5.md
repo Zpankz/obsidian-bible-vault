@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
-book.name: "Hebrews"
+book.name: Hebrews
 book.number: 58
 chapter: 5
 chapter.total: 13
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 14
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/58: Hebrews/Hebrews ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G4982 - sozo]]"
+up: "[[bibles/NASB-IL/Hebrews/-- Hebrews --]]"
+prev: "[[bibles/NASB-IL/Hebrews/Hebrews 4]]"
+next: "[[bibles/NASB-IL/Hebrews/Hebrews 6]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # Hebrews 5

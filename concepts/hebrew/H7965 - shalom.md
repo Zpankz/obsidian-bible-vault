@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H1288 - barak]]"
   - "[[concepts/hebrew/H2617 - chesed]]"
   - "[[concepts/hebrew/H4941 - mishpat]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # שָׁלוֹם — Shalom

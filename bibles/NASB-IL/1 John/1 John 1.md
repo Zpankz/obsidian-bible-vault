@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 John/-- 1 John --]]"
-book.name: "1 John"
+book.name: 1 John
 book.number: 62
 chapter: 1
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 10
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/62: 1 John/1 John ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4137 - pleroo]]"
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G5207 - huios]]"
+up: "[[bibles/NASB-IL/1 John/-- 1 John --]]"
+prev: "[[bibles/NASB-IL/2 Peter/2 Peter 3]]"
+next: "[[bibles/NASB-IL/1 John/1 John 2]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 John 1

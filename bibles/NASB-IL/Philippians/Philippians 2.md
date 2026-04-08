@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Philippians/-- Philippians --]]"
-book.name: "Philippians"
+book.name: Philippians
 book.number: 50
 chapter: 2
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 30
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/50: Philippians/Philippians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G26 - agape]]"
   - "[[concepts/greek/G2889 - kosmos]]"
+up: "[[bibles/NASB-IL/Philippians/-- Philippians --]]"
+prev: "[[bibles/NASB-IL/Philippians/Philippians 1]]"
+next: "[[bibles/NASB-IL/Philippians/Philippians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Philippians 2

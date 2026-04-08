@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H3335 - yatsar]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # בָּרָא — bara

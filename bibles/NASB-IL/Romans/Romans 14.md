@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Romans/-- Romans --]]"
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 chapter: 14
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 23
 pericopes.count: 1
 parallel.kjv: "[[bibles/KJV/45: Romans/Romans ch: 14]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4102 - pistis]]"
+up: "[[bibles/NASB-IL/Romans/-- Romans --]]"
+prev: "[[bibles/NASB-IL/Romans/Romans 13]]"
+next: "[[bibles/NASB-IL/Romans/Romans 15]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Romans 14

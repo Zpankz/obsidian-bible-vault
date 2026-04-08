@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Luke/-- Luke --]]"
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 chapter: 23
 chapter.total: 24
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 56
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/42: Luke/Luke ch: 23]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2564 - kaleo]]"
   - "[[concepts/greek/G2992 - laos]]"
   - "[[concepts/greek/G3004 - lego]]"
+up: "[[bibles/NASB-IL/Luke/-- Luke --]]"
+prev: "[[bibles/NASB-IL/Luke/Luke 22]]"
+next: "[[bibles/NASB-IL/Luke/Luke 24]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Luke 23

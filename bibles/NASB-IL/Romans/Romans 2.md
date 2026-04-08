@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Romans/-- Romans --]]"
-book.name: "Romans"
+book.name: Romans
 book.number: 45
 chapter: 2
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 29
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/45: Romans/Romans ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3551 - nomos]]"
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+up: "[[bibles/NASB-IL/Romans/-- Romans --]]"
+prev: "[[bibles/NASB-IL/Romans/Romans 1]]"
+next: "[[bibles/NASB-IL/Romans/Romans 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Romans 2

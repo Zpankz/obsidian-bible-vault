@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 5
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G266 - hamartia]]"
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 4]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 6]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 5

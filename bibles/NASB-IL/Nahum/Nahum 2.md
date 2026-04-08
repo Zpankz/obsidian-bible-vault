@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nahum/-- Nahum --]]"
-book.name: "Nahum"
+book.name: Nahum
 book.number: 34
 chapter: 2
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/34: Nahum/Nahum ch: 2]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H7965 - shalom]]"
   - "[[concepts/hebrew/H8085 - shama]]"
+up: "[[bibles/NASB-IL/Nahum/-- Nahum --]]"
+prev: "[[bibles/NASB-IL/Nahum/Nahum 1]]"
+next: "[[bibles/NASB-IL/Nahum/Nahum 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Nahum 2

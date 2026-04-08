@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Jonah/-- Jonah --]]"
-book.name: "Jonah"
+book.name: Jonah
 book.number: 32
 chapter: 3
 chapter.total: 4
 testament: OT
-section: "Minor Prophets"
-genre: "narrative"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: narrative
+original.language: Hebrew
 verses.total: 10
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/32: Jonah/Jonah ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H539 - aman]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Jonah/-- Jonah --]]"
+prev: "[[bibles/NASB-IL/Jonah/Jonah 2]]"
+next: "[[bibles/NASB-IL/Jonah/Jonah 4]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/narrative
 ---
 
 # Jonah 3

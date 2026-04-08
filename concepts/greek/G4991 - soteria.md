@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G4982 - sozo]]"
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G4102 - pistis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # σωτηρία — Soteria

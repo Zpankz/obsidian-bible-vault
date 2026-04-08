@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H3068 - YHWH]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H410 - El]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # אֲדֹנָי — Adonai

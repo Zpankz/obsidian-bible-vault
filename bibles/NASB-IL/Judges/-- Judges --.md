@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Judges"
+book.name: Judges
 book.number: 7
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 21
-original.name: "שופטים"
+original.name: שופטים
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Judges/Judges 1]]"
 ---
 
 # Judges

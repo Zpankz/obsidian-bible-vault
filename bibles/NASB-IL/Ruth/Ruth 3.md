@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
-book.name: "Ruth"
+book.name: Ruth
 book.number: 8
 chapter: 3
 chapter.total: 4
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/08: Ruth/Ruth ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3372 - yare]]"
   - "[[concepts/hebrew/H3671 - kanaph]]"
   - "[[concepts/hebrew/H3820 - lev]]"
+up: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
+prev: "[[bibles/NASB-IL/Ruth/Ruth 2]]"
+next: "[[bibles/NASB-IL/Ruth/Ruth 4]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ruth 3

@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G1515 - eirene]]"
   - "[[concepts/greek/G2316 - theos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἀγάπη — Agape

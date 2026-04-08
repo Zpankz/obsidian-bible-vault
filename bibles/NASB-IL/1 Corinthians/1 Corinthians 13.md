@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 13
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 13
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 13]]"
@@ -26,6 +26,13 @@ key.terms:
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G435 - aner]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 12]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 14]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 13

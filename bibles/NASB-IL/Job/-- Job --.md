@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Job"
+book.name: Job
 book.number: 18
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
+section: Wisdom
+genre: wisdom
 chapters.total: 42
-original.name: "איוב"
+original.name: איוב
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Job/Job 1]]"
 ---
 
 # Job

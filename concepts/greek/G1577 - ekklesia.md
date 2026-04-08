@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G907 - baptizo]]"
   - "[[concepts/greek/G652 - apostolos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἐκκλησία — Ekklesia

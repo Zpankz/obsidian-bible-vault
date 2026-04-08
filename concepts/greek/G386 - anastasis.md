@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G2222 - zoe]]"
   - "[[concepts/greek/G2288 - thanatos]]"
   - "[[concepts/greek/G1680 - elpis]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἀνάστασις — Anastasis

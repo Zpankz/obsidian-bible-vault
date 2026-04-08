@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H127 - adamah]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H6754 - tselem]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # אָדָם — Adam

@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H6664 - tsedeq]]"
   - "[[concepts/hebrew/H8451 - torah]]"
   - "[[concepts/hebrew/H4428 - melek]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # מִשְׁפָּט — Mishpat

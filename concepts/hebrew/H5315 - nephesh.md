@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H3820 - lev]]"
   - "[[concepts/hebrew/H2416 - chay]]"
   - "[[concepts/hebrew/H120 - adam]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # נֶפֶשׁ — Nephesh

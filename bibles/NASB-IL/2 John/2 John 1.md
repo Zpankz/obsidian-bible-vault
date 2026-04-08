@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 John/-- 2 John --]]"
-book.name: "2 John"
+book.name: 2 John
 book.number: 63
 chapter: 1
 chapter.total: 1
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 13
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/63: 2 John/2 John ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2889 - kosmos]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3326 - meta]]"
+up: "[[bibles/NASB-IL/2 John/-- 2 John --]]"
+prev: "[[bibles/NASB-IL/1 John/1 John 5]]"
+next: "[[bibles/NASB-IL/3 John/3 John 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 2 John 1

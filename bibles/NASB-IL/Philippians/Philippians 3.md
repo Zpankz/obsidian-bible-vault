@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Philippians/-- Philippians --]]"
-book.name: "Philippians"
+book.name: Philippians
 book.number: 50
 chapter: 3
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/50: Philippians/Philippians ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G3004 - lego]]"
   - "[[concepts/greek/G3551 - nomos]]"
+up: "[[bibles/NASB-IL/Philippians/-- Philippians --]]"
+prev: "[[bibles/NASB-IL/Philippians/Philippians 2]]"
+next: "[[bibles/NASB-IL/Philippians/Philippians 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Philippians 3

@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Colossians"
+book.name: Colossians
 book.number: 51
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 4
-original.name: "ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ"
+original.name: ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Colossians/Colossians 1]]"
 ---
 
 # Colossians

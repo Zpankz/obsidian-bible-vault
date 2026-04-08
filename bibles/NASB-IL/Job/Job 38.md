@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Job/-- Job --]]"
-book.name: "Job"
+book.name: Job
 book.number: 18
 chapter: 38
 chapter.total: 42
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
-original.language: "Hebrew"
+section: Wisdom
+genre: wisdom
+original.language: Hebrew
 verses.total: 41
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 38]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3556 - kokav]]"
   - "[[concepts/hebrew/H3671 - kanaph]]"
   - "[[concepts/hebrew/H410 - El]]"
+up: "[[bibles/NASB-IL/Job/-- Job --]]"
+prev: "[[bibles/NASB-IL/Job/Job 37]]"
+next: "[[bibles/NASB-IL/Job/Job 39]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/wisdom
 ---
 
 # Job 38

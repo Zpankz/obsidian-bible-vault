@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Jude"
+book.name: Jude
 book.number: 65
 testament: NT
-section: "General"
-genre: "epistle"
+section: General
+genre: epistle
 chapters.total: 1
-original.name: "ΙΟΥΔΑ"
+original.name: ΙΟΥΔΑ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Jude/Jude 1]]"
 ---
 
 # Jude

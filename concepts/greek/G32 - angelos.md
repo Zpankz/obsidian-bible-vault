@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G652 - apostolos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ἄγγελος — Angelos

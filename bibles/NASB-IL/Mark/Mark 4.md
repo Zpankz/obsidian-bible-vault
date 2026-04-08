@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Mark/-- Mark --]]"
-book.name: "Mark"
+book.name: Mark
 book.number: 41
 chapter: 4
 chapter.total: 16
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 41
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/41: Mark/Mark ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3880 - paralambano]]"
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G4160 - poieo]]"
+up: "[[bibles/NASB-IL/Mark/-- Mark --]]"
+prev: "[[bibles/NASB-IL/Mark/Mark 3]]"
+next: "[[bibles/NASB-IL/Mark/Mark 5]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Mark 4

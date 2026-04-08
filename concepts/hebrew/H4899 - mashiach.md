@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H4428 - melek]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
   - "[[concepts/hebrew/H5030 - navi]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # מָשִׁיחַ — Mashiach

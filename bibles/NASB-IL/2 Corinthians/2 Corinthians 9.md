@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 9
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 15
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 9]]"
@@ -26,6 +26,13 @@ key.terms:
   - "[[concepts/greek/G5485 - charis]]"
   - "[[concepts/greek/G5547 - Christos]]"
   - "[[concepts/greek/G80 - adelphos]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 8]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 10]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 9

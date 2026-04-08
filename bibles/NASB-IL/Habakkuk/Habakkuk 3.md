@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Habakkuk/-- Habakkuk --]]"
-book.name: "Habakkuk"
+book.name: Habakkuk
 book.number: 35
 chapter: 3
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 19
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/35: Habakkuk/Habakkuk ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4390 - male]]"
   - "[[concepts/hebrew/H4899 - mashiach]]"
   - "[[concepts/hebrew/H5030 - navi]]"
+up: "[[bibles/NASB-IL/Habakkuk/-- Habakkuk --]]"
+prev: "[[bibles/NASB-IL/Habakkuk/Habakkuk 2]]"
+next: "[[bibles/NASB-IL/Zephaniah/Zephaniah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Habakkuk 3

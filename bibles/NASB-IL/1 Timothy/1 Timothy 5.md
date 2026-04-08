@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
-book.name: "1 Timothy"
+book.name: 1 Timothy
 book.number: 54
 chapter: 5
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 25
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/54: 1 Timothy/1 Timothy ch: 5]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3384 - meter]]"
+up: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
+prev: "[[bibles/NASB-IL/1 Timothy/1 Timothy 4]]"
+next: "[[bibles/NASB-IL/1 Timothy/1 Timothy 6]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Timothy 5

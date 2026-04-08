@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Micah"
+book.name: Micah
 book.number: 33
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
+section: Minor Prophets
+genre: prophecy
 chapters.total: 7
-original.name: "מיכה"
+original.name: מיכה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Micah/Micah 1]]"
 ---
 
 # Micah

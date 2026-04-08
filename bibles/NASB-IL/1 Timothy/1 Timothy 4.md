@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
-book.name: "1 Timothy"
+book.name: 1 Timothy
 book.number: 54
 chapter: 4
 chapter.total: 6
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 16
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/54: 1 Timothy/1 Timothy ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3326 - meta]]"
   - "[[concepts/greek/G4102 - pistis]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+up: "[[bibles/NASB-IL/1 Timothy/-- 1 Timothy --]]"
+prev: "[[bibles/NASB-IL/1 Timothy/1 Timothy 3]]"
+next: "[[bibles/NASB-IL/1 Timothy/1 Timothy 5]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Timothy 4

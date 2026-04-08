@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H5769 - olam]]"
   - "[[concepts/hebrew/H1285 - berith]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # עוֹלָם — Olam

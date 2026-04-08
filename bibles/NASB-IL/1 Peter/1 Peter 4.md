@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
-book.name: "1 Peter"
+book.name: 1 Peter
 book.number: 60
 chapter: 4
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 19
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/60: 1 Peter/1 Peter ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G4982 - sozo]]"
   - "[[concepts/greek/G5485 - charis]]"
+up: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
+prev: "[[bibles/NASB-IL/1 Peter/1 Peter 3]]"
+next: "[[bibles/NASB-IL/1 Peter/1 Peter 5]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 Peter 4

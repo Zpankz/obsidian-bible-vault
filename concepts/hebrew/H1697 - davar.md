@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H539 - aman]]"
   - "[[concepts/hebrew/H571 - emeth]]"
   - "[[concepts/hebrew/H7121 - qara]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # דָּבָר — Davar

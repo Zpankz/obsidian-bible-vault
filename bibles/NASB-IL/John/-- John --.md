@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "John"
+book.name: John
 book.number: 43
 testament: NT
-section: "Gospels"
-genre: "gospel"
+section: Gospels
+genre: gospel
 chapters.total: 21
-original.name: "ΚΑΤΑ ΙΩΑΝΝΗΝ"
+original.name: ΚΑΤΑ ΙΩΑΝΝΗΝ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/John/John 1]]"
 ---
 
 # John

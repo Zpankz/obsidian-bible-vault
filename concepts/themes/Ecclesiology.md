@@ -16,6 +16,9 @@ related.themes:
   - "[[concepts/themes/Covenant]]"
   - "[[concepts/themes/Pneumatology]]"
   - "[[concepts/themes/Soteriology]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Ecclesiology

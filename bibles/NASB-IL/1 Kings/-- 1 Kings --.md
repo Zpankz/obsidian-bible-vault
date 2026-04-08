@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "1 Kings"
+book.name: 1 Kings
 book.number: 11
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 22
-original.name: "מלכים א"
+original.name: מלכים א
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/1 Kings/1 Kings 1]]"
 ---
 
 # 1 Kings

@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G2424 - Iesous]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G5207 - huios]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # Χριστός — Christos

@@ -16,6 +16,9 @@ related.themes:
   - "[[concepts/themes/Providence]]"
   - "[[concepts/themes/Creation]]"
   - "[[concepts/themes/Soteriology]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Blessing

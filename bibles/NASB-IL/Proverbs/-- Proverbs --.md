@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Proverbs"
+book.name: Proverbs
 book.number: 20
 testament: OT
-section: "Wisdom"
-genre: "wisdom"
+section: Wisdom
+genre: wisdom
 chapters.total: 31
-original.name: "משלי"
+original.name: משלי
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Proverbs/Proverbs 1]]"
 ---
 
 # Proverbs

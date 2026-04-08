@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H410 - El]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H3068 - YHWH]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # שַׁדַּי — Shaddai

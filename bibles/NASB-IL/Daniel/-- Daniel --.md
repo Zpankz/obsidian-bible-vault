@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
+section: Major Prophets
+genre: apocalyptic
 chapters.total: 12
-original.name: "דניאל"
+original.name: דניאל
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Daniel/Daniel 1]]"
 ---
 
 # Daniel

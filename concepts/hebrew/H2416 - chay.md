@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H7307 - ruach]]"
   - "[[concepts/hebrew/H1254 - bara]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # חַי — Chay

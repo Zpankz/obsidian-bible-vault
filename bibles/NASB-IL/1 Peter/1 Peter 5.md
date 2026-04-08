@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
-book.name: "1 Peter"
+book.name: 1 Peter
 book.number: 60
 chapter: 5
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 14
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/60: 1 Peter/1 Peter ch: 5]]"
@@ -28,6 +28,13 @@ key.terms:
   - "[[concepts/greek/G5547 - Christos]]"
   - "[[concepts/greek/G80 - adelphos]]"
   - "[[concepts/greek/G897 - Babylon]]"
+up: "[[bibles/NASB-IL/1 Peter/-- 1 Peter --]]"
+prev: "[[bibles/NASB-IL/1 Peter/1 Peter 4]]"
+next: "[[bibles/NASB-IL/2 Peter/2 Peter 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 1 Peter 5

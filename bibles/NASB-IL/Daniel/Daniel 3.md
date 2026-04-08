@@ -1,18 +1,25 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 3
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 30
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 3]]"
 parallel.hebrew: "[[bibles/WLCa/27 דניאל/דניאל 3]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 2]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 4]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 3

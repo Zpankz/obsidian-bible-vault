@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H1285 - berith]]"
   - "[[concepts/hebrew/H2617 - chesed]]"
   - "[[concepts/hebrew/H5414 - natan]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # בָּרַךְ — Barak

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
-book.name: "1 Corinthians"
+book.name: 1 Corinthians
 book.number: 46
 chapter: 15
 chapter.total: 16
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 58
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/46: 1 Corinthians/1 Corinthians ch: 15]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2222 - zoe]]"
   - "[[concepts/greek/G2288 - thanatos]]"
   - "[[concepts/greek/G2309 - thelo]]"
+up: "[[bibles/NASB-IL/1 Corinthians/-- 1 Corinthians --]]"
+prev: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 14]]"
+next: "[[bibles/NASB-IL/1 Corinthians/1 Corinthians 16]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Corinthians 15

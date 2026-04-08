@@ -17,6 +17,9 @@ related.themes:
   - "[[concepts/themes/Creation]]"
   - "[[concepts/themes/Covenant]]"
   - "[[concepts/themes/Time and Seasons]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Providence

@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H215 - or]]"
   - "[[concepts/hebrew/H914 - badal]]"
   - "[[concepts/hebrew/H8414 - tohu]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # חֹשֶׁךְ — Choshek

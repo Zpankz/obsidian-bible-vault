@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Zephaniah/-- Zephaniah --]]"
-book.name: "Zephaniah"
+book.name: Zephaniah
 book.number: 36
 chapter: 2
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/36: Zephaniah/Zephaniah ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6153 - erev]]"
   - "[[concepts/hebrew/H6635 - tsava]]"
   - "[[concepts/hebrew/H776 - erets]]"
+up: "[[bibles/NASB-IL/Zephaniah/-- Zephaniah --]]"
+prev: "[[bibles/NASB-IL/Zephaniah/Zephaniah 1]]"
+next: "[[bibles/NASB-IL/Zephaniah/Zephaniah 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Zephaniah 2

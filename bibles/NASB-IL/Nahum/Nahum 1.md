@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Nahum/-- Nahum --]]"
-book.name: "Nahum"
+book.name: Nahum
 book.number: 34
 chapter: 1
 chapter.total: 3
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 15
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/34: Nahum/Nahum ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H4725 - maqom]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Nahum/-- Nahum --]]"
+prev: "[[bibles/NASB-IL/Micah/Micah 7]]"
+next: "[[bibles/NASB-IL/Nahum/Nahum 2]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Nahum 1

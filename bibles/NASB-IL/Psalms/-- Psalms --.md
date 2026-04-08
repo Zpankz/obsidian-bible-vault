@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Psalms"
+book.name: Psalms
 book.number: 19
 testament: OT
-section: "Wisdom"
-genre: "poetry"
+section: Wisdom
+genre: poetry
 chapters.total: 150
-original.name: "תהלים"
+original.name: תהלים
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Psalms/Psalms 1]]"
 ---
 
 # Psalms

@@ -15,6 +15,9 @@ related-themes:
   - "[[concepts/themes/Providence]]"
   - "[[concepts/themes/Cosmology]]"
   - "[[concepts/themes/New Creation]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Creation

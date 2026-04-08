@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G5456 - phone]]"
   - "[[concepts/greek/G2098 - euangelion]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # λέγω — Lego

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
-book.name: "Ruth"
+book.name: Ruth
 book.number: 8
 chapter: 1
 chapter.total: 4
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/08: Ruth/Ruth ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H559 - amar]]"
   - "[[concepts/hebrew/H6213 - asah]]"
+up: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
+prev: "[[bibles/NASB-IL/Judges/Judges 21]]"
+next: "[[bibles/NASB-IL/Ruth/Ruth 2]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ruth 1

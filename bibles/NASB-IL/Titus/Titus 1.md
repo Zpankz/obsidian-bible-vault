@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Titus/-- Titus --]]"
-book.name: "Titus"
+book.name: Titus
 book.number: 56
 chapter: 1
 chapter.total: 3
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 16
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/56: Titus/Titus ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3624 - stauros]]"
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G4100 - pisteuo]]"
+up: "[[bibles/NASB-IL/Titus/-- Titus --]]"
+prev: "[[bibles/NASB-IL/2 Timothy/2 Timothy 4]]"
+next: "[[bibles/NASB-IL/Titus/Titus 2]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Titus 1

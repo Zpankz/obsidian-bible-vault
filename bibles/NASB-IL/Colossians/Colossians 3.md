@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
-book.name: "Colossians"
+book.name: Colossians
 book.number: 51
 chapter: 3
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 25
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/51: Colossians/Colossians ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G3962 - pater]]"
+up: "[[bibles/NASB-IL/Colossians/-- Colossians --]]"
+prev: "[[bibles/NASB-IL/Colossians/Colossians 2]]"
+next: "[[bibles/NASB-IL/Colossians/Colossians 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # Colossians 3

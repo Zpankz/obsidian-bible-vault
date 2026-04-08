@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Timothy/-- 2 Timothy --]]"
-book.name: "2 Timothy"
+book.name: 2 Timothy
 book.number: 55
 chapter: 4
 chapter.total: 4
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 22
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/55: 2 Timothy/2 Timothy ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G4982 - sozo]]"
+up: "[[bibles/NASB-IL/2 Timothy/-- 2 Timothy --]]"
+prev: "[[bibles/NASB-IL/2 Timothy/2 Timothy 3]]"
+next: "[[bibles/NASB-IL/Titus/Titus 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Timothy 4

@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G2316 - theos]]"
   - "[[concepts/greek/G5547 - Christos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # υἱός — Huios

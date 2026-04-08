@@ -19,6 +19,9 @@ related.themes:
   - "[[concepts/themes/Soteriology]]"
   - "[[concepts/themes/Eschatology]]"
   - "[[concepts/themes/Divine Names]]"
+tags:
+  - concept/theme
+  - moc
 ---
 
 # Christology

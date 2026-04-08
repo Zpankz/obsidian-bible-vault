@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/3 John/-- 3 John --]]"
-book.name: "3 John"
+book.name: 3 John
 book.number: 64
 chapter: 1
 chapter.total: 1
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 15
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/64: 3 John/3 John ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3686 - onoma]]"
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G5043 - teknon]]"
+up: "[[bibles/NASB-IL/3 John/-- 3 John --]]"
+prev: "[[bibles/NASB-IL/2 John/2 John 1]]"
+next: "[[bibles/NASB-IL/Jude/Jude 1]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # 3 John 1

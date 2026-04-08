@@ -18,6 +18,9 @@ related:
   - "[[concepts/hebrew/H5930 - olah]]"
   - "[[concepts/hebrew/H5545 - salach]]"
   - "[[concepts/hebrew/H1350 - gaal]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # כָּפַר — Kaphar

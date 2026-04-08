@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H1697 - davar]]"
   - "[[concepts/hebrew/H8034 - shem]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # קָרָא — Qara

@@ -1,18 +1,25 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
-book.name: "Daniel"
+book.name: Daniel
 book.number: 27
 chapter: 6
 chapter.total: 12
 testament: OT
-section: "Major Prophets"
-genre: "apocalyptic"
-original.language: "Hebrew"
+section: Major Prophets
+genre: apocalyptic
+original.language: Hebrew
 verses.total: 28
 pericopes.count: 5
 parallel.kjv: "[[bibles/KJV/27: Daniel/Daniel ch: 6]]"
 parallel.hebrew: "[[bibles/WLCa/27 דניאל/דניאל 6]]"
+up: "[[bibles/NASB-IL/Daniel/-- Daniel --]]"
+prev: "[[bibles/NASB-IL/Daniel/Daniel 5]]"
+next: "[[bibles/NASB-IL/Daniel/Daniel 7]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/apocalyptic
 ---
 
 # Daniel 6

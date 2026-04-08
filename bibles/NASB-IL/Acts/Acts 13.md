@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Acts/-- Acts --]]"
-book.name: "Acts"
+book.name: Acts
 book.number: 44
 chapter: 13
 chapter.total: 28
 testament: NT
-section: "Acts"
-genre: "narrative"
-original.language: "Greek"
+section: Acts
+genre: narrative
+original.language: Greek
 verses.total: 52
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/44: Acts/Acts ch: 13]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G2192 - echo]]"
   - "[[concepts/greek/G2193 - heos]]"
   - "[[concepts/greek/G2222 - zoe]]"
+up: "[[bibles/NASB-IL/Acts/-- Acts --]]"
+prev: "[[bibles/NASB-IL/Acts/Acts 12]]"
+next: "[[bibles/NASB-IL/Acts/Acts 14]]"
+tags:
+  - bible/nt
+  - bible/acts
+  - genre/narrative
 ---
 
 # Acts 13

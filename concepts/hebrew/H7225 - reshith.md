@@ -17,6 +17,9 @@ related:
   - "[[concepts/hebrew/H1254 - bara]]"
   - "[[concepts/hebrew/H430 - Elohim]]"
   - "[[concepts/hebrew/H3117 - yom]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # רֵאשִׁית — Reshith

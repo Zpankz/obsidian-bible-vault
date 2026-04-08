@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
-book.name: "2 Corinthians"
+book.name: 2 Corinthians
 book.number: 47
 chapter: 12
 chapter.total: 13
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 21
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/47: 2 Corinthians/2 Corinthians ch: 12]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G32 - angelos]]"
   - "[[concepts/greek/G3340 - metanoeo]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+up: "[[bibles/NASB-IL/2 Corinthians/-- 2 Corinthians --]]"
+prev: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 11]]"
+next: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 13]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 2 Corinthians 12

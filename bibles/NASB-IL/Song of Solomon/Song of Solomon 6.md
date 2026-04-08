@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
-book.name: "Song of Solomon"
+book.name: Song of Solomon
 book.number: 22
 chapter: 6
 chapter.total: 8
 testament: OT
-section: "Wisdom"
-genre: "poetry"
-original.language: "Hebrew"
+section: Wisdom
+genre: poetry
+original.language: Hebrew
 verses.total: 13
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/22: Song of Solomon/Song of Solomon ch: 6]]"
@@ -18,6 +18,13 @@ key.terms:
   - "[[concepts/hebrew/H3045 - yada]]"
   - "[[concepts/hebrew/H5315 - nephesh]]"
   - "[[concepts/hebrew/H7200 - raah]]"
+up: "[[bibles/NASB-IL/Song of Solomon/-- Song of Solomon --]]"
+prev: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 5]]"
+next: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 7]]"
+tags:
+  - bible/ot
+  - bible/wisdom
+  - genre/poetry
 ---
 
 # Song of Solomon 6

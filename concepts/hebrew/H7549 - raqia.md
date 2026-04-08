@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H8064 - shamayim]]"
   - "[[concepts/hebrew/H776 - erets]]"
   - "[[concepts/hebrew/H914 - badal]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # רָקִיעַ — Raqia

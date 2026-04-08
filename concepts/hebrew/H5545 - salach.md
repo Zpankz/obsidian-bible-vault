@@ -18,6 +18,9 @@ related:
   - "[[concepts/hebrew/H2617 - chesed]]"
   - "[[concepts/hebrew/H2403 - chattath]]"
   - "[[concepts/hebrew/H5771 - avon]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # סָלַח — Salach

@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Thessalonians/-- 1 Thessalonians --]]"
-book.name: "1 Thessalonians"
+book.name: 1 Thessalonians
 book.number: 52
 chapter: 2
 chapter.total: 5
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 20
 pericopes.count: 4
 parallel.kjv: "[[bibles/KJV/52: 1 Thessalonians/1 Thessalonians ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G3880 - paralambano]]"
   - "[[concepts/greek/G3962 - pater]]"
+up: "[[bibles/NASB-IL/1 Thessalonians/-- 1 Thessalonians --]]"
+prev: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 1]]"
+next: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 3]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Thessalonians 2

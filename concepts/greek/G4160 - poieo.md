@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G2041 - ergon]]"
   - "[[concepts/greek/G3056 - logos]]"
   - "[[concepts/greek/G2316 - theos]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # ποιέω — Poieo

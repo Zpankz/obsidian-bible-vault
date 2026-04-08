@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G4151 - pneuma]]"
   - "[[concepts/greek/G3340 - metanoeo]]"
   - "[[concepts/greek/G1577 - ekklesia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # βαπτίζω — Baptizo

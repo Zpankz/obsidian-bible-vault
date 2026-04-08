@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Thessalonians/-- 1 Thessalonians --]]"
-book.name: "1 Thessalonians"
+book.name: 1 Thessalonians
 book.number: 52
 chapter: 3
 chapter.total: 5
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 13
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/52: 1 Thessalonians/1 Thessalonians ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4102 - pistis]]"
+up: "[[bibles/NASB-IL/1 Thessalonians/-- 1 Thessalonians --]]"
+prev: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 2]]"
+next: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 4]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Thessalonians 3

@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H4941 - mishpat]]"
   - "[[concepts/hebrew/H1697 - davar]]"
   - "[[concepts/hebrew/H1285 - berith]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # תּוֹרָה — Torah

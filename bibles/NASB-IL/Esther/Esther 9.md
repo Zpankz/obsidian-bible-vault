@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Esther/-- Esther --]]"
-book.name: "Esther"
+book.name: Esther
 book.number: 17
 chapter: 9
 chapter.total: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 32
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/17: Esther/Esther ch: 9]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
   - "[[concepts/hebrew/H7121 - qara]]"
+up: "[[bibles/NASB-IL/Esther/-- Esther --]]"
+prev: "[[bibles/NASB-IL/Esther/Esther 8]]"
+next: "[[bibles/NASB-IL/Esther/Esther 10]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Esther 9

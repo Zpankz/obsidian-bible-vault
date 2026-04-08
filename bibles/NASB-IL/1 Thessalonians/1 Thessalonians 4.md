@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/1 Thessalonians/-- 1 Thessalonians --]]"
-book.name: "1 Thessalonians"
+book.name: 1 Thessalonians
 book.number: 52
 chapter: 4
 chapter.total: 5
 testament: NT
-section: "Pauline"
-genre: "epistle"
-original.language: "Greek"
+section: Pauline
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/52: 1 Thessalonians/1 Thessalonians ch: 4]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G40 - hagios]]"
   - "[[concepts/greek/G4100 - pisteuo]]"
   - "[[concepts/greek/G4151 - pneuma]]"
+up: "[[bibles/NASB-IL/1 Thessalonians/-- 1 Thessalonians --]]"
+prev: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 3]]"
+next: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 5]]"
+tags:
+  - bible/nt
+  - bible/pauline
+  - genre/epistle
 ---
 
 # 1 Thessalonians 4

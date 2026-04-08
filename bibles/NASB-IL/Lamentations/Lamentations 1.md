@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Lamentations/-- Lamentations --]]"
-book.name: "Lamentations"
+book.name: Lamentations
 book.number: 25
 chapter: 1
 chapter.total: 5
 testament: OT
-section: "Major Prophets"
-genre: "poetry"
-original.language: "Hebrew"
+section: Major Prophets
+genre: poetry
+original.language: Hebrew
 verses.total: 22
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/25: Lamentations/Lamentations ch: 1]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H5414 - natan]]"
   - "[[concepts/hebrew/H6213 - asah]]"
   - "[[concepts/hebrew/H6440 - panim]]"
+up: "[[bibles/NASB-IL/Lamentations/-- Lamentations --]]"
+prev: "[[bibles/NASB-IL/Jeremiah/Jeremiah 52]]"
+next: "[[bibles/NASB-IL/Lamentations/Lamentations 2]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
+  - genre/poetry
 ---
 
 # Lamentations 1

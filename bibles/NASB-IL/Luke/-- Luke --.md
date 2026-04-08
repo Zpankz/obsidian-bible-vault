@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Luke"
+book.name: Luke
 book.number: 42
 testament: NT
-section: "Gospels"
-genre: "gospel"
+section: Gospels
+genre: gospel
 chapters.total: 24
-original.name: "ΚΑΤΑ ΛΟΥΚΑΝ"
+original.name: ΚΑΤΑ ΛΟΥΚΑΝ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Luke/Luke 1]]"
 ---
 
 # Luke

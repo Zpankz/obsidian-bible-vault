@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Song of Solomon"
+book.name: Song of Solomon
 book.number: 22
 testament: OT
-section: "Wisdom"
-genre: "poetry"
+section: Wisdom
+genre: poetry
 chapters.total: 8
-original.name: "שיר השירים"
+original.name: שיר השירים
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 1]]"
 ---
 
 # Song of Solomon

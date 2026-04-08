@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Exodus"
+book.name: Exodus
 book.number: 2
 testament: OT
-section: "Torah"
-genre: "narrative"
+section: Torah
+genre: narrative
 chapters.total: 40
-original.name: "שמות"
+original.name: שמות
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Exodus/Exodus 1]]"
 ---
 
 # Exodus

@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Thessalonians"
+book.name: 2 Thessalonians
 book.number: 53
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 3
-original.name: "ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄"
+original.name: ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β΄
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Thessalonians/2 Thessalonians 1]]"
 ---
 
 # 2 Thessalonians

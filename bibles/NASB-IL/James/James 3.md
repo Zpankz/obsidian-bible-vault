@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/James/-- James --]]"
-book.name: "James"
+book.name: James
 book.number: 59
 chapter: 3
 chapter.total: 5
 testament: NT
-section: "General"
-genre: "epistle"
-original.language: "Greek"
+section: General
+genre: epistle
+original.language: Greek
 verses.total: 18
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/59: James/James ch: 3]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G435 - aner]]"
+up: "[[bibles/NASB-IL/James/-- James --]]"
+prev: "[[bibles/NASB-IL/James/James 2]]"
+next: "[[bibles/NASB-IL/James/James 4]]"
+tags:
+  - bible/nt
+  - bible/general
+  - genre/epistle
 ---
 
 # James 3

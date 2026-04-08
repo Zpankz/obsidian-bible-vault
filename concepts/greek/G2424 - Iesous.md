@@ -17,6 +17,9 @@ related:
   - "[[concepts/greek/G5547 - Christos]]"
   - "[[concepts/greek/G2962 - kyrios]]"
   - "[[concepts/greek/G4982 - sozo]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # Ἰησοῦς — Iesous

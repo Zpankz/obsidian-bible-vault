@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H3045 - yada]]"
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H3519 - kavod]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # יָרֵא — Yare

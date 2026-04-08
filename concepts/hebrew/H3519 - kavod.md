@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H6944 - qodesh]]"
   - "[[concepts/hebrew/H215 - or]]"
   - "[[concepts/hebrew/H3068 - YHWH]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # כָּבוֹד — Kavod

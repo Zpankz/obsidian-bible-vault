@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Malachi/-- Malachi --]]"
-book.name: "Malachi"
+book.name: Malachi
 book.number: 39
 chapter: 2
 chapter.total: 4
 testament: OT
-section: "Minor Prophets"
-genre: "prophecy"
-original.language: "Hebrew"
+section: Minor Prophets
+genre: prophecy
+original.language: Hebrew
 verses.total: 17
 pericopes.count: 2
 parallel.kjv: "[[bibles/KJV/39: Malachi/Malachi ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3519 - kavod]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
   - "[[concepts/hebrew/H3820 - lev]]"
+up: "[[bibles/NASB-IL/Malachi/-- Malachi --]]"
+prev: "[[bibles/NASB-IL/Malachi/Malachi 1]]"
+next: "[[bibles/NASB-IL/Malachi/Malachi 3]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
+  - genre/prophecy
 ---
 
 # Malachi 2

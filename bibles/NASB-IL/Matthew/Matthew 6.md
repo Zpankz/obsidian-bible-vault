@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
-book.name: "Matthew"
+book.name: Matthew
 book.number: 40
 chapter: 6
 chapter.total: 28
 testament: NT
-section: "Gospels"
-genre: "gospel"
-original.language: "Greek"
+section: Gospels
+genre: gospel
+original.language: Greek
 verses.total: 34
 pericopes.count: 6
 parallel.kjv: "[[bibles/KJV/40: Matthew/Matthew ch: 6]]"
@@ -27,6 +27,13 @@ key.terms:
   - "[[concepts/greek/G3962 - pater]]"
   - "[[concepts/greek/G4160 - poieo]]"
   - "[[concepts/greek/G932 - basileia]]"
+up: "[[bibles/NASB-IL/Matthew/-- Matthew --]]"
+prev: "[[bibles/NASB-IL/Matthew/Matthew 5]]"
+next: "[[bibles/NASB-IL/Matthew/Matthew 7]]"
+tags:
+  - bible/nt
+  - bible/gospels
+  - genre/gospel
 ---
 
 # Matthew 6

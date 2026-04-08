@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H3045 - yada]]"
   - "[[concepts/hebrew/H7200 - raah]]"
   - "[[concepts/hebrew/H8451 - torah]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # שָׁמַע — Shama

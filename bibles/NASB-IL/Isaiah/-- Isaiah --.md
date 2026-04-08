@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Isaiah"
+book.name: Isaiah
 book.number: 23
 testament: OT
-section: "Major Prophets"
-genre: "prophecy"
+section: Major Prophets
+genre: prophecy
 chapters.total: 66
-original.name: "ישעיהו"
+original.name: ישעיהו
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Isaiah/Isaiah 1]]"
 ---
 
 # Isaiah

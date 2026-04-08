@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "2 Samuel"
+book.name: 2 Samuel
 book.number: 10
 testament: OT
-section: "Historical"
-genre: "narrative"
+section: Historical
+genre: narrative
 chapters.total: 24
-original.name: "שמואל ב"
+original.name: שמואל ב
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/2 Samuel/2 Samuel 1]]"
 ---
 
 # 2 Samuel

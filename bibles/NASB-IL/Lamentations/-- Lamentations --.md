@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Lamentations"
+book.name: Lamentations
 book.number: 25
 testament: OT
-section: "Major Prophets"
-genre: "poetry"
+section: Major Prophets
+genre: poetry
 chapters.total: 5
-original.name: "איכה"
+original.name: איכה
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Lamentations/Lamentations 1]]"
 ---
 
 # Lamentations

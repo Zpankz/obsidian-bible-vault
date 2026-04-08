@@ -1,14 +1,14 @@
 ---
 type: chapter
 book: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
-book.name: "Ruth"
+book.name: Ruth
 book.number: 8
 chapter: 2
 chapter.total: 4
 testament: OT
-section: "Historical"
-genre: "narrative"
-original.language: "Hebrew"
+section: Historical
+genre: narrative
+original.language: Hebrew
 verses.total: 23
 pericopes.count: 3
 parallel.kjv: "[[bibles/KJV/08: Ruth/Ruth ch: 2]]"
@@ -29,6 +29,13 @@ key.terms:
   - "[[concepts/hebrew/H3117 - yom]]"
   - "[[concepts/hebrew/H3318 - yatsa]]"
   - "[[concepts/hebrew/H3671 - kanaph]]"
+up: "[[bibles/NASB-IL/Ruth/-- Ruth --]]"
+prev: "[[bibles/NASB-IL/Ruth/Ruth 1]]"
+next: "[[bibles/NASB-IL/Ruth/Ruth 3]]"
+tags:
+  - bible/ot
+  - bible/historical
+  - genre/narrative
 ---
 
 # Ruth 2

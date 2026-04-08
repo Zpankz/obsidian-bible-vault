@@ -1,12 +1,14 @@
 ---
 type: book
-book.name: "Philippians"
+book.name: Philippians
 book.number: 50
 testament: NT
-section: "Pauline"
-genre: "epistle"
+section: Pauline
+genre: epistle
 chapters.total: 4
-original.name: "ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ"
+original.name: ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ
+up: "[[bibles/NASB-IL/-- Bible --]]"
+down: "[[bibles/NASB-IL/Philippians/Philippians 1]]"
 ---
 
 # Philippians

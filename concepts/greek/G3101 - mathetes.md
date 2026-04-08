@@ -16,6 +16,9 @@ related:
   - "[[concepts/greek/G652 - apostolos]]"
   - "[[concepts/greek/G1097 - ginosko]]"
   - "[[concepts/greek/G1577 - ekklesia]]"
+tags:
+  - concept/greek
+  - strongs
 ---
 
 # μαθητής — Mathetes

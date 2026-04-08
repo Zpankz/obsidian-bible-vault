@@ -16,6 +16,9 @@ related:
   - "[[concepts/hebrew/H914 - badal]]"
   - "[[concepts/hebrew/H3519 - kavod]]"
   - "[[concepts/hebrew/H3548 - kohen]]"
+tags:
+  - concept/hebrew
+  - strongs
 ---
 
 # קֹדֶשׁ — Qodesh
