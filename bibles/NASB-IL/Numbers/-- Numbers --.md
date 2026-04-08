@@ -6,16 +6,16 @@ testament: OT
 section: Torah
 genre: narrative
 chapters.total: 36
-original.name: במדבר
+original.name: "במדבר"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Numbers/Numbers 1]]"
+tags:
+  - bible/ot
+  - bible/torah
 ---
 
 # Numbers
 
 *במדבר*
-
-**Section:** Torah | **Genre:** narrative | **Chapters:** 36
 
 ## Chapters
 

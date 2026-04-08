@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 4
-original.name: ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ
+original.name: "ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Colossians/Colossians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # Colossians
 
 *ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 4
 
 ## Chapters
 

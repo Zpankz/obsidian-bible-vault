@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 3
-original.name: צפניה
+original.name: "צפניה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Zephaniah/Zephaniah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Zephaniah
 
 *צפניה*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 3
 
 ## Chapters
 

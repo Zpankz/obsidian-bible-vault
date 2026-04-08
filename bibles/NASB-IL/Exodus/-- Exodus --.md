@@ -6,16 +6,16 @@ testament: OT
 section: Torah
 genre: narrative
 chapters.total: 40
-original.name: שמות
+original.name: "שמות"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Exodus/Exodus 1]]"
+tags:
+  - bible/ot
+  - bible/torah
 ---
 
 # Exodus
 
 *שמות*
-
-**Section:** Torah | **Genre:** narrative | **Chapters:** 40
 
 ## Chapters
 

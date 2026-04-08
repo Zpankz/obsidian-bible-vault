@@ -6,16 +6,16 @@ testament: OT
 section: Major Prophets
 genre: prophecy
 chapters.total: 66
-original.name: ישעיהו
+original.name: "ישעיהו"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Isaiah/Isaiah 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
 ---
 
 # Isaiah
 
 *ישעיהו*
-
-**Section:** Major Prophets | **Genre:** prophecy | **Chapters:** 66
 
 ## Chapters
 

@@ -6,16 +6,16 @@ testament: NT
 section: General
 genre: epistle
 chapters.total: 5
-original.name: ΙΑΚΩΒΟΥ
+original.name: "ΙΑΚΩΒΟΥ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/James/James 1]]"
+tags:
+  - bible/nt
+  - bible/general
 ---
 
 # James
 
 *ΙΑΚΩΒΟΥ*
-
-**Section:** General | **Genre:** epistle | **Chapters:** 5
 
 ## Chapters
 

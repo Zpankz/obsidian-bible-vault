@@ -29,8 +29,8 @@ Literally "un-hiddenness" — truth as that which is revealed, unconcealed. In t
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Christ as truth | Personal embodiment of reality | [[bibles/NASB-Interlinear/John/John 14#v6\|John 14:6]] |
-| The gospel | The truth of the message | [[bibles/NASB-Interlinear/Galatians/Galatians 2#v5\|Gal 2:5]] |
+| Christ as truth | Personal embodiment of reality | [[bibles/NASB-IL/John/John 14#v6\|John 14:6]] |
+| The gospel | The truth of the message | [[bibles/NASB-IL/Galatians/Galatians 2#v5\|Gal 2:5]] |
 | Moral integrity | Truthfulness, sincerity | Eph 4:25; 1 John 3:18 |
 | Divine faithfulness | God's reliability | Rom 3:7; Rom 15:8 |
 
@@ -42,11 +42,11 @@ The "Spirit of truth" (John 14:17; 15:26; 16:13) continues Christ's revelatory w
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v14|John 1:14]] — "Full of grace and truth"
-- [[bibles/NASB-Interlinear/John/John 8#v32|John 8:32]] — "The truth will set you free"
-- [[bibles/NASB-Interlinear/John/John 14#v6|John 14:6]] — "I am the way, the truth, and the life"
-- [[bibles/NASB-Interlinear/John/John 17#v17|John 17:17]] — "Sanctify them in the truth; Your word is truth"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 4#v15|Eph 4:15]] — "Speaking the truth in love"
+- [[bibles/NASB-IL/John/John 1#v14|John 1:14]] — "Full of grace and truth"
+- [[bibles/NASB-IL/John/John 8#v32|John 8:32]] — "The truth will set you free"
+- [[bibles/NASB-IL/John/John 14#v6|John 14:6]] — "I am the way, the truth, and the life"
+- [[bibles/NASB-IL/John/John 17#v17|John 17:17]] — "Sanctify them in the truth; Your word is truth"
+- [[bibles/NASB-IL/Ephesians/Ephesians 4#v15|Eph 4:15]] — "Speaking the truth in love"
 
 ## OT Background
 

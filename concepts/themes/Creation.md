@@ -27,16 +27,16 @@ The foundational theological theme of Scripture — that all reality originates 
 ## Primary Texts
 
 ### Old Testament
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1|Genesis 1–2]] — The creation narrative
-- [[bibles/NASB-Interlinear/Psalms/Psalms 104|Psalm 104]] — Hymn to the Creator
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 40|Isaiah 40–45]] — Creation as argument for monotheism
-- [[bibles/NASB-Interlinear/Job/Job 38|Job 38–41]] — God's creative power in theophany
+- [[bibles/NASB-IL/Genesis/Genesis 1|Genesis 1–2]] — The creation narrative
+- [[bibles/NASB-IL/Psalms/Psalms 104|Psalm 104]] — Hymn to the Creator
+- [[bibles/NASB-IL/Isaiah/Isaiah 40|Isaiah 40–45]] — Creation as argument for monotheism
+- [[bibles/NASB-IL/Job/Job 38|Job 38–41]] — God's creative power in theophany
 
 ### New Testament
-- [[bibles/NASB-Interlinear/John/John 1|John 1:1-18]] — The Logos as agent of creation
-- [[bibles/NASB-Interlinear/Colossians/Colossians 1|Col 1:15-20]] — Christ the firstborn of all creation
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 11|Heb 11:3]] — Creation by faith
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21|Rev 21–22]] — New creation
+- [[bibles/NASB-IL/John/John 1|John 1:1-18]] — The Logos as agent of creation
+- [[bibles/NASB-IL/Colossians/Colossians 1|Col 1:15-20]] — Christ the firstborn of all creation
+- [[bibles/NASB-IL/Hebrews/Hebrews 11|Heb 11:3]] — Creation by faith
+- [[bibles/NASB-IL/Revelation/Revelation 21|Rev 21–22]] — New creation
 
 ## Lexical Spine
 

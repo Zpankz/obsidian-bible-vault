@@ -28,11 +28,11 @@ King, ruler — one of the most common nouns in the OT, applied to human kings, 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Psalms/Psalms 47#v7|Ps 47:7]] — "God is the King (*melek*) of all the earth"
-- [[bibles/NASB-Interlinear/1 Samuel/1 Samuel 8#v7|1 Sam 8:7]] — "They have rejected Me from being King (*melek*) over them"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 6#v5|Isa 6:5]] — "My eyes have seen the King (*melek*), the LORD of hosts"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 2#v6|Ps 2:6]] — "I have installed My King (*melek*) upon Zion"
-- [[bibles/NASB-Interlinear/Zechariah/Zechariah 9#v9|Zech 9:9]] — "Behold, your king (*melek*) is coming to you"
+- [[bibles/NASB-IL/Psalms/Psalms 47#v7|Ps 47:7]] — "God is the King (*melek*) of all the earth"
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 8#v7|1 Sam 8:7]] — "They have rejected Me from being King (*melek*) over them"
+- [[bibles/NASB-IL/Isaiah/Isaiah 6#v5|Isa 6:5]] — "My eyes have seen the King (*melek*), the LORD of hosts"
+- [[bibles/NASB-IL/Psalms/Psalms 2#v6|Ps 2:6]] — "I have installed My King (*melek*) upon Zion"
+- [[bibles/NASB-IL/Zechariah/Zechariah 9#v9|Zech 9:9]] — "Behold, your king (*melek*) is coming to you"
 
 ## Theological Significance
 

@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 6
-original.name: ΠΡΟΣ ΕΦΕΣΙΟΥΣ
+original.name: "ΠΡΟΣ ΕΦΕΣΙΟΥΣ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Ephesians/Ephesians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # Ephesians
 
 *ΠΡΟΣ ΕΦΕΣΙΟΥΣ*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 6
 
 ## Chapters
 

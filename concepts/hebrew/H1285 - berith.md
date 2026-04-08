@@ -29,11 +29,11 @@ Covenant — the central structuring concept of biblical theology. A *berith* is
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 9#v9|Gen 9:9]] — "I establish My covenant (*berith*) with you" (Noahic)
-- [[bibles/NASB-Interlinear/Genesis/Genesis 15#v18|Gen 15:18]] — "The LORD made a covenant (*berith*) with Abram" (Abrahamic)
-- [[bibles/NASB-Interlinear/Exodus/Exodus 19#v5|Exod 19:5]] — "If you will keep My covenant (*berith*)" (Sinai/Mosaic)
-- [[bibles/NASB-Interlinear/2 Samuel/2 Samuel 7#v12|2 Sam 7:12]] — Davidic covenant promise
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 31#v31|Jer 31:31]] — "I will make a new covenant (*berith chadashah*)"
+- [[bibles/NASB-IL/Genesis/Genesis 9#v9|Gen 9:9]] — "I establish My covenant (*berith*) with you" (Noahic)
+- [[bibles/NASB-IL/Genesis/Genesis 15#v18|Gen 15:18]] — "The LORD made a covenant (*berith*) with Abram" (Abrahamic)
+- [[bibles/NASB-IL/Exodus/Exodus 19#v5|Exod 19:5]] — "If you will keep My covenant (*berith*)" (Sinai/Mosaic)
+- [[bibles/NASB-IL/2 Samuel/2 Samuel 7#v12|2 Sam 7:12]] — Davidic covenant promise
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 31#v31|Jer 31:31]] — "I will make a new covenant (*berith chadashah*)"
 
 ## Theological Significance
 

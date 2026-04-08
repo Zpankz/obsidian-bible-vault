@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 7
-original.name: מיכה
+original.name: "מיכה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Micah/Micah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Micah
 
 *מיכה*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 7
 
 ## Chapters
 

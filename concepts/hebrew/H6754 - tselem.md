@@ -28,11 +28,11 @@ Image — the word used in Genesis 1:26-27 to describe humanity's unique relatio
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26]] — "Let Us make man in Our image (*tselem*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v27|Gen 1:27]] — "God created man in His own image (*tselem*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 5#v3|Gen 5:3]] — "Adam… became the father of a son in his own likeness, according to his image (*tselem*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 9#v6|Gen 9:6]] — "In the image (*tselem*) of God He made man"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 8#v5|Ps 8:5]] — "You have made him a little lower than God"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26]] — "Let Us make man in Our image (*tselem*)"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v27|Gen 1:27]] — "God created man in His own image (*tselem*)"
+- [[bibles/NASB-IL/Genesis/Genesis 5#v3|Gen 5:3]] — "Adam… became the father of a son in his own likeness, according to his image (*tselem*)"
+- [[bibles/NASB-IL/Genesis/Genesis 9#v6|Gen 9:6]] — "In the image (*tselem*) of God He made man"
+- [[bibles/NASB-IL/Psalms/Psalms 8#v5|Ps 8:5]] — "You have made him a little lower than God"
 
 ## Theological Significance
 

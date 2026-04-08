@@ -29,9 +29,9 @@ The standard Greek word for God, used 1,317 times in the NT. It translates the H
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The Father | God the Father | [[bibles/NASB-Interlinear/John/John 3#v16\|John 3:16]] |
-| Applied to Christ | Deity of the Son | [[bibles/NASB-Interlinear/John/John 1#v1\|John 1:1]] |
-| The one true God | Monotheistic confession | [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 8#v6\|1 Cor 8:6]] |
+| The Father | God the Father | [[bibles/NASB-IL/John/John 3#v16\|John 3:16]] |
+| Applied to Christ | Deity of the Son | [[bibles/NASB-IL/John/John 1#v1\|John 1:1]] |
+| The one true God | Monotheistic confession | [[bibles/NASB-IL/1 Corinthians/1 Corinthians 8#v6\|1 Cor 8:6]] |
 | Pagan gods | False deities | Acts 14:11; Gal 4:8 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ John 1:1 makes the most direct claim: "the Word was God" (θεὸς ἦν ὁ λ
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v1|John 1:1]] — "The Word was God"
-- [[bibles/NASB-Interlinear/John/John 20#v28|John 20:28]] — "My Lord and my God"
-- [[bibles/NASB-Interlinear/Romans/Romans 9#v5|Rom 9:5]] — "Christ, who is over all, God blessed forever"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 8#v6|1 Cor 8:6]] — "For us there is one God, the Father"
-- [[bibles/NASB-Interlinear/Titus/Titus 2#v13|Titus 2:13]] — "Our great God and Savior, Christ Jesus"
+- [[bibles/NASB-IL/John/John 1#v1|John 1:1]] — "The Word was God"
+- [[bibles/NASB-IL/John/John 20#v28|John 20:28]] — "My Lord and my God"
+- [[bibles/NASB-IL/Romans/Romans 9#v5|Rom 9:5]] — "Christ, who is over all, God blessed forever"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 8#v6|1 Cor 8:6]] — "For us there is one God, the Father"
+- [[bibles/NASB-IL/Titus/Titus 2#v13|Titus 2:13]] — "Our great God and Savior, Christ Jesus"
 
 ## OT Background
 

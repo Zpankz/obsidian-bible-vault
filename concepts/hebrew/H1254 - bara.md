@@ -43,19 +43,19 @@ The Hebrew verb exclusively reserved for divine creative activity. Unlike [[conc
 
 *Bara* appears at three critical points in the creation narrative — each marking a genuinely new category of existence:
 
-1. **[[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]]** — Creation of matter itself: "God **created** the heavens and the earth"
-2. **[[bibles/NASB-Interlinear/Genesis/Genesis 1#v21|Gen 1:21]]** — Creation of animate life: "God **created** the great sea creatures and every living soul"
-3. **[[bibles/NASB-Interlinear/Genesis/Genesis 1#v27|Gen 1:27]]** — Creation of humanity in God's image: "God **created** man" (×3 in one verse)
+1. **[[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]]** — Creation of matter itself: "God **created** the heavens and the earth"
+2. **[[bibles/NASB-IL/Genesis/Genesis 1#v21|Gen 1:21]]** — Creation of animate life: "God **created** the great sea creatures and every living soul"
+3. **[[bibles/NASB-IL/Genesis/Genesis 1#v27|Gen 1:27]]** — Creation of humanity in God's image: "God **created** man" (×3 in one verse)
 
 The threefold *bara* in v27 is emphatic — the creation of image-bearers ([[concepts/hebrew/H6754 - tselem|tselem]]) is the climactic divine act.
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]] — First word of divine action in Scripture
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v27|Gen 1:27]] — Threefold use for humanity
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 45#v18|Isa 45:18]] — "God who **created** the heavens… who formed the earth and made it"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 43#v1|Isa 43:1]] — "He who **created** you, O Jacob"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 51#v10|Ps 51:10]] — "**Create** in me a clean heart" — only spiritual renewal uses *bara*
+- [[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]] — First word of divine action in Scripture
+- [[bibles/NASB-IL/Genesis/Genesis 1#v27|Gen 1:27]] — Threefold use for humanity
+- [[bibles/NASB-IL/Isaiah/Isaiah 45#v18|Isa 45:18]] — "God who **created** the heavens… who formed the earth and made it"
+- [[bibles/NASB-IL/Isaiah/Isaiah 43#v1|Isa 43:1]] — "He who **created** you, O Jacob"
+- [[bibles/NASB-IL/Psalms/Psalms 51#v10|Ps 51:10]] — "**Create** in me a clean heart" — only spiritual renewal uses *bara*
 
 ## NT Connection
 

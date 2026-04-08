@@ -28,11 +28,11 @@ Darkness — the primordial condition before God spoke light into being. *Choshe
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v2|Gen 1:2]] — "Darkness (*choshek*) was over the surface of the deep"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v4|Gen 1:4]] — "God separated the light from the darkness (*choshek*)"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 10#v22|Exod 10:22]] — "There was thick darkness (*choshek*) in all the land of Egypt"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 9#v2|Isa 9:2]] — "The people who walk in darkness (*choshek*) have seen a great light"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 45#v7|Isa 45:7]] — "I form light and create darkness (*choshek*)"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v2|Gen 1:2]] — "Darkness (*choshek*) was over the surface of the deep"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v4|Gen 1:4]] — "God separated the light from the darkness (*choshek*)"
+- [[bibles/NASB-IL/Exodus/Exodus 10#v22|Exod 10:22]] — "There was thick darkness (*choshek*) in all the land of Egypt"
+- [[bibles/NASB-IL/Isaiah/Isaiah 9#v2|Isa 9:2]] — "The people who walk in darkness (*choshek*) have seen a great light"
+- [[bibles/NASB-IL/Isaiah/Isaiah 45#v7|Isa 45:7]] — "I form light and create darkness (*choshek*)"
 
 ## Theological Significance
 

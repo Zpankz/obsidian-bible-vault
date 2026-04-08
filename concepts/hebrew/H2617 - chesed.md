@@ -29,11 +29,11 @@ The most theologically loaded word in the OT — variously translated "lovingkin
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 34#v6|Exod 34:6]] — "Abounding in lovingkindness (*chesed*) and truth"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 136#v1|Ps 136:1]] — "His lovingkindness (*chesed*) is everlasting" (repeated 26 times)
-- [[bibles/NASB-Interlinear/Psalms/Psalms 23#v6|Ps 23:6]] — "Surely goodness and lovingkindness (*chesed*) will follow me"
-- [[bibles/NASB-Interlinear/Hosea/Hosea 6#v6|Hos 6:6]] — "I delight in loyalty (*chesed*) rather than sacrifice"
-- [[bibles/NASB-Interlinear/Micah/Micah 6#v8|Mic 6:8]] — "To love kindness (*chesed*)"
+- [[bibles/NASB-IL/Exodus/Exodus 34#v6|Exod 34:6]] — "Abounding in lovingkindness (*chesed*) and truth"
+- [[bibles/NASB-IL/Psalms/Psalms 136#v1|Ps 136:1]] — "His lovingkindness (*chesed*) is everlasting" (repeated 26 times)
+- [[bibles/NASB-IL/Psalms/Psalms 23#v6|Ps 23:6]] — "Surely goodness and lovingkindness (*chesed*) will follow me"
+- [[bibles/NASB-IL/Hosea/Hosea 6#v6|Hos 6:6]] — "I delight in loyalty (*chesed*) rather than sacrifice"
+- [[bibles/NASB-IL/Micah/Micah 6#v8|Mic 6:8]] — "To love kindness (*chesed*)"
 
 ## Theological Significance
 

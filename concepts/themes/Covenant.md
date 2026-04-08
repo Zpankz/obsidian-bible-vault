@@ -30,11 +30,11 @@ The organizing principle of biblical theology — God relates to His creation th
 
 | Covenant | Recipient | Sign | Key Text |
 |:---|:---|:---|:---|
-| Noahic | All creation | Rainbow | [[bibles/NASB-Interlinear/Genesis/Genesis 9#v9\|Gen 9:9-17]] |
-| Abrahamic | Abraham and seed | Circumcision | [[bibles/NASB-Interlinear/Genesis/Genesis 15#v18\|Gen 15:18]]; Gen 17:1-14 |
-| Mosaic/Sinai | Israel | Sabbath | [[bibles/NASB-Interlinear/Exodus/Exodus 19#v5\|Exod 19:5-6]]; Exod 24:3-8 |
+| Noahic | All creation | Rainbow | [[bibles/NASB-IL/Genesis/Genesis 9#v9\|Gen 9:9-17]] |
+| Abrahamic | Abraham and seed | Circumcision | [[bibles/NASB-IL/Genesis/Genesis 15#v18\|Gen 15:18]]; Gen 17:1-14 |
+| Mosaic/Sinai | Israel | Sabbath | [[bibles/NASB-IL/Exodus/Exodus 19#v5\|Exod 19:5-6]]; Exod 24:3-8 |
 | Davidic | David and dynasty | Throne | 2 Sam 7:12-16 |
-| New | All who believe | The Spirit | [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 31#v31\|Jer 31:31-34]]; Luke 22:20 |
+| New | All who believe | The Spirit | [[bibles/NASB-IL/Jeremiah/Jeremiah 31#v31\|Jer 31:31-34]]; Luke 22:20 |
 
 ## Covenant Structure
 
@@ -47,7 +47,7 @@ Biblical covenants follow ancient Near Eastern treaty patterns:
 
 ## The New Covenant
 
-[[bibles/NASB-Interlinear/Jeremiah/Jeremiah 31#v31|Jer 31:31-34]] promises a covenant that writes the law on hearts, not tablets. [[bibles/NASB-Interlinear/Hebrews/Hebrews 8#v8|Heb 8:8-12]] declares this fulfilled in Christ, whose [[concepts/greek/G129 - haima|blood]] ratifies the new covenant (Luke 22:20).
+[[bibles/NASB-IL/Jeremiah/Jeremiah 31#v31|Jer 31:31-34]] promises a covenant that writes the law on hearts, not tablets. [[bibles/NASB-IL/Hebrews/Hebrews 8#v8|Heb 8:8-12]] declares this fulfilled in Christ, whose [[concepts/greek/G129 - haima|blood]] ratifies the new covenant (Luke 22:20).
 
 ## Canonical Arc
 

@@ -68,11 +68,11 @@ down:
   - "[[bibles/NASB-IL/3 John/-- 3 John --]]"
   - "[[bibles/NASB-IL/Jude/-- Jude --]]"
   - "[[bibles/NASB-IL/Revelation/-- Revelation --]]"
+tags:
+  - bible/index
 ---
 
 # NASB Interlinear Bible
-
-NASB text with Hebrew/Greek interlinear, Strong's numbers, typed cross-references, and concept links.
 
 ## Torah
 

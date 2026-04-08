@@ -27,11 +27,11 @@ To fear, revere, stand in awe — the word for the foundational human response t
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 22#v12|Gen 22:12]] — "Now I know that you fear (*yare*) God"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 14#v31|Exod 14:31]] — "The people feared (*yare*) the LORD"
-- [[bibles/NASB-Interlinear/Proverbs/Proverbs 1#v7|Prov 1:7]] — "The fear (*yirah*) of the LORD is the beginning of knowledge"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 111#v10|Ps 111:10]] — "The fear of the LORD is the beginning of wisdom"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 6#v5|Isa 6:5]] — "Woe is me! For I am ruined!" (Isaiah's theophanic fear)
+- [[bibles/NASB-IL/Genesis/Genesis 22#v12|Gen 22:12]] — "Now I know that you fear (*yare*) God"
+- [[bibles/NASB-IL/Exodus/Exodus 14#v31|Exod 14:31]] — "The people feared (*yare*) the LORD"
+- [[bibles/NASB-IL/Proverbs/Proverbs 1#v7|Prov 1:7]] — "The fear (*yirah*) of the LORD is the beginning of knowledge"
+- [[bibles/NASB-IL/Psalms/Psalms 111#v10|Ps 111:10]] — "The fear of the LORD is the beginning of wisdom"
+- [[bibles/NASB-IL/Isaiah/Isaiah 6#v5|Isa 6:5]] — "Woe is me! For I am ruined!" (Isaiah's theophanic fear)
 
 ## Theological Significance
 

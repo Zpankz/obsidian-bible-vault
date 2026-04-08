@@ -28,11 +28,11 @@ To redeem, specifically by acting as a kinsman-redeemer (*goel*). The *goel* was
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 6#v6|Exod 6:6]] — "I will redeem (*gaal*) you with an outstretched arm"
-- [[bibles/NASB-Interlinear/Ruth/Ruth 3#v13|Ruth 3:13]] — "If he will redeem (*gaal*) you, good; let him redeem"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 43#v1|Isa 43:1]] — "I have redeemed (*gaal*) you; I have called you by name"
-- [[bibles/NASB-Interlinear/Job/Job 19#v25|Job 19:25]] — "I know that my Redeemer (*goel*) lives"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 44#v6|Isa 44:6]] — "The LORD… the Redeemer (*goel*) of Israel"
+- [[bibles/NASB-IL/Exodus/Exodus 6#v6|Exod 6:6]] — "I will redeem (*gaal*) you with an outstretched arm"
+- [[bibles/NASB-IL/Ruth/Ruth 3#v13|Ruth 3:13]] — "If he will redeem (*gaal*) you, good; let him redeem"
+- [[bibles/NASB-IL/Isaiah/Isaiah 43#v1|Isa 43:1]] — "I have redeemed (*gaal*) you; I have called you by name"
+- [[bibles/NASB-IL/Job/Job 19#v25|Job 19:25]] — "I know that my Redeemer (*goel*) lives"
+- [[bibles/NASB-IL/Isaiah/Isaiah 44#v6|Isa 44:6]] — "The LORD… the Redeemer (*goel*) of Israel"
 
 ## Theological Significance
 

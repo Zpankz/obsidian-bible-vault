@@ -30,8 +30,8 @@ Blood in the NT carries immense sacrificial and covenantal weight, representing 
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Christ's atoning death | Redemptive sacrifice | [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v7\|Eph 1:7]] |
-| Covenant ratification | Blood of the new covenant | [[bibles/NASB-Interlinear/Matthew/Matthew 26#v28\|Matt 26:28]] |
+| Christ's atoning death | Redemptive sacrifice | [[bibles/NASB-IL/Ephesians/Ephesians 1#v7\|Eph 1:7]] |
+| Covenant ratification | Blood of the new covenant | [[bibles/NASB-IL/Matthew/Matthew 26#v28\|Matt 26:28]] |
 | Human mortality | "Flesh and blood" | Matt 16:17; 1 Cor 15:50 |
 | Violence and guilt | Bloodshed | Matt 23:35; Acts 5:28 |
 
@@ -43,11 +43,11 @@ Hebrews 9:11-14 explicitly contrasts the blood of goats and bulls with the blood
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 26#v28|Matt 26:28]] — "This is My blood of the covenant"
-- [[bibles/NASB-Interlinear/Romans/Romans 3#v25|Rom 3:25]] — Propitiation by His blood
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v7|Eph 1:7]] — "Redemption through His blood"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 9#v22|Heb 9:22]] — "Without shedding of blood there is no forgiveness"
-- [[bibles/NASB-Interlinear/1 Peter/1 Peter 1#v19|1 Pet 1:19]] — "Precious blood, as of a lamb unblemished"
+- [[bibles/NASB-IL/Matthew/Matthew 26#v28|Matt 26:28]] — "This is My blood of the covenant"
+- [[bibles/NASB-IL/Romans/Romans 3#v25|Rom 3:25]] — Propitiation by His blood
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v7|Eph 1:7]] — "Redemption through His blood"
+- [[bibles/NASB-IL/Hebrews/Hebrews 9#v22|Heb 9:22]] — "Without shedding of blood there is no forgiveness"
+- [[bibles/NASB-IL/1 Peter/1 Peter 1#v19|1 Pet 1:19]] — "Precious blood, as of a lamb unblemished"
 
 ## OT Background
 

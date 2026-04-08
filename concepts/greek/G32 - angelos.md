@@ -29,7 +29,7 @@ The Greek word for "messenger," used both of human envoys and of heavenly beings
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Heavenly beings | Angels in God's service | [[bibles/NASB-Interlinear/Hebrews/Hebrews 1#v14\|Heb 1:14]] |
+| Heavenly beings | Angels in God's service | [[bibles/NASB-IL/Hebrews/Hebrews 1#v14\|Heb 1:14]] |
 | The Angel of the Lord | Theophanic messenger | Matt 1:20 |
 | Human messengers | John's disciples | Luke 7:24 |
 | Church leaders | "Angels" of the seven churches | Rev 2:1 |
@@ -40,10 +40,10 @@ The NT consistently subordinates angelic beings to Christ (Heb 1:4-14). Angels a
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Luke/Luke 1#v26|Luke 1:26]] — Gabriel announces the incarnation
-- [[bibles/NASB-Interlinear/Matthew/Matthew 28#v2|Matt 28:2-7]] — Angel at the empty tomb
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 1#v4|Heb 1:4-14]] — Christ superior to angels
-- [[bibles/NASB-Interlinear/Revelation/Revelation 5#v11|Rev 5:11]] — Myriads of angels worship the Lamb
+- [[bibles/NASB-IL/Luke/Luke 1#v26|Luke 1:26]] — Gabriel announces the incarnation
+- [[bibles/NASB-IL/Matthew/Matthew 28#v2|Matt 28:2-7]] — Angel at the empty tomb
+- [[bibles/NASB-IL/Hebrews/Hebrews 1#v4|Heb 1:4-14]] — Christ superior to angels
+- [[bibles/NASB-IL/Revelation/Revelation 5#v11|Rev 5:11]] — Myriads of angels worship the Lamb
 
 ## OT Background
 

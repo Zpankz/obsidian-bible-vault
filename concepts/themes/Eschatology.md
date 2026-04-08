@@ -38,15 +38,15 @@ The doctrine of last things — the consummation of God's purposes in history. B
 
 ## Key Eschatological Events
 
-- **Christ's return**: [[bibles/NASB-Interlinear/Acts/Acts 1#v11|Acts 1:11]]; 1 Thess 4:16-17
-- **Resurrection of the dead**: [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v42|1 Cor 15:42-44]]; Dan 12:2
-- **Final judgment**: [[bibles/NASB-Interlinear/Revelation/Revelation 20#v11|Rev 20:11-15]]; Matt 25:31-46
-- **New heavens and new earth**: [[bibles/NASB-Interlinear/Revelation/Revelation 21#v1|Rev 21:1-5]]; Isa 65:17
+- **Christ's return**: [[bibles/NASB-IL/Acts/Acts 1#v11|Acts 1:11]]; 1 Thess 4:16-17
+- **Resurrection of the dead**: [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v42|1 Cor 15:42-44]]; Dan 12:2
+- **Final judgment**: [[bibles/NASB-IL/Revelation/Revelation 20#v11|Rev 20:11-15]]; Matt 25:31-46
+- **New heavens and new earth**: [[bibles/NASB-IL/Revelation/Revelation 21#v1|Rev 21:1-5]]; Isa 65:17
 
 ## OT Eschatological Hope
 
-- The Day of the LORD: [[bibles/NASB-Interlinear/Joel/Joel 2#v31|Joel 2:31]]; Amos 5:18-20
-- The Son of Man: Dan 7:13-14 → [[bibles/NASB-Interlinear/Mark/Mark 14#v62|Mark 14:62]]
+- The Day of the LORD: [[bibles/NASB-IL/Joel/Joel 2#v31|Joel 2:31]]; Amos 5:18-20
+- The Son of Man: Dan 7:13-14 → [[bibles/NASB-IL/Mark/Mark 14#v62|Mark 14:62]]
 - The age to come ([[concepts/hebrew/H5769 - olam|עוֹלָם]]): Isa 65:17-25
 
 ## Canonical Arc

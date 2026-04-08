@@ -10,28 +10,13 @@ section: Wisdom
 genre: wisdom
 original.language: Hebrew
 verses.total: 30
-pericopes.count: 4
-parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 6]]"
-parallel.hebrew: "[[bibles/WLCa/18 איוב/איוב 6]]"
-key.terms:
-  - "[[concepts/hebrew/H1697 - davar]]"
-  - "[[concepts/hebrew/H1877 - deshe]]"
-  - "[[concepts/hebrew/H1961 - hayah]]"
-  - "[[concepts/hebrew/H2617 - chesed]]"
-  - "[[concepts/hebrew/H3220 - yam]]"
-  - "[[concepts/hebrew/H3372 - yare]]"
-  - "[[concepts/hebrew/H4725 - maqom]]"
-  - "[[concepts/hebrew/H5315 - nephesh]]"
-  - "[[concepts/hebrew/H5414 - natan]]"
-  - "[[concepts/hebrew/H559 - amar]]"
-  - "[[concepts/hebrew/H6440 - panim]]"
-  - "[[concepts/hebrew/H6960 - qavah]]"
-  - "[[concepts/hebrew/H7200 - raah]]"
-  - "[[concepts/hebrew/H7307 - ruach]]"
-  - "[[concepts/hebrew/H7706 - Shaddai]]"
 up: "[[bibles/NASB-IL/Job/-- Job --]]"
 prev: "[[bibles/NASB-IL/Job/Job 5]]"
 next: "[[bibles/NASB-IL/Job/Job 7]]"
+parallel.kjv: "[[bibles/KJV/18: Job/Job ch: 6]]"
+parallel.hebrew: "[[bibles/WLCa/18 איוב/איוב 6]]"
+cross.refs:
+  - "[[bibles/NASB-IL/Psalms/Psalms 38#v2|Psalms 38:2 @parallels]]"
 tags:
   - bible/ot
   - bible/wisdom
@@ -40,429 +25,445 @@ tags:
 
 # Job 6
 
-[[bibles/NASB-IL/Job/Job 5|← Job 5]] | [[bibles/NASB-IL/Job/-- Job --|Chapters]] | [[bibles/NASB-IL/Job/Job 7|Job 7 →]]
-
----
-
 ## Job 6:1-7
 
+###### v1
 <sup>1</sup> Then Job answered,
 
+###### v2
 <sup>2</sup> 'Oh that my grief were actually weighed And laid in the balances together with my calamity!
 
+###### v3
 <sup>3</sup> 'For then it would be heavier than the sand of the seas; Therefore my words have been rash.
 
-<sup>4</sup> 'For the arrows of the Almighty are within me, Their poison my spirit drinks; The terrors of God are arrayed against me.[^1]
+###### v4
+<sup>4</sup> 'For the arrows of the Almighty are within me, Their poison my spirit drinks; The terrors of God are arrayed against me.
 
+###### v5
 <sup>5</sup> 'Does the wild donkey bray over [his] grass, Or does the ox low over his fodder?
 
+###### v6
 <sup>6</sup> 'Can something tasteless be eaten without salt, Or is there any taste in the white of an egg?
 
+###### v7
 <sup>7</sup> 'My soul refuses to touch [them]; They are like loathsome food to me.
 
 > [!hebrew]- Interlinear — Job 6:1-7
 > **1**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | וַיַּ֥עַן | H6030 | — |
-> | אִיּ֗וֹב | H347 | — |
-> | וַיֹּאמַֽר | [[concepts/hebrew/H559 - amar\|H559]] | to say |
+> | וַיַּ֥עַן | [[H6030]] | — |
+> | אִיּ֗וֹב | [[H347]] | — |
+> | וַיֹּאמַֽר | [[H559]] | to say |
 >
 > **2**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | ל֗וּ | H3863 | — |
-> | שָׁק֣וֹל | H8254 | — |
-> | יִשָּׁקֵ֣ל | H8254 | — |
-> | כַּעְשִׂ֑י | H3708 | — |
-> | [k_והיתי] | H1962 | — |
-> | [q_וְ֝הַוָּתִ֗י] | H1962 | — |
-> | בְּֽמֹאזְנַ֥יִם | H3976 | — |
-> | יִשְׂאוּ | H5375 | — |
-> | יָֽחַד | H3162 | — |
+> | ל֗וּ | [[H3863]] | — |
+> | שָׁק֣וֹל | [[H8254]] | — |
+> | יִשָּׁקֵ֣ל | [[H8254]] | — |
+> | כַּעְשִׂ֑י | [[H3708]] | — |
+> | [k_והיתי] | [[H1962]] | — |
+> | [q_וְ֝הַוָּתִ֗י] | [[H1962]] | — |
+> | בְּֽמֹאזְנַ֥יִם | [[H3976]] | — |
+> | יִשְׂאוּ | [[H5375]] | — |
+> | יָֽחַד | [[H3162]] | — |
 >
 > **3**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | כִּֽי | — | *[function word]* |
-> | עַתָּ֗ה | H6258 | — |
-> | מֵח֣וֹל | H2344 | — |
-> | יַמִּ֣ים | [[concepts/hebrew/H3220 - yam\|H3220]] | sea |
-> | יִכְבָּ֑ד | H3513 | — |
-> | עַל | — | *[function word]* |
-> | כֵּ֝֗ן | — | *[function word]* |
-> | דְּבָרַ֥י | [[concepts/hebrew/H1697 - davar\|H1697]] | word, thing, matter |
-> | לָֽעוּ | H3886 | — |
+> | כִּֽי | H3588 | *[function]* |
+> | עַתָּ֗ה | [[H6258]] | — |
+> | מֵח֣וֹל | [[H2344]] | — |
+> | יַמִּ֣ים | [[H3220]] | sea |
+> | יִכְבָּ֑ד | [[H3513]] | — |
+> | עַל | H5921 | *[function]* |
+> | כֵּ֝֗ן | H3651 | *[function]* |
+> | דְּבָרַ֥י | [[H1697]] | word, matter |
+> | לָֽעוּ | [[H3886]] | — |
 >
 > **4**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | כִּ֤י | — | *[function word]* |
-> | חִצֵּ֪י | H2671 | — |
-> | שַׁדַּ֡י | [[concepts/hebrew/H7706 - Shaddai\|H7706]] | Almighty |
-> | עִמָּדִ֗י | H5978 | — |
-> | אֲשֶׁ֣ר | — | *[function word]* |
-> | חֲ֭מָתָם | H2534 | — |
-> | שֹׁתָ֣ה | H8354 | — |
-> | רוּחִ֑י | [[concepts/hebrew/H7307 - ruach\|H7307]] | spirit, wind, breath |
-> | בִּעוּתֵ֖י | — | *[function word]* |
-> | אֱל֣וֹהַּ | H433 | — |
-> | יַֽעַרְכֽוּנִי | H6186 | — |
+> | כִּ֤י | H3588 | *[function]* |
+> | חִצֵּ֪י | [[H2671]] | — |
+> | שַׁדַּ֡י | [[H7706]] | Almighty |
+> | עִמָּדִ֗י | [[H5978]] | — |
+> | אֲשֶׁ֣ר | H834 | *[function]* |
+> | חֲ֭מָתָם | [[H2534]] | — |
+> | שֹׁתָ֣ה | [[H8354]] | — |
+> | רוּחִ֑י | [[H7307]] | spirit, wind |
+> | בִּעוּתֵ֖י | H1161 | *[function]* |
+> | אֱל֣וֹהַּ | [[H433]] | — |
+> | יַֽעַרְכֽוּנִי | [[H6186]] | — |
 >
 > **5**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הֲיִֽנְהַק | H5101 | — |
-> | פֶּ֥רֶא | H6501 | — |
-> | עֲלֵי | — | *[function word]* |
-> | דֶ֑שֶׁא | [[concepts/hebrew/H1877 - deshe\|H1877]] | vegetation |
-> | אִ֥ם | H518 | — |
-> | יִגְעֶה | H1600 | — |
-> | שּׁ֝֗וֹר | H7794 | — |
-> | עַל | — | *[function word]* |
-> | בְּלִילֽוֹ | H1098 | — |
+> | הֲיִֽנְהַק | [[H5101]] | — |
+> | פֶּ֥רֶא | [[H6501]] | — |
+> | עֲלֵי | H5921 | *[function]* |
+> | דֶ֑שֶׁא | [[H1877]] | — |
+> | אִ֥ם | [[H518]] | — |
+> | יִגְעֶה | [[H1600]] | — |
+> | שּׁ֝֗וֹר | [[H7794]] | — |
+> | עַל | H5921 | *[function]* |
+> | בְּלִילֽוֹ | [[H1098]] | — |
 >
 > **6**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הֲיֵאָכֵ֣ל | H398 | — |
-> | תָּ֭פֵל | H8602 | — |
-> | מִבְּלִי | H1097 | — |
-> | מֶ֑לַח | H4417 | — |
-> | אִם | H518 | — |
-> | יֶשׁ | H3426 | — |
-> | טַ֝֗עַם | H2940 | — |
-> | בְּרִ֣יר | H7388 | — |
-> | חַלָּמֽוּת | H2495 | — |
+> | הֲיֵאָכֵ֣ל | [[H398]] | — |
+> | תָּ֭פֵל | [[H8602]] | — |
+> | מִבְּלִי | [[H1097]] | — |
+> | מֶ֑לַח | [[H4417]] | — |
+> | אִם | [[H518]] | — |
+> | יֶשׁ | [[H3426]] | — |
+> | טַ֝֗עַם | [[H2940]] | — |
+> | בְּרִ֣יר | [[H7388]] | — |
+> | חַלָּמֽוּת | [[H2495]] | — |
 >
 > **7**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | מֵאֲנָ֣ה | H3985 | — |
-> | לִנְגּ֣וֹעַ | H5060 | — |
-> | נַפְשִׁ֑י | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
-> | הֵ֝֗מָּה | H1992 | — |
-> | כִּדְוֵ֥י | H1741 | — |
-> | לַחְמִֽי | H3899 | — |
+> | מֵאֲנָ֣ה | [[H3985]] | — |
+> | לִנְגּ֣וֹעַ | [[H5060]] | — |
+> | נַפְשִׁ֑י | [[H5315]] | soul, life |
+> | הֵ֝֗מָּה | [[H1992]] | — |
+> | כִּדְוֵ֥י | [[H1741]] | — |
+> | לַחְמִֽי | [[H3899]] | — |
 >
 
 ## Job 6:8-13
 
+###### v8
 <sup>8</sup> 'Oh that my request might come to pass, And that God would grant my longing!
 
+###### v9
 <sup>9</sup> 'Would that God were willing to crush me, That He would loose His hand and cut me off!
 
+###### v10
 <sup>10</sup> 'But it is still my consolation, And I rejoice in unsparing pain, That I have not denied the words of the Holy One.
 
+###### v11
 <sup>11</sup> 'What is my strength, that I should wait? And what is my end, that I should endure?
 
+###### v12
 <sup>12</sup> 'Is my strength the strength of stones, Or is my flesh bronze?
 
+###### v13
 <sup>13</sup> 'Is it that my help is not within me, And that deliverance is driven from me?
 
 > [!hebrew]- Interlinear — Job 6:8-13
 > **8**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | מִֽי | H4310 | — |
-> | יִ֭תֵּן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
-> | תָּב֣וֹא | H935 | — |
-> | שֶֽׁאֱלָתִ֑י | H7596 | — |
-> | וְ֝תִקְוָתִ֗י | H8615 | — |
-> | יִתֵּ֥ן | [[concepts/hebrew/H5414 - natan\|H5414]] | to give |
-> | אֱלֽוֹהַּ | H433 | — |
+> | מִֽי | [[H4310]] | — |
+> | יִ֭תֵּן | [[H5414]] | to give |
+> | תָּב֣וֹא | [[H935]] | — |
+> | שֶֽׁאֱלָתִ֑י | [[H7596]] | — |
+> | וְ֝תִקְוָתִ֗י | [[H8615]] | — |
+> | יִתֵּ֥ן | [[H5414]] | to give |
+> | אֱלֽוֹהַּ | [[H433]] | — |
 >
 > **9**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | וְיֹאֵ֣ל | H2974 | — |
-> | אֱ֭לוֹהַּ | H433 | — |
-> | וִֽידַכְּאֵ֑נִי | H1792 | — |
-> | יַתֵּ֥ר | H5425 | — |
-> | יָ֝ד֗וֹ | H3027 | — |
-> | וִֽיבַצְּעֵֽנִי | H1214 | — |
+> | וְיֹאֵ֣ל | [[H2974]] | — |
+> | אֱ֭לוֹהַּ | [[H433]] | — |
+> | וִֽידַכְּאֵ֑נִי | [[H1792]] | — |
+> | יַתֵּ֥ר | [[H5425]] | — |
+> | יָ֝ד֗וֹ | [[H3027]] | hand |
+> | וִֽיבַצְּעֵֽנִי | [[H1214]] | — |
 >
 > **10**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | וּ֥תְהִי | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
-> | ע֨וֹד | H5750 | — |
-> | נֶ֘חָ֤מָתִ֗י | H5165 | — |
-> | וַאֲסַלְּדָ֣ה | H5539 | — |
-> | בְ֭חִילָה | H2427 | — |
-> | לֹ֣א | H3808 | — |
-> | יַחְמ֑וֹל | H2550 | — |
-> | כִּי | — | *[function word]* |
-> | לֹ֥א | H3808 | — |
-> | כִ֝חַ֗דְתִּי | H3582 | — |
-> | אִמְרֵ֥י | H561 | — |
-> | קָדֽוֹשׁ | H6918 | — |
+> | וּ֥תְהִי | [[H1961]] | to be |
+> | ע֨וֹד | [[H5750]] | — |
+> | נֶ֘חָ֤מָתִ֗י | [[H5165]] | — |
+> | וַאֲסַלְּדָ֣ה | [[H5539]] | — |
+> | בְ֭חִילָה | [[H2427]] | — |
+> | לֹ֣א | [[H3808]] | — |
+> | יַחְמ֑וֹל | [[H2550]] | — |
+> | כִּי | H3588 | *[function]* |
+> | לֹ֥א | [[H3808]] | — |
+> | כִ֝חַ֗דְתִּי | [[H3582]] | — |
+> | אִמְרֵ֥י | [[H561]] | — |
+> | קָדֽוֹשׁ | [[H6918]] | — |
 >
 > **11**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | מַה | H4100 | — |
-> | כֹּחִ֥י | H3581 | — |
-> | כִֽי | — | *[function word]* |
-> | אֲיַחֵ֑ל | H3176 | — |
-> | וּמַה | H4100 | — |
-> | קִּ֝צִּ֗י | H7093 | — |
-> | כִּֽי | — | *[function word]* |
-> | אַאֲרִ֥יךְ | H748 | — |
-> | נַפְשִֽׁי | [[concepts/hebrew/H5315 - nephesh\|H5315]] | soul, life, being |
+> | מַה | [[H4100]] | — |
+> | כֹּחִ֥י | [[H3581]] | — |
+> | כִֽי | H3588 | *[function]* |
+> | אֲיַחֵ֑ל | [[H3176]] | — |
+> | וּמַה | [[H4100]] | — |
+> | קִּ֝צִּ֗י | [[H7093]] | — |
+> | כִּֽי | H3588 | *[function]* |
+> | אַאֲרִ֥יךְ | [[H748]] | — |
+> | נַפְשִֽׁי | [[H5315]] | soul, life |
 >
 > **12**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | אִם | H518 | — |
-> | כֹּ֣חַ | H3581 | — |
-> | אֲבָנִ֣ים | H68 | — |
-> | כֹּחִ֑י | H3581 | — |
-> | אִֽם | H518 | — |
-> | בְּשָׂרִ֥י | H1320 | — |
-> | נָחֽוּשׁ | H5153 | — |
+> | אִם | [[H518]] | — |
+> | כֹּ֣חַ | [[H3581]] | — |
+> | אֲבָנִ֣ים | [[H68]] | — |
+> | כֹּחִ֑י | [[H3581]] | — |
+> | אִֽם | [[H518]] | — |
+> | בְּשָׂרִ֥י | [[H1320]] | — |
+> | נָחֽוּשׁ | [[H5153]] | — |
 >
 > **13**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הַאִ֬ם | H518 | — |
-> | אֵ֣ין | H369 | — |
-> | עֶזְרָתִ֣י | H5833 | — |
-> | וְ֝תֻשִׁיָּ֗ה | H8454 | — |
-> | נִדְּחָ֥ה | H5080 | — |
-> | מִמֶּֽנִּי | H4480 | — |
+> | הַאִ֬ם | [[H518]] | — |
+> | אֵ֣ין | [[H369]] | — |
+> | עֶזְרָתִ֣י | [[H5833]] | — |
+> | וְ֝תֻשִׁיָּ֗ה | [[H8454]] | — |
+> | נִדְּחָ֥ה | [[H5080]] | — |
+> | מִמֶּֽנִּי | [[H4480]] | — |
 >
 
 ## Job 6:14-21
 
+###### v14
 <sup>14</sup> 'For the despairing man [there should be] kindness from his friend; So that he does not forsake the fear of the Almighty.
 
+###### v15
 <sup>15</sup> 'My brothers have acted deceitfully like a wadi, Like the torrents of wadis which vanish,
 
+###### v16
 <sup>16</sup> Which are turbid because of ice [And] into which the snow melts.
 
+###### v17
 <sup>17</sup> 'When they become waterless, they are silent, When it is hot, they vanish from their place.
 
+###### v18
 <sup>18</sup> 'The paths of their course wind along, They go up into nothing and perish.
 
+###### v19
 <sup>19</sup> 'The caravans of Tema looked, The travelers of Sheba hoped for them.
 
+###### v20
 <sup>20</sup> 'They were disappointed for they had trusted, They came there and were confounded.
 
+###### v21
 <sup>21</sup> 'Indeed, you have now become such, You see a terror and are afraid.
 
 > [!hebrew]- Interlinear — Job 6:14-21
 > **14**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | לַמָּ֣ס | H4523 | — |
-> | מֵרֵעֵ֣הוּ | H7453 | — |
-> | חָ֑סֶד | [[concepts/hebrew/H2617 - chesed\|H2617]] | lovingkindness |
-> | וְיִרְאַ֖ת | H3374 | — |
-> | שַׁדַּ֣י | [[concepts/hebrew/H7706 - Shaddai\|H7706]] | Almighty |
-> | יַעֲזֽוֹב | H5800 | — |
+> | לַמָּ֣ס | [[H4523]] | — |
+> | מֵרֵעֵ֣הוּ | [[H7453]] | — |
+> | חָ֑סֶד | [[H2617]] | lovingkindness |
+> | וְיִרְאַ֖ת | [[H3374]] | — |
+> | שַׁדַּ֣י | [[H7706]] | Almighty |
+> | יַעֲזֽוֹב | [[H5800]] | — |
 >
 > **15**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | אַ֭חַי | H251 | — |
-> | בָּגְד֣וּ | H898 | — |
-> | כְמוֹ | H3644 | — |
-> | נָ֑חַל | H5158 | — |
-> | כַּאֲפִ֖יק | H650 | — |
-> | נְחָלִ֣ים | H5158 | — |
-> | יַעֲבֹֽרוּ | H5674 | — |
+> | אַ֭חַי | [[H251]] | — |
+> | בָּגְד֣וּ | [[H898]] | — |
+> | כְמוֹ | [[H3644]] | — |
+> | נָ֑חַל | [[H5158]] | — |
+> | כַּאֲפִ֖יק | [[H650]] | — |
+> | נְחָלִ֣ים | [[H5158]] | — |
+> | יַעֲבֹֽרוּ | [[H5674]] | — |
 >
 > **16**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הַקֹּדְרִ֥ים | H6937 | — |
-> | מִנִּי | H4480 | — |
-> | קָ֑רַח | H7140 | — |
-> | עָ֝לֵ֗ימוֹ | — | *[function word]* |
-> | יִתְעַלֶּם | H5956 | — |
-> | שָֽׁלֶג | H7950 | — |
+> | הַקֹּדְרִ֥ים | [[H6937]] | — |
+> | מִנִּי | [[H4480]] | — |
+> | קָ֑רַח | [[H7140]] | — |
+> | עָ֝לֵ֗ימוֹ | H5921 | *[function]* |
+> | יִתְעַלֶּם | [[H5956]] | — |
+> | שָֽׁלֶג | [[H7950]] | — |
 >
 > **17**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | בְּ֭עֵת | H6256 | — |
-> | יְזֹרְב֣וּ | H2215 | — |
-> | נִצְמָ֑תוּ | H6789 | — |
-> | בְּ֝חֻמּ֗וֹ | H2527 | — |
-> | נִדְעֲכ֥וּ | H1846 | — |
-> | מִמְּקוֹמָֽם | [[concepts/hebrew/H4725 - maqom\|H4725]] | place |
+> | בְּ֭עֵת | [[H6256]] | — |
+> | יְזֹרְב֣וּ | [[H2215]] | — |
+> | נִצְמָ֑תוּ | [[H6789]] | — |
+> | בְּ֝חֻמּ֗וֹ | [[H2527]] | — |
+> | נִדְעֲכ֥וּ | [[H1846]] | — |
+> | מִמְּקוֹמָֽם | [[H4725]] | place |
 >
 > **18**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | יִ֭לָּ֣פְתוּ | H3943 | — |
-> | אָרְח֣וֹת | H734 | — |
-> | דַּרְכָּ֑ם | H1870 | — |
-> | יַעֲל֖וּ | H5927 | — |
-> | בַתֹּ֣הוּ | [[concepts/hebrew/H8414 - tohu\|H8414]] | formless, chaos |
-> | וְיֹאבֵֽדוּ | H6 | — |
+> | יִ֭לָּ֣פְתוּ | [[H3943]] | — |
+> | אָרְח֣וֹת | [[H734]] | — |
+> | דַּרְכָּ֑ם | [[H1870]] | way, path |
+> | יַעֲל֖וּ | [[H5927]] | — |
+> | בַתֹּ֣הוּ | [[H8414]] | formless |
+> | וְיֹאבֵֽדוּ | [[H6]] | — |
 >
 > **19**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הִ֭בִּיטוּ | H5027 | — |
-> | אָרְח֣וֹת | H734 | — |
-> | תֵּמָ֑א | H8485 | — |
-> | הֲלִיכֹ֥ת | H1979 | — |
-> | שְׁ֝בָ֗א | H7614 | — |
-> | קִוּוּ | [[concepts/hebrew/H6960 - qavah\|H6960]] | to gather, wait |
+> | הִ֭בִּיטוּ | [[H5027]] | — |
+> | אָרְח֣וֹת | [[H734]] | — |
+> | תֵּמָ֑א | [[H8485]] | — |
+> | הֲלִיכֹ֥ת | [[H1979]] | — |
+> | שְׁ֝בָ֗א | [[H7614]] | — |
+> | קִוּוּ | [[H6960]] | to gather |
 >
 > **20**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | בֹּ֥שׁוּ | H954 | — |
-> | כִּֽי | — | *[function word]* |
-> | בָטָ֑ח | H982 | — |
-> | בָּ֥אוּ | H935 | — |
-> | עָ֝דֶ֗יהָ | H5704 | — |
-> | וַיֶּחְפָּֽרוּ | H2659 | — |
+> | בֹּ֥שׁוּ | [[H954]] | — |
+> | כִּֽי | H3588 | *[function]* |
+> | בָטָ֑ח | [[H982]] | — |
+> | בָּ֥אוּ | [[H935]] | — |
+> | עָ֝דֶ֗יהָ | [[H5704]] | — |
+> | וַיֶּחְפָּֽרוּ | [[H2659]] | — |
 >
 > **21**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | כִּֽי | — | *[function word]* |
-> | עַ֭תָּה | H6258 | — |
-> | הֱיִ֣יתֶם | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
-> | [k_לא] | H3808 | — |
-> | [q_ל֑וֹ] | H3808 | — |
-> | תִּֽרְא֥וּ | [[concepts/hebrew/H7200 - raah\|H7200]] | to see |
-> | חֲ֝תַ֗ת | H2866 | — |
-> | וַתִּירָֽאוּ | [[concepts/hebrew/H3372 - yare\|H3372]] | to fear, revere |
+> | כִּֽי | H3588 | *[function]* |
+> | עַ֭תָּה | [[H6258]] | — |
+> | הֱיִ֣יתֶם | [[H1961]] | to be |
+> | [k_לא] | [[H3808]] | — |
+> | [q_ל֑וֹ] | [[H3808]] | — |
+> | תִּֽרְא֥וּ | [[H7200]] | to see |
+> | חֲ֝תַ֗ת | [[H2866]] | — |
+> | וַתִּירָֽאוּ | [[H3372]] | to fear |
 >
 
 ## Job 6:22-30
 
+###### v22
 <sup>22</sup> 'Have I said, 'Give me [something],' Or, 'Offer a bribe for me from your wealth,'
 
+###### v23
 <sup>23</sup> Or, 'Deliver me from the hand of the adversary,' Or, 'Redeem me from the hand of the tyrants '?
 
+###### v24
 <sup>24</sup> 'Teach me, and I will be silent; And show me how I have erred.
 
+###### v25
 <sup>25</sup> 'How painful are honest words! But what does your argument prove?
 
+###### v26
 <sup>26</sup> 'Do you intend to reprove [my] words, When the words of one in despair belong to the wind?
 
+###### v27
 <sup>27</sup> 'You would even cast [lots] for the orphans And barter over your friend.
 
+###### v28
 <sup>28</sup> 'Now please look at me, And [see] if I lie to your face.
 
+###### v29
 <sup>29</sup> 'Desist now, let there be no injustice; Even desist, my righteousness is yet in it.
 
+###### v30
 <sup>30</sup> 'Is there injustice on my tongue? Cannot my palate discern calamities?
 
 > [!hebrew]- Interlinear — Job 6:22-30
 > **22**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הֲ‍ֽכִי | — | *[function word]* |
-> | אָ֭מַרְתִּי | [[concepts/hebrew/H559 - amar\|H559]] | to say |
-> | הָ֣בוּ | H3051 | — |
-> | וּ֝מִכֹּחֲכֶ֗ם | H3581 | — |
-> | שִׁחֲד֥וּ | H7809 | — |
-> | בַעֲדִֽי | H1157 | — |
+> | הֲ‍ֽכִי | H3588 | *[function]* |
+> | אָ֭מַרְתִּי | [[H559]] | to say |
+> | הָ֣בוּ | [[H3051]] | — |
+> | וּ֝מִכֹּחֲכֶ֗ם | [[H3581]] | — |
+> | שִׁחֲד֥וּ | [[H7809]] | — |
+> | בַעֲדִֽי | [[H1157]] | — |
 >
 > **23**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | וּמַלְּט֥וּנִי | H4422 | — |
-> | מִיַּד | H3027 | — |
-> | צָ֑ר | H6862 | — |
-> | וּמִיַּ֖ד | H3027 | — |
-> | עָרִיצִ֣ים | H6184 | — |
-> | תִּפְדּֽוּנִי | H6299 | — |
+> | וּמַלְּט֥וּנִי | [[H4422]] | — |
+> | מִיַּד | [[H3027]] | hand |
+> | צָ֑ר | [[H6862]] | — |
+> | וּמִיַּ֖ד | [[H3027]] | hand |
+> | עָרִיצִ֣ים | [[H6184]] | — |
+> | תִּפְדּֽוּנִי | [[H6299]] | — |
 >
 > **24**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | ה֭וֹרוּנִי | H3384 | — |
-> | וַאֲנִ֣י | H589 | — |
-> | אַחֲרִ֑ישׁ | H2790 | — |
-> | וּמַה | H4100 | — |
-> | שָּׁ֝גִ֗יתִי | H7686 | — |
-> | הָבִ֥ינוּ | H995 | — |
+> | ה֭וֹרוּנִי | [[H3384]] | — |
+> | וַאֲנִ֣י | [[H589]] | — |
+> | אַחֲרִ֑ישׁ | [[H2790]] | — |
+> | וּמַה | [[H4100]] | — |
+> | שָּׁ֝גִ֗יתִי | [[H7686]] | — |
+> | הָבִ֥ינוּ | [[H995]] | — |
 >
 > **25**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | מַה | H4100 | — |
-> | נִּמְרְצ֥וּ | H4834 | — |
-> | אִמְרֵי | H561 | — |
-> | יֹ֑שֶׁר | H3476 | — |
-> | וּמַה | H4100 | — |
-> | יּוֹכִ֖יחַ | H3198 | — |
-> | הוֹכֵ֣חַ | H3198 | — |
-> | מִכֶּֽם | H4480 | — |
+> | מַה | [[H4100]] | — |
+> | נִּמְרְצ֥וּ | [[H4834]] | — |
+> | אִמְרֵי | [[H561]] | — |
+> | יֹ֑שֶׁר | [[H3476]] | — |
+> | וּמַה | [[H4100]] | — |
+> | יּוֹכִ֖יחַ | [[H3198]] | — |
+> | הוֹכֵ֣חַ | [[H3198]] | — |
+> | מִכֶּֽם | [[H4480]] | — |
 >
 > **26**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הַלְהוֹכַ֣ח | H3198 | — |
-> | מִלִּ֣ים | H4405 | — |
-> | תַּחְשֹׁ֑בוּ | H2803 | — |
-> | וּ֝לְר֗וּחַ | [[concepts/hebrew/H7307 - ruach\|H7307]] | spirit, wind, breath |
-> | אִמְרֵ֥י | H561 | — |
-> | נֹאָֽשׁ | H2976 | — |
+> | הַלְהוֹכַ֣ח | [[H3198]] | — |
+> | מִלִּ֣ים | [[H4405]] | — |
+> | תַּחְשֹׁ֑בוּ | [[H2803]] | — |
+> | וּ֝לְר֗וּחַ | [[H7307]] | spirit, wind |
+> | אִמְרֵ֥י | [[H561]] | — |
+> | נֹאָֽשׁ | [[H2976]] | — |
 >
 > **27**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | אַף | H637 | — |
-> | עַל | — | *[function word]* |
-> | יָת֥וֹם | H3490 | — |
-> | תַּפִּ֑ילוּ | H5307 | — |
-> | וְ֝תִכְר֗וּ | H3738 | — |
-> | עַל | — | *[function word]* |
-> | רֵֽיעֲכֶֽם | H7453 | — |
+> | אַף | [[H637]] | — |
+> | עַל | H5921 | *[function]* |
+> | יָת֥וֹם | [[H3490]] | — |
+> | תַּפִּ֑ילוּ | [[H5307]] | — |
+> | וְ֝תִכְר֗וּ | [[H3738]] | — |
+> | עַל | H5921 | *[function]* |
+> | רֵֽיעֲכֶֽם | [[H7453]] | — |
 >
 > **28**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | וְ֭עַתָּה | H6258 | — |
-> | הוֹאִ֣ילוּ | H2974 | — |
-> | פְנוּ | H6437 | — |
-> | וְעַל | — | *[function word]* |
-> | פְּ֝נֵיכֶ֗ם | [[concepts/hebrew/H6440 - panim\|H6440]] | face |
-> | אִם | H518 | — |
-> | אֲכַזֵּֽב | H3576 | — |
+> | וְ֭עַתָּה | [[H6258]] | — |
+> | הוֹאִ֣ילוּ | [[H2974]] | — |
+> | פְנוּ | [[H6437]] | — |
+> | וְעַל | H5921 | *[function]* |
+> | פְּ֝נֵיכֶ֗ם | [[H6440]] | face |
+> | אִם | [[H518]] | — |
+> | אֲכַזֵּֽב | [[H3576]] | — |
 >
 > **29**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | שֻֽׁבוּ | H7725 | — |
-> | נָ֭א | H4994 | — |
-> | אַל | H408 | — |
-> | תְּהִ֣י | [[concepts/hebrew/H1961 - hayah\|H1961]] | to be, become |
-> | עַוְלָ֑ה | H5766 | — |
-> | [k_ושבי] | H7725 | — |
-> | [q_וְשׁ֥וּבוּ] | H7725 | — |
-> | ע֝וֹד | H5750 | — |
-> | צִדְקִי | H6664 | — |
+> | שֻֽׁבוּ | [[H7725]] | — |
+> | נָ֭א | [[H4994]] | — |
+> | אַל | [[H408]] | — |
+> | תְּהִ֣י | [[H1961]] | to be |
+> | עַוְלָ֑ה | [[H5766]] | — |
+> | [k_ושבי] | [[H7725]] | — |
+> | [q_וְשׁ֥וּבוּ] | [[H7725]] | — |
+> | ע֝וֹד | [[H5750]] | — |
+> | צִדְקִי | [[H6664]] | — |
 >
 > **30**
 > | Original | Strong's | Gloss |
 > |---:|:---:|:---|
-> | הֲיֵשׁ | H3426 | — |
-> | בִּלְשׁוֹנִ֥י | — | *[function word]* |
-> | עַוְלָ֑ה | H5766 | — |
-> | אִם | H518 | — |
-> | חִ֝כִּ֗י | H2441 | — |
-> | לֹא | H3808 | — |
-> | יָבִ֥ין | H995 | — |
-> | הַוּֽוֹת | H1942 | — |
+> | הֲיֵשׁ | [[H3426]] | — |
+> | בִּלְשׁוֹנִ֥י | H3956 | *[function]* |
+> | עַוְלָ֑ה | [[H5766]] | — |
+> | אִם | [[H518]] | — |
+> | חִ֝כִּ֗י | [[H2441]] | — |
+> | לֹא | [[H3808]] | — |
+> | יָבִ֥ין | [[H995]] | — |
+> | הַוּֽוֹת | [[H1942]] | — |
 >
-
----
-
-- [[bibles/NASB-IL/Job/Job 5|← Job 5]]
-- [[bibles/NASB-IL/Job/Job 7|Job 7 →]]
-
-**Parallel:** [[bibles/KJV/18: Job/Job ch: 6|KJV]]
- | [[bibles/WLCa/18 איוב/איוב 6|Hebrew]]
-
-[^1]: [[bibles/NASB-IL/Psalms/Psalms 38#v2|Psalms 38:2 @parallels]] (10 votes)

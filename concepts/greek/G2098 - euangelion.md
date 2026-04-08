@@ -29,9 +29,9 @@ Good news — originally a secular term for a report of military victory or a ro
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The message about Christ | The Christian proclamation | [[bibles/NASB-Interlinear/Romans/Romans 1#v16\|Rom 1:16]] |
-| The coming kingdom | Jesus' preaching | [[bibles/NASB-Interlinear/Mark/Mark 1#v15\|Mark 1:15]] |
-| Paul's specific message | Gospel to the Gentiles | [[bibles/NASB-Interlinear/Galatians/Galatians 2#v7\|Gal 2:7]] |
+| The message about Christ | The Christian proclamation | [[bibles/NASB-IL/Romans/Romans 1#v16\|Rom 1:16]] |
+| The coming kingdom | Jesus' preaching | [[bibles/NASB-IL/Mark/Mark 1#v15\|Mark 1:15]] |
+| Paul's specific message | Gospel to the Gentiles | [[bibles/NASB-IL/Galatians/Galatians 2#v7\|Gal 2:7]] |
 | Written Gospel | A literary genre | Mark 1:1 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ The gospel is also a present tense reality — Paul "gospels" (εὐαγγελί
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Mark/Mark 1#v1|Mark 1:1]] — "The beginning of the gospel of Jesus Christ"
-- [[bibles/NASB-Interlinear/Mark/Mark 1#v15|Mark 1:15]] — "Repent and believe in the gospel"
-- [[bibles/NASB-Interlinear/Romans/Romans 1#v16|Rom 1:16]] — "The gospel… the power of God for salvation"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v1|1 Cor 15:1-8]] — The gospel defined
-- [[bibles/NASB-Interlinear/Galatians/Galatians 1#v7|Gal 1:7]] — "There is no other gospel"
+- [[bibles/NASB-IL/Mark/Mark 1#v1|Mark 1:1]] — "The beginning of the gospel of Jesus Christ"
+- [[bibles/NASB-IL/Mark/Mark 1#v15|Mark 1:15]] — "Repent and believe in the gospel"
+- [[bibles/NASB-IL/Romans/Romans 1#v16|Rom 1:16]] — "The gospel… the power of God for salvation"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v1|1 Cor 15:1-8]] — The gospel defined
+- [[bibles/NASB-IL/Galatians/Galatians 1#v7|Gal 1:7]] — "There is no other gospel"
 
 ## OT Background
 

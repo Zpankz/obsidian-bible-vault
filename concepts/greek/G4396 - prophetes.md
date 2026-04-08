@@ -27,10 +27,10 @@ Prophet, one who speaks forth — not primarily a predictor of the future but a 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Luke/Luke 24#v27|Luke 24:27]] — "Beginning with Moses and all the prophets (*prophetai*)"
-- [[bibles/NASB-Interlinear/Acts/Acts 3#v22|Acts 3:22]] — "Moses said, 'The Lord God will raise up for you a prophet (*prophetes*)'"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v20|Eph 2:20]] — "Built on the foundation of the apostles and prophets (*prophetai*)"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 1#v1|Heb 1:1]] — "God… spoke long ago to the fathers in the prophets (*prophetai*)"
+- [[bibles/NASB-IL/Luke/Luke 24#v27|Luke 24:27]] — "Beginning with Moses and all the prophets (*prophetai*)"
+- [[bibles/NASB-IL/Acts/Acts 3#v22|Acts 3:22]] — "Moses said, 'The Lord God will raise up for you a prophet (*prophetes*)'"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v20|Eph 2:20]] — "Built on the foundation of the apostles and prophets (*prophetai*)"
+- [[bibles/NASB-IL/Hebrews/Hebrews 1#v1|Heb 1:1]] — "God… spoke long ago to the fathers in the prophets (*prophetai*)"
 
 ## Theological Significance
 

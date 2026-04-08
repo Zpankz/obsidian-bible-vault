@@ -28,11 +28,11 @@ Peace, wholeness, completeness, well-being — far richer than mere absence of c
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Numbers/Numbers 6#v26|Num 6:26]] — "The LORD… give you peace (*shalom*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 122#v6|Ps 122:6]] — "Pray for the peace (*shalom*) of Jerusalem"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 9#v6|Isa 9:6]] — "Prince of Peace (*Sar Shalom*)"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 53#v5|Isa 53:5]] — "The chastening for our well-being (*shalom*) fell upon Him"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 29#v11|Jer 29:11]] — "Plans for welfare (*shalom*) and not for calamity"
+- [[bibles/NASB-IL/Numbers/Numbers 6#v26|Num 6:26]] — "The LORD… give you peace (*shalom*)"
+- [[bibles/NASB-IL/Psalms/Psalms 122#v6|Ps 122:6]] — "Pray for the peace (*shalom*) of Jerusalem"
+- [[bibles/NASB-IL/Isaiah/Isaiah 9#v6|Isa 9:6]] — "Prince of Peace (*Sar Shalom*)"
+- [[bibles/NASB-IL/Isaiah/Isaiah 53#v5|Isa 53:5]] — "The chastening for our well-being (*shalom*) fell upon Him"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 29#v11|Jer 29:11]] — "Plans for welfare (*shalom*) and not for calamity"
 
 ## Theological Significance
 

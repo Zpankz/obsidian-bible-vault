@@ -27,10 +27,10 @@ The primary Hebrew verb for love, encompassing the full range from divine electi
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 6#v5|Deut 6:5]] — "You shall love (*ahav*) the LORD your God with all your heart"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 7#v8|Deut 7:8]] — "Because the LORD loved (*ahav*) you"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 19#v18|Lev 19:18]] — "You shall love your neighbor as yourself"
-- [[bibles/NASB-Interlinear/Hosea/Hosea 3#v1|Hos 3:1]] — "Love a woman who is loved… even as the LORD loves the sons of Israel"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 6#v5|Deut 6:5]] — "You shall love (*ahav*) the LORD your God with all your heart"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 7#v8|Deut 7:8]] — "Because the LORD loved (*ahav*) you"
+- [[bibles/NASB-IL/Leviticus/Leviticus 19#v18|Lev 19:18]] — "You shall love your neighbor as yourself"
+- [[bibles/NASB-IL/Hosea/Hosea 3#v1|Hos 3:1]] — "Love a woman who is loved… even as the LORD loves the sons of Israel"
 
 ## Theological Significance
 

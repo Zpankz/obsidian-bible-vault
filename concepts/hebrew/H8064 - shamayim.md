@@ -28,11 +28,11 @@ Heavens, sky — the dual/plural form expressing the full extent of the sky and 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]] — "God created the heavens (*shamayim*) and the earth"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 10#v14|Deut 10:14]] — "To the LORD your God belong heaven (*shamayim*) and the highest heavens"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 19#v1|Ps 19:1]] — "The heavens (*shamayim*) are telling of the glory of God"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 66#v1|Isa 66:1]] — "Heaven (*shamayim*) is My throne and the earth is My footstool"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 65#v17|Isa 65:17]] — "I create new heavens (*shamayim*) and a new earth"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]] — "God created the heavens (*shamayim*) and the earth"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 10#v14|Deut 10:14]] — "To the LORD your God belong heaven (*shamayim*) and the highest heavens"
+- [[bibles/NASB-IL/Psalms/Psalms 19#v1|Ps 19:1]] — "The heavens (*shamayim*) are telling of the glory of God"
+- [[bibles/NASB-IL/Isaiah/Isaiah 66#v1|Isa 66:1]] — "Heaven (*shamayim*) is My throne and the earth is My footstool"
+- [[bibles/NASB-IL/Isaiah/Isaiah 65#v17|Isa 65:17]] — "I create new heavens (*shamayim*) and a new earth"
 
 ## Theological Significance
 

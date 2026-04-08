@@ -27,11 +27,11 @@ Word, matter, thing, event — a word with extraordinary semantic range. In Hebr
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 15#v1|Gen 15:1]] — "The word (*davar*) of the LORD came to Abram"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 33#v6|Ps 33:6]] — "By the word (*davar*) of the LORD the heavens were made"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 55#v11|Isa 55:11]] — "My word (*davar*)… will not return to Me empty"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 8#v3|Deut 8:3]] — "Man lives by everything that proceeds out of the mouth of the LORD"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 1#v4|Jer 1:4]] — "The word (*davar*) of the LORD came to me"
+- [[bibles/NASB-IL/Genesis/Genesis 15#v1|Gen 15:1]] — "The word (*davar*) of the LORD came to Abram"
+- [[bibles/NASB-IL/Psalms/Psalms 33#v6|Ps 33:6]] — "By the word (*davar*) of the LORD the heavens were made"
+- [[bibles/NASB-IL/Isaiah/Isaiah 55#v11|Isa 55:11]] — "My word (*davar*)… will not return to Me empty"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 8#v3|Deut 8:3]] — "Man lives by everything that proceeds out of the mouth of the LORD"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 1#v4|Jer 1:4]] — "The word (*davar*) of the LORD came to me"
 
 ## Theological Significance
 

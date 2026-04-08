@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 4
-original.name: ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ
+original.name: "ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Philippians/Philippians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # Philippians
 
 *ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 4
 
 ## Chapters
 

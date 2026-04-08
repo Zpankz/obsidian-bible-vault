@@ -6,16 +6,16 @@ testament: NT
 section: General
 genre: epistle
 chapters.total: 5
-original.name: ΙΩΑΝΝΟΥ Α΄
+original.name: "ΙΩΑΝΝΟΥ Α΄"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/1 John/1 John 1]]"
+tags:
+  - bible/nt
+  - bible/general
 ---
 
 # 1 John
 
 *ΙΩΑΝΝΟΥ Α΄*
-
-**Section:** General | **Genre:** epistle | **Chapters:** 5
 
 ## Chapters
 

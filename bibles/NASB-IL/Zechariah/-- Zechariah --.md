@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 14
-original.name: זכריה
+original.name: "זכריה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Zechariah/Zechariah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Zechariah
 
 *זכריה*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 14
 
 ## Chapters
 

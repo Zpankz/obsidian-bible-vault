@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-bible-interlinear",
-	"name": "Bible Interlinear",
-	"version": "1.0.0",
-	"minAppVersion": "1.4.0",
-	"description": "Interlinear Bible study with Hebrew/Greek Strong's numbers, cross-references, and inline reference detection.",
-	"author": "Mikhail",
-	"isDesktopOnly": true
+  "id": "obsidian-bible-interlinear",
+  "name": "Bible Interlinear",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Interlinear Bible study with Hebrew/Greek Strong's numbers, cross-references, and inline reference detection.",
+  "author": "Mikhail",
+  "isDesktopOnly": false
 }

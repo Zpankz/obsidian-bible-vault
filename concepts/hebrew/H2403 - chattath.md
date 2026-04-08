@@ -29,10 +29,10 @@ Both "sin" and "sin offering" — the same Hebrew word covers the disease and it
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 4#v7|Gen 4:7]] — "Sin (*chattath*) is crouching at the door"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 4#v3|Lev 4:3]] — "Let him offer… a sin offering (*chattath*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 51#v2|Ps 51:2]] — "Cleanse me from my sin (*chattath*)"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 53#v10|Isa 53:10]] — "If He would render Himself as a guilt offering"
+- [[bibles/NASB-IL/Genesis/Genesis 4#v7|Gen 4:7]] — "Sin (*chattath*) is crouching at the door"
+- [[bibles/NASB-IL/Leviticus/Leviticus 4#v3|Lev 4:3]] — "Let him offer… a sin offering (*chattath*)"
+- [[bibles/NASB-IL/Psalms/Psalms 51#v2|Ps 51:2]] — "Cleanse me from my sin (*chattath*)"
+- [[bibles/NASB-IL/Isaiah/Isaiah 53#v10|Isa 53:10]] — "If He would render Himself as a guilt offering"
 
 ## Theological Significance
 

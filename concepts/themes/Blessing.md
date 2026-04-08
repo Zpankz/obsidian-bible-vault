@@ -27,7 +27,7 @@ God's gracious bestowal of good upon His creation. The Hebrew [[concepts/hebrew/
 
 ## The Abrahamic Blessing
 
-[[bibles/NASB-Interlinear/Genesis/Genesis 12#v1|Gen 12:1-3]] is the axis of the OT:
+[[bibles/NASB-IL/Genesis/Genesis 12#v1|Gen 12:1-3]] is the axis of the OT:
 1. "I will make you a great nation"
 2. "I will bless you"
 3. "I will make your name great"
@@ -47,9 +47,9 @@ The final clause makes Abraham's blessing missional — it is not for hoarding b
 
 ## NT Fulfillment
 
-- [[bibles/NASB-Interlinear/Galatians/Galatians 3#v14|Gal 3:14]] — "The blessing of Abraham might come to the Gentiles in Christ Jesus"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v3|Eph 1:3]] — "Blessed us with every spiritual blessing in the heavenly places in Christ"
-- [[bibles/NASB-Interlinear/Matthew/Matthew 5#v3|Matt 5:3-12]] — The Beatitudes redefine blessing: the poor, the mourning, the meek are blessed
+- [[bibles/NASB-IL/Galatians/Galatians 3#v14|Gal 3:14]] — "The blessing of Abraham might come to the Gentiles in Christ Jesus"
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v3|Eph 1:3]] — "Blessed us with every spiritual blessing in the heavenly places in Christ"
+- [[bibles/NASB-IL/Matthew/Matthew 5#v3|Matt 5:3-12]] — The Beatitudes redefine blessing: the poor, the mourning, the meek are blessed
 
 ## The Beatitudes as Counter-Blessings
 

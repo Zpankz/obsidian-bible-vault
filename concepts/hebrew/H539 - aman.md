@@ -27,10 +27,10 @@ The root behind "amen," "faith," and "truth" in Hebrew. In the Hiphil stem (*he'
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 15#v6|Gen 15:6]] — "Then he believed (*he'emin*) in the LORD; and He reckoned it to him as righteousness"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 14#v31|Exod 14:31]] — "The people feared the LORD, and they believed (*he'eminu*) in the LORD"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 7#v9|Isa 7:9]] — "If you will not believe (*ta'aminu*), you surely shall not last (*te'amenu*)"
-- [[bibles/NASB-Interlinear/Habakkuk/Habakkuk 2#v4|Hab 2:4]] — "The righteous will live by his faith (*emunah*)"
+- [[bibles/NASB-IL/Genesis/Genesis 15#v6|Gen 15:6]] — "Then he believed (*he'emin*) in the LORD; and He reckoned it to him as righteousness"
+- [[bibles/NASB-IL/Exodus/Exodus 14#v31|Exod 14:31]] — "The people feared the LORD, and they believed (*he'eminu*) in the LORD"
+- [[bibles/NASB-IL/Isaiah/Isaiah 7#v9|Isa 7:9]] — "If you will not believe (*ta'aminu*), you surely shall not last (*te'amenu*)"
+- [[bibles/NASB-IL/Habakkuk/Habakkuk 2#v4|Hab 2:4]] — "The righteous will live by his faith (*emunah*)"
 
 ## Theological Significance
 

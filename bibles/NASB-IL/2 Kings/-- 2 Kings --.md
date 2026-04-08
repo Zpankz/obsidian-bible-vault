@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 25
-original.name: מלכים ב
+original.name: "מלכים ב"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/2 Kings/2 Kings 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # 2 Kings
 
 *מלכים ב*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 25
 
 ## Chapters
 

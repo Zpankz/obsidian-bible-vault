@@ -27,10 +27,10 @@ To say, speak, tell — the root verb behind [[concepts/greek/G3056 - logos|logo
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 5#v22|Matt 5:22]] — "But I say (*lego*) to you" — Jesus' authoritative formula
-- [[bibles/NASB-Interlinear/John/John 1#v29|John 1:29]] — "He saw Jesus… and said (*lego*), 'Behold, the Lamb of God'"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 1#v5|Heb 1:5]] — "For to which of the angels did He ever say (*lego*)?"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21#v5|Rev 21:5]] — "He who sits on the throne said (*lego*), 'Behold, I am making all things new'"
+- [[bibles/NASB-IL/Matthew/Matthew 5#v22|Matt 5:22]] — "But I say (*lego*) to you" — Jesus' authoritative formula
+- [[bibles/NASB-IL/John/John 1#v29|John 1:29]] — "He saw Jesus… and said (*lego*), 'Behold, the Lamb of God'"
+- [[bibles/NASB-IL/Hebrews/Hebrews 1#v5|Heb 1:5]] — "For to which of the angels did He ever say (*lego*)?"
+- [[bibles/NASB-IL/Revelation/Revelation 21#v5|Rev 21:5]] — "He who sits on the throne said (*lego*), 'Behold, I am making all things new'"
 
 ## Theological Significance
 

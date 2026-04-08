@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 3
-original.name: חבקוק
+original.name: "חבקוק"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Habakkuk/Habakkuk 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Habakkuk
 
 *חבקוק*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 3
 
 ## Chapters
 

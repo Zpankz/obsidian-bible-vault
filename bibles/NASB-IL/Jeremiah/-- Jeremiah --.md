@@ -6,16 +6,16 @@ testament: OT
 section: Major Prophets
 genre: prophecy
 chapters.total: 52
-original.name: ירמיהו
+original.name: "ירמיהו"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Jeremiah/Jeremiah 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
 ---
 
 # Jeremiah
 
 *ירמיהו*
-
-**Section:** Major Prophets | **Genre:** prophecy | **Chapters:** 52
 
 ## Chapters
 

@@ -6,16 +6,16 @@ testament: NT
 section: Acts
 genre: narrative
 chapters.total: 28
-original.name: ΠΡΑΞΕΙΣ
+original.name: "ΠΡΑΞΕΙΣ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Acts/Acts 1]]"
+tags:
+  - bible/nt
+  - bible/acts
 ---
 
 # Acts
 
 *ΠΡΑΞΕΙΣ*
-
-**Section:** Acts | **Genre:** narrative | **Chapters:** 28
 
 ## Chapters
 

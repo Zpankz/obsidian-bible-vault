@@ -6,16 +6,16 @@ testament: OT
 section: Major Prophets
 genre: prophecy
 chapters.total: 48
-original.name: יחזקאל
+original.name: "יחזקאל"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Ezekiel/Ezekiel 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
 ---
 
 # Ezekiel
 
 *יחזקאל*
-
-**Section:** Major Prophets | **Genre:** prophecy | **Chapters:** 48
 
 ## Chapters
 

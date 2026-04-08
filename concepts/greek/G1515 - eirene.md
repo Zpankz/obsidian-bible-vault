@@ -29,9 +29,9 @@ Peace — not merely the absence of conflict but the comprehensive well-being in
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Peace with God | Reconciliation through Christ | [[bibles/NASB-Interlinear/Romans/Romans 5#v1\|Rom 5:1]] |
-| Inner peace | Tranquility of soul | [[bibles/NASB-Interlinear/Philippians/Philippians 4#v7\|Phil 4:7]] |
-| Interpersonal peace | Reconciliation among people | [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v14\|Eph 2:14]] |
+| Peace with God | Reconciliation through Christ | [[bibles/NASB-IL/Romans/Romans 5#v1\|Rom 5:1]] |
+| Inner peace | Tranquility of soul | [[bibles/NASB-IL/Philippians/Philippians 4#v7\|Phil 4:7]] |
+| Interpersonal peace | Reconciliation among people | [[bibles/NASB-IL/Ephesians/Ephesians 2#v14\|Eph 2:14]] |
 | Messianic peace | Eschatological wholeness | Luke 2:14; John 14:27 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ Ephesians 2:14 names Christ Himself as "our peace" — He is not merely the peac
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 14#v27|John 14:27]] — "Peace I leave with you; My peace I give to you"
-- [[bibles/NASB-Interlinear/Romans/Romans 5#v1|Rom 5:1]] — "We have peace with God through our Lord Jesus Christ"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v14|Eph 2:14]] — "He Himself is our peace"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 4#v7|Phil 4:7]] — "The peace of God, which surpasses all comprehension"
-- [[bibles/NASB-Interlinear/Colossians/Colossians 1#v20|Col 1:20]] — "Having made peace through the blood of His cross"
+- [[bibles/NASB-IL/John/John 14#v27|John 14:27]] — "Peace I leave with you; My peace I give to you"
+- [[bibles/NASB-IL/Romans/Romans 5#v1|Rom 5:1]] — "We have peace with God through our Lord Jesus Christ"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v14|Eph 2:14]] — "He Himself is our peace"
+- [[bibles/NASB-IL/Philippians/Philippians 4#v7|Phil 4:7]] — "The peace of God, which surpasses all comprehension"
+- [[bibles/NASB-IL/Colossians/Colossians 1#v20|Col 1:20]] — "Having made peace through the blood of His cross"
 
 ## OT Background
 

@@ -28,11 +28,11 @@ Salvation, deliverance — the noun form denoting the comprehensive rescue God a
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Luke/Luke 1#v77|Luke 1:77]] — "To give to His people the knowledge of salvation (*soteria*)"
-- [[bibles/NASB-Interlinear/Acts/Acts 4#v12|Acts 4:12]] — "There is salvation (*soteria*) in no one else"
-- [[bibles/NASB-Interlinear/Romans/Romans 1#v16|Rom 1:16]] — "The gospel… is the power of God for salvation (*soteria*)"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 2#v12|Phil 2:12]] — "Work out your salvation (*soteria*) with fear and trembling"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 2#v3|Heb 2:3]] — "How will we escape if we neglect so great a salvation (*soteria*)?"
+- [[bibles/NASB-IL/Luke/Luke 1#v77|Luke 1:77]] — "To give to His people the knowledge of salvation (*soteria*)"
+- [[bibles/NASB-IL/Acts/Acts 4#v12|Acts 4:12]] — "There is salvation (*soteria*) in no one else"
+- [[bibles/NASB-IL/Romans/Romans 1#v16|Rom 1:16]] — "The gospel… is the power of God for salvation (*soteria*)"
+- [[bibles/NASB-IL/Philippians/Philippians 2#v12|Phil 2:12]] — "Work out your salvation (*soteria*) with fear and trembling"
+- [[bibles/NASB-IL/Hebrews/Hebrews 2#v3|Heb 2:3]] — "How will we escape if we neglect so great a salvation (*soteria*)?"
 
 ## Theological Significance
 

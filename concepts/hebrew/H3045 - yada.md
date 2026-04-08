@@ -27,11 +27,11 @@ To know — not merely intellectual apprehension but experiential, relational, a
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 4#v1|Gen 4:1]] — "The man knew (*yada*) his wife Eve"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 33#v13|Exod 33:13]] — "Let me know (*yada*) Your ways that I may know You"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 31#v34|Jer 31:34]] — "They will all know (*yada*) Me"
-- [[bibles/NASB-Interlinear/Amos/Amos 3#v2|Amos 3:2]] — "You only have I known (*yada*) among all the families of the earth"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 139#v1|Ps 139:1]] — "O LORD, You have searched me and known (*yada*) me"
+- [[bibles/NASB-IL/Genesis/Genesis 4#v1|Gen 4:1]] — "The man knew (*yada*) his wife Eve"
+- [[bibles/NASB-IL/Exodus/Exodus 33#v13|Exod 33:13]] — "Let me know (*yada*) Your ways that I may know You"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 31#v34|Jer 31:34]] — "They will all know (*yada*) Me"
+- [[bibles/NASB-IL/Amos/Amos 3#v2|Amos 3:2]] — "You only have I known (*yada*) among all the families of the earth"
+- [[bibles/NASB-IL/Psalms/Psalms 139#v1|Ps 139:1]] — "O LORD, You have searched me and known (*yada*) me"
 
 ## Theological Significance
 

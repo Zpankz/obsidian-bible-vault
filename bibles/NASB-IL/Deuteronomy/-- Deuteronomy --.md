@@ -6,16 +6,16 @@ testament: OT
 section: Torah
 genre: law
 chapters.total: 34
-original.name: דברים
+original.name: "דברים"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Deuteronomy/Deuteronomy 1]]"
+tags:
+  - bible/ot
+  - bible/torah
 ---
 
 # Deuteronomy
 
 *דברים*
-
-**Section:** Torah | **Genre:** law | **Chapters:** 34
 
 ## Chapters
 

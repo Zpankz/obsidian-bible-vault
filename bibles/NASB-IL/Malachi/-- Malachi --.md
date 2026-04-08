@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 4
-original.name: מלאכי
+original.name: "מלאכי"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Malachi/Malachi 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Malachi
 
 *מלאכי*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 4
 
 ## Chapters
 

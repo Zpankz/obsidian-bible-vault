@@ -6,16 +6,16 @@ testament: NT
 section: General
 genre: epistle
 chapters.total: 3
-original.name: ΠΕΤΡΟΥ Β΄
+original.name: "ΠΕΤΡΟΥ Β΄"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/2 Peter/2 Peter 1]]"
+tags:
+  - bible/nt
+  - bible/general
 ---
 
 # 2 Peter
 
 *ΠΕΤΡΟΥ Β΄*
-
-**Section:** General | **Genre:** epistle | **Chapters:** 3
 
 ## Chapters
 

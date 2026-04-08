@@ -28,10 +28,10 @@ One of the most frequent nouns in the OT, meaning "earth" (the planet), "land" (
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]] — "God created the heavens and the earth (*erets*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 12#v1|Gen 12:1]] — "Go… to the land (*erets*) which I will show you"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v8|Exod 3:8]] — "A good and spacious land (*erets*), a land flowing with milk and honey"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 65#v17|Isa 65:17]] — "I create new heavens and a new earth (*erets*)"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]] — "God created the heavens and the earth (*erets*)"
+- [[bibles/NASB-IL/Genesis/Genesis 12#v1|Gen 12:1]] — "Go… to the land (*erets*) which I will show you"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v8|Exod 3:8]] — "A good and spacious land (*erets*), a land flowing with milk and honey"
+- [[bibles/NASB-IL/Isaiah/Isaiah 65#v17|Isa 65:17]] — "I create new heavens and a new earth (*erets*)"
 
 ## Theological Significance
 

@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 4
-original.name: רות
+original.name: "רות"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Ruth/Ruth 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # Ruth
 
 *רות*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 4
 
 ## Chapters
 

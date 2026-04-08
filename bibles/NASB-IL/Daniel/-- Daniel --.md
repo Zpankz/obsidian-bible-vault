@@ -6,16 +6,16 @@ testament: OT
 section: Major Prophets
 genre: apocalyptic
 chapters.total: 12
-original.name: דניאל
+original.name: "דניאל"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Daniel/Daniel 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
 ---
 
 # Daniel
 
 *דניאל*
-
-**Section:** Major Prophets | **Genre:** apocalyptic | **Chapters:** 12
 
 ## Chapters
 

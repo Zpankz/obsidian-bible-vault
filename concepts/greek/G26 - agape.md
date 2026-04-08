@@ -29,9 +29,9 @@ The distinctively Christian term for love, describing the self-giving, unconditi
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| God's love for humanity | Divine, salvific love | [[bibles/NASB-Interlinear/John/John 3#v16\|John 3:16]] |
-| Love as God's nature | Ontological attribute | [[bibles/NASB-Interlinear/1 John/1 John 4#v8\|1 John 4:8]] |
-| Christian ethical demand | Self-sacrificial love toward others | [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 13#v4\|1 Cor 13:4-7]] |
+| God's love for humanity | Divine, salvific love | [[bibles/NASB-IL/John/John 3#v16\|John 3:16]] |
+| Love as God's nature | Ontological attribute | [[bibles/NASB-IL/1 John/1 John 4#v8\|1 John 4:8]] |
+| Christian ethical demand | Self-sacrificial love toward others | [[bibles/NASB-IL/1 Corinthians/1 Corinthians 13#v4\|1 Cor 13:4-7]] |
 | The love feast | Communal meal of the church | Jude 12 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ The theological climax is 1 John 4:8 — "God **is** agape" — making love not 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 3#v16|John 3:16]] — "God so loved the world"
-- [[bibles/NASB-Interlinear/Romans/Romans 5#v8|Rom 5:8]] — "God demonstrates His own love"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 13#v1|1 Cor 13:1-13]] — The love chapter
-- [[bibles/NASB-Interlinear/1 John/1 John 4#v8|1 John 4:8]] — "God is love"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v4|Eph 2:4]] — "because of His great love"
+- [[bibles/NASB-IL/John/John 3#v16|John 3:16]] — "God so loved the world"
+- [[bibles/NASB-IL/Romans/Romans 5#v8|Rom 5:8]] — "God demonstrates His own love"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 13#v1|1 Cor 13:1-13]] — The love chapter
+- [[bibles/NASB-IL/1 John/1 John 4#v8|1 John 4:8]] — "God is love"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v4|Eph 2:4]] — "because of His great love"
 
 ## OT Background
 

@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 10
-original.name: עזרא
+original.name: "עזרא"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Ezra/Ezra 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # Ezra
 
 *עזרא*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 10
 
 ## Chapters
 

@@ -6,16 +6,16 @@ testament: NT
 section: Gospels
 genre: gospel
 chapters.total: 24
-original.name: ΚΑΤΑ ΛΟΥΚΑΝ
+original.name: "ΚΑΤΑ ΛΟΥΚΑΝ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Luke/Luke 1]]"
+tags:
+  - bible/nt
+  - bible/gospels
 ---
 
 # Luke
 
 *ΚΑΤΑ ΛΟΥΚΑΝ*
-
-**Section:** Gospels | **Genre:** gospel | **Chapters:** 24
 
 ## Chapters
 

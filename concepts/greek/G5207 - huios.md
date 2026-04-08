@@ -27,11 +27,11 @@ Son — the supreme christological title in the NT, expressing Jesus' unique rel
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 3#v16|John 3:16]] — "He gave His only begotten Son (*huios*)"
-- [[bibles/NASB-Interlinear/Matthew/Matthew 16#v16|Matt 16:16]] — "You are the Christ, the Son (*huios*) of the living God"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 1#v2|Heb 1:2]] — "In these last days has spoken to us in His Son (*huios*)"
-- [[bibles/NASB-Interlinear/Romans/Romans 8#v14|Rom 8:14]] — "All who are being led by the Spirit… are sons (*huioi*) of God"
-- [[bibles/NASB-Interlinear/Mark/Mark 14#v62|Mark 14:62]] — "You shall see the Son (*huios*) of Man sitting at the right hand of Power"
+- [[bibles/NASB-IL/John/John 3#v16|John 3:16]] — "He gave His only begotten Son (*huios*)"
+- [[bibles/NASB-IL/Matthew/Matthew 16#v16|Matt 16:16]] — "You are the Christ, the Son (*huios*) of the living God"
+- [[bibles/NASB-IL/Hebrews/Hebrews 1#v2|Heb 1:2]] — "In these last days has spoken to us in His Son (*huios*)"
+- [[bibles/NASB-IL/Romans/Romans 8#v14|Rom 8:14]] — "All who are being led by the Spirit… are sons (*huioi*) of God"
+- [[bibles/NASB-IL/Mark/Mark 14#v62|Mark 14:62]] — "You shall see the Son (*huios*) of Man sitting at the right hand of Power"
 
 ## Theological Significance
 

@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 4
-original.name: ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄
+original.name: "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/2 Timothy/2 Timothy 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # 2 Timothy
 
 *ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 4
 
 ## Chapters
 

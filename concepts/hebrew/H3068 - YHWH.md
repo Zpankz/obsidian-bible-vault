@@ -29,11 +29,11 @@ The personal, covenant name of the God of Israel — the Tetragrammaton. The mos
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v14|Exod 3:14-15]] — "I AM WHO I AM… YHWH… this is My name forever"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 6#v3|Exod 6:3]] — "By My name, YHWH, I did not make Myself known to them"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — "YHWH is our God, YHWH is one"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 34#v6|Exod 34:6]] — "YHWH, YHWH God, compassionate and gracious"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 42#v8|Isa 42:8]] — "I am YHWH, that is My name"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v14|Exod 3:14-15]] — "I AM WHO I AM… YHWH… this is My name forever"
+- [[bibles/NASB-IL/Exodus/Exodus 6#v3|Exod 6:3]] — "By My name, YHWH, I did not make Myself known to them"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — "YHWH is our God, YHWH is one"
+- [[bibles/NASB-IL/Exodus/Exodus 34#v6|Exod 34:6]] — "YHWH, YHWH God, compassionate and gracious"
+- [[bibles/NASB-IL/Isaiah/Isaiah 42#v8|Isa 42:8]] — "I am YHWH, that is My name"
 
 ## Theological Significance
 

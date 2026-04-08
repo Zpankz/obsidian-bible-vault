@@ -27,11 +27,11 @@ To hear, listen, obey — the verb of the Shema ("Hear, O Israel!"). In Hebrew, 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — "Hear (*shama*), O Israel! The LORD is our God, the LORD is one"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 19#v5|Exod 19:5]] — "If you will indeed obey (*shama*) My voice"
-- [[bibles/NASB-Interlinear/1 Samuel/1 Samuel 15#v22|1 Sam 15:22]] — "To obey (*shama*) is better than sacrifice"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 6#v9|Isa 6:9]] — "Keep on listening (*shama*), but do not perceive"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 95#v7|Ps 95:7]] — "Today, if you would hear (*shama*) His voice"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — "Hear (*shama*), O Israel! The LORD is our God, the LORD is one"
+- [[bibles/NASB-IL/Exodus/Exodus 19#v5|Exod 19:5]] — "If you will indeed obey (*shama*) My voice"
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 15#v22|1 Sam 15:22]] — "To obey (*shama*) is better than sacrifice"
+- [[bibles/NASB-IL/Isaiah/Isaiah 6#v9|Isa 6:9]] — "Keep on listening (*shama*), but do not perceive"
+- [[bibles/NASB-IL/Psalms/Psalms 95#v7|Ps 95:7]] — "Today, if you would hear (*shama*) His voice"
 
 ## Theological Significance
 

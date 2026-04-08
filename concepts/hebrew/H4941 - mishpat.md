@@ -28,11 +28,11 @@ Justice, judgment, ordinance — the act of rendering right decisions and the st
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 18#v25|Gen 18:25]] — "Shall not the Judge of all the earth deal justly (*mishpat*)?"
-- [[bibles/NASB-Interlinear/Micah/Micah 6#v8|Mic 6:8]] — "To do justice (*mishpat*), to love kindness"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 1#v17|Isa 1:17]] — "Seek justice (*mishpat*), reprove the ruthless"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 89#v14|Ps 89:14]] — "Righteousness and justice (*mishpat*) are the foundation of Your throne"
-- [[bibles/NASB-Interlinear/Amos/Amos 5#v24|Amos 5:24]] — "Let justice (*mishpat*) roll down like waters"
+- [[bibles/NASB-IL/Genesis/Genesis 18#v25|Gen 18:25]] — "Shall not the Judge of all the earth deal justly (*mishpat*)?"
+- [[bibles/NASB-IL/Micah/Micah 6#v8|Mic 6:8]] — "To do justice (*mishpat*), to love kindness"
+- [[bibles/NASB-IL/Isaiah/Isaiah 1#v17|Isa 1:17]] — "Seek justice (*mishpat*), reprove the ruthless"
+- [[bibles/NASB-IL/Psalms/Psalms 89#v14|Ps 89:14]] — "Righteousness and justice (*mishpat*) are the foundation of Your throne"
+- [[bibles/NASB-IL/Amos/Amos 5#v24|Amos 5:24]] — "Let justice (*mishpat*) roll down like waters"
 
 ## Theological Significance
 

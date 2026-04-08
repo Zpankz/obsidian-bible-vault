@@ -6,16 +6,16 @@ testament: OT
 section: Torah
 genre: narrative
 chapters.total: 50
-original.name: בראשית
+original.name: "בראשית"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Genesis/Genesis 1]]"
+tags:
+  - bible/ot
+  - bible/torah
 ---
 
 # Genesis
 
 *בראשית*
-
-**Section:** Torah | **Genre:** narrative | **Chapters:** 50
 
 ## Chapters
 

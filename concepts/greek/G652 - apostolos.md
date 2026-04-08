@@ -29,9 +29,9 @@ One who is sent with the authority of the sender — a commissioned representati
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The Twelve | Christ's chosen witnesses | [[bibles/NASB-Interlinear/Luke/Luke 6#v13\|Luke 6:13]] |
-| Paul | Apostle by divine commission | [[bibles/NASB-Interlinear/Galatians/Galatians 1#v1\|Gal 1:1]] |
-| Christ Himself | The sent one of the Father | [[bibles/NASB-Interlinear/Hebrews/Hebrews 3#v1\|Heb 3:1]] |
+| The Twelve | Christ's chosen witnesses | [[bibles/NASB-IL/Luke/Luke 6#v13\|Luke 6:13]] |
+| Paul | Apostle by divine commission | [[bibles/NASB-IL/Galatians/Galatians 1#v1\|Gal 1:1]] |
+| Christ Himself | The sent one of the Father | [[bibles/NASB-IL/Hebrews/Hebrews 3#v1\|Heb 3:1]] |
 | Broader missionaries | Church delegates | 2 Cor 8:23; Phil 2:25 |
 
 ## Theological Significance
@@ -40,11 +40,11 @@ The apostle is not self-appointed but divinely commissioned. The authority of an
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Luke/Luke 6#v13|Luke 6:13]] — Jesus chooses the twelve apostles
-- [[bibles/NASB-Interlinear/Acts/Acts 1#v8|Acts 1:8]] — Apostolic mission defined
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v9|1 Cor 15:9]] — Paul, the least of the apostles
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v20|Eph 2:20]] — Built on the foundation of apostles and prophets
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 3#v1|Heb 3:1]] — Jesus, the Apostle of our confession
+- [[bibles/NASB-IL/Luke/Luke 6#v13|Luke 6:13]] — Jesus chooses the twelve apostles
+- [[bibles/NASB-IL/Acts/Acts 1#v8|Acts 1:8]] — Apostolic mission defined
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v9|1 Cor 15:9]] — Paul, the least of the apostles
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v20|Eph 2:20]] — Built on the foundation of apostles and prophets
+- [[bibles/NASB-IL/Hebrews/Hebrews 3#v1|Heb 3:1]] — Jesus, the Apostle of our confession
 
 ## OT Background
 

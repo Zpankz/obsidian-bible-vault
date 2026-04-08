@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 9
-original.name: עמוס
+original.name: "עמוס"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Amos/Amos 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Amos
 
 *עמוס*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 9
 
 ## Chapters
 

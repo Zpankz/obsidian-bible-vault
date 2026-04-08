@@ -27,11 +27,11 @@ Faith, trust, faithfulness — the noun that stands at the center of Paul's sote
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Romans/Romans 1#v17|Rom 1:17]] — "The righteous shall live by faith (*pistis*)"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v8|Eph 2:8]] — "By grace you have been saved through faith (*pistis*)"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 11#v1|Heb 11:1]] — "Now faith (*pistis*) is the assurance of things hoped for"
-- [[bibles/NASB-Interlinear/Galatians/Galatians 2#v16|Gal 2:16]] — "A man is not justified by works of the Law but through faith (*pistis*) in Christ Jesus"
-- [[bibles/NASB-Interlinear/Habakkuk/Habakkuk 2#v4|Hab 2:4]] — "The righteous will live by his faith" (cited in Rom 1:17; Gal 3:11; Heb 10:38)
+- [[bibles/NASB-IL/Romans/Romans 1#v17|Rom 1:17]] — "The righteous shall live by faith (*pistis*)"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v8|Eph 2:8]] — "By grace you have been saved through faith (*pistis*)"
+- [[bibles/NASB-IL/Hebrews/Hebrews 11#v1|Heb 11:1]] — "Now faith (*pistis*) is the assurance of things hoped for"
+- [[bibles/NASB-IL/Galatians/Galatians 2#v16|Gal 2:16]] — "A man is not justified by works of the Law but through faith (*pistis*) in Christ Jesus"
+- [[bibles/NASB-IL/Habakkuk/Habakkuk 2#v4|Hab 2:4]] — "The righteous will live by his faith" (cited in Rom 1:17; Gal 3:11; Heb 10:38)
 
 ## Theological Significance
 

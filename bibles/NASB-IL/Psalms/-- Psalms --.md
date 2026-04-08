@@ -6,16 +6,16 @@ testament: OT
 section: Wisdom
 genre: poetry
 chapters.total: 150
-original.name: תהלים
+original.name: "תהלים"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Psalms/Psalms 1]]"
+tags:
+  - bible/ot
+  - bible/wisdom
 ---
 
 # Psalms
 
 *תהלים*
-
-**Section:** Wisdom | **Genre:** poetry | **Chapters:** 150
 
 ## Chapters
 

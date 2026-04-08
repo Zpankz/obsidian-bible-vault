@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 3
-original.name: ΠΡΟΣ ΤΙΤΟΝ
+original.name: "ΠΡΟΣ ΤΙΤΟΝ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Titus/Titus 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # Titus
 
 *ΠΡΟΣ ΤΙΤΟΝ*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 3
 
 ## Chapters
 

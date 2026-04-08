@@ -26,8 +26,8 @@ The image of God — the foundational truth about human identity. Humanity is cr
 
 ## The Creation Texts
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26-27]] — "Let Us make man in Our image, according to Our likeness"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — "Formed man of dust… breathed into his nostrils the breath of life"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26-27]] — "Let Us make man in Our image, according to Our likeness"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — "Formed man of dust… breathed into his nostrils the breath of life"
 - Gen 5:1-3 — The image is transmitted from parent to child
 - Gen 9:6 — The image grounds the prohibition of murder
 
@@ -44,9 +44,9 @@ The image of God — the foundational truth about human identity. Humanity is cr
 ## The Image Marred and Restored
 
 - **Marred by sin**: Gen 3 — The image is distorted but not destroyed (Gen 9:6 still applies after the Fall)
-- **Christ as the true Image**: [[bibles/NASB-Interlinear/Colossians/Colossians 1#v15|Col 1:15]] — "He is the image of the invisible God"
-- **Believers being renewed**: [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 3#v18|2 Cor 3:18]] — "Being transformed into the same image from glory to glory"
-- **Future completion**: [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v49|1 Cor 15:49]] — "We will also bear the image of the heavenly"
+- **Christ as the true Image**: [[bibles/NASB-IL/Colossians/Colossians 1#v15|Col 1:15]] — "He is the image of the invisible God"
+- **Believers being renewed**: [[bibles/NASB-IL/2 Corinthians/2 Corinthians 3#v18|2 Cor 3:18]] — "Being transformed into the same image from glory to glory"
+- **Future completion**: [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v49|1 Cor 15:49]] — "We will also bear the image of the heavenly"
 
 ## Canonical Arc
 

@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 21
-original.name: שופטים
+original.name: "שופטים"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Judges/Judges 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # Judges
 
 *שופטים*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 21
 
 ## Chapters
 

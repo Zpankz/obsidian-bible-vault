@@ -30,8 +30,8 @@ God reveals Himself through His names. In the ancient Near East, a name expresse
 
 | Name | Hebrew | Meaning | Key Text |
 |:---|:---|:---|:---|
-| [[concepts/hebrew/H430 - Elohim\|Elohim]] | אֱלֹהִים | God (majesty, power) | [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1\|Gen 1:1]] |
-| [[concepts/hebrew/H3068 - YHWH\|YHWH]] | יְהוָה | The self-existent LORD | [[bibles/NASB-Interlinear/Exodus/Exodus 3#v14\|Exod 3:14-15]] |
+| [[concepts/hebrew/H430 - Elohim\|Elohim]] | אֱלֹהִים | God (majesty, power) | [[bibles/NASB-IL/Genesis/Genesis 1#v1\|Gen 1:1]] |
+| [[concepts/hebrew/H3068 - YHWH\|YHWH]] | יְהוָה | The self-existent LORD | [[bibles/NASB-IL/Exodus/Exodus 3#v14\|Exod 3:14-15]] |
 | [[concepts/hebrew/H410 - El\|El]] | אֵל | God (singular, mighty one) | Gen 14:18 |
 | [[concepts/hebrew/H136 - Adonai\|Adonai]] | אֲדֹנָי | Lord, Master | Isa 6:1 |
 
@@ -50,8 +50,8 @@ The LXX renders [[concepts/hebrew/H3068 - YHWH|יְהוָה]] as [[concepts/gree
 
 ## The Name of Jesus
 
-[[concepts/greek/G2424 - Iesous|Ἰησοῦς]] (*Iesous*) = Hebrew *Yehoshua* = "YHWH saves." The angel interprets: "You shall call His name Jesus, for He will save His people from their sins" ([[bibles/NASB-Interlinear/Matthew/Matthew 1#v21|Matt 1:21]]). Philippians 2:9-11 declares this "the name above every name."
+[[concepts/greek/G2424 - Iesous|Ἰησοῦς]] (*Iesous*) = Hebrew *Yehoshua* = "YHWH saves." The angel interprets: "You shall call His name Jesus, for He will save His people from their sins" ([[bibles/NASB-IL/Matthew/Matthew 1#v21|Matt 1:21]]). Philippians 2:9-11 declares this "the name above every name."
 
 ## Canonical Arc
 
-God's name-revelation progresses: Elohim in creation → YHWH to Moses → compound names through history → the name of Jesus in the incarnation → the final name: "KING OF KINGS AND LORD OF LORDS" ([[bibles/NASB-Interlinear/Revelation/Revelation 19#v16|Rev 19:16]]).
+God's name-revelation progresses: Elohim in creation → YHWH to Moses → compound names through history → the name of Jesus in the incarnation → the final name: "KING OF KINGS AND LORD OF LORDS" ([[bibles/NASB-IL/Revelation/Revelation 19#v16|Rev 19:16]]).

@@ -30,8 +30,8 @@ Literally "a standing up" — the bodily resurrection of the dead. The NT treats
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Christ's resurrection | The historical event | [[bibles/NASB-Interlinear/Acts/Acts 2#v31\|Acts 2:31]] |
-| Believers' future resurrection | Eschatological hope | [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v42\|1 Cor 15:42]] |
+| Christ's resurrection | The historical event | [[bibles/NASB-IL/Acts/Acts 2#v31\|Acts 2:31]] |
+| Believers' future resurrection | Eschatological hope | [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v42\|1 Cor 15:42]] |
 | General resurrection | Final judgment context | John 5:29 |
 | Metaphorical rising | Spiritual renewal | Luke 2:34; Phil 3:10 |
 
@@ -43,11 +43,11 @@ Christ's resurrection inaugurates the "new creation" (2 Cor 5:17). He is the "fi
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 11#v25|John 11:25]] — "I am the resurrection and the life"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v31|Acts 2:31]] — Peter proclaims Christ's resurrection
-- [[bibles/NASB-Interlinear/Romans/Romans 6#v5|Rom 6:5]] — United with Him in the likeness of His resurrection
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v20|1 Cor 15:20]] — "Christ has been raised… the firstfruits"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 3#v10|Phil 3:10]] — "The power of His resurrection"
+- [[bibles/NASB-IL/John/John 11#v25|John 11:25]] — "I am the resurrection and the life"
+- [[bibles/NASB-IL/Acts/Acts 2#v31|Acts 2:31]] — Peter proclaims Christ's resurrection
+- [[bibles/NASB-IL/Romans/Romans 6#v5|Rom 6:5]] — United with Him in the likeness of His resurrection
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v20|1 Cor 15:20]] — "Christ has been raised… the firstfruits"
+- [[bibles/NASB-IL/Philippians/Philippians 3#v10|Phil 3:10]] — "The power of His resurrection"
 
 ## OT Background
 

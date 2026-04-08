@@ -28,10 +28,10 @@ The Hebrew verb "to be" — not static existence but dynamic becoming, happening
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v14|Exod 3:14]] — "I AM WHO I AM (*ehyeh asher ehyeh*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v3|Gen 1:3]] — "Let there be (*yehi*) light; and there was (*yehi*) light"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — "Man became (*hayah*) a living being"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v12|Exod 3:12]] — "I will be (*ehyeh*) with you"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v14|Exod 3:14]] — "I AM WHO I AM (*ehyeh asher ehyeh*)"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v3|Gen 1:3]] — "Let there be (*yehi*) light; and there was (*yehi*) light"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — "Man became (*hayah*) a living being"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v12|Exod 3:12]] — "I will be (*ehyeh*) with you"
 
 ## Theological Significance
 

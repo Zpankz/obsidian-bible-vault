@@ -49,7 +49,7 @@ The biblical authors describe the world as experienced:
 
 ## Creation by Word
 
-[[bibles/NASB-Interlinear/Genesis/Genesis 1#v3|Gen 1:3]] — "God said… and it was." Creation happens through divine speech. The NT identifies this creative Word as the [[concepts/greek/G3056 - logos|Logos]]: "All things came into being through Him" ([[bibles/NASB-Interlinear/John/John 1#v3|John 1:3]]).
+[[bibles/NASB-IL/Genesis/Genesis 1#v3|Gen 1:3]] — "God said… and it was." Creation happens through divine speech. The NT identifies this creative Word as the [[concepts/greek/G3056 - logos|Logos]]: "All things came into being through Him" ([[bibles/NASB-IL/John/John 1#v3|John 1:3]]).
 
 ## Creation by Separation
 

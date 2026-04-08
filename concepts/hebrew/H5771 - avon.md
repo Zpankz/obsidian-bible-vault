@@ -27,11 +27,11 @@ Iniquity, guilt, or the punishment that results from it — all three meanings i
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 4#v13|Gen 4:13]] — "My punishment (*avon*) is too great to bear" (or "my iniquity")
-- [[bibles/NASB-Interlinear/Exodus/Exodus 34#v7|Exod 34:7]] — "Forgiving iniquity (*avon*) and transgression and sin"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 53#v6|Isa 53:6]] — "The LORD has caused the iniquity (*avon*) of us all to fall on Him"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 32#v5|Ps 32:5]] — "You forgave the guilt (*avon*) of my sin"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 103#v3|Ps 103:3]] — "Who pardons all your iniquities (*avon*)"
+- [[bibles/NASB-IL/Genesis/Genesis 4#v13|Gen 4:13]] — "My punishment (*avon*) is too great to bear" (or "my iniquity")
+- [[bibles/NASB-IL/Exodus/Exodus 34#v7|Exod 34:7]] — "Forgiving iniquity (*avon*) and transgression and sin"
+- [[bibles/NASB-IL/Isaiah/Isaiah 53#v6|Isa 53:6]] — "The LORD has caused the iniquity (*avon*) of us all to fall on Him"
+- [[bibles/NASB-IL/Psalms/Psalms 32#v5|Ps 32:5]] — "You forgave the guilt (*avon*) of my sin"
+- [[bibles/NASB-IL/Psalms/Psalms 103#v3|Ps 103:3]] — "Who pardons all your iniquities (*avon*)"
 
 ## Theological Significance
 

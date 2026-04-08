@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 10
-original.name: אסתר
+original.name: "אסתר"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Esther/Esther 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # Esther
 
 *אסתר*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 10
 
 ## Chapters
 

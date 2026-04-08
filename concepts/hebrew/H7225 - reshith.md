@@ -28,10 +28,10 @@ Beginning, first, chief, firstfruits — the very first word of the Hebrew Bible
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]] — "In the beginning (*bereshith*) God created"
-- [[bibles/NASB-Interlinear/Proverbs/Proverbs 8#v22|Prov 8:22]] — "The LORD possessed me at the beginning (*reshith*) of His way"
-- [[bibles/NASB-Interlinear/Proverbs/Proverbs 1#v7|Prov 1:7]] — "The fear of the LORD is the beginning (*reshith*) of knowledge"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 26#v2|Deut 26:2]] — "You shall take some of the first (*reshith*) of all the produce"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]] — "In the beginning (*bereshith*) God created"
+- [[bibles/NASB-IL/Proverbs/Proverbs 8#v22|Prov 8:22]] — "The LORD possessed me at the beginning (*reshith*) of His way"
+- [[bibles/NASB-IL/Proverbs/Proverbs 1#v7|Prov 1:7]] — "The fear of the LORD is the beginning (*reshith*) of knowledge"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 26#v2|Deut 26:2]] — "You shall take some of the first (*reshith*) of all the produce"
 
 ## Theological Significance
 

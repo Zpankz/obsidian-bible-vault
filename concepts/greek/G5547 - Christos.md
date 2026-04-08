@@ -28,11 +28,11 @@ Christ, the Anointed One — the Greek translation of Hebrew [[concepts/hebrew/H
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 16#v16|Matt 16:16]] — "You are the Christ (*Christos*), the Son of the living God"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v36|Acts 2:36]] — "God has made Him both Lord and Christ (*Christos*)"
-- [[bibles/NASB-Interlinear/Romans/Romans 5#v8|Rom 5:8]] — "While we were yet sinners, Christ (*Christos*) died for us"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v3|1 Cor 15:3]] — "Christ (*Christos*) died for our sins according to the Scriptures"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 2#v11|Phil 2:11]] — "Jesus Christ (*Christos*) is Lord"
+- [[bibles/NASB-IL/Matthew/Matthew 16#v16|Matt 16:16]] — "You are the Christ (*Christos*), the Son of the living God"
+- [[bibles/NASB-IL/Acts/Acts 2#v36|Acts 2:36]] — "God has made Him both Lord and Christ (*Christos*)"
+- [[bibles/NASB-IL/Romans/Romans 5#v8|Rom 5:8]] — "While we were yet sinners, Christ (*Christos*) died for us"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v3|1 Cor 15:3]] — "Christ (*Christos*) died for our sins according to the Scriptures"
+- [[bibles/NASB-IL/Philippians/Philippians 2#v11|Phil 2:11]] — "Jesus Christ (*Christos*) is Lord"
 
 ## Theological Significance
 

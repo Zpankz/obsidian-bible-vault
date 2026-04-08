@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 16
-original.name: ΠΡΟΣ ΡΩΜΑΙΟΥΣ
+original.name: "ΠΡΟΣ ΡΩΜΑΙΟΥΣ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Romans/Romans 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # Romans
 
 *ΠΡΟΣ ΡΩΜΑΙΟΥΣ*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 16
 
 ## Chapters
 

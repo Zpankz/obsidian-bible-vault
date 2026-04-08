@@ -27,11 +27,11 @@ Law, instruction, teaching, direction — from the root *yarah* ("to cast, direc
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 31#v9|Deut 31:9]] — "Moses wrote this law (*torah*) and gave it to the priests"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 1#v2|Ps 1:2]] — "His delight is in the law (*torah*) of the LORD"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 19#v7|Ps 19:7]] — "The law (*torah*) of the LORD is perfect, restoring the soul"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 119#v105|Ps 119:105]] — "Your word is a lamp to my feet"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 31#v33|Jer 31:33]] — "I will put My law (*torah*) within them and write it on their heart"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 31#v9|Deut 31:9]] — "Moses wrote this law (*torah*) and gave it to the priests"
+- [[bibles/NASB-IL/Psalms/Psalms 1#v2|Ps 1:2]] — "His delight is in the law (*torah*) of the LORD"
+- [[bibles/NASB-IL/Psalms/Psalms 19#v7|Ps 19:7]] — "The law (*torah*) of the LORD is perfect, restoring the soul"
+- [[bibles/NASB-IL/Psalms/Psalms 119#v105|Ps 119:105]] — "Your word is a lamp to my feet"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 31#v33|Jer 31:33]] — "I will put My law (*torah*) within them and write it on their heart"
 
 ## Theological Significance
 

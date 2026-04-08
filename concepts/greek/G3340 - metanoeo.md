@@ -29,9 +29,9 @@ To change one's mind and direction — a fundamental reorientation of the whole 
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Response to the gospel | Fundamental conversion | [[bibles/NASB-Interlinear/Acts/Acts 2#v38\|Acts 2:38]] |
-| John's preaching | Turning from sin in preparation | [[bibles/NASB-Interlinear/Matthew/Matthew 3#v2\|Matt 3:2]] |
-| Jesus' demand | Condition for entering the kingdom | [[bibles/NASB-Interlinear/Mark/Mark 1#v15\|Mark 1:15]] |
+| Response to the gospel | Fundamental conversion | [[bibles/NASB-IL/Acts/Acts 2#v38\|Acts 2:38]] |
+| John's preaching | Turning from sin in preparation | [[bibles/NASB-IL/Matthew/Matthew 3#v2\|Matt 3:2]] |
+| Jesus' demand | Condition for entering the kingdom | [[bibles/NASB-IL/Mark/Mark 1#v15\|Mark 1:15]] |
 | Ongoing Christian life | Correction within the community | Rev 2:5; 3:19 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ Importantly, repentance is itself a gift of God (Acts 5:31; 11:18; 2 Tim 2:25) �
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 3#v2|Matt 3:2]] — John: "Repent, for the kingdom of heaven is at hand"
-- [[bibles/NASB-Interlinear/Mark/Mark 1#v15|Mark 1:15]] — Jesus: "Repent and believe in the gospel"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v38|Acts 2:38]] — "Repent, and each of you be baptized"
-- [[bibles/NASB-Interlinear/Acts/Acts 17#v30|Acts 17:30]] — "God is now declaring… that all people everywhere should repent"
-- [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 7#v10|2 Cor 7:10]] — "Godly sorrow produces repentance without regret"
+- [[bibles/NASB-IL/Matthew/Matthew 3#v2|Matt 3:2]] — John: "Repent, for the kingdom of heaven is at hand"
+- [[bibles/NASB-IL/Mark/Mark 1#v15|Mark 1:15]] — Jesus: "Repent and believe in the gospel"
+- [[bibles/NASB-IL/Acts/Acts 2#v38|Acts 2:38]] — "Repent, and each of you be baptized"
+- [[bibles/NASB-IL/Acts/Acts 17#v30|Acts 17:30]] — "God is now declaring… that all people everywhere should repent"
+- [[bibles/NASB-IL/2 Corinthians/2 Corinthians 7#v10|2 Cor 7:10]] — "Godly sorrow produces repentance without regret"
 
 ## OT Background
 

@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 1
-original.name: ΠΡΟΣ ΦΙΛΗΜΟΝΑ
+original.name: "ΠΡΟΣ ΦΙΛΗΜΟΝΑ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Philemon/Philemon 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # Philemon
 
 *ΠΡΟΣ ΦΙΛΗΜΟΝΑ*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 1
 
 ## Chapters
 

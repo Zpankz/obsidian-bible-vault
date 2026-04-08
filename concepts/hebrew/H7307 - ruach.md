@@ -28,11 +28,11 @@ Spirit, wind, breath — a single Hebrew word covering the Spirit of God, the hu
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v2|Gen 1:2]] — "The Spirit (*ruach*) of God was moving over the surface of the waters"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — God breathes *neshamah* (parallel to *ruach*) into man
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 11#v2|Isa 11:2]] — "The Spirit (*ruach*) of the LORD will rest on Him"
-- [[bibles/NASB-Interlinear/Ezekiel/Ezekiel 37#v14|Ezek 37:14]] — "I will put My Spirit (*ruach*) within you and you will come to life"
-- [[bibles/NASB-Interlinear/Joel/Joel 2#v28|Joel 2:28]] — "I will pour out My Spirit (*ruach*) on all mankind"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v2|Gen 1:2]] — "The Spirit (*ruach*) of God was moving over the surface of the waters"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — God breathes *neshamah* (parallel to *ruach*) into man
+- [[bibles/NASB-IL/Isaiah/Isaiah 11#v2|Isa 11:2]] — "The Spirit (*ruach*) of the LORD will rest on Him"
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 37#v14|Ezek 37:14]] — "I will put My Spirit (*ruach*) within you and you will come to life"
+- [[bibles/NASB-IL/Joel/Joel 2#v28|Joel 2:28]] — "I will pour out My Spirit (*ruach*) on all mankind"
 
 ## Theological Significance
 

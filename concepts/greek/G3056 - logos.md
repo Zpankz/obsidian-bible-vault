@@ -30,9 +30,9 @@ One of the most theologically dense words in the NT, carrying freight from both 
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Christological title | The eternal Word, second person of Trinity | [[bibles/NASB-Interlinear/John/John 1#v1\|John 1:1]] |
-| God's spoken message | Prophetic word, Scripture | [[bibles/NASB-Interlinear/Hebrews/Hebrews 4#v12\|Heb 4:12]] |
-| Gospel message | The word of God/truth | [[bibles/NASB-Interlinear/Acts/Acts 6#v7\|Acts 6:7]] |
+| Christological title | The eternal Word, second person of Trinity | [[bibles/NASB-IL/John/John 1#v1\|John 1:1]] |
+| God's spoken message | Prophetic word, Scripture | [[bibles/NASB-IL/Hebrews/Hebrews 4#v12\|Heb 4:12]] |
+| Gospel message | The word of God/truth | [[bibles/NASB-IL/Acts/Acts 6#v7\|Acts 6:7]] |
 | Human speech | Statement, account | Matt 12:36 |
 | Reason/account | Reckoning | Matt 18:23 |
 
@@ -51,11 +51,11 @@ The Logos is not an impersonal principle but a person who "became flesh" (1:14) 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v1|John 1:1]] — "In the beginning was the Logos"
-- [[bibles/NASB-Interlinear/John/John 1#v14|John 1:14]] — "The Logos became flesh"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 4#v12|Heb 4:12]] — "The logos of God is living and active"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 19#v13|Rev 19:13]] — "His name is called The Word of God"
-- [[bibles/NASB-Interlinear/1 John/1 John 1#v1|1 John 1:1]] — "the logos of life"
+- [[bibles/NASB-IL/John/John 1#v1|John 1:1]] — "In the beginning was the Logos"
+- [[bibles/NASB-IL/John/John 1#v14|John 1:14]] — "The Logos became flesh"
+- [[bibles/NASB-IL/Hebrews/Hebrews 4#v12|Heb 4:12]] — "The logos of God is living and active"
+- [[bibles/NASB-IL/Revelation/Revelation 19#v13|Rev 19:13]] — "His name is called The Word of God"
+- [[bibles/NASB-IL/1 John/1 John 1#v1|1 John 1:1]] — "the logos of life"
 
 ## OT Background
 

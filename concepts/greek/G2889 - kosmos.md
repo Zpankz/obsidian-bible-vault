@@ -28,11 +28,11 @@ World, universe, created order — but also the human world system alienated fro
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v10|John 1:10]] — "The world (*kosmos*) was made through Him"
-- [[bibles/NASB-Interlinear/John/John 3#v16|John 3:16]] — "God so loved the world (*kosmos*)"
-- [[bibles/NASB-Interlinear/John/John 17#v16|John 17:16]] — "They are not of the world (*kosmos*)"
-- [[bibles/NASB-Interlinear/Romans/Romans 8#v22|Rom 8:22]] — "The whole creation groans"
-- [[bibles/NASB-Interlinear/1 John/1 John 2#v15|1 John 2:15]] — "Do not love the world (*kosmos*)"
+- [[bibles/NASB-IL/John/John 1#v10|John 1:10]] — "The world (*kosmos*) was made through Him"
+- [[bibles/NASB-IL/John/John 3#v16|John 3:16]] — "God so loved the world (*kosmos*)"
+- [[bibles/NASB-IL/John/John 17#v16|John 17:16]] — "They are not of the world (*kosmos*)"
+- [[bibles/NASB-IL/Romans/Romans 8#v22|Rom 8:22]] — "The whole creation groans"
+- [[bibles/NASB-IL/1 John/1 John 2#v15|1 John 2:15]] — "Do not love the world (*kosmos*)"
 
 ## Theological Significance
 

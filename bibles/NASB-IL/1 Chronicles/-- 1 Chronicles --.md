@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 29
-original.name: דברי הימים א
+original.name: "דברי הימים א"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/1 Chronicles/1 Chronicles 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # 1 Chronicles
 
 *דברי הימים א*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 29
 
 ## Chapters
 

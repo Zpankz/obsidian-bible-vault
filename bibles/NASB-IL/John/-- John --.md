@@ -6,16 +6,16 @@ testament: NT
 section: Gospels
 genre: gospel
 chapters.total: 21
-original.name: ΚΑΤΑ ΙΩΑΝΝΗΝ
+original.name: "ΚΑΤΑ ΙΩΑΝΝΗΝ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/John/John 1]]"
+tags:
+  - bible/nt
+  - bible/gospels
 ---
 
 # John
 
 *ΚΑΤΑ ΙΩΑΝΝΗΝ*
-
-**Section:** Gospels | **Genre:** gospel | **Chapters:** 21
 
 ## Chapters
 

@@ -27,11 +27,11 @@ Voice, sound, call — the medium of divine self-disclosure. God's *phone* is he
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 3#v17|Matt 3:17]] — "A voice (*phone*) out of the heavens said, 'This is My beloved Son'"
-- [[bibles/NASB-Interlinear/John/John 10#v27|John 10:27]] — "My sheep hear My voice (*phone*)"
-- [[bibles/NASB-Interlinear/John/John 5#v25|John 5:25]] — "The dead will hear the voice (*phone*) of the Son of God"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 1#v15|Rev 1:15]] — "His voice (*phone*) was like the sound of many waters"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 3#v7|Heb 3:7]] — "Today if you hear His voice (*phone*)"
+- [[bibles/NASB-IL/Matthew/Matthew 3#v17|Matt 3:17]] — "A voice (*phone*) out of the heavens said, 'This is My beloved Son'"
+- [[bibles/NASB-IL/John/John 10#v27|John 10:27]] — "My sheep hear My voice (*phone*)"
+- [[bibles/NASB-IL/John/John 5#v25|John 5:25]] — "The dead will hear the voice (*phone*) of the Son of God"
+- [[bibles/NASB-IL/Revelation/Revelation 1#v15|Rev 1:15]] — "His voice (*phone*) was like the sound of many waters"
+- [[bibles/NASB-IL/Hebrews/Hebrews 3#v7|Heb 3:7]] — "Today if you hear His voice (*phone*)"
 
 ## Theological Significance
 

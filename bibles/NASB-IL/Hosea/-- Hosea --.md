@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 14
-original.name: הושע
+original.name: "הושע"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Hosea/Hosea 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Hosea
 
 *הושע*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 14
 
 ## Chapters
 

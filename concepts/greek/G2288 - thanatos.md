@@ -30,10 +30,10 @@ Death — the wages of sin (Rom 6:23) and the "last enemy" to be abolished (1 Co
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Physical death | Cessation of bodily life | [[bibles/NASB-Interlinear/Romans/Romans 5#v12\|Rom 5:12]] |
-| Spiritual death | Separation from God | [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v1\|Eph 2:1]] |
-| Christ's death | His atoning, substitutionary death | [[bibles/NASB-Interlinear/Philippians/Philippians 2#v8\|Phil 2:8]] |
-| Second death | Eschatological judgment | [[bibles/NASB-Interlinear/Revelation/Revelation 20#v14\|Rev 20:14]] |
+| Physical death | Cessation of bodily life | [[bibles/NASB-IL/Romans/Romans 5#v12\|Rom 5:12]] |
+| Spiritual death | Separation from God | [[bibles/NASB-IL/Ephesians/Ephesians 2#v1\|Eph 2:1]] |
+| Christ's death | His atoning, substitutionary death | [[bibles/NASB-IL/Philippians/Philippians 2#v8\|Phil 2:8]] |
+| Second death | Eschatological judgment | [[bibles/NASB-IL/Revelation/Revelation 20#v14\|Rev 20:14]] |
 
 ## Theological Significance
 
@@ -43,11 +43,11 @@ Revelation 20:14 depicts the ultimate defeat: "Death and Hades were thrown into 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Romans/Romans 5#v12|Rom 5:12]] — "Through one man sin entered… and death through sin"
-- [[bibles/NASB-Interlinear/Romans/Romans 6#v23|Rom 6:23]] — "The wages of sin is death"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 15#v26|1 Cor 15:26]] — "The last enemy… is death"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 2#v8|Phil 2:8]] — "Obedient to the point of death, even death on a cross"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21#v4|Rev 21:4]] — "There will no longer be any death"
+- [[bibles/NASB-IL/Romans/Romans 5#v12|Rom 5:12]] — "Through one man sin entered… and death through sin"
+- [[bibles/NASB-IL/Romans/Romans 6#v23|Rom 6:23]] — "The wages of sin is death"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 15#v26|1 Cor 15:26]] — "The last enemy… is death"
+- [[bibles/NASB-IL/Philippians/Philippians 2#v8|Phil 2:8]] — "Obedient to the point of death, even death on a cross"
+- [[bibles/NASB-IL/Revelation/Revelation 21#v4|Rev 21:4]] — "There will no longer be any death"
 
 ## OT Background
 

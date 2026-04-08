@@ -28,10 +28,10 @@ To rule, have dominion, exercise authority — the verb God uses when commission
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26]] — "Let them rule (*radah*) over the fish of the sea"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v28|Gen 1:28]] — "Fill the earth, and subdue it; and rule (*radah*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 8#v6|Ps 8:6]] — "You make him to rule over the works of Your hands"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 72#v8|Ps 72:8]] — "May he also rule (*radah*) from sea to sea"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26]] — "Let them rule (*radah*) over the fish of the sea"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v28|Gen 1:28]] — "Fill the earth, and subdue it; and rule (*radah*)"
+- [[bibles/NASB-IL/Psalms/Psalms 8#v6|Ps 8:6]] — "You make him to rule over the works of Your hands"
+- [[bibles/NASB-IL/Psalms/Psalms 72#v8|Ps 72:8]] — "May he also rule (*radah*) from sea to sea"
 
 ## Theological Significance
 

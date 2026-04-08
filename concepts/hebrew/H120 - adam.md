@@ -27,10 +27,10 @@ The Hebrew word for humanity and the proper name of the first human being. Deriv
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26]] — "Let Us make man (*adam*) in Our image"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — "The LORD God formed man (*adam*) of dust from the ground (*adamah*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 5#v2|Gen 5:2]] — "He named them Man (*adam*) in the day they were created"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 8#v4|Ps 8:4]] — "What is man (*enosh*) that You take thought of him?"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26]] — "Let Us make man (*adam*) in Our image"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — "The LORD God formed man (*adam*) of dust from the ground (*adamah*)"
+- [[bibles/NASB-IL/Genesis/Genesis 5#v2|Gen 5:2]] — "He named them Man (*adam*) in the day they were created"
+- [[bibles/NASB-IL/Psalms/Psalms 8#v4|Ps 8:4]] — "What is man (*enosh*) that You take thought of him?"
 
 ## Theological Significance
 

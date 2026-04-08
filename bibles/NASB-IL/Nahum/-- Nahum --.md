@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 3
-original.name: נחום
+original.name: "נחום"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Nahum/Nahum 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Nahum
 
 *נחום*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 3
 
 ## Chapters
 

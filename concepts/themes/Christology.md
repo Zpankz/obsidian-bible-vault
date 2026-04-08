@@ -31,22 +31,22 @@ The doctrine of Jesus Christ — His person (who He is) and His work (what He ha
 ## The Person of Christ
 
 ### Divine Nature
-- Pre-existence: [[bibles/NASB-Interlinear/John/John 1#v1|John 1:1]] — "In the beginning was the Word"
-- Deity: [[bibles/NASB-Interlinear/John/John 20#v28|John 20:28]] — "My Lord and my God"
-- Equality with the Father: [[bibles/NASB-Interlinear/Philippians/Philippians 2#v6|Phil 2:6]] — "Existing in the form of God"
+- Pre-existence: [[bibles/NASB-IL/John/John 1#v1|John 1:1]] — "In the beginning was the Word"
+- Deity: [[bibles/NASB-IL/John/John 20#v28|John 20:28]] — "My Lord and my God"
+- Equality with the Father: [[bibles/NASB-IL/Philippians/Philippians 2#v6|Phil 2:6]] — "Existing in the form of God"
 
 ### Human Nature
-- Incarnation: [[bibles/NASB-Interlinear/John/John 1#v14|John 1:14]] — "The Word became flesh"
-- Temptation: [[bibles/NASB-Interlinear/Hebrews/Hebrews 4#v15|Heb 4:15]] — "Tempted in all things as we are, yet without sin"
-- Suffering: [[bibles/NASB-Interlinear/Isaiah/Isaiah 53#v3|Isa 53:3-5]] — "A man of sorrows"
+- Incarnation: [[bibles/NASB-IL/John/John 1#v14|John 1:14]] — "The Word became flesh"
+- Temptation: [[bibles/NASB-IL/Hebrews/Hebrews 4#v15|Heb 4:15]] — "Tempted in all things as we are, yet without sin"
+- Suffering: [[bibles/NASB-IL/Isaiah/Isaiah 53#v3|Isa 53:3-5]] — "A man of sorrows"
 
 ## The Three Offices of Christ
 
 | Office | OT Background | NT Fulfillment |
 |:---|:---|:---|
-| Prophet | [[concepts/hebrew/H5030 - navi\|נָבִיא]] — Deut 18:15 | [[bibles/NASB-Interlinear/Acts/Acts 3#v22\|Acts 3:22]] — "A prophet like Moses" |
-| Priest | [[concepts/hebrew/H3548 - kohen\|כֹּהֵן]] — Ps 110:4 | [[bibles/NASB-Interlinear/Hebrews/Hebrews 7#v17\|Heb 7:17]] — "A priest forever" |
-| King | [[concepts/hebrew/H4428 - melek\|מֶלֶךְ]] — 2 Sam 7:12-16 | [[bibles/NASB-Interlinear/Revelation/Revelation 19#v16\|Rev 19:16]] — "King of kings" |
+| Prophet | [[concepts/hebrew/H5030 - navi\|נָבִיא]] — Deut 18:15 | [[bibles/NASB-IL/Acts/Acts 3#v22\|Acts 3:22]] — "A prophet like Moses" |
+| Priest | [[concepts/hebrew/H3548 - kohen\|כֹּהֵן]] — Ps 110:4 | [[bibles/NASB-IL/Hebrews/Hebrews 7#v17\|Heb 7:17]] — "A priest forever" |
+| King | [[concepts/hebrew/H4428 - melek\|מֶלֶךְ]] — 2 Sam 7:12-16 | [[bibles/NASB-IL/Revelation/Revelation 19#v16\|Rev 19:16]] — "King of kings" |
 
 ## Christological Titles
 

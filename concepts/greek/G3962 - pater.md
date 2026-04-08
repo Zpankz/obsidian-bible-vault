@@ -28,11 +28,11 @@ Father — Jesus' distinctive name for God, used over 170 times in the Gospels. 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 6#v9|Matt 6:9]] — "Our Father (*pater*) who is in heaven"
-- [[bibles/NASB-Interlinear/John/John 5#v19|John 5:19]] — "The Son can do nothing of Himself unless… He sees the Father (*pater*) doing"
-- [[bibles/NASB-Interlinear/John/John 14#v9|John 14:9]] — "He who has seen Me has seen the Father (*pater*)"
-- [[bibles/NASB-Interlinear/Romans/Romans 8#v15|Rom 8:15]] — "You have received a spirit of adoption… by which we cry out, 'Abba! Father (*pater*)!'"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v3|Eph 1:3]] — "The God and Father (*pater*) of our Lord Jesus Christ"
+- [[bibles/NASB-IL/Matthew/Matthew 6#v9|Matt 6:9]] — "Our Father (*pater*) who is in heaven"
+- [[bibles/NASB-IL/John/John 5#v19|John 5:19]] — "The Son can do nothing of Himself unless… He sees the Father (*pater*) doing"
+- [[bibles/NASB-IL/John/John 14#v9|John 14:9]] — "He who has seen Me has seen the Father (*pater*)"
+- [[bibles/NASB-IL/Romans/Romans 8#v15|Rom 8:15]] — "You have received a spirit of adoption… by which we cry out, 'Abba! Father (*pater*)!'"
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v3|Eph 1:3]] — "The God and Father (*pater*) of our Lord Jesus Christ"
 
 ## Theological Significance
 

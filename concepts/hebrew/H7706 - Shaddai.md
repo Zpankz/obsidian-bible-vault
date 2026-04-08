@@ -28,11 +28,11 @@ Almighty or All-Sufficient — the divine name by which God was known to the pat
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 17#v1|Gen 17:1]] — "I am God Almighty (*El Shaddai*); walk before Me and be blameless"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 28#v3|Gen 28:3]] — "May God Almighty (*El Shaddai*) bless you"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 49#v25|Gen 49:25]] — "By the Almighty (*Shaddai*) who blesses you"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 6#v3|Exod 6:3]] — "I appeared to Abraham… as God Almighty (*El Shaddai*)"
-- [[bibles/NASB-Interlinear/Job/Job 5#v17|Job 5:17]] — "Do not despise the discipline of the Almighty (*Shaddai*)"
+- [[bibles/NASB-IL/Genesis/Genesis 17#v1|Gen 17:1]] — "I am God Almighty (*El Shaddai*); walk before Me and be blameless"
+- [[bibles/NASB-IL/Genesis/Genesis 28#v3|Gen 28:3]] — "May God Almighty (*El Shaddai*) bless you"
+- [[bibles/NASB-IL/Genesis/Genesis 49#v25|Gen 49:25]] — "By the Almighty (*Shaddai*) who blesses you"
+- [[bibles/NASB-IL/Exodus/Exodus 6#v3|Exod 6:3]] — "I appeared to Abraham… as God Almighty (*El Shaddai*)"
+- [[bibles/NASB-IL/Job/Job 5#v17|Job 5:17]] — "Do not despise the discipline of the Almighty (*Shaddai*)"
 
 ## Theological Significance
 

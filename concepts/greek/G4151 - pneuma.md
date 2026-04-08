@@ -28,11 +28,11 @@ Spirit, wind, breath — the direct Greek equivalent of Hebrew [[concepts/hebrew
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 3#v8|John 3:8]] — "The wind (*pneuma*) blows where it wishes… so is everyone born of the Spirit (*pneuma*)"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v4|Acts 2:4]] — "They were all filled with the Holy Spirit (*pneuma*)"
-- [[bibles/NASB-Interlinear/Romans/Romans 8#v11|Rom 8:11]] — "The Spirit (*pneuma*) of Him who raised Jesus from the dead"
-- [[bibles/NASB-Interlinear/Galatians/Galatians 5#v22|Gal 5:22]] — "The fruit of the Spirit (*pneuma*)"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v13|Eph 1:13]] — "Sealed with the Holy Spirit (*pneuma*) of promise"
+- [[bibles/NASB-IL/John/John 3#v8|John 3:8]] — "The wind (*pneuma*) blows where it wishes… so is everyone born of the Spirit (*pneuma*)"
+- [[bibles/NASB-IL/Acts/Acts 2#v4|Acts 2:4]] — "They were all filled with the Holy Spirit (*pneuma*)"
+- [[bibles/NASB-IL/Romans/Romans 8#v11|Rom 8:11]] — "The Spirit (*pneuma*) of Him who raised Jesus from the dead"
+- [[bibles/NASB-IL/Galatians/Galatians 5#v22|Gal 5:22]] — "The fruit of the Spirit (*pneuma*)"
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v13|Eph 1:13]] — "Sealed with the Holy Spirit (*pneuma*) of promise"
 
 ## Theological Significance
 

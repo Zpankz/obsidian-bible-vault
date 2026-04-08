@@ -27,11 +27,11 @@ Glory — literally "weight, heaviness." God's *kavod* is His manifest presence,
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 33#v18|Exod 33:18]] — "Show me Your glory (*kavod*)"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 40#v34|Exod 40:34]] — "The glory (*kavod*) of the LORD filled the tabernacle"
-- [[bibles/NASB-Interlinear/1 Kings/1 Kings 8#v11|1 Kgs 8:11]] — "The glory (*kavod*) of the LORD filled the house"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 6#v3|Isa 6:3]] — "The whole earth is full of His glory (*kavod*)"
-- [[bibles/NASB-Interlinear/Ezekiel/Ezekiel 10#v18|Ezek 10:18]] — The *kavod* departs from the temple
+- [[bibles/NASB-IL/Exodus/Exodus 33#v18|Exod 33:18]] — "Show me Your glory (*kavod*)"
+- [[bibles/NASB-IL/Exodus/Exodus 40#v34|Exod 40:34]] — "The glory (*kavod*) of the LORD filled the tabernacle"
+- [[bibles/NASB-IL/1 Kings/1 Kings 8#v11|1 Kgs 8:11]] — "The glory (*kavod*) of the LORD filled the house"
+- [[bibles/NASB-IL/Isaiah/Isaiah 6#v3|Isa 6:3]] — "The whole earth is full of His glory (*kavod*)"
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 10#v18|Ezek 10:18]] — The *kavod* departs from the temple
 
 ## Theological Significance
 

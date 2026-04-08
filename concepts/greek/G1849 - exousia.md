@@ -30,10 +30,10 @@ Authority — the legitimate right to act, contrasted with δύναμις (raw p
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Christ's authority | Delegated from the Father | [[bibles/NASB-Interlinear/Matthew/Matthew 28#v18\|Matt 28:18]] |
-| Authority to forgive sins | Divine prerogative exercised on earth | [[bibles/NASB-Interlinear/Mark/Mark 2#v10\|Mark 2:10]] |
+| Christ's authority | Delegated from the Father | [[bibles/NASB-IL/Matthew/Matthew 28#v18\|Matt 28:18]] |
+| Authority to forgive sins | Divine prerogative exercised on earth | [[bibles/NASB-IL/Mark/Mark 2#v10\|Mark 2:10]] |
 | Spiritual authorities | Angelic/demonic powers | Eph 6:12; Col 2:15 |
-| Believers' right | Authority to become children of God | [[bibles/NASB-Interlinear/John/John 1#v12\|John 1:12]] |
+| Believers' right | Authority to become children of God | [[bibles/NASB-IL/John/John 1#v12\|John 1:12]] |
 
 ## Theological Significance
 
@@ -43,11 +43,11 @@ Colossians 2:15 declares that Christ "disarmed the rulers and authorities" at th
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 28#v18|Matt 28:18]] — "All authority has been given to Me"
-- [[bibles/NASB-Interlinear/John/John 1#v12|John 1:12]] — "He gave the right to become children of God"
-- [[bibles/NASB-Interlinear/Romans/Romans 13#v1|Rom 13:1]] — "There is no authority except from God"
-- [[bibles/NASB-Interlinear/Colossians/Colossians 2#v15|Col 2:15]] — Christ disarmed the rulers and authorities
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 6#v12|Eph 6:12]] — Struggle against spiritual authorities
+- [[bibles/NASB-IL/Matthew/Matthew 28#v18|Matt 28:18]] — "All authority has been given to Me"
+- [[bibles/NASB-IL/John/John 1#v12|John 1:12]] — "He gave the right to become children of God"
+- [[bibles/NASB-IL/Romans/Romans 13#v1|Rom 13:1]] — "There is no authority except from God"
+- [[bibles/NASB-IL/Colossians/Colossians 2#v15|Col 2:15]] — Christ disarmed the rulers and authorities
+- [[bibles/NASB-IL/Ephesians/Ephesians 6#v12|Eph 6:12]] — Struggle against spiritual authorities
 
 ## OT Background
 

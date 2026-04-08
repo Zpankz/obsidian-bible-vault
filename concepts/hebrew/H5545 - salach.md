@@ -29,11 +29,11 @@ To forgive, pardon — a verb used exclusively with God as its subject. No human
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 34#v9|Exod 34:9]] — "Pardon (*salach*) our iniquity and our sin"
-- [[bibles/NASB-Interlinear/Numbers/Numbers 14#v19|Num 14:19]] — "Pardon (*salach*) the iniquity of this people"
-- [[bibles/NASB-Interlinear/1 Kings/1 Kings 8#v30|1 Kgs 8:30]] — "Hear and forgive (*salach*)" (Solomon's temple prayer)
-- [[bibles/NASB-Interlinear/Psalms/Psalms 130#v4|Ps 130:4]] — "There is forgiveness (*selichah*) with You"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 31#v34|Jer 31:34]] — "I will forgive (*salach*) their iniquity"
+- [[bibles/NASB-IL/Exodus/Exodus 34#v9|Exod 34:9]] — "Pardon (*salach*) our iniquity and our sin"
+- [[bibles/NASB-IL/Numbers/Numbers 14#v19|Num 14:19]] — "Pardon (*salach*) the iniquity of this people"
+- [[bibles/NASB-IL/1 Kings/1 Kings 8#v30|1 Kgs 8:30]] — "Hear and forgive (*salach*)" (Solomon's temple prayer)
+- [[bibles/NASB-IL/Psalms/Psalms 130#v4|Ps 130:4]] — "There is forgiveness (*selichah*) with You"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 31#v34|Jer 31:34]] — "I will forgive (*salach*) their iniquity"
 
 ## Theological Significance
 

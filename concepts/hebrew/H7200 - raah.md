@@ -28,11 +28,11 @@ To see, look, perceive, appear — the primary Hebrew verb of sight, with theolo
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v4|Gen 1:4]] — "God saw (*raah*) that the light was good"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 16#v13|Gen 16:13]] — "You are a God who sees (*El Roi*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 22#v14|Gen 22:14]] — "The LORD Will Provide (*YHWH Yireh*)" — lit. "the LORD will see"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v7|Exod 3:7]] — "I have surely seen (*raah*) the affliction of My people"
-- [[bibles/NASB-Interlinear/1 Samuel/1 Samuel 16#v7|1 Sam 16:7]] — "God sees (*raah*) not as man sees"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v4|Gen 1:4]] — "God saw (*raah*) that the light was good"
+- [[bibles/NASB-IL/Genesis/Genesis 16#v13|Gen 16:13]] — "You are a God who sees (*El Roi*)"
+- [[bibles/NASB-IL/Genesis/Genesis 22#v14|Gen 22:14]] — "The LORD Will Provide (*YHWH Yireh*)" — lit. "the LORD will see"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v7|Exod 3:7]] — "I have surely seen (*raah*) the affliction of My people"
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 16#v7|1 Sam 16:7]] — "God sees (*raah*) not as man sees"
 
 ## Theological Significance
 

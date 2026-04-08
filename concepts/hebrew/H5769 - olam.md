@@ -28,11 +28,11 @@ Eternity, forever, ancient time, age — from a root meaning "hidden, concealed,
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 21#v33|Gen 21:33]] — "The Everlasting (*olam*) God"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 90#v2|Ps 90:2]] — "From everlasting (*olam*) to everlasting (*olam*), You are God"
-- [[bibles/NASB-Interlinear/Ecclesiastes/Ecclesiastes 3#v11|Eccl 3:11]] — "He has set eternity (*olam*) in their heart"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 40#v28|Isa 40:28]] — "The Everlasting (*olam*) God, the LORD"
-- [[bibles/NASB-Interlinear/Daniel/Daniel 12#v2|Dan 12:2]] — "To everlasting (*olam*) life… to everlasting contempt"
+- [[bibles/NASB-IL/Genesis/Genesis 21#v33|Gen 21:33]] — "The Everlasting (*olam*) God"
+- [[bibles/NASB-IL/Psalms/Psalms 90#v2|Ps 90:2]] — "From everlasting (*olam*) to everlasting (*olam*), You are God"
+- [[bibles/NASB-IL/Ecclesiastes/Ecclesiastes 3#v11|Eccl 3:11]] — "He has set eternity (*olam*) in their heart"
+- [[bibles/NASB-IL/Isaiah/Isaiah 40#v28|Isa 40:28]] — "The Everlasting (*olam*) God, the LORD"
+- [[bibles/NASB-IL/Daniel/Daniel 12#v2|Dan 12:2]] — "To everlasting (*olam*) life… to everlasting contempt"
 
 ## Theological Significance
 

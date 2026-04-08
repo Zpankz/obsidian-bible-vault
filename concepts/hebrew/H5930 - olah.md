@@ -27,10 +27,10 @@ Burnt offering — the most common sacrifice, in which the entire animal "goes u
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 8#v20|Gen 8:20]] — "Noah built an altar… and offered burnt offerings (*olot*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 22#v2|Gen 22:2]] — "Offer him there as a burnt offering (*olah*)"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 1#v3|Lev 1:3]] — "If his offering is a burnt offering (*olah*)"
-- [[bibles/NASB-Interlinear/1 Samuel/1 Samuel 15#v22|1 Sam 15:22]] — "To obey is better than sacrifice, than the fat of rams"
+- [[bibles/NASB-IL/Genesis/Genesis 8#v20|Gen 8:20]] — "Noah built an altar… and offered burnt offerings (*olot*)"
+- [[bibles/NASB-IL/Genesis/Genesis 22#v2|Gen 22:2]] — "Offer him there as a burnt offering (*olah*)"
+- [[bibles/NASB-IL/Leviticus/Leviticus 1#v3|Lev 1:3]] — "If his offering is a burnt offering (*olah*)"
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 15#v22|1 Sam 15:22]] — "To obey is better than sacrifice, than the fat of rams"
 
 ## Theological Significance
 

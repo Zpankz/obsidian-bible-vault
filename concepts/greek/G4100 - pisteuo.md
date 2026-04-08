@@ -29,8 +29,8 @@ To believe, trust, rely upon — the verbal form of πίστις (faith). John's
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Saving faith | Believing in/on Christ | [[bibles/NASB-Interlinear/John/John 3#v16\|John 3:16]] |
-| Trust in God's promises | Abraham's faith as paradigm | [[bibles/NASB-Interlinear/Romans/Romans 4#v3\|Rom 4:3]] |
+| Saving faith | Believing in/on Christ | [[bibles/NASB-IL/John/John 3#v16\|John 3:16]] |
+| Trust in God's promises | Abraham's faith as paradigm | [[bibles/NASB-IL/Romans/Romans 4#v3\|Rom 4:3]] |
 | Intellectual assent | Believing that something is true | James 2:19 |
 | Entrusting | Committing something to someone | John 2:24; Luke 16:11 |
 
@@ -42,11 +42,11 @@ Paul correlates believing with justification: "Abraham believed God, and it was 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 3#v16|John 3:16]] — "Whoever believes in Him shall not perish"
-- [[bibles/NASB-Interlinear/John/John 6#v29|John 6:29]] — "This is the work of God, that you believe"
-- [[bibles/NASB-Interlinear/John/John 20#v31|John 20:31]] — "These are written so that you may believe"
-- [[bibles/NASB-Interlinear/Romans/Romans 4#v3|Rom 4:3]] — "Abraham believed God"
-- [[bibles/NASB-Interlinear/Romans/Romans 10#v9|Rom 10:9]] — "If you… believe in your heart that God raised Him"
+- [[bibles/NASB-IL/John/John 3#v16|John 3:16]] — "Whoever believes in Him shall not perish"
+- [[bibles/NASB-IL/John/John 6#v29|John 6:29]] — "This is the work of God, that you believe"
+- [[bibles/NASB-IL/John/John 20#v31|John 20:31]] — "These are written so that you may believe"
+- [[bibles/NASB-IL/Romans/Romans 4#v3|Rom 4:3]] — "Abraham believed God"
+- [[bibles/NASB-IL/Romans/Romans 10#v9|Rom 10:9]] — "If you… believe in your heart that God raised Him"
 
 ## OT Background
 

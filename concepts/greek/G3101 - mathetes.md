@@ -29,9 +29,9 @@ A learner, pupil, or follower — one who attaches to a teacher and is shaped by
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The Twelve | Jesus' inner circle | [[bibles/NASB-Interlinear/Matthew/Matthew 10#v1\|Matt 10:1]] |
-| Wider followers | All who follow Jesus | [[bibles/NASB-Interlinear/Luke/Luke 14#v26\|Luke 14:26-27]] |
-| Early Christians | Believers in Acts | [[bibles/NASB-Interlinear/Acts/Acts 6#v1\|Acts 6:1]] |
+| The Twelve | Jesus' inner circle | [[bibles/NASB-IL/Matthew/Matthew 10#v1\|Matt 10:1]] |
+| Wider followers | All who follow Jesus | [[bibles/NASB-IL/Luke/Luke 14#v26\|Luke 14:26-27]] |
+| Early Christians | Believers in Acts | [[bibles/NASB-IL/Acts/Acts 6#v1\|Acts 6:1]] |
 | Disciples of others | Followers of Moses, John the Baptist | John 9:28; Matt 9:14 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ The Great Commission (Matt 28:19) makes disciple-making the mission of the churc
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 4#v19|Matt 4:19]] — "Follow Me, and I will make you fishers of men"
-- [[bibles/NASB-Interlinear/Matthew/Matthew 28#v19|Matt 28:19]] — "Go therefore and make disciples of all the nations"
-- [[bibles/NASB-Interlinear/Luke/Luke 14#v27|Luke 14:27]] — "Whoever does not carry his own cross… cannot be My disciple"
-- [[bibles/NASB-Interlinear/John/John 8#v31|John 8:31]] — "If you continue in My word, you are truly My disciples"
-- [[bibles/NASB-Interlinear/Acts/Acts 11#v26|Acts 11:26]] — "The disciples were first called Christians in Antioch"
+- [[bibles/NASB-IL/Matthew/Matthew 4#v19|Matt 4:19]] — "Follow Me, and I will make you fishers of men"
+- [[bibles/NASB-IL/Matthew/Matthew 28#v19|Matt 28:19]] — "Go therefore and make disciples of all the nations"
+- [[bibles/NASB-IL/Luke/Luke 14#v27|Luke 14:27]] — "Whoever does not carry his own cross… cannot be My disciple"
+- [[bibles/NASB-IL/John/John 8#v31|John 8:31]] — "If you continue in My word, you are truly My disciples"
+- [[bibles/NASB-IL/Acts/Acts 11#v26|Acts 11:26]] — "The disciples were first called Christians in Antioch"
 
 ## OT Background
 

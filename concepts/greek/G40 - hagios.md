@@ -29,9 +29,9 @@ The primary NT adjective for holiness, describing what is set apart for God and 
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The Holy Spirit | Third person of the Trinity | [[bibles/NASB-Interlinear/Acts/Acts 2#v4\|Acts 2:4]] |
-| Believers as "saints" | The set-apart community | [[bibles/NASB-Interlinear/Romans/Romans 1#v7\|Rom 1:7]] |
-| God's holiness | Divine otherness | [[bibles/NASB-Interlinear/Revelation/Revelation 4#v8\|Rev 4:8]] |
+| The Holy Spirit | Third person of the Trinity | [[bibles/NASB-IL/Acts/Acts 2#v4\|Acts 2:4]] |
+| Believers as "saints" | The set-apart community | [[bibles/NASB-IL/Romans/Romans 1#v7\|Rom 1:7]] |
+| God's holiness | Divine otherness | [[bibles/NASB-IL/Revelation/Revelation 4#v8\|Rev 4:8]] |
 | Sacred places/things | Temple, Scriptures | Matt 24:15; Rom 1:2 |
 
 ## Theological Significance
@@ -42,10 +42,10 @@ The triple "Holy, holy, holy" (Rev 4:8, echoing Isa 6:3) is the only divine attr
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Revelation/Revelation 4#v8|Rev 4:8]] — "Holy, holy, holy is the Lord God Almighty"
-- [[bibles/NASB-Interlinear/1 Peter/1 Peter 1#v15|1 Pet 1:15-16]] — "Be holy, for I am holy"
-- [[bibles/NASB-Interlinear/Romans/Romans 1#v7|Rom 1:7]] — Believers called "saints" (hagioi)
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v4|Eph 1:4]] — Chosen to be holy and blameless
+- [[bibles/NASB-IL/Revelation/Revelation 4#v8|Rev 4:8]] — "Holy, holy, holy is the Lord God Almighty"
+- [[bibles/NASB-IL/1 Peter/1 Peter 1#v15|1 Pet 1:15-16]] — "Be holy, for I am holy"
+- [[bibles/NASB-IL/Romans/Romans 1#v7|Rom 1:7]] — Believers called "saints" (hagioi)
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v4|Eph 1:4]] — Chosen to be holy and blameless
 
 ## OT Background
 

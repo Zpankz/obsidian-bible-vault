@@ -6,16 +6,16 @@ testament: OT
 section: Major Prophets
 genre: poetry
 chapters.total: 5
-original.name: איכה
+original.name: "איכה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Lamentations/Lamentations 1]]"
+tags:
+  - bible/ot
+  - bible/major-prophets
 ---
 
 # Lamentations
 
 *איכה*
-
-**Section:** Major Prophets | **Genre:** poetry | **Chapters:** 5
 
 ## Chapters
 

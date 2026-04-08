@@ -28,11 +28,11 @@ To give — one of the most frequent verbs in the OT, describing the fundamental
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v29|Gen 1:29]] — "I have given (*natan*) you every plant"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 12#v7|Gen 12:7]] — "To your descendants I will give (*natan*) this land"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 17#v11|Lev 17:11]] — "I have given (*natan*) it to you on the altar to make atonement"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 8#v18|Deut 8:18]] — "It is He who is giving (*natan*) you power to make wealth"
-- [[bibles/NASB-Interlinear/Ezekiel/Ezekiel 36#v26|Ezek 36:26]] — "I will give (*natan*) you a new heart"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v29|Gen 1:29]] — "I have given (*natan*) you every plant"
+- [[bibles/NASB-IL/Genesis/Genesis 12#v7|Gen 12:7]] — "To your descendants I will give (*natan*) this land"
+- [[bibles/NASB-IL/Leviticus/Leviticus 17#v11|Lev 17:11]] — "I have given (*natan*) it to you on the altar to make atonement"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 8#v18|Deut 8:18]] — "It is He who is giving (*natan*) you power to make wealth"
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 36#v26|Ezek 36:26]] — "I will give (*natan*) you a new heart"
 
 ## Theological Significance
 

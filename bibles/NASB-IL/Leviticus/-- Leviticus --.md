@@ -6,16 +6,16 @@ testament: OT
 section: Torah
 genre: law
 chapters.total: 27
-original.name: ויקרא
+original.name: "ויקרא"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Leviticus/Leviticus 1]]"
+tags:
+  - bible/ot
+  - bible/torah
 ---
 
 # Leviticus
 
 *ויקרא*
-
-**Section:** Torah | **Genre:** law | **Chapters:** 27
 
 ## Chapters
 

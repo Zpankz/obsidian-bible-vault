@@ -29,8 +29,8 @@ To know by experience, perception, or relationship — not merely intellectual a
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Relational knowing | Intimate knowledge of God/Christ | [[bibles/NASB-Interlinear/John/John 17#v3\|John 17:3]] |
-| Perception | Coming to understand | [[bibles/NASB-Interlinear/John/John 8#v32\|John 8:32]] |
+| Relational knowing | Intimate knowledge of God/Christ | [[bibles/NASB-IL/John/John 17#v3\|John 17:3]] |
+| Perception | Coming to understand | [[bibles/NASB-IL/John/John 8#v32\|John 8:32]] |
 | Recognition | Identifying someone/something | Matt 7:23; Luke 24:31 |
 | Sexual knowledge | Euphemism for intercourse | Matt 1:25 (following LXX usage) |
 
@@ -42,11 +42,11 @@ Paul counters "knowledge puffs up, but love builds up" (1 Cor 8:1), warning agai
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 10#v14|John 10:14]] — "I know My own and My own know Me"
-- [[bibles/NASB-Interlinear/John/John 17#v3|John 17:3]] — "That they may know You, the only true God"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 3#v10|Phil 3:10]] — "That I may know Him"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 8#v1|1 Cor 8:1]] — "Knowledge puffs up, but love builds up"
-- [[bibles/NASB-Interlinear/1 John/1 John 4#v8|1 John 4:8]] — "The one who does not love does not know God"
+- [[bibles/NASB-IL/John/John 10#v14|John 10:14]] — "I know My own and My own know Me"
+- [[bibles/NASB-IL/John/John 17#v3|John 17:3]] — "That they may know You, the only true God"
+- [[bibles/NASB-IL/Philippians/Philippians 3#v10|Phil 3:10]] — "That I may know Him"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 8#v1|1 Cor 8:1]] — "Knowledge puffs up, but love builds up"
+- [[bibles/NASB-IL/1 John/1 John 4#v8|1 John 4:8]] — "The one who does not love does not know God"
 
 ## OT Background
 

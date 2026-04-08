@@ -28,11 +28,11 @@ To bless — derived from *berek* ("knee"), suggesting that blessing is received
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v28|Gen 1:28]] — "God blessed (*barak*) them… Be fruitful and multiply"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 12#v2|Gen 12:2]] — "I will bless (*barak*) you, and make your name great"
-- [[bibles/NASB-Interlinear/Numbers/Numbers 6#v24|Num 6:24]] — "The LORD bless (*barak*) you and keep you" (Aaronic benediction)
-- [[bibles/NASB-Interlinear/Genesis/Genesis 27#v27|Gen 27:27]] — Isaac's blessing of Jacob
-- [[bibles/NASB-Interlinear/Psalms/Psalms 103#v1|Ps 103:1]] — "Bless (*barak*) the LORD, O my soul"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v28|Gen 1:28]] — "God blessed (*barak*) them… Be fruitful and multiply"
+- [[bibles/NASB-IL/Genesis/Genesis 12#v2|Gen 12:2]] — "I will bless (*barak*) you, and make your name great"
+- [[bibles/NASB-IL/Numbers/Numbers 6#v24|Num 6:24]] — "The LORD bless (*barak*) you and keep you" (Aaronic benediction)
+- [[bibles/NASB-IL/Genesis/Genesis 27#v27|Gen 27:27]] — Isaac's blessing of Jacob
+- [[bibles/NASB-IL/Psalms/Psalms 103#v1|Ps 103:1]] — "Bless (*barak*) the LORD, O my soul"
 
 ## Theological Significance
 

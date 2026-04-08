@@ -28,8 +28,8 @@ The biblical doctrine of humanity — who we are as creatures made in the image 
 
 ## Created Nature
 
-- **Image of God**: [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26-27]] — "Let Us make man in Our [[concepts/hebrew/H6754 - tselem|image]]"
-- **From the dust**: [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — "Formed man of dust… breathed into his nostrils the breath of life"
+- **Image of God**: [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26-27]] — "Let Us make man in Our [[concepts/hebrew/H6754 - tselem|image]]"
+- **From the dust**: [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — "Formed man of dust… breathed into his nostrils the breath of life"
 - **Male and female**: Gen 1:27 — Gender as part of the created good
 - **Relational**: Gen 2:18 — "It is not good for the man to be alone"
 
@@ -44,7 +44,7 @@ The biblical doctrine of humanity — who we are as creatures made in the image 
 
 ## The Fall and Its Effects
 
-- **Universal sinfulness**: [[bibles/NASB-Interlinear/Romans/Romans 3#v23|Rom 3:23]] — "All have sinned"
+- **Universal sinfulness**: [[bibles/NASB-IL/Romans/Romans 3#v23|Rom 3:23]] — "All have sinned"
 - **Total effect**: Gen 6:5 — "Every intent of the thoughts of his heart was only evil continually"
 - **Mortality**: Gen 3:19 — "Dust you are, and to dust you shall return"
 - **Broken relationships**: Gen 3:7-12 — Hiding from God and blaming each other

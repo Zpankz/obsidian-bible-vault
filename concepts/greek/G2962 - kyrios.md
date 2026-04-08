@@ -28,11 +28,11 @@ Lord, master — the most theologically explosive title applied to Jesus in the 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Romans/Romans 10#v9|Rom 10:9]] — "If you confess with your mouth Jesus as Lord (*kyrios*)"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 2#v11|Phil 2:11]] — "Every tongue will confess that Jesus Christ is Lord (*kyrios*)"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v36|Acts 2:36]] — "God has made Him both Lord (*kyrios*) and Christ"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 8#v6|1 Cor 8:6]] — "One Lord (*kyrios*), Jesus Christ"
-- [[bibles/NASB-Interlinear/John/John 20#v28|John 20:28]] — "My Lord (*kyrios*) and my God"
+- [[bibles/NASB-IL/Romans/Romans 10#v9|Rom 10:9]] — "If you confess with your mouth Jesus as Lord (*kyrios*)"
+- [[bibles/NASB-IL/Philippians/Philippians 2#v11|Phil 2:11]] — "Every tongue will confess that Jesus Christ is Lord (*kyrios*)"
+- [[bibles/NASB-IL/Acts/Acts 2#v36|Acts 2:36]] — "God has made Him both Lord (*kyrios*) and Christ"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 8#v6|1 Cor 8:6]] — "One Lord (*kyrios*), Jesus Christ"
+- [[bibles/NASB-IL/John/John 20#v28|John 20:28]] — "My Lord (*kyrios*) and my God"
 
 ## Theological Significance
 

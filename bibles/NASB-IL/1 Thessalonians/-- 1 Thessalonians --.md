@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 5
-original.name: ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄
+original.name: "ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/1 Thessalonians/1 Thessalonians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # 1 Thessalonians
 
 *ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 5
 
 ## Chapters
 

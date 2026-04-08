@@ -29,9 +29,9 @@ Grace — unmerited divine favor, the free gift of God. In Paul, it becomes the 
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| God's saving grace | Unmerited favor toward sinners | [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v8\|Eph 2:8]] |
-| Christ's incarnation | Grace embodied | [[bibles/NASB-Interlinear/John/John 1#v14\|John 1:14]] |
-| Empowerment for service | Grace-gifts for ministry | [[bibles/NASB-Interlinear/Romans/Romans 12#v6\|Rom 12:6]] |
+| God's saving grace | Unmerited favor toward sinners | [[bibles/NASB-IL/Ephesians/Ephesians 2#v8\|Eph 2:8]] |
+| Christ's incarnation | Grace embodied | [[bibles/NASB-IL/John/John 1#v14\|John 1:14]] |
+| Empowerment for service | Grace-gifts for ministry | [[bibles/NASB-IL/Romans/Romans 12#v6\|Rom 12:6]] |
 | Thankfulness | Gratitude (the response to grace) | 1 Cor 15:57; Col 3:16 |
 
 ## Theological Significance
@@ -42,11 +42,11 @@ John 1:14-17 sets up the key contrast: "The law was given through Moses; grace a
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v14|John 1:14, 17]] — "Full of grace and truth… grace and truth were realized through Jesus Christ"
-- [[bibles/NASB-Interlinear/Romans/Romans 3#v24|Rom 3:24]] — "Justified as a gift by His grace"
-- [[bibles/NASB-Interlinear/Romans/Romans 5#v20|Rom 5:20]] — "Where sin increased, grace abounded all the more"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v8|Eph 2:8-9]] — "By grace you have been saved through faith"
-- [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 12#v9|2 Cor 12:9]] — "My grace is sufficient for you"
+- [[bibles/NASB-IL/John/John 1#v14|John 1:14, 17]] — "Full of grace and truth… grace and truth were realized through Jesus Christ"
+- [[bibles/NASB-IL/Romans/Romans 3#v24|Rom 3:24]] — "Justified as a gift by His grace"
+- [[bibles/NASB-IL/Romans/Romans 5#v20|Rom 5:20]] — "Where sin increased, grace abounded all the more"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v8|Eph 2:8-9]] — "By grace you have been saved through faith"
+- [[bibles/NASB-IL/2 Corinthians/2 Corinthians 12#v9|2 Cor 12:9]] — "My grace is sufficient for you"
 
 ## OT Background
 

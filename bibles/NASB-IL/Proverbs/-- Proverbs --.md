@@ -6,16 +6,16 @@ testament: OT
 section: Wisdom
 genre: wisdom
 chapters.total: 31
-original.name: משלי
+original.name: "משלי"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Proverbs/Proverbs 1]]"
+tags:
+  - bible/ot
+  - bible/wisdom
 ---
 
 # Proverbs
 
 *משלי*
-
-**Section:** Wisdom | **Genre:** wisdom | **Chapters:** 31
 
 ## Chapters
 

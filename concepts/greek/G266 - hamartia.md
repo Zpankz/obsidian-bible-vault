@@ -29,10 +29,10 @@ The primary NT word for sin, derived from an archery term meaning "to miss the m
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Cosmic power | Sin as ruling force | [[bibles/NASB-Interlinear/Romans/Romans 6#v12\|Rom 6:12]] |
-| Individual transgressions | Specific sinful acts | [[bibles/NASB-Interlinear/1 John/1 John 1#v9\|1 John 1:9]] |
+| Cosmic power | Sin as ruling force | [[bibles/NASB-IL/Romans/Romans 6#v12\|Rom 6:12]] |
+| Individual transgressions | Specific sinful acts | [[bibles/NASB-IL/1 John/1 John 1#v9\|1 John 1:9]] |
 | The sin offering | Sacrificial context | 2 Cor 5:21; Heb 10:6 |
-| Human condition | Universal fallenness | [[bibles/NASB-Interlinear/Romans/Romans 3#v23\|Rom 3:23]] |
+| Human condition | Universal fallenness | [[bibles/NASB-IL/Romans/Romans 3#v23\|Rom 3:23]] |
 
 ## Theological Significance
 
@@ -42,11 +42,11 @@ The decisive theological statement is Romans 3:23 — "all have sinned and fall 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Romans/Romans 3#v23|Rom 3:23]] — "All have sinned and fall short"
-- [[bibles/NASB-Interlinear/Romans/Romans 5#v12|Rom 5:12]] — "Sin entered the world through one man"
-- [[bibles/NASB-Interlinear/Romans/Romans 6#v23|Rom 6:23]] — "The wages of sin is death"
-- [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 5#v21|2 Cor 5:21]] — "He made Him who knew no sin to be sin"
-- [[bibles/NASB-Interlinear/1 John/1 John 1#v9|1 John 1:9]] — "If we confess our sins"
+- [[bibles/NASB-IL/Romans/Romans 3#v23|Rom 3:23]] — "All have sinned and fall short"
+- [[bibles/NASB-IL/Romans/Romans 5#v12|Rom 5:12]] — "Sin entered the world through one man"
+- [[bibles/NASB-IL/Romans/Romans 6#v23|Rom 6:23]] — "The wages of sin is death"
+- [[bibles/NASB-IL/2 Corinthians/2 Corinthians 5#v21|2 Cor 5:21]] — "He made Him who knew no sin to be sin"
+- [[bibles/NASB-IL/1 John/1 John 1#v9|1 John 1:9]] — "If we confess our sins"
 
 ## OT Background
 

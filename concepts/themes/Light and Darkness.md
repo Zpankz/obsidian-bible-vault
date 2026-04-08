@@ -26,28 +26,28 @@ One of Scripture's most pervasive metaphorical frameworks. Light represents God'
 
 ## Creation: The First Separation
 
-[[bibles/NASB-Interlinear/Genesis/Genesis 1#v3|Gen 1:3-5]] — God's first creative word is "Let there be [[concepts/hebrew/H215 - or|light]]." He then [[concepts/hebrew/H914 - badal|separates]] light from [[concepts/hebrew/H2822 - choshek|darkness]]. This physical act becomes the paradigm for all moral and spiritual separation in Scripture.
+[[bibles/NASB-IL/Genesis/Genesis 1#v3|Gen 1:3-5]] — God's first creative word is "Let there be [[concepts/hebrew/H215 - or|light]]." He then [[concepts/hebrew/H914 - badal|separates]] light from [[concepts/hebrew/H2822 - choshek|darkness]]. This physical act becomes the paradigm for all moral and spiritual separation in Scripture.
 
 ## OT Development
 
-- **Theophany**: [[bibles/NASB-Interlinear/Exodus/Exodus 13#v21|Exod 13:21]] — The pillar of fire (light) guides; darkness covers Egypt
+- **Theophany**: [[bibles/NASB-IL/Exodus/Exodus 13#v21|Exod 13:21]] — The pillar of fire (light) guides; darkness covers Egypt
 - **God's glory**: [[concepts/hebrew/H3519 - kavod|כָּבוֹד]] as radiant light — Exod 34:29-35; Ezek 1:28
 - **Moral metaphor**: Isa 5:20 — "Woe to those who call evil good and good evil, who substitute darkness for light"
-- **Messianic promise**: [[bibles/NASB-Interlinear/Isaiah/Isaiah 9#v2|Isa 9:2]] — "The people who walk in darkness will see a great light"
+- **Messianic promise**: [[bibles/NASB-IL/Isaiah/Isaiah 9#v2|Isa 9:2]] — "The people who walk in darkness will see a great light"
 
 ## Johannine Light/Darkness Theology
 
 John's Gospel develops the theme most intensively:
-- [[bibles/NASB-Interlinear/John/John 1#v4|John 1:4-5]] — "In Him was life, and the life was the light of men. The light shines in the darkness"
-- [[bibles/NASB-Interlinear/John/John 3#v19|John 3:19]] — "Men loved the darkness rather than the light"
-- [[bibles/NASB-Interlinear/John/John 8#v12|John 8:12]] — "I am the light of the world"
-- [[bibles/NASB-Interlinear/John/John 12#v46|John 12:46]] — "I have come as Light into the world"
-- [[bibles/NASB-Interlinear/1 John/1 John 1#v5|1 John 1:5]] — "God is Light, and in Him there is no darkness at all"
+- [[bibles/NASB-IL/John/John 1#v4|John 1:4-5]] — "In Him was life, and the life was the light of men. The light shines in the darkness"
+- [[bibles/NASB-IL/John/John 3#v19|John 3:19]] — "Men loved the darkness rather than the light"
+- [[bibles/NASB-IL/John/John 8#v12|John 8:12]] — "I am the light of the world"
+- [[bibles/NASB-IL/John/John 12#v46|John 12:46]] — "I have come as Light into the world"
+- [[bibles/NASB-IL/1 John/1 John 1#v5|1 John 1:5]] — "God is Light, and in Him there is no darkness at all"
 
 ## Eschatological Resolution
 
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21#v23|Rev 21:23]] — "The city has no need of the sun… for the glory of God has illumined it"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 22#v5|Rev 22:5]] — "There will no longer be any night… the Lord God will illumine them"
+- [[bibles/NASB-IL/Revelation/Revelation 21#v23|Rev 21:23]] — "The city has no need of the sun… for the glory of God has illumined it"
+- [[bibles/NASB-IL/Revelation/Revelation 22#v5|Rev 22:5]] — "There will no longer be any night… the Lord God will illumine them"
 
 ## Canonical Arc
 

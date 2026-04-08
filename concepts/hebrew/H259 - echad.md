@@ -26,10 +26,10 @@ The Hebrew numeral "one," theologically central as the predicate of the Shema: "
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — "Hear, O Israel! The LORD is our God, the LORD is one (*echad*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v24|Gen 2:24]] — "They shall become one (*echad*) flesh"
-- [[bibles/NASB-Interlinear/Zechariah/Zechariah 14#v9|Zech 14:9]] — "The LORD will be king… the LORD will be one (*echad*) and His name one"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v5|Gen 1:5]] — "There was evening and morning, one (*echad*) day"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — "Hear, O Israel! The LORD is our God, the LORD is one (*echad*)"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v24|Gen 2:24]] — "They shall become one (*echad*) flesh"
+- [[bibles/NASB-IL/Zechariah/Zechariah 14#v9|Zech 14:9]] — "The LORD will be king… the LORD will be one (*echad*) and His name one"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v5|Gen 1:5]] — "There was evening and morning, one (*echad*) day"
 
 ## Theological Significance
 

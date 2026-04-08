@@ -28,11 +28,11 @@ Anointed one — from *mashach* ("to smear/anoint with oil"). Anointing set apar
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/1 Samuel/1 Samuel 2#v10|1 Sam 2:10]] — "He will… exalt the horn of His anointed (*mashiach*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 2#v2|Ps 2:2]] — "Against the LORD and against His Anointed (*mashiach*)"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 61#v1|Isa 61:1]] — "The LORD has anointed (*mashach*) me to bring good news"
-- [[bibles/NASB-Interlinear/Daniel/Daniel 9#v25|Dan 9:25]] — "Until Messiah (*mashiach*) the Prince"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 45#v1|Isa 45:1]] — "To Cyrus, His anointed (*mashiach*)"
+- [[bibles/NASB-IL/1 Samuel/1 Samuel 2#v10|1 Sam 2:10]] — "He will… exalt the horn of His anointed (*mashiach*)"
+- [[bibles/NASB-IL/Psalms/Psalms 2#v2|Ps 2:2]] — "Against the LORD and against His Anointed (*mashiach*)"
+- [[bibles/NASB-IL/Isaiah/Isaiah 61#v1|Isa 61:1]] — "The LORD has anointed (*mashach*) me to bring good news"
+- [[bibles/NASB-IL/Daniel/Daniel 9#v25|Dan 9:25]] — "Until Messiah (*mashiach*) the Prince"
+- [[bibles/NASB-IL/Isaiah/Isaiah 45#v1|Isa 45:1]] — "To Cyrus, His anointed (*mashiach*)"
 
 ## Theological Significance
 

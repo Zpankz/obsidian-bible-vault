@@ -29,8 +29,8 @@ Literally "the called-out assembly" — those summoned from the wider populace f
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Universal church | The whole body of believers | [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v22\|Eph 1:22-23]] |
-| Local congregation | A specific gathered community | [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 1#v2\|1 Cor 1:2]] |
+| Universal church | The whole body of believers | [[bibles/NASB-IL/Ephesians/Ephesians 1#v22\|Eph 1:22-23]] |
+| Local congregation | A specific gathered community | [[bibles/NASB-IL/1 Corinthians/1 Corinthians 1#v2\|1 Cor 1:2]] |
 | House church | Believers meeting in a home | Rom 16:5; Col 4:15 |
 | Secular assembly | Public civic gathering | Acts 19:39 |
 
@@ -42,11 +42,11 @@ Ephesians 5:25-27 presents the church as the bride of Christ, for whom He gave H
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 16#v18|Matt 16:18]] — "On this rock I will build My ekklesia"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v42|Acts 2:42-47]] — The first ekklesia described
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 12#v27|1 Cor 12:27]] — "You are Christ's body"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v22|Eph 1:22-23]] — The church as the fullness of Christ
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 5#v25|Eph 5:25]] — Christ loved the ekklesia and gave Himself up for her
+- [[bibles/NASB-IL/Matthew/Matthew 16#v18|Matt 16:18]] — "On this rock I will build My ekklesia"
+- [[bibles/NASB-IL/Acts/Acts 2#v42|Acts 2:42-47]] — The first ekklesia described
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 12#v27|1 Cor 12:27]] — "You are Christ's body"
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v22|Eph 1:22-23]] — The church as the fullness of Christ
+- [[bibles/NASB-IL/Ephesians/Ephesians 5#v25|Eph 5:25]] — Christ loved the ekklesia and gave Himself up for her
 
 ## OT Background
 

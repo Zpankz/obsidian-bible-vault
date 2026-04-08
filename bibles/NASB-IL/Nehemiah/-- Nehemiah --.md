@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 13
-original.name: נחמיה
+original.name: "נחמיה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Nehemiah/Nehemiah 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # Nehemiah
 
 *נחמיה*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 13
 
 ## Chapters
 

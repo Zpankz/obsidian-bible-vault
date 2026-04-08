@@ -28,10 +28,10 @@ Messenger or angel — from the root meaning "to send." The word applies to both
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 16#v7|Gen 16:7]] — "The angel (*malak*) of the LORD found her by a spring"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v2|Exod 3:2]] — "The angel (*malak*) of the LORD appeared to him in a blazing fire"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 22#v11|Gen 22:11]] — "The angel (*malak*) of the LORD called to him from heaven"
-- [[bibles/NASB-Interlinear/Malachi/Malachi 3#v1|Mal 3:1]] — "I am going to send My messenger (*malak*)"
+- [[bibles/NASB-IL/Genesis/Genesis 16#v7|Gen 16:7]] — "The angel (*malak*) of the LORD found her by a spring"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v2|Exod 3:2]] — "The angel (*malak*) of the LORD appeared to him in a blazing fire"
+- [[bibles/NASB-IL/Genesis/Genesis 22#v11|Gen 22:11]] — "The angel (*malak*) of the LORD called to him from heaven"
+- [[bibles/NASB-IL/Malachi/Malachi 3#v1|Mal 3:1]] — "I am going to send My messenger (*malak*)"
 
 ## Theological Significance
 

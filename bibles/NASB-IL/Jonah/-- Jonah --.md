@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: narrative
 chapters.total: 4
-original.name: יונה
+original.name: "יונה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Jonah/Jonah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Jonah
 
 *יונה*
-
-**Section:** Minor Prophets | **Genre:** narrative | **Chapters:** 4
 
 ## Chapters
 

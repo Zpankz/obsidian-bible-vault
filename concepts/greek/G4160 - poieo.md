@@ -27,10 +27,10 @@ To do, make, produce — the general-purpose Greek verb for action and productio
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v3|John 1:3]] — "All things came into being (*ginomai*) through Him" (cf. *poieo* in Heb 1:2)
-- [[bibles/NASB-Interlinear/Matthew/Matthew 7#v21|Matt 7:21]] — "He who does (*poieo*) the will of My Father"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v10|Eph 2:10]] — "We are His workmanship (*poiema*), created in Christ Jesus for good works"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21#v5|Rev 21:5]] — "Behold, I am making (*poieo*) all things new"
+- [[bibles/NASB-IL/John/John 1#v3|John 1:3]] — "All things came into being (*ginomai*) through Him" (cf. *poieo* in Heb 1:2)
+- [[bibles/NASB-IL/Matthew/Matthew 7#v21|Matt 7:21]] — "He who does (*poieo*) the will of My Father"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v10|Eph 2:10]] — "We are His workmanship (*poiema*), created in Christ Jesus for good works"
+- [[bibles/NASB-IL/Revelation/Revelation 21#v5|Rev 21:5]] — "Behold, I am making (*poieo*) all things new"
 
 ## Theological Significance
 

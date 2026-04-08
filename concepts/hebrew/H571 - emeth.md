@@ -27,10 +27,10 @@ Truth in the Hebrew sense — not abstract philosophical correspondence but conc
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 34#v6|Exod 34:6]] — "Abounding in lovingkindness and truth (*emeth*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 25#v5|Ps 25:5]] — "Lead me in Your truth (*emeth*) and teach me"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 119#v160|Ps 119:160]] — "The sum of Your word is truth (*emeth*)"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 65#v16|Isa 65:16]] — "The God of truth (*emeth*)" (lit. "the God of Amen")
+- [[bibles/NASB-IL/Exodus/Exodus 34#v6|Exod 34:6]] — "Abounding in lovingkindness and truth (*emeth*)"
+- [[bibles/NASB-IL/Psalms/Psalms 25#v5|Ps 25:5]] — "Lead me in Your truth (*emeth*) and teach me"
+- [[bibles/NASB-IL/Psalms/Psalms 119#v160|Ps 119:160]] — "The sum of Your word is truth (*emeth*)"
+- [[bibles/NASB-IL/Isaiah/Isaiah 65#v16|Isa 65:16]] — "The God of truth (*emeth*)" (lit. "the God of Amen")
 
 ## Theological Significance
 

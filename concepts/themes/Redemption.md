@@ -39,17 +39,17 @@ The act of buying back, releasing, or rescuing from bondage. In the OT, the [[co
 ## The Exodus as Redemption Paradigm
 
 The Exodus is the OT's defining redemption event:
-- [[bibles/NASB-Interlinear/Exodus/Exodus 6#v6|Exod 6:6]] — "I will redeem you with an outstretched arm"
+- [[bibles/NASB-IL/Exodus/Exodus 6#v6|Exod 6:6]] — "I will redeem you with an outstretched arm"
 - The Passover lamb's blood (Exod 12:13) → protection from judgment
 - Crossing the Red Sea → liberation from slavery
 - The NT reads the Cross through this lens: Christ is "our Passover" (1 Cor 5:7)
 
 ## NT Redemption
 
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v7|Eph 1:7]] — "We have redemption through His blood, the forgiveness of our trespasses"
-- [[bibles/NASB-Interlinear/1 Peter/1 Peter 1#v18|1 Pet 1:18-19]] — "Not redeemed with perishable things… but with precious blood"
-- [[bibles/NASB-Interlinear/Galatians/Galatians 3#v13|Gal 3:13]] — "Christ redeemed us from the curse of the Law"
-- [[bibles/NASB-Interlinear/Titus/Titus 2#v14|Titus 2:14]] — "He gave Himself for us to redeem us from every lawless deed"
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v7|Eph 1:7]] — "We have redemption through His blood, the forgiveness of our trespasses"
+- [[bibles/NASB-IL/1 Peter/1 Peter 1#v18|1 Pet 1:18-19]] — "Not redeemed with perishable things… but with precious blood"
+- [[bibles/NASB-IL/Galatians/Galatians 3#v13|Gal 3:13]] — "Christ redeemed us from the curse of the Law"
+- [[bibles/NASB-IL/Titus/Titus 2#v14|Titus 2:14]] — "He gave Himself for us to redeem us from every lawless deed"
 
 ## The Kinsman-Redeemer
 

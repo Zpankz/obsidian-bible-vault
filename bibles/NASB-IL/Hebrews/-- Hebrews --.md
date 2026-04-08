@@ -6,16 +6,16 @@ testament: NT
 section: General
 genre: epistle
 chapters.total: 13
-original.name: ΠΡΟΣ ΕΒΡΑΙΟΥΣ
+original.name: "ΠΡΟΣ ΕΒΡΑΙΟΥΣ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Hebrews/Hebrews 1]]"
+tags:
+  - bible/nt
+  - bible/general
 ---
 
 # Hebrews
 
 *ΠΡΟΣ ΕΒΡΑΙΟΥΣ*
-
-**Section:** General | **Genre:** epistle | **Chapters:** 13
 
 ## Chapters
 

@@ -27,10 +27,10 @@ Appointed time, designated meeting, or festival — from the root *yaad* ("to ap
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v14|Gen 1:14]] — "Let them be for signs and for seasons (*moedim*)"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 23#v2|Lev 23:2]] — "The appointed times (*moedim*) of the LORD"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 33#v7|Exod 33:7]] — "The tent of meeting (*ohel moed*)"
-- [[bibles/NASB-Interlinear/Daniel/Daniel 12#v7|Dan 12:7]] — "A time (*moed*), times, and half a time"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v14|Gen 1:14]] — "Let them be for signs and for seasons (*moedim*)"
+- [[bibles/NASB-IL/Leviticus/Leviticus 23#v2|Lev 23:2]] — "The appointed times (*moedim*) of the LORD"
+- [[bibles/NASB-IL/Exodus/Exodus 33#v7|Exod 33:7]] — "The tent of meeting (*ohel moed*)"
+- [[bibles/NASB-IL/Daniel/Daniel 12#v7|Dan 12:7]] — "A time (*moed*), times, and half a time"
 
 ## Theological Significance
 

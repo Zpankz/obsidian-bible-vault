@@ -28,11 +28,11 @@ Salvation, deliverance — from the root *yasha* ("to save, deliver, make wide/s
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 14#v13|Exod 14:13]] — "Stand still and see the salvation (*yeshuah*) of the LORD"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 3#v8|Ps 3:8]] — "Salvation (*yeshuah*) belongs to the LORD"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 12#v2|Isa 12:2]] — "God is my salvation (*yeshuah*); I will trust and not be afraid"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 49#v6|Isa 49:6]] — "My salvation (*yeshuah*) to the end of the earth"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 118#v14|Ps 118:14]] — "The LORD… has become my salvation (*yeshuah*)"
+- [[bibles/NASB-IL/Exodus/Exodus 14#v13|Exod 14:13]] — "Stand still and see the salvation (*yeshuah*) of the LORD"
+- [[bibles/NASB-IL/Psalms/Psalms 3#v8|Ps 3:8]] — "Salvation (*yeshuah*) belongs to the LORD"
+- [[bibles/NASB-IL/Isaiah/Isaiah 12#v2|Isa 12:2]] — "God is my salvation (*yeshuah*); I will trust and not be afraid"
+- [[bibles/NASB-IL/Isaiah/Isaiah 49#v6|Isa 49:6]] — "My salvation (*yeshuah*) to the end of the earth"
+- [[bibles/NASB-IL/Psalms/Psalms 118#v14|Ps 118:14]] — "The LORD… has become my salvation (*yeshuah*)"
 
 ## Theological Significance
 

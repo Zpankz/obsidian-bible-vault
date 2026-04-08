@@ -27,11 +27,11 @@ Expanse or firmament — the structure God placed on Day Two to separate the wat
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v6|Gen 1:6]] — "Let there be an expanse (*raqia*) in the midst of the waters"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v8|Gen 1:8]] — "God called the expanse (*raqia*) heaven"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v14|Gen 1:14]] — "Let there be lights in the expanse (*raqia*) of the heavens"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 19#v1|Ps 19:1]] — "The expanse (*raqia*) is declaring the work of His hands"
-- [[bibles/NASB-Interlinear/Ezekiel/Ezekiel 1#v22|Ezek 1:22]] — "Over the heads of the living beings there was something like an expanse (*raqia*)"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v6|Gen 1:6]] — "Let there be an expanse (*raqia*) in the midst of the waters"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v8|Gen 1:8]] — "God called the expanse (*raqia*) heaven"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v14|Gen 1:14]] — "Let there be lights in the expanse (*raqia*) of the heavens"
+- [[bibles/NASB-IL/Psalms/Psalms 19#v1|Ps 19:1]] — "The expanse (*raqia*) is declaring the work of His hands"
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 1#v22|Ezek 1:22]] — "Over the heads of the living beings there was something like an expanse (*raqia*)"
 
 ## Theological Significance
 

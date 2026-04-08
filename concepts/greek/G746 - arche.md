@@ -30,8 +30,8 @@ A word carrying dual force: temporal origin ("beginning") and positional authori
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Temporal origin | The beginning of time/creation | [[bibles/NASB-Interlinear/John/John 1#v1\|John 1:1]] |
-| Christ as origin | Source and firstborn of creation | [[bibles/NASB-Interlinear/Colossians/Colossians 1#v18\|Col 1:18]] |
+| Temporal origin | The beginning of time/creation | [[bibles/NASB-IL/John/John 1#v1\|John 1:1]] |
+| Christ as origin | Source and firstborn of creation | [[bibles/NASB-IL/Colossians/Colossians 1#v18\|Col 1:18]] |
 | Spiritual authorities | Rulers, principalities | Eph 3:10; Col 2:15 |
 | First principles | Elementary teachings | Heb 5:12; 6:1 |
 
@@ -43,10 +43,10 @@ Colossians 1:18 names Christ "the ἀρχή, the firstborn from the dead" — He
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 1#v1|John 1:1]] — "In the beginning was the Word"
-- [[bibles/NASB-Interlinear/Colossians/Colossians 1#v18|Col 1:18]] — "He is the beginning, the firstborn from the dead"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 3#v14|Rev 3:14]] — "The Beginning of the creation of God"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21#v6|Rev 21:6]] — "I am the Alpha and the Omega, the beginning and the end"
+- [[bibles/NASB-IL/John/John 1#v1|John 1:1]] — "In the beginning was the Word"
+- [[bibles/NASB-IL/Colossians/Colossians 1#v18|Col 1:18]] — "He is the beginning, the firstborn from the dead"
+- [[bibles/NASB-IL/Revelation/Revelation 3#v14|Rev 3:14]] — "The Beginning of the creation of God"
+- [[bibles/NASB-IL/Revelation/Revelation 21#v6|Rev 21:6]] — "I am the Alpha and the Omega, the beginning and the end"
 
 ## OT Background
 

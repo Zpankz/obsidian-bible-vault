@@ -29,10 +29,10 @@ Priest — the authorized mediator between God and the people, responsible for s
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 14#v18|Gen 14:18]] — "Melchizedek… was a priest (*kohen*) of God Most High"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 19#v6|Exod 19:6]] — "You shall be to Me a kingdom of priests (*kohanim*)"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 10#v10|Lev 10:10]] — The priest distinguishes holy from common
-- [[bibles/NASB-Interlinear/Psalms/Psalms 110#v4|Ps 110:4]] — "You are a priest (*kohen*) forever according to the order of Melchizedek"
+- [[bibles/NASB-IL/Genesis/Genesis 14#v18|Gen 14:18]] — "Melchizedek… was a priest (*kohen*) of God Most High"
+- [[bibles/NASB-IL/Exodus/Exodus 19#v6|Exod 19:6]] — "You shall be to Me a kingdom of priests (*kohanim*)"
+- [[bibles/NASB-IL/Leviticus/Leviticus 10#v10|Lev 10:10]] — The priest distinguishes holy from common
+- [[bibles/NASB-IL/Psalms/Psalms 110#v4|Ps 110:4]] — "You are a priest (*kohen*) forever according to the order of Melchizedek"
 
 ## Theological Significance
 

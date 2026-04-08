@@ -36,7 +36,7 @@ The primary Hebrew designation for God, occurring 2,602 times in the Old Testame
 
 | Usage | Context | Example |
 |:---|:---|:---|
-| The God of Israel | With singular verbs | [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1\|Gen 1:1]] — "God created" |
+| The God of Israel | With singular verbs | [[bibles/NASB-IL/Genesis/Genesis 1#v1\|Gen 1:1]] — "God created" |
 | Pagan gods | With plural verbs | Exod 12:12 — "against all the gods of Egypt" |
 | Angelic/divine beings | Heavenly court | Ps 82:1 — "God takes His stand… He judges among the gods" |
 | Human judges | As God's representatives | Exod 21:6 — "bring him to the judges" |
@@ -45,14 +45,14 @@ The primary Hebrew designation for God, occurring 2,602 times in the Old Testame
 
 The plural form with singular agreement is one of the most discussed features of biblical Hebrew theology. It does **not** prove the Trinity (that would be anachronistic eisegesis), but it creates a semantic space — a grammatical plurality within theological monotheism — that the NT authors later inhabited when articulating trinitarian theology.
 
-The word's first occurrence ([[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]]) establishes God as the uncaused cause, the subject of the first verb in Scripture: בָּרָא ([[concepts/hebrew/H1254 - bara|bara]], "created"). Only Elohim is ever the subject of *bara* — creation *ex nihilo* is a divine prerogative.
+The word's first occurrence ([[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]]) establishes God as the uncaused cause, the subject of the first verb in Scripture: בָּרָא ([[concepts/hebrew/H1254 - bara|bara]], "created"). Only Elohim is ever the subject of *bara* — creation *ex nihilo* is a divine prerogative.
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v1|Gen 1:1]] — First occurrence; God as Creator
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26]] — "Let **Us** make man" — plural self-deliberation
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — The Shema: "YHWH our **Elohim**, YHWH is one"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 82#v1|Ps 82:1]] — Divine council: "Elohim judges among the elohim"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v1|Gen 1:1]] — First occurrence; God as Creator
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26]] — "Let **Us** make man" — plural self-deliberation
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 6#v4|Deut 6:4]] — The Shema: "YHWH our **Elohim**, YHWH is one"
+- [[bibles/NASB-IL/Psalms/Psalms 82#v1|Ps 82:1]] — Divine council: "Elohim judges among the elohim"
 
 ## NT Connection
 

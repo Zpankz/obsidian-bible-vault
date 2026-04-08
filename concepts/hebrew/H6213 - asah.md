@@ -27,11 +27,11 @@ To do, make, produce — the general-purpose Hebrew verb for making or doing. In
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v7|Gen 1:7]] — "God made (*asah*) the expanse"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v16|Gen 1:16]] — "God made (*asah*) the two great lights"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26]] — "Let Us make (*asah*) man in Our image"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v31|Gen 1:31]] — "God saw all that He had made (*asah*)"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 31#v17|Exod 31:17]] — "In six days the LORD made (*asah*) heaven and earth"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v7|Gen 1:7]] — "God made (*asah*) the expanse"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v16|Gen 1:16]] — "God made (*asah*) the two great lights"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26]] — "Let Us make (*asah*) man in Our image"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v31|Gen 1:31]] — "God saw all that He had made (*asah*)"
+- [[bibles/NASB-IL/Exodus/Exodus 31#v17|Exod 31:17]] — "In six days the LORD made (*asah*) heaven and earth"
 
 ## Theological Significance
 

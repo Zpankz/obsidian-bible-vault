@@ -29,8 +29,8 @@ Righteousness — the state of being in right standing before God. In Paul, it b
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| God's righteousness | His faithful, saving justice | [[bibles/NASB-Interlinear/Romans/Romans 1#v17\|Rom 1:17]] |
-| Imputed righteousness | Credited through faith | [[bibles/NASB-Interlinear/Romans/Romans 4#v5\|Rom 4:5]] |
+| God's righteousness | His faithful, saving justice | [[bibles/NASB-IL/Romans/Romans 1#v17\|Rom 1:17]] |
+| Imputed righteousness | Credited through faith | [[bibles/NASB-IL/Romans/Romans 4#v5\|Rom 4:5]] |
 | Ethical conduct | Right behavior | Matt 5:6, 20; 6:1 |
 | Eschatological justice | God's final verdict | 2 Tim 4:8 |
 
@@ -42,11 +42,11 @@ In Matthew, righteousness has a more ethical orientation: "Blessed are those who
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Romans/Romans 1#v17|Rom 1:17]] — "The righteousness of God is revealed"
-- [[bibles/NASB-Interlinear/Romans/Romans 3#v21|Rom 3:21-26]] — Righteousness apart from law, through faith
-- [[bibles/NASB-Interlinear/Romans/Romans 4#v5|Rom 4:5]] — Faith credited as righteousness
-- [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 5#v21|2 Cor 5:21]] — "That we might become the righteousness of God in Him"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 3#v9|Phil 3:9]] — "The righteousness which comes from God on the basis of faith"
+- [[bibles/NASB-IL/Romans/Romans 1#v17|Rom 1:17]] — "The righteousness of God is revealed"
+- [[bibles/NASB-IL/Romans/Romans 3#v21|Rom 3:21-26]] — Righteousness apart from law, through faith
+- [[bibles/NASB-IL/Romans/Romans 4#v5|Rom 4:5]] — Faith credited as righteousness
+- [[bibles/NASB-IL/2 Corinthians/2 Corinthians 5#v21|2 Cor 5:21]] — "That we might become the righteousness of God in Him"
+- [[bibles/NASB-IL/Philippians/Philippians 3#v9|Phil 3:9]] — "The righteousness which comes from God on the basis of faith"
 
 ## OT Background
 

@@ -29,10 +29,10 @@ The LXX's rendering of the Hebrew *berith* ("covenant"), deliberately chosen ove
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| New covenant | The covenant in Christ's blood | [[bibles/NASB-Interlinear/Luke/Luke 22#v20\|Luke 22:20]] |
-| Old covenant | The Sinai covenant / Mosaic law | [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 3#v14\|2 Cor 3:14]] |
-| Abrahamic covenant | Promise to Abraham | [[bibles/NASB-Interlinear/Galatians/Galatians 3#v17\|Gal 3:17]] |
-| Testament/will | Last will of a testator | [[bibles/NASB-Interlinear/Hebrews/Hebrews 9#v16\|Heb 9:16-17]] |
+| New covenant | The covenant in Christ's blood | [[bibles/NASB-IL/Luke/Luke 22#v20\|Luke 22:20]] |
+| Old covenant | The Sinai covenant / Mosaic law | [[bibles/NASB-IL/2 Corinthians/2 Corinthians 3#v14\|2 Cor 3:14]] |
+| Abrahamic covenant | Promise to Abraham | [[bibles/NASB-IL/Galatians/Galatians 3#v17\|Gal 3:17]] |
+| Testament/will | Last will of a testator | [[bibles/NASB-IL/Hebrews/Hebrews 9#v16\|Heb 9:16-17]] |
 
 ## Theological Significance
 
@@ -42,11 +42,11 @@ Jesus' words at the Last Supper — "This cup is the new covenant in My blood" (
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Luke/Luke 22#v20|Luke 22:20]] — "This cup… is the new covenant in My blood"
-- [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 3#v6|2 Cor 3:6]] — "Ministers of a new covenant"
-- [[bibles/NASB-Interlinear/Galatians/Galatians 3#v17|Gal 3:17]] — The covenant with Abraham precedes the law
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 8#v8|Heb 8:8-12]] — Quotation of Jeremiah 31:31-34
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 9#v15|Heb 9:15]] — Christ the mediator of a new covenant
+- [[bibles/NASB-IL/Luke/Luke 22#v20|Luke 22:20]] — "This cup… is the new covenant in My blood"
+- [[bibles/NASB-IL/2 Corinthians/2 Corinthians 3#v6|2 Cor 3:6]] — "Ministers of a new covenant"
+- [[bibles/NASB-IL/Galatians/Galatians 3#v17|Gal 3:17]] — The covenant with Abraham precedes the law
+- [[bibles/NASB-IL/Hebrews/Hebrews 8#v8|Heb 8:8-12]] — Quotation of Jeremiah 31:31-34
+- [[bibles/NASB-IL/Hebrews/Hebrews 9#v15|Heb 9:15]] — Christ the mediator of a new covenant
 
 ## OT Background
 

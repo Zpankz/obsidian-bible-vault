@@ -29,10 +29,10 @@ To atone, cover, or make atonement — the central verb of the sacrificial syste
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 16#v30|Lev 16:30]] — "On this day atonement (*kaphar*) shall be made for you to cleanse you"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 17#v11|Lev 17:11]] — "The life of the flesh is in the blood… it is the blood that makes atonement (*kaphar*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 6#v14|Gen 6:14]] — "Cover (*kaphar*) it with pitch" (Noah's ark — same root)
-- [[bibles/NASB-Interlinear/Exodus/Exodus 30#v10|Exod 30:10]] — "Aaron shall make atonement (*kaphar*) on its horns once a year"
+- [[bibles/NASB-IL/Leviticus/Leviticus 16#v30|Lev 16:30]] — "On this day atonement (*kaphar*) shall be made for you to cleanse you"
+- [[bibles/NASB-IL/Leviticus/Leviticus 17#v11|Lev 17:11]] — "The life of the flesh is in the blood… it is the blood that makes atonement (*kaphar*)"
+- [[bibles/NASB-IL/Genesis/Genesis 6#v14|Gen 6:14]] — "Cover (*kaphar*) it with pitch" (Noah's ark — same root)
+- [[bibles/NASB-IL/Exodus/Exodus 30#v10|Exod 30:10]] — "Aaron shall make atonement (*kaphar*) on its horns once a year"
 
 ## Theological Significance
 

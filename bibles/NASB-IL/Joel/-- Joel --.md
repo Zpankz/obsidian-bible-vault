@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 3
-original.name: יואל
+original.name: "יואל"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Joel/Joel 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Joel
 
 *יואל*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 3
 
 ## Chapters
 

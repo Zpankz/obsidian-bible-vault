@@ -28,11 +28,11 @@ To save, deliver, heal, make whole — a comprehensive verb covering physical he
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 1#v21|Matt 1:21]] — "He will save (*sozo*) His people from their sins"
-- [[bibles/NASB-Interlinear/Mark/Mark 5#v34|Mark 5:34]] — "Your faith has made you well (*sozo*)"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v21|Acts 2:21]] — "Everyone who calls on the name of the Lord will be saved (*sozo*)"
-- [[bibles/NASB-Interlinear/Romans/Romans 10#v9|Rom 10:9]] — "You will be saved (*sozo*)"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 2#v8|Eph 2:8]] — "By grace you have been saved (*sozo*)"
+- [[bibles/NASB-IL/Matthew/Matthew 1#v21|Matt 1:21]] — "He will save (*sozo*) His people from their sins"
+- [[bibles/NASB-IL/Mark/Mark 5#v34|Mark 5:34]] — "Your faith has made you well (*sozo*)"
+- [[bibles/NASB-IL/Acts/Acts 2#v21|Acts 2:21]] — "Everyone who calls on the name of the Lord will be saved (*sozo*)"
+- [[bibles/NASB-IL/Romans/Romans 10#v9|Rom 10:9]] — "You will be saved (*sozo*)"
+- [[bibles/NASB-IL/Ephesians/Ephesians 2#v8|Eph 2:8]] — "By grace you have been saved (*sozo*)"
 
 ## Theological Significance
 

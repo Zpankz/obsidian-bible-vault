@@ -28,11 +28,11 @@ Living, alive, life — the adjective used to describe both God ("the living God
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — "Man became a living (*chay*) being"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 3#v20|Gen 3:20]] — "Eve… the mother of all the living (*chay*)"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 5#v26|Deut 5:26]] — "The voice of the living (*chay*) God"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 42#v2|Ps 42:2]] — "My soul thirsts for God, for the living (*chay*) God"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 10#v10|Jer 10:10]] — "The LORD is the true God; He is the living (*chay*) God"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — "Man became a living (*chay*) being"
+- [[bibles/NASB-IL/Genesis/Genesis 3#v20|Gen 3:20]] — "Eve… the mother of all the living (*chay*)"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 5#v26|Deut 5:26]] — "The voice of the living (*chay*) God"
+- [[bibles/NASB-IL/Psalms/Psalms 42#v2|Ps 42:2]] — "My soul thirsts for God, for the living (*chay*) God"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 10#v10|Jer 10:10]] — "The LORD is the true God; He is the living (*chay*) God"
 
 ## Theological Significance
 

@@ -28,11 +28,11 @@ Soul, life, self, person — the Hebrew word for the whole living being, not an 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 2#v7|Gen 2:7]] — "Man became a living being (*nephesh chayyah*)"
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 6#v5|Deut 6:5]] — "Love the LORD your God with all your… soul (*nephesh*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 42#v1|Ps 42:1]] — "As the deer pants… so my soul (*nephesh*) pants for You"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 17#v11|Lev 17:11]] — "The life (*nephesh*) of the flesh is in the blood"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 23#v3|Ps 23:3]] — "He restores my soul (*nephesh*)"
+- [[bibles/NASB-IL/Genesis/Genesis 2#v7|Gen 2:7]] — "Man became a living being (*nephesh chayyah*)"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 6#v5|Deut 6:5]] — "Love the LORD your God with all your… soul (*nephesh*)"
+- [[bibles/NASB-IL/Psalms/Psalms 42#v1|Ps 42:1]] — "As the deer pants… so my soul (*nephesh*) pants for You"
+- [[bibles/NASB-IL/Leviticus/Leviticus 17#v11|Lev 17:11]] — "The life (*nephesh*) of the flesh is in the blood"
+- [[bibles/NASB-IL/Psalms/Psalms 23#v3|Ps 23:3]] — "He restores my soul (*nephesh*)"
 
 ## Theological Significance
 

@@ -6,16 +6,16 @@ testament: NT
 section: Gospels
 genre: gospel
 chapters.total: 16
-original.name: ΚΑΤΑ ΜΑΡΚΟΝ
+original.name: "ΚΑΤΑ ΜΑΡΚΟΝ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Mark/Mark 1]]"
+tags:
+  - bible/nt
+  - bible/gospels
 ---
 
 # Mark
 
 *ΚΑΤΑ ΜΑΡΚΟΝ*
-
-**Section:** Gospels | **Genre:** gospel | **Chapters:** 16
 
 ## Chapters
 

@@ -27,11 +27,11 @@ Law — the LXX translation of [[concepts/hebrew/H8451 - torah|Torah]]. In Paul'
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 5#v17|Matt 5:17]] — "I did not come to abolish the Law (*nomos*) but to fulfill"
-- [[bibles/NASB-Interlinear/Romans/Romans 3#v20|Rom 3:20]] — "By the works of the Law (*nomos*) no flesh will be justified"
-- [[bibles/NASB-Interlinear/Romans/Romans 7#v12|Rom 7:12]] — "The Law (*nomos*) is holy, and the commandment is holy and righteous and good"
-- [[bibles/NASB-Interlinear/Galatians/Galatians 3#v24|Gal 3:24]] — "The Law (*nomos*) has become our tutor to lead us to Christ"
-- [[bibles/NASB-Interlinear/Romans/Romans 10#v4|Rom 10:4]] — "Christ is the end (*telos*) of the Law (*nomos*)"
+- [[bibles/NASB-IL/Matthew/Matthew 5#v17|Matt 5:17]] — "I did not come to abolish the Law (*nomos*) but to fulfill"
+- [[bibles/NASB-IL/Romans/Romans 3#v20|Rom 3:20]] — "By the works of the Law (*nomos*) no flesh will be justified"
+- [[bibles/NASB-IL/Romans/Romans 7#v12|Rom 7:12]] — "The Law (*nomos*) is holy, and the commandment is holy and righteous and good"
+- [[bibles/NASB-IL/Galatians/Galatians 3#v24|Gal 3:24]] — "The Law (*nomos*) has become our tutor to lead us to Christ"
+- [[bibles/NASB-IL/Romans/Romans 10#v4|Rom 10:4]] — "Christ is the end (*telos*) of the Law (*nomos*)"
 
 ## Theological Significance
 

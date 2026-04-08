@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 2
-original.name: חגי
+original.name: "חגי"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Haggai/Haggai 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Haggai
 
 *חגי*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 2
 
 ## Chapters
 

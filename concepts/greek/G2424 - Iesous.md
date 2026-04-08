@@ -30,8 +30,8 @@ The Greek form of the Hebrew name יְהוֹשֻׁעַ (*Yehoshua* / Joshua), me
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The historical person | Jesus of Nazareth | [[bibles/NASB-Interlinear/Matthew/Matthew 1#v21\|Matt 1:21]] |
-| The exalted Lord | Jesus Christ, risen and reigning | [[bibles/NASB-Interlinear/Philippians/Philippians 2#v10\|Phil 2:10]] |
+| The historical person | Jesus of Nazareth | [[bibles/NASB-IL/Matthew/Matthew 1#v21\|Matt 1:21]] |
+| The exalted Lord | Jesus Christ, risen and reigning | [[bibles/NASB-IL/Philippians/Philippians 2#v10\|Phil 2:10]] |
 | The name above all names | Object of confession and worship | Phil 2:9-11 |
 | OT Joshua | The LXX uses the same name | Acts 7:45; Heb 4:8 |
 
@@ -41,11 +41,11 @@ The name "Jesus" anchors Christology in history — this is a real person, born 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 1#v21|Matt 1:21]] — "You shall call His name Jesus, for He will save His people"
-- [[bibles/NASB-Interlinear/Acts/Acts 4#v12|Acts 4:12]] — "There is no other name… by which we must be saved"
-- [[bibles/NASB-Interlinear/Philippians/Philippians 2#v9|Phil 2:9-11]] — "The name above every name… Jesus"
-- [[bibles/NASB-Interlinear/Hebrews/Hebrews 4#v14|Heb 4:14]] — "Jesus the Son of God, our great high priest"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 22#v20|Rev 22:20]] — "Come, Lord Jesus"
+- [[bibles/NASB-IL/Matthew/Matthew 1#v21|Matt 1:21]] — "You shall call His name Jesus, for He will save His people"
+- [[bibles/NASB-IL/Acts/Acts 4#v12|Acts 4:12]] — "There is no other name… by which we must be saved"
+- [[bibles/NASB-IL/Philippians/Philippians 2#v9|Phil 2:9-11]] — "The name above every name… Jesus"
+- [[bibles/NASB-IL/Hebrews/Hebrews 4#v14|Heb 4:14]] — "Jesus the Son of God, our great high priest"
+- [[bibles/NASB-IL/Revelation/Revelation 22#v20|Rev 22:20]] — "Come, Lord Jesus"
 
 ## OT Background
 

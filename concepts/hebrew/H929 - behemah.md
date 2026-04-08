@@ -27,10 +27,10 @@ A collective noun for beasts or large land animals, especially domesticated live
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v25|Gen 1:25]] — "God made the beasts (*behemah*) of the earth"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v26|Gen 1:26]] — "Let them rule over… the cattle (*behemah*)"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 6#v7|Gen 6:7]] — "I will blot out man… and animals (*behemah*)"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 49#v12|Ps 49:12]] — "Man… is like the beasts (*behemot*) that perish"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v25|Gen 1:25]] — "God made the beasts (*behemah*) of the earth"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v26|Gen 1:26]] — "Let them rule over… the cattle (*behemah*)"
+- [[bibles/NASB-IL/Genesis/Genesis 6#v7|Gen 6:7]] — "I will blot out man… and animals (*behemah*)"
+- [[bibles/NASB-IL/Psalms/Psalms 49#v12|Ps 49:12]] — "Man… is like the beasts (*behemot*) that perish"
 
 ## Theological Significance
 

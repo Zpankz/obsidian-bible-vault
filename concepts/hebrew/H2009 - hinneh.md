@@ -26,11 +26,11 @@ Behold! — an attention-focusing particle that shifts the reader's perspective 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v31|Gen 1:31]] — "God saw all that He had made, and behold (*hinneh*), it was very good"
-- [[bibles/NASB-Interlinear/Genesis/Genesis 22#v13|Gen 22:13]] — "Behold (*hinneh*), behind him a ram caught in the thicket"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 7#v14|Isa 7:14]] — "Behold (*hinneh*), the virgin shall conceive"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 65#v17|Isa 65:17]] — "Behold (*hinneh*), I create new heavens and a new earth"
-- [[bibles/NASB-Interlinear/Revelation/Revelation 21#v5|Rev 21:5]] — "Behold, I am making all things new"
+- [[bibles/NASB-IL/Genesis/Genesis 1#v31|Gen 1:31]] — "God saw all that He had made, and behold (*hinneh*), it was very good"
+- [[bibles/NASB-IL/Genesis/Genesis 22#v13|Gen 22:13]] — "Behold (*hinneh*), behind him a ram caught in the thicket"
+- [[bibles/NASB-IL/Isaiah/Isaiah 7#v14|Isa 7:14]] — "Behold (*hinneh*), the virgin shall conceive"
+- [[bibles/NASB-IL/Isaiah/Isaiah 65#v17|Isa 65:17]] — "Behold (*hinneh*), I create new heavens and a new earth"
+- [[bibles/NASB-IL/Revelation/Revelation 21#v5|Rev 21:5]] — "Behold, I am making all things new"
 
 ## Theological Significance
 

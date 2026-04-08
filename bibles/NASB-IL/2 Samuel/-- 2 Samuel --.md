@@ -6,16 +6,16 @@ testament: OT
 section: Historical
 genre: narrative
 chapters.total: 24
-original.name: שמואל ב
+original.name: "שמואל ב"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/2 Samuel/2 Samuel 1]]"
+tags:
+  - bible/ot
+  - bible/historical
 ---
 
 # 2 Samuel
 
 *שמואל ב*
-
-**Section:** Historical | **Genre:** narrative | **Chapters:** 24
 
 ## Chapters
 

@@ -6,16 +6,16 @@ testament: OT
 section: Minor Prophets
 genre: prophecy
 chapters.total: 1
-original.name: עבדיה
+original.name: "עבדיה"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Obadiah/Obadiah 1]]"
+tags:
+  - bible/ot
+  - bible/minor-prophets
 ---
 
 # Obadiah
 
 *עבדיה*
-
-**Section:** Minor Prophets | **Genre:** prophecy | **Chapters:** 1
 
 ## Chapters
 

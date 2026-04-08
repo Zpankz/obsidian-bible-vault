@@ -27,11 +27,11 @@ Holiness, the holy, sanctuary — the fundamental attribute of God that defines 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Exodus/Exodus 3#v5|Exod 3:5]] — "The place on which you are standing is holy (*qodesh*) ground"
-- [[bibles/NASB-Interlinear/Leviticus/Leviticus 19#v2|Lev 19:2]] — "You shall be holy (*qadosh*), for I the LORD your God am holy"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 6#v3|Isa 6:3]] — "Holy (*qadosh*), holy, holy is the LORD of hosts"
-- [[bibles/NASB-Interlinear/Exodus/Exodus 15#v11|Exod 15:11]] — "Who is like You, majestic in holiness (*qodesh*)?"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 99#v9|Ps 99:9]] — "The LORD our God is holy (*qadosh*)"
+- [[bibles/NASB-IL/Exodus/Exodus 3#v5|Exod 3:5]] — "The place on which you are standing is holy (*qodesh*) ground"
+- [[bibles/NASB-IL/Leviticus/Leviticus 19#v2|Lev 19:2]] — "You shall be holy (*qadosh*), for I the LORD your God am holy"
+- [[bibles/NASB-IL/Isaiah/Isaiah 6#v3|Isa 6:3]] — "Holy (*qadosh*), holy, holy is the LORD of hosts"
+- [[bibles/NASB-IL/Exodus/Exodus 15#v11|Exod 15:11]] — "Who is like You, majestic in holiness (*qodesh*)?"
+- [[bibles/NASB-IL/Psalms/Psalms 99#v9|Ps 99:9]] — "The LORD our God is holy (*qadosh*)"
 
 ## Theological Significance
 

@@ -6,16 +6,16 @@ testament: NT
 section: Apocalyptic
 genre: apocalyptic
 chapters.total: 22
-original.name: ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ
+original.name: "ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Revelation/Revelation 1]]"
+tags:
+  - bible/nt
+  - bible/apocalyptic
 ---
 
 # Revelation
 
 *ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ*
-
-**Section:** Apocalyptic | **Genre:** apocalyptic | **Chapters:** 22
 
 ## Chapters
 

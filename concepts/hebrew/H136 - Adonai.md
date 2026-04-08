@@ -27,10 +27,10 @@ The reverential title for God meaning "my Lord," used as a surrogate pronunciati
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 15#v2|Gen 15:2]] — "O Lord (*Adonai*) GOD, what will You give me?"
-- [[bibles/NASB-Interlinear/Isaiah/Isaiah 6#v1|Isa 6:1]] — "I saw the Lord (*Adonai*) sitting on a throne"
-- [[bibles/NASB-Interlinear/Psalms/Psalms 110#v1|Ps 110:1]] — "The LORD says to my Lord (*Adonai*)"
-- [[bibles/NASB-Interlinear/Ezekiel/Ezekiel 37#v3|Ezek 37:3]] — "O Lord (*Adonai*) GOD, You know"
+- [[bibles/NASB-IL/Genesis/Genesis 15#v2|Gen 15:2]] — "O Lord (*Adonai*) GOD, what will You give me?"
+- [[bibles/NASB-IL/Isaiah/Isaiah 6#v1|Isa 6:1]] — "I saw the Lord (*Adonai*) sitting on a throne"
+- [[bibles/NASB-IL/Psalms/Psalms 110#v1|Ps 110:1]] — "The LORD says to my Lord (*Adonai*)"
+- [[bibles/NASB-IL/Ezekiel/Ezekiel 37#v3|Ezek 37:3]] — "O Lord (*Adonai*) GOD, You know"
 
 ## Theological Significance
 

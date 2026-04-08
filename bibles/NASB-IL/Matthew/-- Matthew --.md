@@ -6,16 +6,16 @@ testament: NT
 section: Gospels
 genre: gospel
 chapters.total: 28
-original.name: ΚΑΤΑ ΜΑΤΘΑΙΟΝ
+original.name: "ΚΑΤΑ ΜΑΤΘΑΙΟΝ"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Matthew/Matthew 1]]"
+tags:
+  - bible/nt
+  - bible/gospels
 ---
 
 # Matthew
 
 *ΚΑΤΑ ΜΑΤΘΑΙΟΝ*
-
-**Section:** Gospels | **Genre:** gospel | **Chapters:** 28
 
 ## Chapters
 

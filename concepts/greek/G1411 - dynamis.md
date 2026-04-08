@@ -30,10 +30,10 @@ Power in action — the ability to accomplish what is beyond human capacity. The
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| God's saving power | The gospel as power | [[bibles/NASB-Interlinear/Romans/Romans 1#v16\|Rom 1:16]] |
-| Miraculous works | Signs and wonders | [[bibles/NASB-Interlinear/Acts/Acts 2#v22\|Acts 2:22]] |
-| Resurrection power | Power that raised Christ | [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v19\|Eph 1:19-20]] |
-| Spiritual empowerment | Power for mission | [[bibles/NASB-Interlinear/Acts/Acts 1#v8\|Acts 1:8]] |
+| God's saving power | The gospel as power | [[bibles/NASB-IL/Romans/Romans 1#v16\|Rom 1:16]] |
+| Miraculous works | Signs and wonders | [[bibles/NASB-IL/Acts/Acts 2#v22\|Acts 2:22]] |
+| Resurrection power | Power that raised Christ | [[bibles/NASB-IL/Ephesians/Ephesians 1#v19\|Eph 1:19-20]] |
+| Spiritual empowerment | Power for mission | [[bibles/NASB-IL/Acts/Acts 1#v8\|Acts 1:8]] |
 
 ## Theological Significance
 
@@ -43,11 +43,11 @@ The paradox of divine power is stated in 2 Corinthians 12:9 — "My power is per
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Romans/Romans 1#v16|Rom 1:16]] — "The gospel… is the power of God for salvation"
-- [[bibles/NASB-Interlinear/1 Corinthians/1 Corinthians 1#v18|1 Cor 1:18]] — "The word of the cross… is the power of God"
-- [[bibles/NASB-Interlinear/Acts/Acts 1#v8|Acts 1:8]] — "You will receive power when the Holy Spirit comes"
-- [[bibles/NASB-Interlinear/Ephesians/Ephesians 1#v19|Eph 1:19-20]] — The surpassing greatness of His power
-- [[bibles/NASB-Interlinear/2 Corinthians/2 Corinthians 12#v9|2 Cor 12:9]] — "Power is perfected in weakness"
+- [[bibles/NASB-IL/Romans/Romans 1#v16|Rom 1:16]] — "The gospel… is the power of God for salvation"
+- [[bibles/NASB-IL/1 Corinthians/1 Corinthians 1#v18|1 Cor 1:18]] — "The word of the cross… is the power of God"
+- [[bibles/NASB-IL/Acts/Acts 1#v8|Acts 1:8]] — "You will receive power when the Holy Spirit comes"
+- [[bibles/NASB-IL/Ephesians/Ephesians 1#v19|Eph 1:19-20]] — The surpassing greatness of His power
+- [[bibles/NASB-IL/2 Corinthians/2 Corinthians 12#v9|2 Cor 12:9]] — "Power is perfected in weakness"
 
 ## OT Background
 

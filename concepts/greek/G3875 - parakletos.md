@@ -29,9 +29,9 @@ One called alongside to help — a legal advocate, intercessor, or counselor. Us
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| The Holy Spirit | The Helper sent by the Father | [[bibles/NASB-Interlinear/John/John 14#v16\|John 14:16]] |
-| Spirit of truth | The one who guides into truth | [[bibles/NASB-Interlinear/John/John 15#v26\|John 15:26]] |
-| Jesus as advocate | Intercessor with the Father | [[bibles/NASB-Interlinear/1 John/1 John 2#v1\|1 John 2:1]] |
+| The Holy Spirit | The Helper sent by the Father | [[bibles/NASB-IL/John/John 14#v16\|John 14:16]] |
+| Spirit of truth | The one who guides into truth | [[bibles/NASB-IL/John/John 15#v26\|John 15:26]] |
+| Jesus as advocate | Intercessor with the Father | [[bibles/NASB-IL/1 John/1 John 2#v1\|1 John 2:1]] |
 
 ## Theological Significance
 
@@ -41,11 +41,11 @@ The Paraclete's ministry includes: teaching and reminding (John 14:26), testifyi
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/John/John 14#v16|John 14:16]] — "He will give you another Paraclete"
-- [[bibles/NASB-Interlinear/John/John 14#v26|John 14:26]] — "The Paraclete… will teach you all things"
-- [[bibles/NASB-Interlinear/John/John 15#v26|John 15:26]] — "The Paraclete… the Spirit of truth"
-- [[bibles/NASB-Interlinear/John/John 16#v8|John 16:8-11]] — The Paraclete convicts the world
-- [[bibles/NASB-Interlinear/1 John/1 John 2#v1|1 John 2:1]] — "We have an Advocate with the Father, Jesus Christ"
+- [[bibles/NASB-IL/John/John 14#v16|John 14:16]] — "He will give you another Paraclete"
+- [[bibles/NASB-IL/John/John 14#v26|John 14:26]] — "The Paraclete… will teach you all things"
+- [[bibles/NASB-IL/John/John 15#v26|John 15:26]] — "The Paraclete… the Spirit of truth"
+- [[bibles/NASB-IL/John/John 16#v8|John 16:8-11]] — The Paraclete convicts the world
+- [[bibles/NASB-IL/1 John/1 John 2#v1|1 John 2:1]] — "We have an Advocate with the Father, Jesus Christ"
 
 ## OT Background
 

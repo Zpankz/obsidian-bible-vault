@@ -27,10 +27,10 @@ Prophet — God's authorized spokesman, called to declare the divine *davar* to 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Deuteronomy/Deuteronomy 18#v15|Deut 18:15]] — "The LORD your God will raise up for you a prophet (*navi*) like me"
-- [[bibles/NASB-Interlinear/Amos/Amos 3#v7|Amos 3:7]] — "He reveals His secret counsel to His servants the prophets (*neviim*)"
-- [[bibles/NASB-Interlinear/Numbers/Numbers 12#v6|Num 12:6]] — "If there is a prophet (*navi*) among you, I the LORD make Myself known to him"
-- [[bibles/NASB-Interlinear/Jeremiah/Jeremiah 1#v5|Jer 1:5]] — "I have appointed you a prophet (*navi*) to the nations"
+- [[bibles/NASB-IL/Deuteronomy/Deuteronomy 18#v15|Deut 18:15]] — "The LORD your God will raise up for you a prophet (*navi*) like me"
+- [[bibles/NASB-IL/Amos/Amos 3#v7|Amos 3:7]] — "He reveals His secret counsel to His servants the prophets (*neviim*)"
+- [[bibles/NASB-IL/Numbers/Numbers 12#v6|Num 12:6]] — "If there is a prophet (*navi*) among you, I the LORD make Myself known to him"
+- [[bibles/NASB-IL/Jeremiah/Jeremiah 1#v5|Jer 1:5]] — "I have appointed you a prophet (*navi*) to the nations"
 
 ## Theological Significance
 

@@ -27,7 +27,7 @@ God creates time (Gen 1:3-5) and fills it with meaning through sacred rhythms, a
 
 ## The Creation of Time
 
-- [[bibles/NASB-Interlinear/Genesis/Genesis 1#v3|Gen 1:3-5]] — Day and night: the first temporal [[concepts/hebrew/H914 - badal|separation]]
+- [[bibles/NASB-IL/Genesis/Genesis 1#v3|Gen 1:3-5]] — Day and night: the first temporal [[concepts/hebrew/H914 - badal|separation]]
 - Gen 1:14-19 — Sun, moon, and stars for "[[concepts/hebrew/H226 - ot|signs]] and for [[concepts/hebrew/H4150 - moed|seasons]] and for [[concepts/hebrew/H3117 - yom|days]] and years"
 - The seven-day week culminates in Sabbath (Gen 2:1-3) — time is structured by rest
 
@@ -48,8 +48,8 @@ The Hebrew [[concepts/hebrew/H4150 - moed|מוֹעֵד]] (*moed*, "appointed tim
 The NT distinguishes between chronological time and significant time:
 - χρόνος (*chronos*) — sequential, measured time
 - καιρός (*kairos*) — the decisive moment, the right time
-- [[bibles/NASB-Interlinear/Mark/Mark 1#v15|Mark 1:15]] — "The time (kairos) is fulfilled, and the kingdom of God is at hand"
-- [[bibles/NASB-Interlinear/Galatians/Galatians 4#v4|Gal 4:4]] — "When the fullness of the time came, God sent forth His Son"
+- [[bibles/NASB-IL/Mark/Mark 1#v15|Mark 1:15]] — "The time (kairos) is fulfilled, and the kingdom of God is at hand"
+- [[bibles/NASB-IL/Galatians/Galatians 4#v4|Gal 4:4]] — "When the fullness of the time came, God sent forth His Son"
 
 ## Eternity
 

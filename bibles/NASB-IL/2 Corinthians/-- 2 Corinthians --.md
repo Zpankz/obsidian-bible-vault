@@ -6,16 +6,16 @@ testament: NT
 section: Pauline
 genre: epistle
 chapters.total: 13
-original.name: ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄
+original.name: "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/2 Corinthians/2 Corinthians 1]]"
+tags:
+  - bible/nt
+  - bible/pauline
 ---
 
 # 2 Corinthians
 
 *ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄*
-
-**Section:** Pauline | **Genre:** epistle | **Chapters:** 13
 
 ## Chapters
 

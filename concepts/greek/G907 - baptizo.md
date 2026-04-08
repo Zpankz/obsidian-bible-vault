@@ -29,10 +29,10 @@ To plunge, immerse, or overwhelm. In the NT it carries ritual, spiritual, and es
 
 | Context | Meaning | Example |
 |:---|:---|:---|
-| Water baptism | Initiatory rite of the church | [[bibles/NASB-Interlinear/Matthew/Matthew 28#v19\|Matt 28:19]] |
-| John's baptism | Baptism of repentance | [[bibles/NASB-Interlinear/Mark/Mark 1#v4\|Mark 1:4]] |
-| Spirit baptism | Empowering by the Holy Spirit | [[bibles/NASB-Interlinear/Acts/Acts 1#v5\|Acts 1:5]] |
-| Baptism into Christ | Union with Christ's death/resurrection | [[bibles/NASB-Interlinear/Romans/Romans 6#v3\|Rom 6:3-4]] |
+| Water baptism | Initiatory rite of the church | [[bibles/NASB-IL/Matthew/Matthew 28#v19\|Matt 28:19]] |
+| John's baptism | Baptism of repentance | [[bibles/NASB-IL/Mark/Mark 1#v4\|Mark 1:4]] |
+| Spirit baptism | Empowering by the Holy Spirit | [[bibles/NASB-IL/Acts/Acts 1#v5\|Acts 1:5]] |
+| Baptism into Christ | Union with Christ's death/resurrection | [[bibles/NASB-IL/Romans/Romans 6#v3\|Rom 6:3-4]] |
 
 ## Theological Significance
 
@@ -42,11 +42,11 @@ The baptismal formula "in the name of the Father and of the Son and of the Holy 
 
 ## Key Passages
 
-- [[bibles/NASB-Interlinear/Matthew/Matthew 3#v16|Matt 3:16]] — Jesus' baptism by John
-- [[bibles/NASB-Interlinear/Matthew/Matthew 28#v19|Matt 28:19]] — The Great Commission: "baptizing them"
-- [[bibles/NASB-Interlinear/Acts/Acts 2#v38|Acts 2:38]] — "Repent, and each of you be baptized"
-- [[bibles/NASB-Interlinear/Romans/Romans 6#v3|Rom 6:3-4]] — Baptized into His death
-- [[bibles/NASB-Interlinear/Galatians/Galatians 3#v27|Gal 3:27]] — "Baptized into Christ, clothed with Christ"
+- [[bibles/NASB-IL/Matthew/Matthew 3#v16|Matt 3:16]] — Jesus' baptism by John
+- [[bibles/NASB-IL/Matthew/Matthew 28#v19|Matt 28:19]] — The Great Commission: "baptizing them"
+- [[bibles/NASB-IL/Acts/Acts 2#v38|Acts 2:38]] — "Repent, and each of you be baptized"
+- [[bibles/NASB-IL/Romans/Romans 6#v3|Rom 6:3-4]] — Baptized into His death
+- [[bibles/NASB-IL/Galatians/Galatians 3#v27|Gal 3:27]] — "Baptized into Christ, clothed with Christ"
 
 ## OT Background
 

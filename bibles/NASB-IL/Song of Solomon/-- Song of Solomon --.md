@@ -6,16 +6,16 @@ testament: OT
 section: Wisdom
 genre: poetry
 chapters.total: 8
-original.name: שיר השירים
+original.name: "שיר השירים"
 up: "[[bibles/NASB-IL/-- Bible --]]"
-down: "[[bibles/NASB-IL/Song of Solomon/Song of Solomon 1]]"
+tags:
+  - bible/ot
+  - bible/wisdom
 ---
 
 # Song of Solomon
 
 *שיר השירים*
-
-**Section:** Wisdom | **Genre:** poetry | **Chapters:** 8
 
 ## Chapters
 
